@@ -1,0 +1,397 @@
+{
+  "id": "07",
+  "titel": "Voorbereiden, gereedmaken en vertrekken",
+  "bron": "07-aug-25-cluster-voorbereiden-gereedmaken-en-vertrekken.pdf",
+  "vragen": [
+    {
+      "id": "07-001",
+      "vraag": "Wat moet een machinist doen op het moment dat hij een aan hem toegewezen dienst gaat uitvoeren?",
+      "opties": [
+        "Zijn dienstkaartje laten aftekenen door de treindienstleider",
+        "Zich 'in dienst melden' en daarmee de dienst bevestigen",
+        "Zich via GSM-R aanmelden bij de treindienstleider van het eerste baanvak",
+        "De tijdtafel van de dienstregeling ophalen bij de infrabeheerder"
+      ],
+      "antwoord": 1,
+      "uitleg": "De dienst die een machinist is toegewezen, moet hij bevestigen op het moment dat hij die gaat uitvoeren: hij moet zich 'in dienst melden'.",
+      "bron": "1.2 Hoe bereidt de machinist zich voor op de dienst? - In dienst melden"
+    },
+    {
+      "id": "07-002",
+      "vraag": "Welke informatie wordt in de tekst genoemd als informatie die de machinist ontvangt bij het in dienst melden?",
+      "opties": [
+        "Het berekende rempercentage van de trein voor de eerste rit van de dienst",
+        "Eventuele ontheffing of vrijstelling voor de rit, met bijbehorende voorschriften of beperkingen",
+        "De uitslag van de laatste periodieke technische controle van het materieel",
+        "De beremmingsstaten en wagenlijsten van alle treinen in de dienst"
+      ],
+      "antwoord": 1,
+      "uitleg": "Bij het in dienst melden ontvangt de machinist onder meer informatie over de inhoud van de dienst, werkzaamheden, bijzondere verkeerssituaties en eventuele ontheffing of vrijstelling met bijbehorende voorschriften of beperkingen.",
+      "bron": "1.2 Hoe bereidt de machinist zich voor op de dienst? - In dienst melden"
+    },
+    {
+      "id": "07-003",
+      "vraag": "Welk van de volgende onderwerpen wordt NIET genoemd als mogelijke inhoud van het dienstkaartje?",
+      "opties": [
+        "Tankstops",
+        "Opstellocaties",
+        "Rangeerwerkzaamheden",
+        "Tijdelijke snelheidsbeperkingen"
+      ],
+      "antwoord": 3,
+      "uitleg": "Het dienstkaartje kan o.a. treinnummers, dienstregeling, rangeerwerkzaamheden, opstellocaties, tankstops en verwijzingen bevatten. Tijdelijke snelheidsbeperkingen worden via de IAM bekendgemaakt.",
+      "bron": "1.2 - Tijdtafel en dienstkaartje; IAM/TSB"
+    },
+    {
+      "id": "07-004",
+      "vraag": "Wie is volgens de tekst verantwoordelijk voor de kennisname van de wijzigingen die via de IAM worden bekendgemaakt?",
+      "opties": [
+        "De spoorwegonderneming draagt de eindverantwoordelijkheid voor de kennisname",
+        "De machinist blijft altijd zelf verantwoordelijk voor de kennisname",
+        "ProRail is als opsteller van de IAM verantwoordelijk voor de kennisname",
+        "De treindienstleider controleert de kennisname voordat hij vertrek toestaat"
+      ],
+      "antwoord": 1,
+      "uitleg": "De spoorwegondernemingen zijn verantwoordelijk voor de verspreiding van de IAM onder hun machinisten; de machinist blijft altijd zelf verantwoordelijk voor de kennisname.",
+      "bron": "1.2 - IAM/TSB"
+    },
+    {
+      "id": "07-005",
+      "vraag": "Met welk middel maakt de treindienstleider een snelheidsbeperking kenbaar die niet in de IAM staat of nog niet in de TSB is opgenomen?",
+      "opties": [
+        "European Instruction 1",
+        "European Instruction 6",
+        "European Instruction 4",
+        "European Instruction 5"
+      ],
+      "antwoord": 3,
+      "uitleg": "De treindienstleider gebruikt European Instruction 5 voor snelheidsbeperkingen die niet in de IAM staan of nog niet in de TSB zijn opgenomen.",
+      "bron": "1.2 - IAM/TSB"
+    },
+    {
+      "id": "07-006",
+      "vraag": "Wie bepaalt volgens de TSI OPE welke controles en testen, inclusief rembeproevingen, worden uitgevoerd om elk vertrek veilig te laten verlopen?",
+      "opties": [
+        "De spoorwegonderneming",
+        "De infrabeheerder",
+        "De treindienstleider",
+        "De Inspectie Leefomgeving en Transport"
+      ],
+      "antwoord": 0,
+      "uitleg": "Overeenkomstig de TSI OPE bepaalt de spoorwegonderneming welke controles en testen, inclusief rembeproevingen, moeten worden uitgevoerd.",
+      "bron": "1.3 Wat zegt de TSI OPE over het vertrek van een trein?"
+    },
+    {
+      "id": "07-007",
+      "vraag": "Wat moet de machinist volgens de TSI OPE voor vertrek aan de treindienstleider melden?",
+      "opties": [
+        "Het rempercentage en het treingewicht volgens de beremmingsstaat",
+        "Eventuele storingen die een nadelige invloed kunnen hebben op de trein of het rijgedrag",
+        "De uitslag van de beproeving van de dodemansinstallatie",
+        "Het tijdstip waarop de laatste grote remproef is uitgevoerd"
+      ],
+      "antwoord": 1,
+      "uitleg": "De machinist informeert de treindienstleider wanneer de trein klaar is voor vertrek en meldt eventuele storingen die een nadelige invloed kunnen hebben op de trein of het rijgedrag.",
+      "bron": "1.3 Wat zegt de TSI OPE over het vertrek van een trein?"
+    },
+    {
+      "id": "07-008",
+      "vraag": "Een machinist constateert op het beginstation dat de dodeman in de bediende cabine niet functioneert. Wat geldt?",
+      "opties": [
+        "De trein mag niet vertrekken",
+        "De trein mag vertrekken met maximaal 40 km/u tot het eerstvolgende station",
+        "De trein mag vertrekken als er een tweede bevoegd persoon in de cabine meerijdt",
+        "De trein mag vertrekken na toestemming van de treindienstleider"
+      ],
+      "antwoord": 0,
+      "uitleg": "De machinist controleert en beproeft de dodeman in de bediende cabine. Als deze niet functioneert op het beginstation, mag de trein niet vertrekken.",
+      "bron": "1.4 Welke controles zijn er voor het vertrek van een trein? - Dodeman"
+    },
+    {
+      "id": "07-009",
+      "vraag": "Waar controleert de machinist de verzegelingen van schakelaars en kranen?",
+      "opties": [
+        "Alleen in de cabine, ongeacht het type materieel",
+        "In de cabine en, alleen bij een locomotief, in de machineruimte",
+        "In de cabine en in de machineruimte, bij elk type materieel",
+        "Alleen in de machineruimte, en uitsluitend bij een locomotief"
+      ],
+      "antwoord": 1,
+      "uitleg": "De machinist controleert de verzegelingen van schakelaars (bijv. SG-schakelaar) en kranen in de cabine en in de machineruimte (alleen bij een locomotief).",
+      "bron": "1.4 - Verzegelingen schakelaars en kranen"
+    },
+    {
+      "id": "07-010",
+      "vraag": "Welk frontsein voert een trein (geen hogesnelheidstrein) in normaal bedrijf tijdens het gebruik van de hoofdspoorweg?",
+      "opties": [
+        "Drie brandende witte of gele lichten aan de voorzijde",
+        "Drie brandende, uitsluitend witte lichten aan de voorzijde",
+        "Twee brandende witte lichten en één geel licht aan de voorzijde",
+        "Aan de voor- en achterzijde één brandend wit licht"
+      ],
+      "antwoord": 0,
+      "uitleg": "Tijdens gebruik van de hoofdspoorweg zijn het frontsein drie brandende witte of gele lichten aan de voorzijde (in normaal bedrijf; de TSI kent uitzonderingen).",
+      "bron": "1.4 - Front- en sluitseinen"
+    },
+    {
+      "id": "07-011",
+      "vraag": "Welke verlichting voert een krachtvoertuig dat de hoofdspoorweg uitsluitend binnen een spoorwegemplacement gebruikt?",
+      "opties": [
+        "Drie witte lichten voor en twee rode lichten achter",
+        "Eén wit licht aan de voorzijde en één rood licht aan de achterzijde",
+        "Drie witte of gele lichten voor en geen verlichting achter",
+        "Aan de voor- en achterzijde een brandend wit licht"
+      ],
+      "antwoord": 3,
+      "uitleg": "Een krachtvoertuig dat de hoofdspoorweg uitsluitend binnen een spoorwegemplacement gebruikt, is aan de voor- en achterzijde voorzien van een brandend wit licht.",
+      "bron": "1.4 - Front- en sluitseinen"
+    },
+    {
+      "id": "07-012",
+      "vraag": "Welk sluitsein voert een trein op een buiten dienst gesteld spoor?",
+      "opties": [
+        "Twee brandende, al dan niet knipperende, rode lichten aan de achterzijde",
+        "Twee schilden of twee brandende rode lichten aan de achterzijde",
+        "Eén brandend, al dan niet knipperend, rood licht aan de achterzijde",
+        "Eén schild en één brandend rood licht aan de achterzijde"
+      ],
+      "antwoord": 2,
+      "uitleg": "Bij treinen op een buiten dienst gesteld spoor is het sluitsein een brandend, al dan niet knipperend, rood licht aan de achterzijde.",
+      "bron": "1.4 - Front- en sluitseinen"
+    },
+    {
+      "id": "07-013",
+      "vraag": "Welk sluitsein voert een hogesnelheidstrein tijdens het gebruik van de hoofdspoorweg?",
+      "opties": [
+        "Twee brandende, al dan niet knipperende, rode lichten of twee schilden",
+        "Eén brandend rood licht of twee schilden aan de achterzijde",
+        "Twee brandende rode lichten aan de achterzijde",
+        "Drie brandende rode lichten aan de achterzijde"
+      ],
+      "antwoord": 2,
+      "uitleg": "Bij een hogesnelheidstrein op de hoofdspoorweg bestaat het sluitsein uit twee brandende rode lichten aan de achterzijde; schilden worden daar niet genoemd.",
+      "bron": "1.4 - Front- en sluitseinen"
+    },
+    {
+      "id": "07-014",
+      "vraag": "Welke veiligheidsmiddelen moeten op een goederentrein minimaal aanwezig zijn?",
+      "opties": [
+        "Rode vlag/noodseinlantaarn en kortsluitkabel",
+        "Vluchtmasker en kortsluitkabel",
+        "Rode vlag/noodseinlantaarn en vluchtmasker",
+        "Rode vlag/noodseinlantaarn, kortsluitkabel en vluchtmasker"
+      ],
+      "antwoord": 2,
+      "uitleg": "Minimaal aanwezig zijn een rode vlag/noodseinlantaarn en voor goederentreinen een vluchtmasker. De overige middelen, vaak ook de kortsluitkabel, bepaalt de spoorwegonderneming.",
+      "bron": "1.4 - Minimaal aanwezige veiligheidsmiddelen"
+    },
+    {
+      "id": "07-015",
+      "vraag": "Een reizigerstrein heeft drie uur stilgestaan. Er is niets gesplitst, gecombineerd of verbroken en het is niet het eerste vertrek van de dag. Welke remproef wordt dan genomen?",
+      "opties": [
+        "De grote (volledige) remproef",
+        "De verbindingsproef",
+        "De lekkageproef",
+        "De kleine (verkorte) remproef"
+      ],
+      "antwoord": 3,
+      "uitleg": "De kleine remproef wordt onder meer genomen als de trein langer dan twee uur heeft stilgestaan; de grote remproef pas als de trein langer dan 24 uur heeft stilgestaan.",
+      "bron": "1.5 Welke soorten rembeproevingen worden onderscheiden? - Kleine of verkorte remproef"
+    },
+    {
+      "id": "07-016",
+      "vraag": "Een trein heeft 30 uur stilgestaan. Welke remproef is dan aan de orde?",
+      "opties": [
+        "De grote (volledige) remproef",
+        "De kleine (verkorte) remproef",
+        "De verbindingsproef",
+        "Alleen een lekkageproef"
+      ],
+      "antwoord": 0,
+      "uitleg": "Als de trein langer dan 24 uur heeft stilgestaan, wordt de grote of volledige remproef genomen.",
+      "bron": "1.5 - Grote of volledige remproef"
+    },
+    {
+      "id": "07-017",
+      "vraag": "Aan een trein worden voertuigen bijgeplaatst. Welke remproef geldt voor deze situatie?",
+      "opties": [
+        "Een grote remproef over de gehele trein",
+        "Een kleine remproef over de gehele trein",
+        "Een lekkageproef op het toegevoegde treingedeelte",
+        "Een grote remproef, alleen op het toegevoegde treingedeelte"
+      ],
+      "antwoord": 3,
+      "uitleg": "Bij het bijplaatsen van voertuigen wordt de grote remproef genomen, maar alleen op het toegevoegde treingedeelte.",
+      "bron": "1.5 - Grote of volledige remproef"
+    },
+    {
+      "id": "07-018",
+      "vraag": "Een machinist neemt een trein over, maar is niet schriftelijk of mondeling ingelicht dat de grote remproef is uitgevoerd. Wat geldt?",
+      "opties": [
+        "Een kleine remproef is voldoende",
+        "Een verbindingsproef is voldoende als hij binnen twee uur vertrekt",
+        "Er moet een grote remproef worden uitgevoerd",
+        "Hij mag vertrekken als de lekkageproef binnen de marge blijft"
+      ],
+      "antwoord": 2,
+      "uitleg": "De grote remproef is onder meer voorgeschreven als de machinist niet schriftelijk of mondeling is ingelicht dat de grote remproef is uitgevoerd.",
+      "bron": "1.5 - Grote of volledige remproef"
+    },
+    {
+      "id": "07-019",
+      "vraag": "In welke situatie wordt de verbindingsproef volgens de tekst vaak gebruikt?",
+      "opties": [
+        "Bij goederenvervoer na kopmaken, als trein, loc en machinist binnen twee uur weer vertrekken",
+        "Bij reizigerstreinen na splitsen, als de trein binnen twee uur weer vertrekt",
+        "Bij goederenvervoer nadat de trein langer dan 24 uur heeft stilgestaan",
+        "Bij elke wisseling van locomotief aan de landsgrens"
+      ],
+      "antwoord": 0,
+      "uitleg": "De verbindingsproef geldt alleen voor goederenvervoer en wordt vaak gebruikt als er kopgemaakt is en trein, loc en machinist binnen twee uur weer vertrekken.",
+      "bron": "1.5 - Verbindingsproef"
+    },
+    {
+      "id": "07-020",
+      "vraag": "Een machinist passeert met een overgenomen goederentrein de grens. Er is een vertrouwensovereenkomst gesloten, maar aan de grens vindt een wisseling van locomotief plaats. Wat geldt?",
+      "opties": [
+        "Er is geen remcontrole nodig dankzij de vertrouwensovereenkomst",
+        "Er moet een remproef worden gedaan",
+        "Alleen een lekkageproef op de nieuwe locomotief is nodig",
+        "De wagencontroleur moet een volledige technische controle uitvoeren"
+      ],
+      "antwoord": 1,
+      "uitleg": "Bij een vertrouwensovereenkomst hoeft geen specifieke remcontrole te worden uitgevoerd, maar als er aan de grens een wisseling van locomotief plaatsvindt, moet er een remproef worden gedaan.",
+      "bron": "1.5 - Vertrouwensovereenkomst"
+    },
+    {
+      "id": "07-021",
+      "vraag": "Waartoe verplichten spoorwegondernemingen en houders van voertuigen zich door het ondertekenen van het GCU/AVV?",
+      "opties": [
+        "Om elkaars machinistenvergunningen wederzijds te erkennen",
+        "Om aan de grens altijd een grote remproef uit te voeren",
+        "Om met goed onderhouden voertuigen treinen te rijden",
+        "Om uitsluitend wagens met hetzelfde remsysteem in te zetten"
+      ],
+      "antwoord": 2,
+      "uitleg": "Door ondertekening van het GCU/AVV hebben spoorwegondernemingen en houders van voertuigen zich verplicht om met goed onderhouden voertuigen treinen te rijden.",
+      "bron": "1.5 - Vertrouwensovereenkomst"
+    },
+    {
+      "id": "07-022",
+      "vraag": "Bij een reizigerstrein wordt in elk geval een grote remproef genomen bij ...",
+      "opties": [
+        "elk vertrek vanaf een beginstation",
+        "elke keer na het kopmaken",
+        "het station van eerste vertrek van elke rit",
+        "het eerste vertrek van de dag"
+      ],
+      "antwoord": 3,
+      "uitleg": "De grote remproef geldt bij een reizigerstrein bij het eerste vertrek van de dag; bij een goederentrein op het station van eerste vertrek.",
+      "bron": "1.5 - Grote of volledige remproef"
+    },
+    {
+      "id": "07-023",
+      "vraag": "Op welke manier kan een machinist in niet centraal bediend gebied (NCBG) toestemming tot vertrek krijgen?",
+      "opties": [
+        "Door het uit de stand 'stop' komen van het geldende hoofdsein",
+        "Door het in ontvangst nemen van European Instruction 1",
+        "Door het in ontvangst nemen van European Instruction 6",
+        "Op de lokaal voorgeschreven wijze"
+      ],
+      "antwoord": 3,
+      "uitleg": "In NCBG krijgt de machinist toestemming tot vertrek mondeling door de treindienstleider of op de lokaal voorgeschreven wijze. Het hoofdsein en European Instruction 1 horen bij CBG.",
+      "bron": "1.6 Wanneer mag een machinist met de trein vertrekken? - Toestemming tot vertrek"
+    },
+    {
+      "id": "07-024",
+      "vraag": "Een machinist heeft toestemming tot vertrek gekregen. In welke situatie hoeft hij (nog) niet te vertrekken?",
+      "opties": [
+        "De trein heeft al meer dan vijf minuten vertraging",
+        "Hij twijfelt of het vertrekbevel voor hem bestemd is",
+        "Het volgende hoofdsein is vanuit de cabine niet waarneembaar",
+        "De treindienstleider heeft de toestemming alleen mondeling gegeven"
+      ],
+      "antwoord": 1,
+      "uitleg": "Na toestemming moet de machinist vertrekken, met drie uitzonderingen: een vast sein verbiedt het voorbijrijden, hij twijfelt of het vertrekbevel voor hem bestemd is, of het is nog geen (dienstregelings)tijd voor vertrek.",
+      "bron": "1.6 - Toestemming tot vertrek"
+    },
+    {
+      "id": "07-025",
+      "vraag": "In CBG staat een trein gedeeltelijk voorbij het geldende hoofdsein en tussen de voorkant van de trein en het volgende hoofdsein ligt een wissel. Wat moet de machinist doen?",
+      "opties": [
+        "Vertrekken met rijden op zicht tot het volgende hoofdsein",
+        "Vertrekken met maximaal 40 km/u en rekening houden met stop",
+        "Altijd contact opnemen met de treindienstleider en diens instructies opvolgen",
+        "Vertrekken op het seinbeeld van het hoofdsein waar hij voorbij staat"
+      ],
+      "antwoord": 2,
+      "uitleg": "In deze bijzondere situatie moet de machinist altijd contact opnemen met de treindienstleider en diens instructies opvolgen.",
+      "bron": "1.7 Hoe vertrekt de machinist als de trein voorbij een hoofdsein staat?"
+    },
+    {
+      "id": "07-026",
+      "vraag": "Bij vertrek kan de machinist het volgende hoofdsein niet zien en hij heeft het vorige seinbeeld niet zelf waargenomen. Hoe vertrekt hij, tenzij de treindienstleider anders opdraagt?",
+      "opties": [
+        "Zonder contact met de treindienstleider met rijden op zicht",
+        "Na contact met de treindienstleider met maximaal 40 km/u en rekening houdend met stop",
+        "Na contact met de treindienstleider met de plaatselijke snelheid",
+        "Zonder contact met de treindienstleider met maximaal 40 km/u"
+      ],
+      "antwoord": 1,
+      "uitleg": "Hij moet contact opnemen met de treindienstleider en volgens diens opdracht handelen: maximaal 40 km/u en rekening houden met stop, tenzij de treindienstleider opdracht geeft om met rijden op zicht te vertrekken.",
+      "bron": "1.10 Volgende hoofdsein niet waarneembaar en vorige hoofdsein niet (zelf) waargenomen"
+    },
+    {
+      "id": "07-027",
+      "vraag": "Een machinist neemt een trein over van een voorganger. Het volgende hoofdsein is waarneembaar en toont hooggeplaatst groen. De plaatselijke snelheid is niet bekend. Met welke snelheid vertrekt hij?",
+      "opties": [
+        "Met 40 km/u",
+        "Met rijden op zicht",
+        "Met de hoogst toegelaten snelheid van het baanvak",
+        "Met 30 km/u"
+      ],
+      "antwoord": 0,
+      "uitleg": "Bij hooggeplaatst groen vertrekt de machinist met plaatselijke snelheid (tenzij de spoorwegonderneming anders bepaalt); is de plaatselijke snelheid niet bekend, dan vertrekt hij met 40 km/u.",
+      "bron": "1.11 Volgende hoofdsein wel waarneembaar maar vorige hoofdsein niet (zelf) waargenomen"
+    },
+    {
+      "id": "07-028",
+      "vraag": "Het volgende hoofdsein is niet waarneembaar. De machinist heeft zelf waargenomen dat het vorige sein geel toonde. Hoe vertrekt hij?",
+      "opties": [
+        "Met maximaal 40 km/u en rekening houdend met stop",
+        "Met rijden op zicht",
+        "Met de plaatselijke snelheid",
+        "Pas na contact met en opdracht van de treindienstleider"
+      ],
+      "antwoord": 0,
+      "uitleg": "Als het vorige (zelf waargenomen) sein geel toont, vertrekt de machinist met maximaal 40 km/u en houdt rekening met stop. Bij geel knipper vertrekt hij met rijden op zicht.",
+      "bron": "1.12 Volgende hoofdsein niet waarneembaar maar vorige hoofdsein wel (zelf) waargenomen"
+    },
+    {
+      "id": "07-029",
+      "vraag": "Wat geldt bij keren/kopmaken op de hoofdspoorweg?",
+      "opties": [
+        "Toestemming van de treindienstleider is vereist en de machinist rijdt met maximaal 40 km/u tot het eerstvolgende hoofdsein",
+        "Toestemming is niet nodig en de machinist rijdt met rijden op zicht tot het eerstvolgende hoofdsein",
+        "Toestemming van de treindienstleider is vereist en de machinist rijdt met plaatselijke snelheid",
+        "Toestemming van de spoorwegonderneming is vereist en de machinist rijdt met maximaal 30 km/u"
+      ],
+      "antwoord": 0,
+      "uitleg": "Bij keren/kopmaken op de hoofdspoorweg is toestemming van de treindienstleider vereist; de machinist rijdt met maximaal 40 km/u tot het eerstvolgende hoofdsein en houdt rekening met niet goed functionerende overwegen.",
+      "bron": "1.13 Wat doet de machinist bij keren/kopmaken?"
+    },
+    {
+      "id": "07-030",
+      "vraag": "Wat is volgens artikel 33 Regeling spoorverkeer nodig voor het passeren van een stoptonend bediend sein?",
+      "opties": [
+        "Een voor dat sein geldende European Instruction 6",
+        "Een mondelinge toestemming van de rangeerder",
+        "Een voor dat sein geldende European Instruction 1",
+        "Een voor dat baanvak geldende European Instruction 5"
+      ],
+      "antwoord": 2,
+      "uitleg": "Een stoptonend sein mag gepasseerd worden na toestemming van de treindienstleider; voor een stoptonend bediend sein moet de machinist een voor het sein geldende European Instruction 1 hebben ontvangen.",
+      "bron": "1.8 Hoe vertrekt de machinist door stoptonend sein?"
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+VVRV cluster Wet- en regelgeving
+
+                                                                                                                                                             1/22
+Wet- en regelgeving                                                3
+
+1.1 Voorwoord                                                      3
+
+1.2 Wat is het belang van wet- en regelgeving voor de machinist?   3
+
+1.3 Hoe is de naleving van wet- en regelgeving geregeld?           4
+
+1.4 Waaruit bestaat EU wetgeving?                                  6
+
+1.5 Wat schrijft de EU-wetgeving voor op het gebied van
+
+spoorvervoer?                                                      6
+
+1.6 Wat schrijft de EU-wetgeving voor op het gebied van
+
+spoorwegpersoneel?                                                 9
+
+1.7 Wat houdt het Europese spoorwegpakket in?                      10
+
+1.8 Wat schrijft de NL-wetgeving voor op het gebied van
+
+spoorwegvervoer?                                                   10
+
+1.9 Wat schrijft de NL-wetgeving voor op het gebied van
+
+spoorwegpersoneel?                                                 14
+
+1.10 Wat houdt de Netverklaring in?                                15
+
+1.11 Wat houdt de Toegangsovereenkomst in?                         16
+
+1.12 Wat houdt de Regeling communicatieprocedures in?              16
+
+1.13 Wat houdt het Boek van Europese en Nationale instructies in?  16
+
+1.14 Wat houdt de Dienstregeling in?                               17
+
+1.15 Wat houdt de IAM (informatie aan machinisten) in?             17
+
+1.16 Wat houdt het Handboek Incidentmanagement Rail in?            20
+
+1.17 Wat houdt regelgeving van spoorwegondernemingen in?           20
+
+1.18 Wat houdt lokale en plaatselijke regelgeving in?              21
+
+1.19 Welke regelgeving is er voor opleidingsbedrijven?             21
+
+1.20 Wat zijn relevante websites?                                  22
+
+VVRV cluster Wet- en regelgeving                                       2/22
+1  Wet- en regelgevin g
+
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan verbreding
+worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld. Toch
+kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet
+aansprakelijk voor schade als gevolg daarvan.
+
+Versie augustus 2025
+
+1.2 Wat is het belang van wet- en regelgeving voor de machinist?
+
+Van een machinist wordt verwacht dat hij veilig en efficiënt trein- en rangeerbewegingen
+uitvoert.
+
+Een bevoegd machinist heeft het vakmanschap om zelfstandig te beslissen over een groot
+aantal zaken die bij bovengenoemde taak horen; uiteraard binnen de kaders van het eigen
+bedrijf. In een aantal gevallen is echter bij wet voorgeschreven hoe hij moet handelen. Deze
+wetgeving heeft betrekking op diverse aspecten van het spoorwegsysteem:
+- de machinistenvergunning en het aanvullend bevoegdheidsbewijs
+- veilig rijden
+- (veiligheids)communicatie
+- storingen aan het materieel
+- storingen aan de infra
+- het vervoer van gevaarlijke stoffen
+- treinincidenten
+- enzovoort.
+
+De bevoegde machinist kent de voor hem relevante wet - en regelgeving en is in staat om in
+zowel bekende als onverwachte situaties hiernaar te handelen. Hij is altijd zelf
+verantwoordelijk voor het raadplegen van actuele regelgeving, voorschriften, richtlijnen en
+bedrijfsspecifieke informatie.
+
+VVRV cluster Wet- en
+regelgeving
+
+                         3/22
+Dit betekent dat de machinist moet begrijpen hoe het systeem van wet- en regelgeving in
+elkaar zit (Europees - nationaal - eigen spoorwegonderneming), dat hij weet waar actuele
+regelgeving te vinden is en dat hij globale kennis heeft van de geldende wet- en
+regelgeving.
+
+De laatste tien jaar is de Nederlandse wetgeving op spoorgebied aanzienlijk veranderd
+doordat relevante Europese wetgeving rechtsgeldig is geworden. De Europese wetten gaan
+boven die van de lidstaten; lidstaten moeten met andere woorden hun wetgeving
+aanpassen aan de Europese wetten.
+
+Naast de Europese en nationale wetgeving heeft iedere spoorwegonderneming (de
+vervoerders) eigen regelgeving, die staat in:
+- handboeken
+- materieelgidsen/bedieningshandboeken
+- andere documentatie.
+
+Alle regelgeving die de machinist van zijn eigen spoorwegonderneming krijgt, is een
+`vertaling' van de Europese en nationale wetgeving, aangevuld met een aantal
+bedrijfsspecifieke richtlijnen. Deze `vertaling' moet zo zijn dat aan de strekking van de
+originele wet wordt voldaan.
+
+1.3 Hoe is de naleving van wet- en regelgeving geregeld?
+
+Nationale veiligheidsinstantie ILT
+
+De Inspectie Leefomgeving en Transport (ILT) houdt voor alle spoorwegondernemingen
+(vervoerders) die opereren in Nederland toezicht op de naleving van spoorwetten en
+spoorregels. De ILT heeft als `Nationale veiligheidsinstantie' de taak deze te handhaven
+(ieder EU-land heef een toezichthouder als de ILT). De ILT is onderdeel van het ministerie van
+Infrastructuur en Waterstaat.
+
+Het toezicht gebeurt onder meer aan de hand van inspecties, vergunningverlening en
+kennisoverdracht. Het doel van het toezicht is de kans op ongevallen en milieuvervuiling zo
+klein mogelijk te maken.
+
+Interventies die ILT kan doen zijn onderverdeeld in vijf categorieën (de ILT-interventieladder):
+- Preventief: gericht op voorkomen van overtredingen en het stimuleren van bedrijven om
+
+     zich aan de regels te houden. Voorbeelden: informatie en voorlichting geven en
+     bedrijven belonen voor goed gedrag.
+
+VVRV cluster Wet- en regelgeving  4/22
+- Correctief: gericht op herstel of voorkomen van herhaling. Bedrijven krijgen eerst zelf de
+     gelegenheid om, binnen een afgesproken tijdpad, een overtreding ongedaan te maken
+     en de legale situatie te herstellen. Voorbeelden: waarschuwen, gesprek voeren,
+     verscherpt toezicht instellen, bevel geven tot herstel van de overtreding, illegale situatie
+     beëindigen, stilleggen van het werk.
+
+- Repressief: gericht op het bestraffen van de overtreder. Voorbeelden: boete opleggen,
+     overtreder bestraffen, intrekken of opschorten van vergunning, certificaat of erkenning,
+     verbod op uitvoeren bepaalde werkzaamheden, sluiten van bedrijf.
+
+- Punitief: gericht op het bestraffen van de dader en op het zodanig afschrikken van
+     anderen dat die zich niet tot overtredingen laten verleiden. De regie ligt bij het Openbaar
+     Ministerie. Voorbeelden: proces-verbaal opmaken en versturen naar de officier van
+     justitie, boete geven, hechtenis, taakstraf of gevangenisstraf opleggen.
+
+- Reputatief: gericht op reputatieschade van de overtreder. Voorbeelden: openbaar
+     maken van handelingen of gedragen, openbare waarschuwing geven.
+
+Infrastructuurbeheerder ProRail
+
+De infrastructuurbeheerder (in Nederland ProRail, in België Infrabel, in Duitsland DB Netze,
+enzovoort) kan toezicht houden op het naleven van eigen regels op haar eigen terrein.
+
+In de ProRail-richtlijn: Gedragsregels op spoorwegterreinen (RLN00300) staat: "Conform de
+`Wet op de uitgebreide identificatieplicht' verleent iedereen die zich op spoorwegterrein
+bevindt medewerking aan ambtenaren die op grond van de wet bevoegd zijn tot toezicht of
+handhaving én die zichzelf als zodanig kunnen identificeren (bijvoorbeeld: politie;
+toezichthouders Inspectie Leefomgeving en Transport (ILT); inspecteurs ministerie van SZW;
+buitengewoon opsporingsambtenaren (BOA's) van ProRail). Iedereen die zich op
+spoorwegterrein bevindt, kan door deze ambtenaren worden gevraagd om zijn legitimatie
+en is verplicht deze te tonen."
+
+Spoorwegonderneming
+
+Iedere spoorwegonderneming is verplicht (onder andere op basis van de Gedelegeerde
+verordening (EU) 2018/762, zie verderop) een veilige manier van werken te ontwikkelen in de
+vorm van een zogenaamd Veiligheidsbeheersysteem (VBS). Het doel van het VBS is om op
+een planmatige en systematische manier veiligheidsrisico's beheersbaar te maken én vooraf
+bepaalde doelstellingen te realiseren.
+
+ILT keurt (audit) het VBS van iedere spoorwegonderneming die gebruik maakt van het
+Nederlandse hoofdrailnet.
+
+Door het VBS en de eisen die gesteld zijn aan het verstrekken van een bevoegdheidsbewijs is
+geborgd dat machinisten zich houden aan de wet- en regelgeving.
+
+VVRV cluster Wet- en regelgeving  5/22
+Het Veiligheidsbeheersysteem wordt ook wel Veiligheidsmanagementsysteem (VMS) of
+Veiligheidszorgsysteem (VZS) genoemd.
+
+1.4 Waaruit bestaat EU wetgeving?
+
+De Europese Unie (EU) onderscheidt bindende en niet-bindende wet- en regelgeving. De
+meeste Europese wet- en regelgeving is bindend: de lidstaten van de EU hebben de plicht
+zich eraan te houden, en zo nodig hun eigen nationale wetgeving aan te passen aan de
+Europese.
+
+Om de bevoegdheden van de EU te kunnen uitoefenen, stellen het Europees Parlement, de
+Raad van de Europese Unie, en de Europese Commissie verordeningen, richtlijnen, besluiten,
+aanbevelingen en adviezen vast:
+- Een verordening heeft een algemene strekking. Zij is bindend in al haar onderdelen en is
+
+     rechtstreeks geldend voor elke lidstaat, wat betekent dat een Europese verordening
+     dezelfde kracht heeft als het nationale recht, zonder dat nationale instanties daarvoor
+     iets hoeven te doen.
+- Een richtlijn is bindend voor het te bereiken resultaat voor elke lidstaat waarvoor zij
+     bestemd is, maar de nationale instanties hebben de bevoegdheid vorm en middelen te
+     kiezen.
+- Een besluit (voorheen `beschikking') is bindend in al zijn onderdelen voor lidstaten, burgers
+     of instanties voor wie de regels uitdrukkelijk gelden.
+- Aanbevelingen en adviezen zijn niet bindend.
+
+1.5 Wat schrijft de EU-wetgeving voor op het gebied van spoorvervoer?
+
+Richtlijn (EU) 2012/34 instellen van een Europese spoorwegruimte
+Richtlijn (EU) 2012/34 gaat over het realiseren van één Europese spoorwegruimte. In deze
+richtlijn komen onder meer de eisen aan bod die gesteld worden aan de `Netverklaring': een
+gedetailleerde verklaring waarin de algemene regels, termijnen, procedures en criteria voor
+de heffingsregelingen (gebruiksvergoeding) en capaciteitstoewijzingsregelingen zijn
+vastgelegd, met inbegrip van alle andere informatie die nodig is om de aanvragen van
+infrastructuurcapaciteit mogelijk te maken.
+
+In Nederland stelt ProRail ieder jaar de Netverklaring voor spoorwegondernemingen op. Een
+spoorwegonderneming is een onderneming die gebruik maakt of wil maken van de
+spoorweg en daarvoor de beschikking heeft over krachtvoertuigen.
+
+De Richtlijn schrijft ook voor dat elke spoorwegonderneming op het hoofdrailnet moet
+beschikken over een bedrijfsvergunning en een veiligheidscertificaat.
+
+VVRV cluster Wet- en regelgeving  6/22
+Verordening (EU) 2016/796 Spoorwegbureau van de Europese Unie
+
+Deze verordening betreft het Spoorwegbureau van de Europese Unie (European Union
+Agency for Railways (ERA)).
+
+ERA (ook wel `het Bureau' genoemd) is het enige loket voor de afgifte van
+voertuigvergunningen en veiligheidscertificaten voor spoorwegondernemingen.
+
+Verder speelt ERA een cruciale rol bij de tenuitvoerlegging van het beleid ter modernisering
+van de Europese spoorwegen. Volgens de lidstaten van de EU wordt ontwikkeling van de
+spoorwegsector in ernstige mate belemmerd doordat in de 27 lidstaten verschillende
+technische en veiligheidsregels gelden. ERA heeft als taak deze technische regels geleidelijk
+te harmoniseren (gelijk te trekken) en de gemeenschappelijke methoden en
+veiligheidsdoelstellingen vast te leggen die voor alle Europese spoorwegmaatschappijen
+gelden. Hiertoe stelt ERA onder meer TSI's (Technische Specificaties voor Interoperabiliteit) op
+die zij voortdurend actualiseert.
+
+Richtlijn (EU) 2016/797 interoperabiliteit
+
+Richtlijn (EU) 2016/797 schrijft eisen voor op het gebied van interoperabiliteit. Interoperabiliteit
+is: de mogelijkheid om treinen over de spoorwegnetten van meerdere landen te kunnen
+laten rijden. In de woorden van de EU: "De geschiktheid van een spoorwegsysteem voor een
+veilig en ononderbroken treinverkeer dat de vereiste prestaties levert."
+
+Uitvoeringsverordening (EU) 2019/773 technische specificaties (TSI) exploitatie en
+verkeersleiding
+
+TSI is de afkorting van Technische Specificatie voor Interoperabiliteit. TSI's worden vastgesteld
+door de Europese Commissie op basis van aanbevelingen van het Spoorwegbureau van de
+Europese Unie (ERA).
+
+TSI's dienen:
+- de interoperabiliteit van het spoorwegsysteem te verzekeren
+- de essentiële eisen die aan de subsystemen gesteld worden te borgen (Deze eisen staan
+
+     in Richtlijn 2016/797 Interoperabiliteitsrichtlijn).
+
+Bijlage 1 van uitvoeringsverordening (EU) 2019/773 bevat de `TSI exploitatie en
+verkeersleiding' (ook TSI Operations en/of TSI OPE genoemd). Deze TSI bevat Europese
+regelgeving die onder meer relevant is voor de machinist railvervoer. Deze regelgeving is, net
+als de meeste Europese regelgeving, bindend voor de lidstaten van de EU: de Nederlandse
+wetgeving en de regelgeving van Nederlandse spoorwegondernemingen moeten erop
+worden aangepast.
+
+VVRV cluster Wet- en regelgeving  7/22
+TSI-subsystemen
+Naast de TSI exploitatie en verkeersleiding zijn er TSI's voor de volgende subsystemen:
+- Infrastructuur
+- Veiligheid in spoortunnels
+- Energie
+- Besturing, beveiliging en signalering
+- Telematica personenvervoer
+- Telematica goederenvervoer
+- Rollend materieel locs en personenrijtuigen
+- Rollend materieel goederenwagens
+- Geluidsreductie Rollend materieel en infrastructuur
+- Toegankelijkheid voor personen met beperkte mobiliteit.
+
+Richtlijn 2008/68/EG vervoer gevaarlijke stoffen over land
+
+Deze richtlijn bevat eisen aan en criteria voor het vervoer van gevaarlijke goederen over het
+land: vervoer via de weg, het spoor of de binnenwateren.
+
+Richtlijn (EU) 2016/798 veiligheid op het spoor
+
+Doel van deze richtlijn is het waarborgen van de ontwikkeling en verbetering van de
+veiligheid op het spoorwegsysteem in de EU en de verbetering van de markttoegang voor
+spoorwegondernemingen door onder andere:
+- de harmonisering van de regelgevingsstructuur in de lidstaten
+- de ontwikkeling van gemeenschappelijke veiligheidsdoelen en -methoden om nationale
+
+     voorschriften geleidelijk overbodig te maken
+- de vastlegging van gemeenschappelijke beginselen voor het beheer, de regelgeving en
+
+     het toezicht met betrekking tot de veiligheid op het spoor.
+
+Richtlijn (EU) 2016/798 stelt ook eisen met betrekking tot het Veligheidsbeheersysteem (VBS).
+Het VBS moet onder meer de volgende punten bevatten:
+- een veiligheidsbeleid waarmee het personeel bekend is
+- programma's voor de opleiding van personeel en systemen om ervoor te zorgen dat het
+
+     personeel ter zake kundig is
+- procedures om ervoor te zorgen dat ongevallen, incidenten, bijna-ongelukken en andere
+
+     gevaarlijke voorvallen worden gemeld, onderzocht en geanalyseerd en dat de nodige
+     preventieve maatregelen worden getroffen.
+
+VVRV cluster Wet- en regelgeving  8/22
+1.6 Wat schrijft de EU-wetgeving voor op het gebied van
+       spoorwegpersoneel?
+
+Richtlijn 2007/59/EG certificering machinisten
+
+Richtlijn 2007/59 EG (ook wel `machinistenrichtlijn' genoemd) bevat de eisen die door de
+lidstaten van de EU aan machinisten worden gesteld. De richtlijn is ervoor bedoeld om de
+verschillende eisen en bevoegdheden in Europa gelijk te trekken (harmoniseren), om
+daarmee het hoge veiligheidsniveau in Europa te handhaven en het voor machinisten
+makkelijker te maken binnen de EU van werkgever veranderen en inspecties efficiënter te
+laten verlopen.
+
+De richtlijn regelt niet alleen de eisen aan machinisten, maar ook aan de opleiding,
+examinering, afgifte en registratie van de machinistenvergunning en aanvullende
+bevoegdheidsbewijzen.
+
+Bijlage I
+Het bevoegdheidsbewijs dat de machinist van zijn spoorwegonderneming ontvangt, voldoet
+aan de in bijlage I van Richtlijn 2007/59/EG gestelde regels.
+
+Bijlagen IV, V en VI
+Bijlage IV van de richtlijn bevat de eisen aan de machinist betreffende algemene vakkennis
+en bijlagen V en VI bevatten de eisen aan de machinist betreffende specifieke vakkennis
+van rollend materieel en infrastructuur.
+
+Bijlage VII
+De spoorwegonderneming draagt er zorg voor dat de persoon door wie die functie wordt
+uitgeoefend periodiek een herinstructie volgt over de juiste uitvoering van de functie.
+
+Beschikking van de Commissie van 29 oktober 2009 basisparameters registers van
+machinistenvergunningen en aanvullende bevoegdheidsbewijzen
+
+Deze beschikking is een nadere uitwerking van Richtlijn 2007/59/EG en richt zich specifiek op
+de verplichtingen omtrent registers van machinistenvergunningen en aanvullende
+bevoegdheidsbewijzen.
+
+In Nederland houdt:
+- de ILT (Inspectie voor Leefomgeving en Transport) een register (lijst) bij van de
+
+     machinistenvergunningen (de ILT is de enige partij die in Nederland de
+     machinistenvergunning mag uitgeven)
+- iedere spoorwegonderneming een register bij van door haar uitgegeven
+     bevoegdheidsbewijzen.
+
+VVRV cluster Wet- en regelgeving  9/22
+Verordening (EU) 36/2010 modellen voor machinistenvergunningen en
+bevoegdheidsbewijzen
+Verordening (EU) 36/2010 bevat (overeenkomstig Richtlijn 2007/59/EG) de eisen voor:
+- EU-modellen voor vergunningen van machinisten
+- aanvullende bevoegdheidsbewijzen
+- gewaarmerkte afschriften van aanvullende bevoegdheidsbewijzen
+- aanvraagformulieren voor vergunningen van machinisten.
+
+Besluit 2011/765/EU inzake criteria en procedure voor erkenning opleidingscentra en
+examinatoren
+Besluit 2011/765/EU bevat (overeenkomstig Richtlijn 2007/59/EG) de eisen voor:
+- de erkenning van opleidingscentra voor treinbestuurders
+- de erkenning van examinatoren van treinbestuurders
+- de organisatie van examens voor treinbestuurders.
+
+1.7 Wat houdt het Europese spoorwegpakket in?
+
+Het eerste Europese spoorwegpakket schreef een scheiding voor tussen beheer en vervoer
+en maakte concurrentie in het goederenvervoer mogelijk.
+
+Het tweede Europese spoorwegpakket stelde eisen voor interoperabiliteit en veiligheid.
+
+Het derde Europese spoorwegpakket maakte concurrentie in het personenvervoer mogelijk.
+
+Het vierde Europese spoorwegpakket, in Nederland ondertekend in 2019, verbijzondert de
+eerste drie spoorwegpakketten. Het vierde Europese spoorwegpakket bestaat uit Europese
+richtlijnen en verordeningen die de barrières voor de eenwording van de Europese
+spoorwegruimte wegnemen. Ook verbetert het pakket de veiligheid, interoperabiliteit en
+betrouwbaarheid van die spoorwegruimte.
+
+Uiteindelijk is de bedoeling van de reeds verschenen en nog komende spoorwegpakketten:
+een beter concurrerende spoorwegsector, met betere verbindingen tussen de EU en haar
+buurlanden. Daarnaast zullen de veranderingen de EU helpen bij het halen van streefcijfers
+voor lagere CO2-emissies en zullen ze een groter gebruik van het spoorwegvervoer
+stimuleren.
+
+1.8 Wat schrijft de NL-wetgeving voor op het gebied van spoorwegvervoer?
+
+Lidstaten van de EU zijn vrij om binnen hun nationale wetgeving de EU-Verordeningen, EU
+Richtlijnen én EU-Besluiten verder uit te werken. `Dit betekent niet dat er van de EU-wetgeving
+mag worden afgeweken: EU-wetgeving gaat boven nationale wetgeving.
+
+VVRV cluster Wet- en regelgeving  10/22
+Nederland heeft de volgende nationale wetgeving.
+
+Spoorwegwet
+
+De Spoorwegwet regelt in Nederland:
+- de aanleg van spoorwegen
+- het beheer van spoorwegen
+- de toegankelijkheid van spoorwegen
+- het gebruik van spoorwegen
+- het verkeer over spoorwegen.
+
+In de Spoorwegwet is in overeenstemming met de Europese regels een scheiding gemaakt
+tussen de verantwoordelijkheid voor de infrastructuur en de verantwoordelijkheid voor het
+vervoer. De overheid verleent in het verlengde hiervan concessies (vergunning):
+- de beheersconcessie voor het hoofdrailnet
+- de vervoersconcessie voor het hoofdrailnet
+- de vervoersconcessie voor de HSL-Zuid
+- vervoersconcessies voor regionaal vervoer.
+
+Het ministerie van Infrastructuur en Waterstaat heeft één partij verantwoordelijk gemaakt
+voor spoorbeheer en capaciteitsverdeling. Dat is ProRail.
+
+Voor het hoofdrailnet geldt dat NS (tot 2033) concessiehouder is en op de belangrijkste
+trajecten de spoorvervoerder is. In toenemende mate rijden ook andere
+spoorwegondernemingen op (delen van) deze trajecten.
+
+Regionale treinen: de provincies en stadsregio's bepalen welke spoorwegonderneming het
+treinvervoer in de regio mag verzorgen. Via een aanbestedingsprocedure krijgt één
+spoorwegonderneming een vervoersconcessie voor een bepaald gebied. Deze
+onderneming heeft dan voor een aantal jaren het alleenrecht om in die regio het regionale
+treinvervoer te verzorgen. Een treindienst die wordt uitgevoerd in opdracht van een regionale
+overheid (provincie), in plaats van de landelijke, wordt ook wel een `gedecentraliseerde
+treindienst' genoemd.
+
+Voor wat betreft de marktaspecten (eerlijke concurrentie) houdt de Autoriteit Consument en
+Markt (ACM) toezicht op de naleving van de Spoorwegwet.
+
+VVRV cluster Wet- en regelgeving  11/22
+Besluit spoorverkeer
+
+Het Besluit spoorverkeer bevat regels voor het veilig en ongestoord gebruik van het
+hoofdrailnet, bijvoorbeeld over:
+- de samenstelling van treinen
+- veilig vertrek en vervoer.
+
+Regeling spoorverkeer
+
+Deze regeling werkt onderdelen van het Besluit spoorverkeer verder uit, bijvoorbeeld:
+- seinen
+- spoorwegemplacementen
+- verwijzing naar de `TSI exploitatie en verkeersleiding' voor veiligheidscommunicatie.
+
+Bijlage 4, behorende bij artikel 24 van de Regeling spoorverkeer is het zogenoemde
+seinreglement of seinenboek. De machinist moet deze seinen kennen voor het VVRV-
+examen, behalve de lokaal voorkomende.
+
+Besluit aanwijzing toezichthouders spoorwegen
+
+Dit besluit regelt het toezicht van de Inspectie Leefomgeving en Transport (ILT) op het
+railverkeer in Nederland, voor:
+- railinfrastructuur
+- beheerder van de railinfrastructuur
+- bedrijven die vervoer aanbieden over de railinfrastructuur
+- bepaalde functionarissen die beroepsmatig op de railinfrastructuur werken
+- voertuigen die over de railinfrastructuur rijden
+- bedrijven die keuringen uitvoeren aan infrastructuur, voertuigen of personen
+- bedrijven die opleiden en die examens mogen afnemen.
+
+De ILT en de Nationale Politie hebben op emplacementen en de vrije baan de volgende
+bevoegdheden:
+- uitvoeren van opsporingen
+- opruimwerkzaamheden staken of stilleggen
+- afwijkingen op regelgeving toestaan
+- personen meenemen voor verhoor
+- afnemen van ademanalyse.
+
+Rijkswet Onderzoeksraad voor veiligheid
+
+De Onderzoeksraad voor veiligheid is voorvalgebonden en trekt lessen op basis van
+onderzoek naar deze voorvallen. De werkwijze van de raad bij het onderzoek naar de
+(achterliggende) oorzaken van voorvallen (rampen, ongevallen en incidenten) is vastgelegd
+in een onderzoeksprotocol.
+
+VVRV cluster Wet- en regelgeving  12/22
+Regeling indienststelling spoorvoertuigen 2020
+De Regeling indienststelling spoorvoertuigen 2020 bevat de regels voor de indienststelling van
+spoorvoertuigen op de hoofdspoorweginfrastructuur.
+
+RID en Regeling vervoer over de spoorweg van gevaarlijke stoffen
+RID (Regulations concerning the International Carriage of Dangerous Goods by Rail) is het
+internationale reglement voor het vervoer over de spoorweg van gevaarlijke goederen.
+
+De Nederlandse vertaling van het RID is als bijlage 1 opgenomen bij de Regeling vervoer over
+de spoorweg van gevaarlijke stoffen.
+
+De RID en Regeling vervoer over de spoorweg van gevaarlijke stoffen regelen onder meer
+dat:
+- van alle wagens voor gevaarlijke stoffen, leeg of beladen, de in RID en Regeling vervoer
+
+     over de spoorweg van gevaarlijke stoffen verplicht gestelde vrachtbriefgegevens bij de
+     spoorwegonderneming aanwezig zijn vóór vertrek van de terminal of spooraansluiting
+- de spoorwegonderneming vóór overname de wagens moet controleren op
+     aanwezigheid van de juiste gevaaretiketten en oranje borden.
+
+Besluit Bijzondere Spoorwegen
+Het besluit bijzondere spoorwegen bevat regels voor de aanleg, het onderhoud en het
+gebruik en de veiligheid van de bijzondere spoorwegen, zoals spooraansluitingen, sporen
+naar en op een bedrijfsterrein en museumspoorlijnen.
+
+Wet lokaal spoor, Besluit lokaal spoor, Regeling Lokaal Spoor
+De wet lokaal spoor regelt samen met Besluit lokaal spoor én de Regeling lokaal spoor de
+aanleg, het beheer, het gebruik en de veiligheid van lokale spoorwegen waarover het tram-
+en metrovervoer in Nederland plaatsvindt, inclusief `Light Rail concepten'.
+
+Wet milieubeheer
+De wet milieubeheer is de belangrijkste milieuwet. De wet bepaalt welk wettelijk
+gereedschap kan worden ingezet om het milieu te beschermen. De wet geeft algemene
+regels voor verschillende onderwerpen, van stoffen en afvalstoffen tot handhaving,
+openbaarheid van milieugegevens en beroepsmogelijkheden.
+
+De gemeente/provincie zorgt voor toezicht en handhaving.
+
+VVRV cluster Wet- en regelgeving  13/22
+1.9 Wat schrijft de NL-wetgeving voor op het gebied van
+       spoorwegpersoneel?
+
+Besluit spoorwegpersoneel 2011
+In het Besluit spoorwegpersoneel 2011(BSP 2011)worden de bevoegdheden van de
+verschillende veiligheidsfuncties beschreven en de eisen die aan deze functies worden
+gesteld.
+
+Het BSP 2011 onderscheidt in artikel 1 twee categorieën spoorvoertuigen:
+- categorie A: rangeerlocomotieven, werktreinen, onderhoudsspoorwagons en alle andere
+
+     locomotieven die gebruikt worden voor het rangeren
+- categorie B: spoorvoertuigen voor het vervoer van reizigers en voor het vervoer van
+
+     goederen.
+
+Regeling spoorwegpersoneel 2011
+Deze regeling geeft invulling aan de volgende in het Besluit spoorwegpersoneel genoemde
+onderwerpen met betrekking tot onder meer de machinist:
+- de medische en de psychologische eisen en de daarmee samenhangende verklaringen
+
+     van medische en psychologische geschiktheid
+- de aanvraag tot verlening of wijziging van een machinistenvergunning
+- de erkenning van EG-beroepskwalificaties.
+
+Besluit mandaat, volmacht en machtiging Stichting VVRV
+De minister van Infrastructuur & Waterstaat heeft Stichting VVRV mandaat (bevoegdheid)
+gegeven om in naam van de minister besluiten te nemen over examens voor de machinist
+bijlage IV ­ vergunning:
+- vaststelling van de verschillende examenprogramma's die vallen onder de
+
+     verantwoordelijkheid van VVRV
+- erkenning van examinatoren
+- afgifte van beoordelingen/certificaten.
+
+Arbeidsomstandighedenwet (Arbowet)
+De Arbowet bevat regels voor werkgevers en werknemers om de gezondheid, de veiligheid
+en het welzijn van werknemers en zelfstandig ondernemers te bevorderen. Doel is om
+ongevallen en ziekten veroorzaakt door het werk, te voorkomen.
+
+Belangrijk element in de wet is het recht op informatie, voorlichting en bescherming van
+werkenden. Daartoe hebben zowel werkgevers als werknemers verplichtingen.
+
+VVRV cluster Wet- en regelgeving  14/22
+De inspectie Sociale Zaken en Werkgelegenheid (SZW) houdt toezicht op/handhaaft de
+naleving van de Arbowet.
+
+Arbeidstijdenwet
+De Arbeidstijdenwet (ATW) legt regels vast voor arbeids- en rusttijden voor werknemers. Het
+doel van de ATW komt deels overeen met het doel van de Arbowet. Beide zorgen voor de
+veiligheid, gezondheid en het welzijn van werknemers bij hun werk. Een tweede doelstelling
+van de ATW is: het voor werknemers makkelijker maken om arbeid te combineren met
+zorgtaken of andere verantwoordelijkheden buiten de arbeid.
+
+De inspectie Sociale Zaken en Werkgelegenheid (SZW) houdt toezicht op/handhaaft de
+naleving van de ATW.
+
+Normenkader veilig & gezond werken (NVW) en Voorschrift veilig werken ­ aanrijdgevaar
+trein (Vvw-at)
+Voor de railinfrabranche (onder meer baanwerkers) is er specifieke regelgeving omtrent
+werken aan en rond het spoor: het Normenkader veilig & gezond werken (NVW) in
+combinatie met het Voorschrift veilig werken ­ aanrijdgevaar trein (Vvw-at). Beide zijn
+uitgegeven door Stichting railAlert en hebben tot doel het verbeteren van de
+arbeidsomstandigheden en arbeidsveiligheid.
+
+1.10 Wat houdt de Netverklaring in?
+
+ProRail geeft als infrastructuurbeheerder voor Nederland elk jaar een Netverklaring uit en vult
+die zo nodig tussentijds aan.
+
+De Netverklaring bevat informatie over de aard van de hoofdspoorweginfrastructuur, de
+voorwaarden voor toegang en gebruik daarvan en de procedures voor de verdeling van
+capaciteit.
+
+Er staat informatie in over diensten en dienstvoorzieningen die ProRail aanbiedt, inclusief de
+beschikbaarheid, vergoedingen en voorwaarden.
+
+Ook wordt verwezen naar verschillende documenten zoals:
+- Regeling communicatieprocedures (Methode voor mondelinge communicatie en
+
+     veiligheidsberichten)
+- Boek van Europese en Nationale instructies
+- Handboek Incidentmanagement Rail
+- Calamiteitenplannen
+- Huisreglement bemenste gebouwen en aangrenzende terreinen
+- Gedragsregels op spoorwegterreinen.
+
+VVRV cluster Wet- en regelgeving  15/22
+1.11 Wat houdt de Toegangsovereenkomst in?
+
+De Toegangsovereenkomst is het contract dat een spoorwegonderneming met de
+infrastructuurbeheerder (ProRail voor Nederland) afsluit voor het gebruik van de
+hoofdspoorweginfrastructuur. In de Toegangsovereenkomst staan alle afspraken die tussen
+de spoorwegonderneming en de infrastructuurbeheerder zijn overeengekomen en de
+vergoedingen voor de afgesproken diensten.
+
+1.12 Wat houdt de Regeling communicatieprocedures in?
+
+Europa heeft in de TSI exploitatie en verkeersleiding (TSI OPE) richtlijnen opgesteld voor
+veiligheidscommunicatie. ProRail is verantwoordelijk voor het vaststellen van de wijze van
+communiceren van mondelinge en schriftelijke veiligheidsberichten. De regels met betrekking
+tot de mondelinge veiligheidsberichten zijn vastgelegd in de regeling
+communicatieprocedures.
+
+1.13 Wat houdt het Boek van Europese en Nationale instructies in?
+
+Het Boek van Europese en Nationale instructies is opgesteld door ProRail en is een uitwerking
+van de TSI exploitatie en verkeersleiding (TSI OPE). Het Boek bestaat uit twee delen.
+
+Deel 1 bevat:
+- een overzicht van de in Nederland van toepassing zijnde European en eventuele
+
+     National Instructions en de manier van overdracht (schriftelijk of mondeling)
+- een overzicht van de in Nederland van toepassing zijnde vakken en velden
+- een lijst van situaties waarop elke European- of National Instruction van toepassing is
+- de tabel met het Internationaal NATO-Alfabet.
+
+Deel 2 bevat een uitwerking van de European Instructions als voorbeeld en de geldende
+National Instructions.
+
+Er zijn acht formulieren voor de European Instructions:
+1. Toestemming een EOA/stoptonend sein te passeren
+2. Toestemming tot doorrijden na TRIP
+3. Verplichting om stil te blijven staan
+4. Intrekking van een Instruction
+5. Verplichting om de snelheid te beperken
+6. Verplichting om te rijden op zicht
+7. Toestemming om te vertrekken
+8. Toestemming om een defecte overweg te passeren.
+
+VVRV cluster Wet- en regelgeving  16/22
+Daarnaast gebruikt Nederland voor een aantal baanvakken de Nationale Instructie Verkeerd
+Spoor.
+
+Zie cluster veiligheidscommunicatie.
+
+1.14 Wat houdt de Dienstregeling in?
+
+De infrastructuurbeheerder (in Nederland ProRail) is verantwoordelijk voor het opstellen van
+de dienstregeling. De dienstregeling is regelgeving voor de spoorwegondernemingen.
+
+Met dienstregeling wordt de planning naar plaats en tijd van een vervoersdienst bedoeld. De
+dienstregeling betreft het beheer en gebruik van de spoorinfrastructuur; het is een overzicht
+van vertrek-, doorkomst- en aankomsttijden van treinen op dienstregelingpunten.
+
+Het opstellen van de dienstregeling begint met het vaststellen van het zogenaamde basis-
+uurpatroon en de jaardienstregeling. ProRail en spoorwegondernemingen stellen de
+jaardienstregeling samen op met behulp van een internetapplicatie. Uiteindelijk stelt ProRail
+de jaardienstregeling vast.
+
+Alle aanvragen die binnenkomen na de sluitingstermijn van de jaardienst worden verwerkt in
+de ad hoc-fase. In deze fase worden aanvragen per stuk (first-come-first-served) behandeld.
+
+Bij vertragingen en verstoringen brengen treindienstleiders wijzigingen aan ten
+opzichte van de jaardienstregeling. Treindienstleiders sturen bij volgens zogeheten
+Treinafhandelingsdocumenten (TAD's) waarin locatie- en situatiespecifieke eisen in verband
+met de bijsturing staan.
+
+1.15 Wat houdt de IAM (informatie aan machinisten) in?
+
+Door middel van de IAM wordt de machinist op de hoogte gehouden van wijzigingen aan
+de infra en van nieuwe wegwijzertekeningen (`Wegwijzers').
+
+Zonder IAM hebben spoorwegondernemingen geen toegang tot het hoofdspoornet. De
+spoorwegondernemingen zijn verantwoordelijk voor de verspreiding van deze informatie
+onder hun machinisten. De machinist blijft altijd zelf verantwoordelijk voor de kennisname van
+deze wijzigingen.
+
+VVRV cluster Wet- en regelgeving  17/22
+Wegwijzers
+Wegwijzers geven een grafisch overzicht van de infrastructuur/baanvakken en alle objecten
+daarlangs. Wegwijzers zijn afgestemd op de behoefte van de machinist voor:
+- veilige en efficiënte verkeersdeelname
+- doelgerichte communicatie met de treindienstleiding.
+
+IAM-dienst (week- en dagpublicatie)
+
+Een `IAM-dienst' bestaat uit:
+- een `Weekpublicatie' met de `Tijdelijke Snelheidsbeperkingen' die de komende week van
+
+     kracht zijn
+- een `Dagpublicatie' met aanpassingen per dag op de `Weekpublicatie'.
+
+Tijdelijke Snelheidsbeperking
+Soms is het vanwege werkzaamheden aan het spoor of veiligheidsrisico's nodig de
+geldende maximumsnelheid van treinen op een spoorgedeelte tijdelijk te verlagen; er is dan
+sprake van een Tijdelijke Snelheidsbeperking (TSB).
+
+De TSB wordt via de IAM aan machinisten kenbaar gemaakt. Daarnaast wordt op het spoor -
+via borden volgens het seinreglement ­ aangegeven dat op dat moment een TSB van kracht
+is. In de praktijk wordt in plaats van IAM vaak de benaming TSB gebruikt.
+
+Op de middelste bladzijden van de `Weekpublicatie' staan overzichtskaarten:
+- Ieder baanvak heeft een eigen vast nummer.
+- De baanvaknummers zijn bij de lijnen geplaatst.
+- Met dikkere punten en/of lijnen zijn de plaatsen aangegeven waar snelheidsbeperkingen
+
+     van toepassing zijn.
+
+De TSB bevat zeven vaste kolommen met de volgende inhoud:
+
+Kolom 1:
+- De richting waarvoor de borden TSB gelden én de indicatie of de gegevens
+
+     rayoninformatie bevatten, waarbij:
+     -  = de snelheidsbeperking geldt in de aangegeven richting van de
+
+          baanvakomschrijving;
+     -  = de snelheidsbeperking geldt in de richting tegengesteld aan die van de
+
+          baanvakomschrijving;
+     - i = de informatie betreft rayoninformatie
+     - w = de informatie betreft wegwijzerinformatie.
+
+Kolom 2:
+Een nadere aanduiding van het station of baangedeelten waarvoor de informatie geldig is.
+
+VVRV cluster Wet- en regelgeving  18/22
+Kolom 3:
+- De plaatsaanduiding in kilometers afgerond (op 100 meter).
+- (*) betekent: door plaatselijke omstandigheden is het L-bord op minder dan de
+
+     voorgeschreven afstand van het A-bord geplaatst.
+Het verschuiven van de LAE-borden bij vorderingen van de werkzaamheden wordt
+aangeduid met:
+- de totale afstand waarover de werkzaamheden plaats vinden
+- een pijl in de richting waarin de verschuiving plaats vindt () of ()
+- de afstand tussen het A- en het E-bord.
+
+Kolom 4:
+Aanduiding van de maximumsnelheid De maximumsnelheid opgenomen voor respectievelijk
+reizigers- en goederentreinen. Het onderste getal is voor goederentreinen tot maximaal 120
+km per uur inclusief losse locs (in verband met hoge tonmeter-gewicht). Het bovenste getal
+geldt voor overige treinen.
+
+Kolom 5:
+Nieuw geplaatste LAE-borden zijn te herkennen aan het in kolom 5 gearceerde
+aanvangstijdstip. Is in kolom 5 niets vermeld dan geldt de beperking voor de duur van de
+publicatie.
+
+Kolom 6:
+Worden LAE- borden in de loop van de publicatie verwijderd, dan is dit in kolom 6
+aangegeven. Is in kolom 6 niets vermeld dan geldt de beperking voor de duur van de
+publicatie.
+
+Let op: ontbreken borden langs de baan terwijl ze er volgens de TSB wel hadden moeten
+staan, dan moet de machinist:
+- handelen alsof ze er wel staan (de TSB is leidend)
+- de treindienstleider informeren.
+
+Kolom 7:
+De reden voor de TSB én overige bijzonderheden.
+
+Het bij spoor- en ballastbedvernieuwing tegen de rijrichting in werken heeft als voordeel dat
+in het werkgebied de snelheid halverwege of zelfs eerder alweer verhoogd mag worden.
+
+Vertragingen die door de TSB ontstaan, zijn zo te beperken. De LAE- borden worden tegen de
+richting in verschoven; in de publicatie staat: `Voor reizigerstreinen kan over een bepaalde
+afstand een hogere snelheid worden aangegeven'.
+
+De treindienstleider gebruikt European Instruction 5 voor snelheidsbeperkingen die nog niet in
+de IAM zijn opgenomen, hoewel dit vanuit veiligheidsoogpunt wel gewenst is. Een voorbeeld:
+een machinist meldt op een geven moment een ernstige spoorverzakking. Vanaf dat
+moment geeft de treindienstleider in eerste instantie European Instruction 6 voor dat deel van
+
+VVRV cluster Wet- en regelgeving  19/22
+de spoorweg, totdat bekend is wat de werkelijke maximum snelheid ter plaatse mag zijn. Is
+de maximum snelheid bekend, dan wordt European Instruction 5 aan de machinist gegeven
+met de op dat moment geldende maximum snelheid. European Instruction 5 wordt uitgereikt
+totdat de nieuwe Dag-TSB uitkomt.
+
+1.16 Wat houdt het Handboek Incidentmanagement Rail in?
+
+Iedere infrastructuurbeheerder moet in samenwerking met de spoorwegondernemingen alles
+in het werk stellen om treinincidenten te voorkomen.
+
+Treinincidenten zijn echter niet geheel uit te sluiten. Is er sprake van een treinincident, dan
+heeft ProRail voor de Nederlandse hoofspoorweginfrastructuur samen met de betrokken
+spoorpartijen en (overheids)hulpdiensten treinincidentscenario's klaar liggen waarin staat wat
+er bij specifieke onregelmatigheden/incidenten/calamiteiten door wie, hoe én met welke
+middelen moet gebeuren. De scenario's zijn door ProRail beschreven in het Handboek
+incidentmanagement rail.
+
+Daarnaast zijn er calamiteitenbestrijdingsplannen voor tunnels.
+
+1.17 Wat houdt regelgeving van spoorwegondernemingen in?
+
+Spoorwegondernemingen voorzien hun personeel meestal van een Dienstkaartje dat de
+machinist van allerlei informatie voorziet om zijn dienst uit te kunnen voeren. De informatie die
+op het dienstkaartje staat, verschilt per onderneming en kan onder andere zijn:
+- treinnummers
+- dienstregeling
+- rangeerwerkzaamheden
+- tijdstip werkzaamheden
+- opstellocaties
+- tankstops
+- verwijzingen naar aanvullende documenten.
+
+Naast het dienstkaartje zal iedere spoorwegonderneming uitgebreidere eigen
+regelgevingsdocumentatie samenstellen. Het document dat het meest direct aansluit op de
+Europese en nationale wetgeving is het zogenaamde handboek, bijvoorbeeld:
+- het Handboek machinist van NS
+- het `Rule Book' van OBV logistiek
+- het Handboek Buitendienst van DB Cargo.
+
+VVRV cluster Wet- en regelgeving  20/22
+Naast het handboek ontvangt de machinist van zijn spoorwegonderneming:
+- materieelgids/bedieningshandleiding voor een treintype
+- handouts/machinisteninfo (regelgeving die nog niet in het handboek en/of de
+
+     materieelgids/het bedieningsleiding is verwerkt).
+
+Daarnaast ontwikkelt iedere spoorwegonderneming opleidingen en documentatie voor de
+interne machinistenopleiding en voor herinstructie. Of ze koopt deze in bij een door ILT erkend
+opleidingsbedrijf.
+
+1.18 Wat houdt lokale en plaatselijke regelgeving in?
+
+ProRail heeft als infrastructuurbeheerder lokale regels opgesteld voor het gebruik van het
+hoofdrailnet:
+- de ProRail-richtlijn: Gedragsregels op spoorwegterreinen (RLN00300)' geldt voor alle
+
+     infrastructuur van ProRail
+- voor ieder emplacement publiceert ProRail een afzonderlijk document `Veilig werken op
+
+     emplacementen, Lokale bijzonderheden voor emplacement X' (hierin staan ook de
+     relevante punten uit de Omgevingsvergunning Milieu).
+
+Spoorwegondernemingen kunnen hun eigen plaatselijke regelgeving hebben. Het kan
+bijvoorbeeld verplicht zijn een bepaald stuk van een opstelterrein met een maximum snelheid
+te berijden, of alleen onder begeleiding. Plaatselijke regelgeving is opgenomen in de
+`Wegwijzer'.
+
+1.19 Welke regelgeving is er voor opleidingsbedrijven?
+
+Om ervoor te zorgen dat in alle EU-lidstaten het kwaliteitsniveau van de opleiding en
+examens passend en vergelijkbaar is, zijn er gemeenschappelijke criteria opgesteld in het
+Besluit 2011/765/EU en Aanbeveling 2011/766/EU inzake criteria voor erkenning van
+opleidingscentra en examinatoren. Erkende opleidingsbedrijven voldoen aan de eisen.
+
+Eisen waar de organisatie van de examens aan moet voldoen, zijn omschreven in Besluit
+2011/765/EU.
+
+Op de ILT-website is te vinden welke opleidingsinstituten door het ministerie van Infrastructuur
+en Waterstaat erkend zijn om machinisten railvervoer op te leiden.
+
+VVRV cluster Wet- en regelgeving  21/22
+1.20 Wat zijn relevante websites?
+
+https://eur-lex.europa.eu
+Op deze site is alle wetgeving van de Europese Unie is te vinden (inclusief TSI's).
+De gebruiker kan zelf aangeven in welke taal hij de wettekst wil lezen.
+
+http://europa.eu
+Voor meer informatie over het vierde spoorwegpakket.
+
+https://www.ilent.nl/onderwerpen/themas/rail
+Voor meer informatie over de inspectie leefomgeving en transport.
+
+https://www.nlarbeidsinspectie.nl/nederlandse-arbeidsinspectie
+Voor meer informatie over de inspectie sociale zaken en werkgelegenheid (Arbowet,
+arbeidstijdenwet).
+
+https://www.onderzoeksraad.nl
+Voor meer informatie over de organisatie en werkzaamheden van de Onderzoeksraad voor
+Veiligheid.
+
+https://www.prorail.nl
+Voor organisatie en werkzaamheden ProRail en documenten als Netverklaring,
+Toegangsovereenkomst, Regeling communicatieprocedures, Boek van Europese en
+nationale instructies, Handboek Incidentmanagement.
+
+https://www.railalert.nl
+Over organisatie en werkzaamheden stichting railAlert, ter bevordering van arbeidsveiligheid
+in de railinfrastructuurbranche.
+Over organisatie en werkzaamheden van stichting veiligheid en vakmanschap in het
+railvervoer, ter bevordering van veiligheid en vakmanschap d in de railvervoerbranche.
+
+https://www.vvrv.nl
+Over organisatie en werkzaamheden van stichting veiligheid en vakmanschap in het
+railvervoer, ter bevordering van veiligheid en vakmanschap in de railvervoerbranche.
+
+https://wetten.overheid.nl
+Alle wetgeving van de Nederlandse overheid.
+
+De intranet-site(s) eigen spoorwegonderneming
+Intranetsites van de eigen spoorwegonderneming die beschikbaar zijn voor machinisten.
+
+VVRV cluster Wet- en regelgeving  22/22
+

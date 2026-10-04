@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b3d91">
+<title>Machinist Vakkennis Oefenen</title>
+<meta name="description" content="Oefenvragen (meerkeuze) voor het VVRV-examen vakkennis machinist vergunning.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚆</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <button id="btn-home" class="icon-btn" aria-label="Naar start" hidden>&larr;</button>
+  <h1 id="top-title">Vakkennis Machinist</h1>
+  <span id="top-meta" class="top-meta"></span>
+</header>
+
+<main id="app">
+  <!-- Start -->
+  <section id="view-start" class="view">
+    <p class="lead">Moeilijke meerkeuzevragen gebaseerd op de officiële VVRV-vakkennis (clusters 01–11 en ORE v2.2).</p>
+
+    <div class="card">
+      <h2>Modus</h2>
+      <div class="seg" role="radiogroup" id="mode">
+        <label><input type="radio" name="mode" value="oefen" checked><span>Oefenen</span></label>
+        <label><input type="radio" name="mode" value="examen"><span>Examen</span></label>
+        <label><input type="radio" name="mode" value="fouten"><span>Fouten</span></label>
+      </div>
+      <p class="hint" id="mode-hint"></p>
+    </div>
+
+    <div class="card">
+      <h2>Aantal vragen</h2>
+      <div class="seg" role="radiogroup" id="count">
+        <label><input type="radio" name="count" value="10"><span>10</span></label>
+        <label><input type="radio" name="count" value="25" checked><span>25</span></label>
+        <label><input type="radio" name="count" value="50"><span>50</span></label>
+        <label><input type="radio" name="count" value="9999"><span>Alle</span></label>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="row-between">
+        <h2>Clusters</h2>
+        <button class="link-btn" id="toggle-all">Alles uit</button>
+      </div>
+      <ul id="clusters" class="clusters"></ul>
+    </div>
+
+    <button id="btn-start" class="primary big">Start</button>
+    <p class="hint center" id="start-info"></p>
+
+    <details class="card">
+      <summary>Bronnen &amp; info</summary>
+      <ul class="sources" id="sources"></ul>
+      <p class="hint">Bron: <a href="https://vvrv.nl/vakkennis/vakkennis-machinist-vergunning" target="_blank" rel="noopener">vvrv.nl – vakkennis machinist vergunning</a>. Deze oefenvragen zijn onofficieel en zijn niet door VVRV opgesteld of gecontroleerd. Bij twijfel geldt altijd de tekst van de vakkennis.</p>
+      <button class="link-btn danger" id="reset">Voortgang wissen</button>
+    </details>
+  </section>
+
+  <!-- Quiz -->
+  <section id="view-quiz" class="view" hidden>
+    <div class="progress"><div id="progress-bar"></div></div>
+    <div class="q-head">
+      <span id="q-cluster" class="chip"></span>
+      <span id="q-num"></span>
+    </div>
+    <h2 id="q-text" class="q-text"></h2>
+    <ol id="q-options" class="options" type="A"></ol>
+    <div id="q-feedback" class="feedback" hidden></div>
+    <div class="q-actions">
+      <button id="btn-flag" class="ghost" aria-pressed="false">☆ Markeer</button>
+      <button id="btn-next" class="primary" disabled>Volgende</button>
+    </div>
+  </section>
+
+  <!-- Result -->
+  <section id="view-result" class="view" hidden>
+    <div class="score-card">
+      <div id="score-pct" class="score-pct"></div>
+      <div id="score-txt"></div>
+      <div id="score-verdict" class="verdict"></div>
+    </div>
+    <div class="result-actions">
+      <button id="btn-retry-wrong" class="primary">Oefen foute vragen</button>
+      <button id="btn-again" class="ghost">Terug naar start</button>
+    </div>
+    <h2>Overzicht</h2>
+    <ol id="review" class="review"></ol>
+  </section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

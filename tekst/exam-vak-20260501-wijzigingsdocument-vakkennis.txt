@@ -1,0 +1,117 @@
+Wijzigingsdocument vakkennis mei 2026
+Bronmateriaal examen machinist vergunning bijlage IV machinistenrichtlijn
+
+Let op: de hieronder opgenomen wijzigingen zijn een deel van de tekst in het betreffende
+
+cluster. Als je opmerkingen hebt, deze dan graag bekijken in samenhang met het cluster.
+
+                        OUD                                               NIEUW
+
+                                   Wet- en regelgeving
+
+                  Versie mei 2025                                      Versie aug 2025
+
+                  Bevoegdheidseisen, taken en verantwoordelijkheden
+
+                  Versie mei 2025                                      Versie aug 2025
+
+                                       Veiligheid
+
+                  Versie mei 2025                                      Versie sep 2025
+
+                                   Veiligheidscommunicatie
+
+                  Versie mei 2025                                      Versie aug 2025
+
+                                        Railinfra
+
+                  Versie mei 2025                                      Versie sep 2025
+
+                                   beveiligingssystemen
+
+                  Versie sep 2025                                      Versie mei 2026
+
+1.5 Systemen met vereenvoudigde beveiliging             Gewijzigd in:
+
+Tot de vereenvoudigde beveiligings- en                  Tot de vereenvoudigde beveiligings- en
+
+beheersingssystemen behoren TPRB en VCVL. beheersingssystemen behoren bijvoorbeeld
+
+Een vereenvoudigd beveiligingssysteem dat               VCVL en CTB.
+
+uitsluitend werkt met communicatie is CTB.
+
+TPRB (Ter Plaatse Bediende Relais-Beveiliging) Verwijderd
+
+TPRB kent alleen in- en uitrijseinen. Het systeem
+
+functioneert met automatisch werkende
+
+inrijseinen en bediende uitrijseinen.
+
+Met inrijsein (of inrijder) wordt bedoeld vanaf
+
+de vrije baan/hoofdspoorweg naar een
+
+station/emplacement. Met uitrijsein (of uitrijder)
+
+wordt bedoeld vanaf eens
+
+station/emplacement naar de vrije baan.
+
+De machinist bedient zelf de seinen door
+
+middel van blokkastjes. De wissels werken
+
+automatisch en lopen na het passeren van de
+
+trein weer terug in de normale stand.
+
+Baanvakken/stations met TPR-beveiliging
+
+worden inmiddels vervangen door VCVL-
+
+beveiliging.
+
+VCVL (Vereenvoudigde Centrale                           VCVL (Vereenvoudigde Centrale
+
+VerkeersLeiding)                                        VerkeersLeiding)
+
+VCVL kent alleen in- en uitrijseinen. Het systeem VCVL kent alleen in- en uitrijseinen. Het
+
+functioneert met automatisch werkende                   systeem functioneert met automatisch
+
+inrijseinen en bediende uitrijseinen. Zie voor          werkende inrijseinen en bediende uitrijseinen.
+
+toelichting hierboven.                                  De treindienstleider stelt de rijwegen in. Waar
+
+Het verschil met TPRB is dat de treindienstleider centraal bediende wissels zijn, zijn ook de
+
+de rijwegen instelt. Waar centraal bediende             inrijseinen bediende seinen.
+
+wissels zijn, zijn ook de inrijseinen bediende
+
+seinen.
+
+                        Voorbereiden, gereedmaken en vertrekken
+
+                  Versie mei 2025                                      Versie aug 2025
+
+                                   Rijden, rangeren, wegzetten
+
+                  Versie mei 2025                                      Versie aug 2025
+
+                                       Materieel
+
+                  Versie mei 2025                                      Versie aug 2025
+
+                                       Treinincidenten
+
+                  Versie mei 2025                                      Versie aug 2025
+
+                                                 ERTMS
+
+                  Versie sep 2024                                      Versie nov 2025
+
+                                                                                                1
+

@@ -1,0 +1,303 @@
+VVRV cluster Veiligheidscommunicatie
+
+                                                                                                                                                               1/8
+Veiligheid                                                    3
+
+1.1 Voorwoord                                                 3
+
+1.2 Wat is veiligheidscommunicatie voor de machinist?         3
+
+1.3 Wat zegt het Besluit Spoorwegpersoneel (BSP) over
+
+veiligheidscommunicatie?                                      4
+
+1.4 Wat zegt de TSI-OPE over veiligheidscommunicatie?         4
+
+1.5 Wat zegt de regelgeving van ProRail over
+
+veiligheidscommunicatie?                                      4
+
+1.6 Wat zijn European Instructions?                           5
+
+1.7 Waarom is er een examenverplichting voor
+
+veiligheidscommunicatie?                                      6
+
+1.8 Wat is GSM-R?                                             6
+
+1.9 Wat doet de machinist bij defecte GSM-R apparatuur?       7
+
+1.10 Wat houdt het gebruik van de portofoon in?               8
+
+1.11 Wie bepaalt of en wanneer de eigen mobiele telefoon mag
+
+worden gebruikt?                                              8
+
+VVRV cluster
+Veiligheidscommunicatie
+
+                                                                                                                                                                 2/8
+1  Veiligheid
+
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan verbreding
+worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld. Toch
+kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet
+aansprakelijk voor schade als gevolg daarvan.
+
+Versie augustus 2025
+
+1.2 Wat is veiligheidscommunicatie voor de machinist?
+
+Veiligheidscommunicatie gaat over het uitwisselen van veiligheidskritische informatie. Dat is
+informatie die bij onjuiste uitwisseling (niet, onvolledig, te vroeg of te laat) tot
+veiligheidsincidenten kan leiden met slachtoffers en/of schade als gevolg. De communicatie
+kan plaatsvinden zowel tussen hetzelfde type functionaris (bijvoorbeeld machinist - machinist)
+als tussen verschillende typen functionarissen (bijvoorbeeld treindienstleider - machinist).
+
+Veiligheidscommunicatie kan bijvoorbeeld gaan over:
+- storingen of beschadigingen aan de infrastructuur of het seinstelsel
+- toestemming om door een stoptonend sein te mogen rijden
+- rangeerbewegingen.
+
+Duidelijke en juiste veiligheidscommunicatie voorkomt ernstige ongelukken. Onvolledige en
+niet-eenduidige communicatie heeft altijd een negatieve invloed op het ontstaan en
+verloop van een bijzonder voorval. Vandaar dat er voor veiligheidscommunicatie
+gespreksregels zijn vastgesteld. Deze zijn Europees bepaald en door de
+infrastructuurbeheerder uitgewerkt voor Nederland.
+
+Veiligheidscommunicatie is zo belangrijk dat gesprekken tussen de machinist en
+treindienstleider (99% via GSM-R) worden opgenomen. De bewaartermijn van deze
+gespreksopnamen is minimaal zeven dagen.
+
+VVRV cluster
+Veiligheidscommunicatie
+
+                                                                                                                                                                 3/8
+1.3 Wat zegt het Besluit Spoorwegpersoneel (BSP) over
+       veiligheidscommunicatie?
+
+Artikel 5 van het Besluit spoorwegpersoneel stelt dat veiligheidsfunctionarissen moeten
+beschikken over voldoende kennis van het Nederlands om de gebruikelijke
+procescommunicatie te kunnen voeren en begrijpen.
+
+Het niveau dat minimaal nodig is om deze communicatie te kunnen uitvoeren is Europees
+bepaald in de TSI Operations (TSI OPE) en komt overeen met:
+- niveau B1 volgens het Europees referentiekader
+- niveau 2F volgens het Nederlands referentiekader.
+
+De machinist moet de taal duidelijk kunnen spreken; zonder dialect of accent dat de
+verstaanbaarheid negatief beïnvloedt.
+
+1.4 Wat zegt de TSI-OPE over veiligheidscommunicatie?
+
+De eisen voor veiligheidscommunicatie zijn onder andere terug te vinden in de 'Technische
+specificaties voor interoperabiliteit van het subsysteem exploitatie en beheer treinverkeer'
+van het conventionele trans-Europese spoorwegsysteem' (TSI Operations of TSI OPE,
+aanhangsel C), onder meer voor de:
+- berichtenstructuur
+- communicatiemethode
+- inhoud van de berichten.
+
+1.5 Wat zegt de regelgeving van ProRail over veiligheidscommunicatie?
+
+De TSI/OPE beschrijft in aanhangsel C de regels voor veiligheidsgerelateerde communicatie.
+ProRail (de infrastructuurbeheerder) heeft deze regels voor veiligheidscommunicatie
+uitgewerkt en vastgesteld:
+- toepassen van gespreksregels (gespreksdiscipline)
+- berichtenstructuur
+
+                o identificatieplicht
+                o noodberichten
+                o operationele instructies (Europese en nationale instructies)
+- dienstuitdrukkingen
+- NATO-spelalfabet (internationaal fonetisch alfabet) bij spellen van woorden en losse
+     letters
+- getallen cijfer voor cijfer, behalve snelheid, datum en tijd.
+
+Het door de NATO (of NAVO) gehanteerde spelalfabet is ervoor bedoeld om misverstanden
+in de uitspraak van letters of woorden te voorkomen.
+
+VVRV cluster
+Veiligheidscommunicatie
+
+                                                                                                                                                                 4/8
+    Alpha    Echo     India             Mike   Quebec   Uniform                   Yankee
+    Bravo    Foxtrot  Juliet                            Victor                    Zulu
+    Charlie  Golf     Kilo              November Romeo  Whisky
+    Delta    Hotel    Lima                              X-Ray
+                                        Oscar  Sierra
+
+                                        Papa   Tango
+
+Mondelinge communicatie tussen treindienstleider en machinist over de formulieren vindt
+plaats volgens de Regeling communicatieprocedures en het Boek van Europese en
+nationale instructies van ProRail.
+
+1.6 Wat zijn European Instructions?
+
+De machinist kan European Instructions krijgen van de treindienstleider. Dit zijn
+gestandaardiseerde opdrachten die schriftelijk en per spreekverbinding aan de machinist
+gegeven worden. European Instructies hebben altijd te maken met de spoorwegveiligheid
+en moeten worden opgevolgd.
+
+Er zijn 8 European Instructions, voor rijden onder ATB/seinstelsel `54 en ERTMS:
+
+1.  Toestemming een EOA / stoptonend sein te passeren
+
+2.  Toestemming tot doorrijden na TRIP
+
+3.  Verplichting om stil te blijven staan
+
+4.  Intrekking van een Instruction
+
+5.  Verplichting om de snelheid te beperken
+
+6.  Verplichting om te rijden op zicht
+
+7.  Toestemming om te vertrekken
+
+8.  Toestemming om een defecte overweg te passeren.
+
+European Instructions 1, 5, 6 en 8 worden schriftelijk gegeven.
+2 en 7 worden mondeling gegeven.
+3 kan mondeling of schriftelijk worden gegeven.
+4 kan mondeling worden gegeven behalve als het de intrekking van European Instruction 1,
+5, 6 of 8 betreft.
+
+Op het formulier zijn twee generieke velden opgenomen:
+X.90: controleren van de infrastructuur om de volgende redenen .... (van toepassing bij
+European Instructions 1, 2, 5, 6 en 7).
+X.95: aanvullende instructies.... (van toepassing bij alle European Instructions).
+
+VVRV cluster
+Veiligheidscommunicatie
+
+                                                                                                                                                                 5/8
+Het formulier mag voor meerdere soorten European Instructions tegelijkertijd worden gebruikt.
+Dit houdt in dat verschillende European Instructions onder hetzelfde unieke
+identificatienummer kunnen vallen. Een European Instruction is alleen geldig met het
+identificatienummer.
+
+In het geval dat de European Instruction wordt ingetrokken, geeft de treindienstleider een
+nieuw identificatienummer.
+
+Naast European Instructions zijn ook nationale instructies mogelijk. In Nederland is dat de
+nationale instructie Verkeerd Spoor voor verschillende baanvakken.
+
+Europese en nationale instructies heten samen Operational Instructions.
+Operational Instructions kunnen na een incident onderdeel zijn van veiligheidsonderzoek. De
+Operational Instructions dienen daartoe minimaal 12 maanden na afgifte beschikbaar te
+blijven.
+
+1.7 Waarom is er een examenverplichting voor veiligheidscommunicatie?
+
+Het kunnen voeren van veiligheidscommunicatie is voor de persoonlijke veiligheid en
+spoorwegveiligheid van zeer groot belang. De Minister van Infrastructuur & Waterstaat schrijft
+voor de machinist een examen `Veiligheidscommunicatie' voor en ProRail schrijft dit voor
+voor de treindienstleider. De examens worden uitgevoerd door stichting Veiligheid en
+Vakmanschap RailVervoer (VVRV).
+
+Het VVRV-examen `Veiligheidscommunicatie' toetst kennis en toepassing voor machinist en
+treindienstleider.
+
+Het certificaat `Veiligheidscommunicatie' is ook geldig voor andere functies dan die waarop
+het examen is afgestemd. Bij functiewisseling:
+- hoeft de kandidaat daarom niet opnieuw het examen af te leggen
+- moet de werkgever aanvullende instructie geven betreffende afwijkende aspecten van
+
+     de omgeving waarin de medewerker gaat werken.
+
+1.8 Wat is GSM-R?
+
+GSM-R(ail) is gebaseerd op GSM, maar maakt gebruik van andere frequenties en is niet
+zichtbaar voor/bruikbaar door GSM-gebruikers (het is een gesloten netwerk).
+
+GSM-R is een internationale standaard voor mobiele communicatie tussen treinen en
+walposten en tussen treinen onderling. Deze standaard is in het leven geroepen door de UIC
+(Union Internationale des Chemins de Fer/Internationale Spoorwegunie) en wordt up-to-date
+gehouden door de ERA (European Union Agency for Railways).
+
+VVRV cluster
+Veiligheidscommunicatie
+
+                                                                                                                                                                 6/8
+ProRail is de wettelijke beheerder van het Nederlandse GSM-R-netwerk.
+
+De machinist gebruikt GSM-R om te communiceren met de treindienstleider, andere
+machinisten in hetzelfde verantwoordelijkheidsgebied, met collega's van zijn eigen
+spoorwegonderneming die verantwoordelijk zijn voor de bijsturing en met de nationale
+politie.
+
+Het gebruik van GSM-R mag de veilige treinenloop niet in gevaar brengen. Waar veiligheid
+en het gebruik van GSM-R met elkaar in conflict komen, komt veiligheid altijd op de eerste
+plaats. Dit kan betekenen dat de machinist de oproep in sommige situaties niet
+beantwoordt.
+
+Bij calamiteiten kan zowel de machinist als de treindienstleider een alarmoproep uitzenden.
+
+Als de machinist voor zijn trein een alarmoproep via GSM-R ontvangt, gaat hij rijden op zicht,
+tenzij de treindienstleider hem anders opdraagt. De machinist volgt de instructies van de
+treindienstleider op.(Hoe te handelen bij tunnels staat beschreven in de
+calamiteitenplannen.)
+
+Treinen die rijden op zicht blijven dat doen totdat de treindienstleider aangeeft dat de
+alarmoproep is beëindigd.
+
+Op de grens gaat het verantwoordelijkheidsgebied van de treindienstleider van land A naar
+land B. Dit gebeurt op de plek waar het netwerkomschakelbord staat; het kan zijn dat de
+GSM-R-cabineradio handmatig naar het actuele netwerk moet worden overgeschakeld
+(bijvoorbeeld {GSM-R DB}).
+
+1.9 Wat doet de machinist bij defecte GSM-R apparatuur?
+
+Raakt de GSM-R apparatuur defect (in Europese termen: ontstaat er een storing aan het
+radiosysteem voor spraakcommunicatie) tijdens de rit, dan moet deze zo snel mogelijk
+worden vervangen. De machinist informeert de treindienstleider en geeft zijn mobiele
+nummer; vervolgens mag hij doorrijden tot het eindstation/eindpunt of tot het eerstvolgende
+punt waar de GSM-R hersteld of vervangen kan worden.
+
+Als het defect geconstateerd wordt tijdens het vertrrekgereed maken, dan informeert de
+machinist de treindienstleider dat de trein niet vertrekgereed is.
+
+VVRV cluster
+Veiligheidscommunicatie
+
+                                                                                                                                                                 7/8
+1.10 Wat houdt het gebruik van de portofoon in?
+
+Als de portofoon voor veiligheidsberichten gebruikt wordt, gelden de regels voor
+veiligheidscommunicatie.
+Met de portofoon is het technisch mogelijk dat iedereen die op hetzelfde kanaal aanwezig is,
+kan praten. Omdat het mogelijk tot misverstanden leidt wanneer meerdere personen tegelijk
+praten, is afgesproken om:
+- als gebruiker te wachten met het plaatsen van een oproep tot het kanaal vrij is (te zien
+
+     aan een indicatie op de portofoon, bijvoorbeeld het niet meer knipperen van een rood
+     lampje)
+- voor het loslaten van de zendtoets de dienstuitdrukking `over' te gebruiken; de ontvanger
+     weet dan dat er teruggepraat kan worden
+- een portofoongesprek af te sluiten met de dienstuitdrukking `sluiten'.
+
+1.11 Wie bepaalt of en wanneer de eigen mobiele telefoon mag worden
+       gebruikt?
+
+De spoorwegonderneming bepaalt of en wanneer het gebruik van de mobiele telefoon
+tijdens de rit is toegestaan.
+
+VVRV cluster
+Veiligheidscommunicatie
+
+                                                                                                                                                                 8/8
+

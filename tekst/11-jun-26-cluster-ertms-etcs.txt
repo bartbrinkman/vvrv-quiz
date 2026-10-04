@@ -1,0 +1,1622 @@
+VVRV cluster ERTMS/ETCS
+
+                                                                                                                                                             1/39
+ERTMS/ETCS
+
+1.1 Voorwoord                                                             4
+
+1.2 Wat is het verschil tussen ERTMS en ETCS?                             4
+
+1.3 Wat is het verschil tussen ATB en ERTMS?                              4
+
+1.4 Wat zijn Levels?                                                      5
+
+1.5 Wat zijn National Values?                                             6
+
+1.6 Wat zijn SMB's?                                                       6
+
+1.7 Wat is een Overlay baanvak (Dual Signalling)?                         6
+
+1.8 Wat zijn Modes?                                                       6
+
+1.9 Welke transities zijn er binnen ERTMS?                                6
+
+1.10 Wat betekent de DMI-melding `Entering to ...'?                       7
+
+1.11 Wat is een SOM?                                                      7
+
+1.12 Wat is een MA?                                                       8
+
+1.13 Hoe kan een MA worden gewijzigd?                                     9
+
+1.14 Wat is een EOA?                                                      10
+
+1.15 Wat is rolbeveiliging?                                               11
+
+1.16 Wat is remcurvebewak?                                                11
+
+1.17 Wat is Override EOA?                                                 11
+
+1.18 Wat is een LOA?                                                      12
+
+1.19 Wat is doelsnelheid en doelafstand?                                  12
+
+1.20 Wat is Release Speed?                                                12
+
+1.21 Wat is een TAF-request?                                              13
+
+1.22 Wat is ETCS-boordapparatuur?                                         13
+
+1.23 Wat doet de machinist als de ETCS-boordapparatuur defect is?         16
+
+1.24 Wat is ETCS-baanapparatuur?                                          16
+
+1.25 Wat doet de machinist als de ETCS-baanapparatuur defect is?          18
+
+1.26 Hoe werkt de Mode No Power?                                          18
+
+1.27 Hoe werkt de Mode Stand By?                                          18
+
+1.28 Hoe werkt de Mode Shunting?                                          19
+
+1.29 Hoe werkt de Mode Staff Responsible?                                 19
+
+1.30 Hoe werkt de Mode On Sight?                                          20
+
+1.31 Hoe werkt de Mode Full Supervision?                                  21
+
+1.32 Hoe werken de Modes TRIP en Post-TRIP?                               22
+
+1.33 Hoe werkt de Mode System Failure?                                    23
+
+1.34 Hoe werkt de Mode Isolation?                                         23
+
+1.35 Hoe werkt de Mode Reversing?                                         24
+
+1.36 Hoe werkt de Mode Sleeping?                                          24
+
+1.37 Hoe werkt de Mode Non-Leading?                                       24
+
+1.38 Hoe werkt de Mode Unfitted?                                          25
+
+1.39 Hoe werkt de Mode System National?                                   25
+
+1.40 Hoe werkt start en vertrek in Level 1?                               25
+
+1.41 Hoe werkt start en vertrek in Level 2?                               25
+
+1.42 Hoe werkt oprijden tot de eerste blokgrens vanuit de Mode Stand By?  27
+
+1.43 Hoe zet de machinist de trein weg?                                   28
+
+1.44 Hoe werkt rijden met en zonder MA?                                   28
+
+1.45 Hoe werken Leveltransities?                                          29
+
+1.46 Welke Track conditions zijn er?                                      30
+
+1.47 Wat is een Non Stopping Area?                                        31
+
+1.48 Hoe werkt rijden met verlaagde snelheid?                             31
+
+1.49 Hoe werkt Slippery Rail?                                             32
+
+1.50 Hoe werkt herroepen van een rijweg?                                  32
+
+1.51 Hoe werkt rijden van CBG naar NCBG?                                  33
+
+1.52 Hoe werkt rijden van NCBG naar CBG?                                  33
+
+1.53 Hoe werkt rangeren in een NCBG of vrijgave-gebied?                   34
+
+1.54 Hoe werkt rangeren in Shunting in een CBG?                           34
+
+1.55 Hoe werkt het gebruik van de Override EOA met European Instruction 1? 35
+
+VVRV cluster ERTMS/ETCS                                                        2/39
+1.56 Hoe werkt rijden na de Mode Trip met European Instruction 2?  35
+
+1.57 Hoe werkt RBC-verbindingsverlies?                             36
+
+1.58 Wat doet de machinist als een balisefout optreedt?            37
+
+1.59 Wat doet de machinist na ontvangst van een alarmoproep via GSM-R? 38
+
+1.60 Welke symbolen, tekstberichten en waarden zijn er zoal?       39
+
+VVRV cluster ERTMS/ETCS                                                    3/39
+1  ERT MS
+
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan verbreding
+worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun te worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld. Toch
+kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet aansprakelijk
+voor schade als gevolg daarvan.
+
+Waar verwezen wordt naar Operationele Regels ERMS Nederland, wordt bedoeld versie 2.2
+mei 2026.
+
+Versie juni 2026
+
+1.2 Wat is het verschil tussen ERTMS en ETCS?
+
+ERTMS (European Rail Traffic Management System) is een overkoepelende set systemen die
+grensoverschrijdend treinverkeer binnen de Europese Unie mogelijk maakt. Het is met andere
+woorden de Europese standaard voor treinbeïnvloeding en spoorwegseinen met als doel één
+Europees treinbeveiligingssysteem.
+
+ERTMS bestaat uit ETCS (European Train Control System) en ­ bij ERTMS Level 2 ­ GSM-R-data-
+communicatie. ETCS is een onlosmakelijk onderdeel van ERTMS en heeft betrekking op de
+signalering, zowel naast het spoor als in de cabine.
+
+ETCS bestaat uit een gedeelte dat zich in de infrastructuur bevindt (ETCS- baanapparatuur) en
+een gedeelte dat zich in de trein bevindt (ETCS- treinapparatuur). De ETCS- baanapparatuur
+stuurt informatie naar de trein over de maximale afstand en bijbehorende snelheid die de trein
+mag rijden. De ETCS-treinapparatuur toont deze informatie op een
+beeldscherm/cabinedisplay (de DMI/Driver Machine Interface) en bewaakt door middel van
+remcurvebewaking dat de trein deze grenzen niet overschrijdt.
+
+1.3 Wat is het verschil tussen ATB en ERTMS?
+
+Het huidige ATB-systeem gebruikt continue of puntsgewijze info-updates om het
+snelheidsplafond te bewaken. Puntsgewijs wil zeggen: alleen op een aantal vaste plaatsen en
+
+VVRV cluster ERTMS/ETCS  4/39
+een aantal vaste snelheden wordt de snelheid gecontroleerd met mogelijk (bij
+snelheidsoverschrijding) een ingreep als gevolg.
+
+Bij rijden onder ERTMS-Level 2 weet het walsysteem op elk moment hoe hard een trein rijdt en
+wat de afstand is tot een blokgrens of andere treinen. Daardoor kan ERTMS waarschuwen en
+indien nodig ingrijpen wanneer de treinsnelheid te hoog wordt of al is. Bij ERTMS-Level 1 weet
+het walsysteem niet hoe hard de trein rijdt en waar de trein precies is, en dus ook niet wat de
+afstand is tot de blokgrens of tot andere treinen.
+
+De voordelen van ERTMS zijn:
+- ERTMS vervangt de nationale beveiligsystemen (zoals ATB) zodat grensoverschrijdend
+
+     verkeer gemakkelijker wordt
+- ERTMS is interoperabel (baan- en treinsystemen van verschillende leveranciers en landen
+
+     kunnen met elkaar samenwerken)
+- ERTMS maakt hogere snelheden mogelijk.
+
+1.4 Wat zijn Levels?
+
+ERTMS kent vanuit de specificatie (TSI CCS, Subset 026) vijf Levels: Level NTC, Level 0, Level 1,
+Level 2 en Level 3. Levels geven aan op welke wijze de informatie tussen de trein- en
+baanapparatuur wordt uitgewisseld.
+
+Level NTC
+Bij Level NTC (National Train Control) fungeert de STM (Specific Transmission Module) als
+interface tussen het nationale systeem in de infrastructuur (ATB in Nederland) en de ETCS-
+treinapparatuur.
+
+Level 0
+Rijden onder Level 0 mag in Nederland volgens de Regeling Spoorverkeer alleen op de HSL-
+Zuid onder speciale voorwaarden. Daarnaast kan het voorkomen op Zevenaar Oost-Emmerich
+onder speciale voorwaarden en dan vooral in Duitsland. De maximumsnelheid is bepaald in
+een National Value.
+
+Level 1 en lichtseinen
+Informatieoverdracht vindt plaats via balises.
+
+Level 2
+Informatieoverdracht vindt plaats een via constante verbinding tussen GSM-R en Radio Block
+Center (RBC).
+
+VVRV cluster ERTMS/ETCS  5/39
+Level 3
+Dit is gelijk aan Level 2 zonder toepassing van blokken.
+
+1.5 Wat zijn National Values?
+
+In de ERTMS trein- en baan-software zijn voor een groot aantal variabelen nationale waarden
+gedefinieerd. Deze waarden worden automatisch aangepast wanneer de trein een
+landsgrens passeert of op een baanvak gaat rijden waar andere waarden gelden.
+
+De National Values (NV) worden zowel door het RBC als door balises aan de treinapparatuur
+doorgegeven. Zolang de trein deze nog niet heeft ontvangen, gaat de ETCS-treinapparatuur
+uit van de aanwezige standaardwaarden van het betreffende materieel. De machinist moet
+de geldende NV's van een baanvak kennen.
+
+1.6 Wat zijn SMB's?
+
+Blokgrenzen kunnen met Stop Marker Boards (SMB's) zijn aangegeven.
+
+1.7 Wat is een Overlay baanvak (Dual Signalling)?
+
+Rijden op een overlay baanvak (ook wel Dual Signalling genoemd) betekent dat op het
+baanvak twee treinbeïnvloedingsystemen gelijktijdig in werking zijn: ETCS en het seinstelsel met
+ATB. Treinen met en treinen zonder ETCS-apparatuur kunnen op deze baanvakken rijden.
+
+1.8 Wat zijn Modes?
+
+De ETCS-treinapparatuur kent meerdere Modes (bedrijfstoestanden, manieren hoe iets
+gebeurt). Naast de standaardmode voor rijden in Full Supervision (FS) zijn er andere Modes
+voor rijden ­ bijvoorbeeld On Sight (OS), Staff Responsible (SR) ­ en Modes voor opstarten,
+(Stand By SB), rangeren (Shunting SH) en storingen en gevaarlijke situaties (TRIP).
+
+De machinist ziet op de DMI wat de actuele Mode is.
+
+1.9 Welke transities zijn er binnen ERTMS?
+
+Binnen ERTMS krijgt de trein (de EVC) te maken met:
+- Level-transitie doordat de trein een blok betreedt met een ander infra-Level dan het blok
+
+     dat de trein verlaat.
+- Mode-transitie.
+
+VVRV cluster ERTMS/ETCS  6/39
+Wordt er binnen ERTMS gesproken over transities (zonder toevoeging `Level` of `Mode') dan
+worden de Level-transities bedoeld, concreet:
+- transitie van Level NTC naar Level 1 en vice versa met bevestiging van de machinist
+- transitie van Level NTC naar Level 2 en vice versa met bevestiging van de machinist
+- transitie van Level NTC naar een ander Level NTC met bevestiging van de machinist
+- transitie van Level 1 naar Level 0 en vice versa met bevestiging van de machinist
+- transitie van Level 1 naar Level 2 en vice versa zonder bevestiging van de machinist
+- transitie van Level 2 naar Level 0 en vice versa met bevestiging van de machinist.
+
+1.10 Wat betekent de DMI-melding `Entering to ...'?
+
+De DMI toont de melding 'Entering to Full Supervision' of 'Entering to On Sight':
+- op het moment dat de trein de grens passeert van Level NTC naar Level 1 of Level 2 of
+- bij een Mode-transitie van SR naar OS/FS.
+
+De melding wordt getoond totdat de achterzijde van de trein het Level NTC-gebied verlaten
+heeft. De EVC gebruikt hiervoor de treinlengte die bij de Start of Mission (SOM) is ingevoerd.
+De melding wordt alleen gegeven als de EVC geen informatie over de eerder bereden infra
+heeft. Dit is afhankelijk van aanwezige infra-elementen voorafgaand aan het transitiegebied.
+
+ETCS staat toe dat de getoonde Movement Authority direct wordt opgevolgd, maar zolang de
+melding 'Entering to ...' op de DMI staat, houdt de machinist rekening met de beperking(en)
+van het gebied dat de trein bezig is te verlaten. De beperking kan bijvoorbeeld een
+snelheidsbeperking zijn of een European Instruction.
+
+1.11 Wat is een SOM?
+
+Om met een ETCS-trein te kunnen gaan rijden, voert de machinist na het in dienst nemen van
+een cabine (Mode Stand By) eerst een Start of Mission (SOM) uit, tenzij:
+- hij de trein slechts enkele meters wil verplaatsen (splitsen en combineren kan in de Mode
+
+     SB)
+- hij de trein rangeert in de Mode Shunting.
+
+Zonder SOM maakt de ETCS-boordapparatuur geen Mode-transitie naar de Modes On Sight
+(OS), Staff Responsible (SR) of Full Supervision (FS). Vertrekken is in Nederland alleen mogelijk in
+de Mode OS of de Mode SR.
+
+Tijdens de SOM moet de machinist de ETCS van de benodigde gegevens voorzien via de DMI.
+De volgende gegevens kunnen worden gevraagd:
+- identificatienummer van de machinist (Driver ID)
+- Levelkeuze (Level)*
+
+VVRV cluster ERTMS/ETCS  7/39
+- treinnummer (Train Running Number)
+- treinlengte (Length)
+- maximumsnelheid (Max Speed**)
+- rempercentage (Brake Percentage***)
+- treincategorie (Train Category)
+- inbelnummer RBC (alleen Level 2 en alleen bij uitzondering omdat de invoer meestal
+
+     automatisch verloopt via een balise en/of MA).
+
+*) Kan het juiste Level niet worden gekozen, dan moet de machinist de On-board zodanig
+resetten dat de treinpositie onbekend wordt en er een Level kan worden gekozen.
+
+**) Voert de machinist op een treinstel (geldt niet voor locs) een hogere snelheid in dan de
+maximale materieelsnelheid, dan beperkt de EVC de snelheid tot de maximaal toegelaten
+materieelsnelheid. Geldt er vanwege een treinbeperking een lagere snelheid dan bewaakt de
+EVC deze alleen wanneer zij juist door de machinist is ingevoerd.
+
+***) Op basis van het rempercentage berekent de EVC een remcurve naar een bepaalde
+lagere doelsnelheid: hoe hoger het rempercentage des te korter en steiler zal de remcurve
+zijn. In plaats van het rempercentage kan bij treinstellen ingevoerd/bevestigd worden hoeveel
+afgesloten remmen of aantal rijtuigen er zijn. Zodra er remmen afgesloten worden moet bij
+sommige treinstellen een variabele SOM met rempercentage worden uitgevoerd.
+
+Invoer van een te hoog rempercentage brengt direct een veiligheidsrisico met zich mee: risico
+EOA-passage.
+
+De machinist is verantwoordelijk voor het invoeren van de juiste gegevens. Het onjuist of
+onvolledig invoeren, levert mogelijk een veiligheidsrisico op.
+
+Bij het overnemen van een trein met een reeds uitgevoerde SOM, is de nieuwe machinist
+verantwoordelijk voor de juistheid van de ingevoerde gegevens. Het is aan de vervoerder om
+te bepalen hoe hiermee om te gaan.
+
+Controle van de ingevoerde gegevens is mogelijk met de `Data View-knop' op de DMI.
+
+1.12 Wat is een MA?
+
+Een cruciaal aspect bij cabinesignalering is een Movement Authority. Een MA is een volledig
+technisch beveiligde rijautorisatie voor de trein, dat wil zeggen: toestemming voor een
+beweging naar een specifieke locatie (End of Authority/EOA) terwijl de EVC (European Vital
+Computer) de snelheid bewaakt. In de Mode OS moet de machinist rekening houden met een
+spoorbezetting.
+
+Een MA wordt weergegeven op de DMI.
+
+VVRV cluster ERTMS/ETCS  8/39
+Het ERTMS-walsysteem verstrekt MA's aan treinen op basis van de door de trein gemelde
+positie. Treinen melden hun actuele positie als afstand ten opzichte van een gepasseerde
+referentiebalisegroep. Het kan voorkomen dat een trein bij de Start of Mission nog niet over
+deze informatie beschikt, bijvoorbeeld doordat het ETCS- systeem uit is geweest. Zolang de
+treinpositie onbekend is, geeft het walsysteem geen MA af.
+
+Een MA bevat altijd:
+- de afstand waarover gereden mag worden (de doelafstand)
+- de toegestane maximumsnelheid binnen de MA (de huidige toegelaten snelheid oftewel
+
+     de permitted speed)
+- de snelheid op een verderop gelegen doel (doelsnelheid)
+- het hellingpromillage.
+
+Binnen een MA kan er sprake zijn van meerdere doelafstanden en doelsnelheden.
+
+Om met een MA te kunnen rijden, moet:
+- er een veilig treinpad vastgelegd zijn via de interlocking; in Nederland is dat een
+
+     rijweginstelling door de treindienstleider
+- er gereden worden in Mode OS of de Mode FS.
+
+Rijden zonder MA is: rijden met een procedureel beveiligde rijweg. Dit is bijvoorbeeld van
+toepassing bij de Mode Staff Responsible en de Mode Shunting.
+
+1.13 Hoe kan een MA worden gewijzigd?
+
+Een Movement Authority kan op verschillende manieren worden gewijzigd:
+- Door het intrekken van een rijweg wordt de MA ingekort tot de nieuwe EOA.
+- Bij een normale vervolgrijweg in de Mode FS wordt de aanwezige MA verlengd.
+- Het is gebruikelijk dat de overgang van Mode FS naar Mode OS als EOA wordt bewaakt.
+- Bij een normale vervolgrijweg na Rijden op Zicht gaat de OS MA over in een FS MA.
+
+VVRV cluster ERTMS/ETCS  9/39
+Herroepen van een rijweg onder Level 1
+Als de rijweg op een Level 1-baanvak wordt herroepen, laat de DMI dit pas zien wanneer er
+een balise wordt gepasseerd die een update van de MA kan geven.
+
+Deze situatie treedt met name op bij calamiteiten in Level 1-bedrijf.
+
+Herroepen van een rijweg onder Level 2
+Als de rijweg op een Level 2-baanvak wordt herroepen, zal het RBC de gewijzigde MA direct
+versturen.
+
+1.14 Wat is een EOA?
+
+Een End of Authority (EOA) is het einde van de Movement Authority. Kenmerk van een EOA is
+dat de doelsnelheid van de MA gelijk is aan 0 km/u.
+
+Een EOA ligt meestal bij de blokgrens, dus voor een stoptonend hoofdsein of een SMB met
+gedoofde oprijdlamp of een SMB. Bij herroepen/intrekken van de rijweg wordt de rijweg
+ingetrokken tot de vorige blokgrens. Een MA kan `halverwege' een blok eindigen als niet meer
+aan de rijwegvoorwaarden is voldaan. Denk hierbij met name aan het ontstaan van een
+bezetting in de rijweg of aan het uit controle raken van een wissel.
+
+Aan het einde van de MA kan de DMI een Release Speed tonen om het sein te kunnen
+naderen en het seinnummer te kunnen aflezen. Een EOA kan met Release Speed genaderd
+worden. De machinist blijft in een dergelijke situatie verantwoordelijk voor het tot stilstand
+brengen van de trein voor de desbetreffende EOA.
+
+In Level 1 is Release Speed nodig om een nieuwe MA op te halen uit de balise bij de blokgrens.
+
+In Level 2 kan bij rijden met een MA in de Mode OS of FS verder gereden worden, nadat:
+- de treindienstleider de rijweg heeft verlengd
+- de EVC de verlengde MA van het RBC heeft ontvangen
+- dit kenbaar is gemaakt op de DMI.
+
+Is er een rijweg ingesteld achter de blokgrens, dan kan er bij het naderen van een EOA met
+Release Speed, een nieuwe MA*) worden verkregen vanuit:
+- een balise (Level 1)
+- de RBC (Level 2).
+
+*) Afhankelijk van de ingestelde rijweg is dit een MA in de Mode OS of de Mode FS.
+
+VVRV cluster ERTMS/ETCS  10/39
+1.15 Wat is rolbeveiliging?
+
+Een ETCS-trein die niet in een rijmode staat wordt bewaakt tegen wegrollen.
+
+Voert de treinapparatuur een remingreep vanwege wegrollen, dan moet de machinist deze
+bevestigen.
+
+In een National Value is bepaald na hoeveel meter de rolbeveiliging in werking treedt.
+
+1.16 Wat is remcurvebewaking?
+
+De EVC berekent de remcurve op basis van:
+- gegevens die de machinist bij de SOM heeft ingevoerd en/of gecontroleerd:
+
+      maximale snelheid
+      treincategorie
+      hellingspercentage
+      rempercentage en
+- de ontvangen MA waarin wordt opgegeven op welk punt er een lagere snelheid bereikt
+     moet zijn.
+
+Als het doel wordt genaderd, zal de toegestane snelheid steeds lager worden. Op deze wijze
+ontstaat er een remcurve die gevolgd moet worden.
+
+Op basis van de remcurve wordt bewaakt of de machinist tijdig en voldoende remt. Zo nodig
+remt de treinapparatuur automatisch tot de dan nog toegestane snelheid. Dit kan een Service
+Brake zijn (snelheid wordt verlaagd, maar niet tot 0 km/u) of een Emergency Brake (snelheid
+wordt teruggebracht tot 0 km/u).
+
+Is de trein de EOA nog niet gepasseerd, dan wordt hij tot stilstand gebracht met een normale
+remming of noodremming, afhankelijk van de snelheid van de trein en de afstand tot de EOA
+(de doelafstand).
+
+Het passeren van de EOA resulteert in een onmiddellijke noodremming: een TRIP.
+
+1.17 Wat is Override EOA?
+
+Override EOA (ook wel `procedure Override-EOA' genoemd) is een functie die het mogelijk
+maakt een End of Authority te passeren zonder remingreep.
+
+Een machinist mag een EOA voorbijrijden zonder MA als hij:
+- European Instruction 1 van de treindienstleider heeft ontvangen
+- de procedure Override EOA toepast (door middel van een toets).
+
+VVRV cluster ERTMS/ETCS  11/39
+Na het toepassen van de procedure Override EOA komt de trein direct in de Mode Staff
+Responsible.
+
+Bij Override EOA zijn de volgende waarden volgens National Values bepaald:
+- de maximale tijdsduur dat Override EOA actief is
+- de maximaal af te leggen afstand binnen Override EOA
+- de maximumsnelheid tijdens Override EOA.
+
+Lukt het niet om binnen bovenstaande waarden de balisegroep vóór het SMB te passeren,
+dan is het noodzakelijk om vanuit stilstand opnieuw de Override-procedure uit te voeren.
+
+Zolang Override EOA actief is, is de treinbeveiliging inactief. Hierdoor volgt er geen TRIP bij:
+- EOA-passage
+- voorbijrijden van een balise met de opdracht 'Stop if in SR' of de opdracht 'Danger for SH'.
+
+1.18 Wat is een LOA?
+
+Een Limit of Authority (LOA) is het einde van een Movement Authority met een snelheid hoger
+dan 0 km/u.
+
+LOA kan worden toegepast bij transities naar een Level NTC of naar de mode Shunting.
+
+Bij de Mode- en Level-transitie is de doelsnelheid van de LOA gelijk aan de snelheid waarmee
+in de Mode SH of het Level NTC-gebied op dat moment gereden mag worden.
+
+Er volgt een TRIP wanneer op de transitie-locatie de transitie naar de Mode SH of het Level NTC
+niet plaatsvindt. Zodoende wordt voorkomen dat de trein zonder treinbeveiliging verder rijdt.
+
+1.19 Wat is doelsnelheid en doelafstand?
+
+Een doelsnelheid (Target Speed) is een lagere snelheid dan de toegelaten snelheid (Permitted
+Speed).
+
+De DMI toont:
+- de doelsnelheid indien er een lagere snelheid is dan de huidige toegelaten snelheid
+- de locatie waar de doelsnelheid bereikt moet zijn (de doelafstand).
+
+1.20 Wat is Release Speed?
+
+De Release Speed is de maximumsnelheid om een End of Authority te naderen zonder dat de
+remcurve door de EVC bewaakt wordt. De snelheid waarbij de remcurve niet langer bewaakt
+wordt nabij de EOA is in een National Value bepaald.
+
+VVRV cluster ERTMS/ETCS  12/39
+Release Speed wordt toegepast om:
+- in minder tijd een blokgrens te naderen zodat het seinnummer gelezen kan worden (de
+
+     EOA mag niet worden gepasseerd)
+- `een EOA gelegen bij een blokgrens die voorbijrijden toestaat' voorbij te rijden met als doel
+
+     een nieuwe Movement Authority op te halen.
+
+Indien de cabineseingeving een Release Speed voorschrijft, wordt deze linksonder de
+snelheidsmeter (op de DMI) getoond. Hoe minder doorschietruimte er achter de blokgrens is
+tot aan het gevaarpunt (Danger Point/DP), des te lager zal de aangeboden Release Speed
+zijn.
+
+1.21 Wat is een TAF-request?
+
+In Level 2 in de Mode Staff Responsible of de Mode On Sight, kan het RBC een TAF (Track
+Ahead Free)-request naar de EVC sturen wanneer:
+- de treinpositie en rijrichting bekend zijn
+- er een SMB of hoofdsein genaderd wordt waarachter een rijweg is ingesteld
+- er een Full Supervision Movement Authority (FS MA) of een On Sight Movement Authority
+
+     (OS MA) beschikbaar is vanaf dit SMB.
+
+Ziet de machinist dat het spoor vrij is tot het eerstvolgende SMB, dan kan hij de TAF request
+bevestigen. Na deze bevestiging volgt een MA in de Mode Full Supervision of On sight. Zolang
+gereden wordt in de Mode SR is de machinist zelf verantwoordelijk voor het kunnen stoppen
+voor de blokgrens.
+
+1.22 Wat is ETCS-boordapparatuur?
+
+ETCS-boordapparatuur is:
+- EVC: European Vital Computer
+- DMI: Driver Machine Interface
+- TIU: Train Interface Unit
+- BTM: Balise Transmission Module
+- Compacte Antenne Unit (CAU)
+- Odometer
+- JRU: Juridical Recording Unit
+- GSM-R radio.
+
+VVRV cluster ERTMS/ETCS  13/39
+EVC
+De European Vital Computer (EVC):
+- is het brein van de ETCS-boordapparatuur en daarmee van de treinbeïnvloeding en
+
+     treinbeveiliging
+- kan interacteren via de TIU met een aantal treinfuncties.
+
+Voor de EVC wordt ook wel de afkorting OBU (On Board Unit) gebruikt.
+
+DMI
+De DMI is de interface tussen de machinist en ETCS (de EVC). Op verschillende `velden' op het
+DMI-scherm ziet de machinist, afhankelijk van de actuele situatie:
+- de snelheidsmeter/-bewaking
+- de remcurve
+- symbolen (iconen)
+- tekstberichten
+- invulvelden (data-entry)
+- touchscreen-knoppen of sofkeys in de rand van de DMI.
+
+Afhankelijk van de actuele Mode geeft/toont de DMI:
+- de machinist de mogelijkheid om data in te voeren
+- informatie over het Level waaronder gereden wordt en de actuele Mode
+- de actuele snelheid
+- snelheidsbewaking die is opgelegd door de baanapparatuur (supervisie met remcurve,
+
+     doelsnelheid en doelafstand)
+- actuele informatie over de infra en informatie om te kunnen anticiperen op de route (Track
+
+     Description inclusief Track Conditions*).
+
+*) De DMI toont de Track Conditions (bijvoorbeeld spanningsluis/Voltage Change Over, Radio
+Hole, Non Stopping Area, stroomafnemer neer, stroomafnemer neerlaten, stroomafnemer op)
+in de vorm van symbolen. Het kan hierbij gaan om opdrachten/orders (actie vereist) of
+aankondigingen (geen actie vereist).
+
+TIU
+De TIU is de interface tussen de EVC en de treinbesturing.
+
+BTM
+De BTM zorgt voor de data-overdracht van de Eurobalise naar de EVC (ontvangen en
+decoderen van de balise-telegrammen (opdrachten).
+
+VVRV cluster ERTMS/ETCS  14/39
+De CAU onderaan de trein:
+- ontvangt de telegrammen van de Eurobalise en stuurt deze naar de BTM
+- voorziet de Eurobalises van stroom.
+
+Odometer
+De odometer geeft de EVC informatie over de treinsnelheid en afgelegde afstand
+(doelafstand bij een MA); hiermee is ook de treinpositie bekend. Omdat deze informatie
+cruciaal is, is de meting dubbel uitgevoerd:
+- Doppler radar onderaan de trein
+- tachometer op een wielas.
+
+De odometer bepaalt de afstand tot de laatst gepasseerde balisegroep. Afstand en snelheid
+geven door wielslijtage (kleiner wordende omtrek) op een gegeven moment een vertekend
+beeld; de odometer corrigeert het verschil tussen de werkelijke en de gesignaleerde afstand.
+
+Voor een veilige werking van ETCS moet de positiebepaling gecontroleerd en gecorrigeerd
+worden. Odometer-ijking vindt plaats bij elke passage van een gelinkte balise (de odometer
+begint de afstand weer vanaf 0 meter te meten).
+
+Voor een trein die niet beschikt over een `Cold Movement Detector' (CMD) is de treinpositie
+na het inschakelen van de EVC (Mode NP of IS) altijd onbekend. Een EVC met een Cold
+Movement Detector ziet de laatst opgeslagen treinpositie opnieuw als geldig, op voorwaarde
+dat het On Board systeem EVC kan vaststellen dat de trein niet is bewogen gedurende de tijd
+dat de stroomvoorziening was afgeschakeld.
+
+JRU
+The Juridical Recorder Unit is vergelijkbaar met de black box in een vliegtuig. De JRU slaat
+continu data op die het verloop van de ERTMS-rit definiëren:
+- alle informatie die tussen trein en walsysteem (balises en RBC) wordt uitgewisseld
+- alle handelingen die de machinist via de DMI uitvoert.
+
+Later kunnen deze data voor analyse worden gebruikt.
+
+GSM-R radio
+De GSM-R radio zorgt voor de data-overdracht tussen de EVC en het Radio Block Centre
+(Level 2).
+
+VVRV cluster ERTMS/ETCS  15/39
+1.23 Wat doet de machinist als de ETCS-boordapparatuur defect is?
+
+Bij een defect aan de ETCS-boordapparatuur schakelt de EVC over in de Mode System Failure
+(SF). De trein komt met een Emergency Brake tot stilstand.
+
+In de meeste gevallen is de Mode SF alleen op te heffen door een reset uit te voeren van de
+ETCS-boordapparatuur. Als uit de zelftest (na het weer inschakelen) blijkt dat de storing is
+opgeheven, kan de machinist de trein opnieuw gereed maken voor vertrek (Start of Mission)
+en na toestemming van de treindienstleider verder rijden.
+
+In de Mode SF kan de trein niet vertrekken.
+
+Tijdens stilstand en nadat de ETCS-reset niet tot het gewenste resultaat geleid heeft, schakelt
+de machinist over op de Mode Isolation (IS).
+
+In de Mode IS rijdt de machinist zonder ETCS verder*):
+- Bij baanvakken waar gereden kan worden met cabinesignalering, volgt de machinist de
+
+     regelgeving die geldt voor rijden in de Mode SR.
+- Bij baanvakken met hoofdseinen mogen de snelheden van de seinen worden opgevolgd.
+
+     Indien mogelijk kan er dan met ATB worden gereden.
+
+*) Of rijden in de Mode IS ook daadwerkelijk toegestaan is, hangt af van de specifieke
+regelgeving voor het betreffende baanvak.
+
+1.24 Wat is ETCS-baanapparatuur?
+
+ETCS-baanapparatuur is:
+- Eurobalise (meestal wordt de kortere term `balise' gebruikt)
+- LEU: Lineside Electronic Unit (Level 1 of op een baanvak met een terugvallevel,
+
+     bijvoorbeeld de HSL, waar naar Level 1 geschakeld kan worden bij RBC-uitval in Level 2)
+- RBC: Radio Block Centre (alleen Level 2)
+- Interlocking.
+
+Eurobalise
+Een Eurobalise is te zien als bouwsteen tussen beide spoorstaven die bij ETCS wordt gebruikt om
+informatie te versturen vanuit het walsysteem naar de trein. Een Eurobalise bevat informatie
+(telegrammen) voor de EVC.
+
+Op het moment dat de CAU de balise van energie voorzien, levert de balise een telegram af
+aan de Balise Transmission Module (BTM).
+
+VVRV cluster ERTMS/ETCS  16/39
+Een infillbalise is een balise in Level 1 die toegepast wordt om alvast het seinbeeld (MA) door te
+geven van een volgende balise. Deze `vooraf-informatie' waarborgt:
+- de veiligheid wanneer achter een veilig hoofdsein of een SMB met oprijdlamp de
+
+     Movement Authority wordt ingetrokken
+- een vlotte doorstroming bij seinbeeldverbetering doordat deze verbetering eerder
+
+     zichtbaar wordt.
+
+Balises worden meestal geplaatst in groepen. Een single balise groep is een balise zonder
+andere balises in zijn directe buurt. Een single balise groep is:
+- gelinkt aan een balisegroep, of
+- enkel bestemd als `locatiebepaling'.
+
+Doordat balises genummerd zijn kan de EVC herleiden in welke richting de trein rijdt.
+
+LEU
+De Lineside Electronic Unit (LEU) voorziet de balise van de benodigde informatie afhankelijk
+van de ingestelde rijweginformatie van de interlocking.
+
+RBC
+De belangrijkste functie van het Radio Block Center (een computersysteem) is het genereren
+(berekenen) en versturen van Movement Authorities naar de trein (de EVC). RBC's worden
+toegepast bij Level 2.
+
+De dataverbinding tussen de EVC en een RBC verloopt via het GSM-R datakanaal.
+
+Om een MA te genereren krijgt de RBC waar de ETCS-trein mee in verbinding staat, informatie
+van de EVC (treinpositie en rijrichting, snelheid, actuele Mode, enzovoort) en van interlocking
+(signalling; route-informatie, enzovoort).
+
+Een treinroute wordt gedekt door één of meerdere RBC-supervisiegebieden. RBC-RBC
+handover wordt als term gebruikt voor de overdracht van het ene RBC naar het volgende. In
+de trein kunnen meerdere GSM-R data-modems aanwezig zijn, zodat tegelijkertijd ingebeld
+kan worden op twee aangrenzende RBC's (dit vergemakkelijkt de RBC-RBC handover).
+
+De DMI toont ­ in de vorm van EIRENE-symbolen (European Integrated Radio Enhanced
+Network) ­ informatie over de RBC-verbinding, bijvoorbeeld:
+- verbinding met RBC verbroken
+- verbinding met RBC.
+
+VVRV cluster ERTMS/ETCS  17/39
+Interlocking
+Interlocking is een regelsysteem voor de beveiliging en heeft tot doel een veilige
+rijweginstelling. Het is een veiligheidslaag die:
+- rijwegen beschikbaar stelt voor treinen, en
+- ervoor zorgt dat er in een toegewezen rijweg geen andere treinen kunnen komen.
+
+Interlocking heeft op een ERTMS-baanvak specifieke ERTMS-kenmerken.
+
+1.25 Wat doet de machinist als de ETCS-baanapparatuur defect is?
+
+De European Vital Computer krijgt informatie over storingen in een balise en/of een LEU. De
+EVC toont de storing op de DMI.
+
+Balise Read Error
+De machinist meldt de Balise Read Error (balise fout) altijd aan de treindienstleider.
+
+RBC-contactverlies
+De machinist informeert de treindienstleider:
+- Als de trein tot stilstand is gekomen na een verbroken RBC-verbinding .
+- Als herstel van de verbinding met het RBC lukt.
+- Als opnieuw verbinding maken met het RBC niet lukt.
+
+Als na een reset RBC-gegevens zijn verdwenen, ontvangt de machinist deze zo mogelijk van
+de treindienstleider (Radio network-ID, RBC-ID, RBC-telefoonnummer).
+
+1.26 Hoe werkt de Mode No Power?
+
+Zie hoofdstuk 1.1 Operationele Regels ERTMS Nederland
+De ETCS boord apparatuur staat in de mode NP wanneer deze niet van stroom wordt voorzien.
+
+1.27 Hoe werkt de Mode Stand By?
+
+Zie hoofdstuk 1.2 Operationele Regels ERTMS Nederland
+
+VVRV cluster ERTMS/ETCS  18/39
+De mode Stand-By kan niet worden gekozen door de machinist, de mode wordt actief
+wanneer de boordapparatuur is opgestart, of als er een End Of Mission wordt
+uitgevoerd.
+
+In de mode Stand-By controleert de boordapparatuur of de trein stil blijft staan, bij een
+beweging die groter is dan de maximale afstand opgelegd door een National Value
+(NV), zal er een remingreep volgen.
+Deze afstand mag gebruikt worden om de trein over een korte afstand te verplaatsen
+voor het koppelen of ontkoppelen.
+
+De machinist activeert de cabine en controleert of het Stand-By symbool getoond wordt.
+De SOM komt beschikbaar als er geen communicatie sessie nodig is (Level 1/ Level
+NTC), of als er een verbinding gemaakt is met het RBC (Level 2).
+
+1.28 Hoe werkt de Mode Shunting?
+
+Zie hoofdstuk 1.3 Operationele Regels ERTMS Nederland
+
+Het doel van de mode Shunting is om rangeerbewegingen mogelijk te maken onder
+de verantwoordelijkheid van de machinist.
+Deze mode kan worden gekozen door de machinist of worden opgelegd vanuit de
+infrastructuur.
+De door een National Value bepaalde snelheidslimiet voor de mode Shunting mag niet
+overschreden worden.
+`
+De machinist is verantwoordelijk voor:
+- het veilig uitvoeren van trein- en rangeerbewegingen in de Shunting Area.
+- het niet overschrijden van de grenzen van de Shunting Area.
+
+1.29 Hoe werkt de Mode Staff Responsible?
+
+Zie hoofdstuk 1.4 Operationele Regels ERTMS Nederland
+
+De mode Staff Responsible wordt gebruikt als de trein moet rijden en dit niet mogelijk is
+met een MA. Wanneer de mode Staff Responsible wordt aangeboden op de DMI,
+
+mag de machinist deze bevestigen  als de treindienstleider een toestemming heeft
+gegeven om te rijden.
+
+Om te mogen rijden in de mode Staff Responsible, heeft de machinist altijd
+toestemming nodig van de treindienstleider.
+
+VVRV cluster ERTMS/ETCS                                                                    19/39
+Toestemmingen zijn:
+- European Instruction 1, bij gebruik van "Override EOA"
+- European Instruction 2, na "TRIP"
+- European Instruction 7, voor het starten in Staff Responsible
+- in Level 1 het uit de stand stop zijn van een voor de trein geldend hoofdsein
+- in Level 1 het branden van de witte oprijdlamp van het voor de trein geldend SMB.
+
+De machinist rijdt op zicht, controleert of het spoorgedeelte vrij is, de wissels in de juiste
+stand liggen en de infra elementen veilig te berijden zijn, tenzij de plaatselijke
+regelgeving anders bepaalt.
+
+De machinist voert de opdrachten uit die gegeven worden door vaste seinen.
+De ETCS-treinapparatuur controleert de snelheid en afstand, zodat er niet sneller en/of
+verder kan worden gereden dan in Staff Responsible is toegestaan.
+De maximale snelheid en afstand voor het rijden in de mode Staff Responsible zijn
+vastgelegd in een National Value.
+
+In de mode Staff Responsible stopt de machinist de trein voor:
+- ieder SMB zonder witte lamp
+- ieder SMB met gedoofde witte lamp
+- ieder stoptonend hoofdsein
+- ieder gedoofd hoofdsein zonder P
+- iedere stopopdracht die door een sein (bord) wordt gegeven
+- ieder spoorvoertuig dat verder rijden verhindert.
+
+LET OP: Op baanvakken waar wordt gereden met Level 2 en seinstelsel NS'54 met ATB
+(overlay baanvak/dual signalling en Rail Aansluit Seinen) stopt de machinist voor ieder
+hoofdsein, ongeacht het seinbeeld.
+
+Rijdt de machinist in Staff Responsible met een European Instruction 1 of in een NCBG,
+dan stopt de machinist ook voor:
+- iedere belemmering die verder rijden verhindert
+- ieder niet veilig te berijden Infra onderdeel.
+
+Het wijzigen van de Staff Responsible snelheid en afstand is in Nederland niet toegestaan.
+
+1.30 Hoe werkt de Mode On Sight?
+
+Zie hoofdstuk 1.5 Operationele Regels ERTMS Nederland
+
+Met de mode On Sight kan de trein in een gebied rijden dat mogelijk bezet is door een
+andere trein. De mode On Sight wordt opgelegd door de infrastructuur als er een
+rijweg is ingesteld en de positie van de trein binnen het ETCS systeem bekend is.
+
+VVRV cluster ERTMS/ETCS  20/39
+De mode On Sight kan niet door de machinist worden gekozen.
+
+De maximale snelheid van de trein, de opdrachten naar de trein (track conditions) en
+het einde van de rijweg worden bewaakt door de boordapparatuur.
+
+Het stoppen van de trein voor een spoorbezetting moet door de machinist gedaan
+worden, er is hier geen bewaking op vanuit de boordapparatuur.
+
+Wanneer een rijweg wordt ingesteld in de mode On Sight die niet in de dienstregeling
+opgenomen is, wordt de machinist door de treindienstleider hierover van te voren
+ingelicht.
+
+Als een baangedeelte wordt genaderd waar een rijweg in de mode On Sight is ingesteld dan:
+- wordt bij het rijden in de mode Full Supervision een EOA getoond op de DMI
+- kan bij een snelheid lager dan 40km/h de overgang naar On Sight komen
+- is de overgang naar On Sight uiterlijk bij het passeren van de blokgrens
+- moet de machinist de modetransitie altijd bevestigen .
+
+Tussen het bevestigen van de mode On Sight en de omschakeling naar de mode On Sight kan
+enige vertraging zitten.
+
+Bij het rijden in de mode On Sight moet de machinist kunnen stoppen voor elke logische
+spoorbezetting.
+Als er aanvullende beperkingen gelden waarmee de machinist rekening moet houden, krijgt hij
+van de treindienstleider een European Instruction 5.
+
+De maximale snelheid wordt getoond op de DMI als deze door de machinist is opgeroepen.
+Als de tekst "Entering On Sight" wordt getoond op de DMI, moet de machinist zich
+houden aan de opdrachten en snelheden die gelden voor het gebied dat verlaten
+wordt, dit geldt zolang de tekst zichtbaar is.
+
+De opdrachten uit de infra (trackconditions) die zichtbaar worden op de DMI, moeten
+worden opgevolgd.
+De kleur van het symbool bepaalt of dit door de trein automatisch wordt gedaan of
+dat er een handeling van de machinist noodzakelijk is (bedieningsvoorschrift van het
+materieel).
+
+1.31 Hoe werkt de Mode Full Supervision?
+
+Zie hoofdstuk 1.6 Operationele Regels ERTMS Nederland
+
+VVRV cluster ERTMS/ETCS  21/39
+De mode Full Supervision is de mode waarmee een volledige supervisie van de trein
+wordt bereikt. De ETCS-treinapparatuur is volledig verantwoordelijk voor de
+treinbeveiliging in deze mode.
+
+De mode Full Supervision kan niet door de machinist worden gekozen, maar wordt opgelegd
+door de infrastructuur.
+
+In de mode Full Supervision mag de machinist de toegestane snelheid niet overschrijden.
+De machinist is verantwoordelijk voor het stoppen voor een EOA als deze wordt
+benaderd met releasespeed.
+
+Als de tekst "Entering Full Supervision" wordt getoond, moet de machinist zich houden
+aan de opdrachten en snelheden die gelden voor het gebied dat verlaten wordt, dit
+geldt zolang de tekst zichtbaar is.
+
+De opdrachten uit de infra (trackconditions) die zichtbaar worden op de DMI, moeten
+worden opgevolgd.
+De kleur van het symbool bepaalt of dit door de trein automatisch wordt gedaan of
+dat er een handeling van de machinist noodzakelijk is (bedieningsvoorschrift).
+
+1.32 Hoe werken de Modes TRIP en Post-TRIP?
+
+Zie hoofdstuk 1.7 Operationele Regels ERTMS Nederland
+
+De mode TRIP wordt geactiveerd wanneer bij een gebeurtenis de treinapparatuur een
+noodremopdracht geeft.
+
+De overgang naar de mode TRIP kan gebeuren vanuit de modi Full Supervision, On
+Sight, Staff Responsible, Stand By, Shunting, Unfitted of Systeem National .
+
+De machinist wordt geïnformeerd door een tekst regel op de DMI over de reden van
+de mode TRIP. Wanneer het TRIP-symbool wordt weergegeven, moet de machinist er
+van uit gaan dat er een gevaarlijke situatie is en alle acties uitvoeren die nodig zijn om
+het effect van deze situatie te vermijden of te verminderen.
+
+Als de trein stilstaat moet de mode TRIP worden bevestigt door de machinist.
+
+Wanneer de boordapparatuur in de mode Post Trip staat, worden de snelremkleppen gesloten.
+
+De machinist heeft de mogelijkheid om in de mode Post Trip de trein een vastgestelde
+afstand achteruit te verplaatsen (NV). Dit mag gedaan worden na toestemming van
+de treindienstleider.
+
+VVRV cluster ERTMS/ETCS  22/39
+Bij een directe gevaarzetting mag de machinist zonder toestemming van de
+treindienstleider de trein direct achteruit verplaatsen in de Mode Post Trip.
+De machinist is verantwoordelijk voor het achteruit verplaatsen.
+
+Op het moment dat de vastgestelde afstand overschreden wordt, volgt een
+remingreep. De reden van de remingreep wordt getoond aan de
+machinist.
+
+1.33 Hoe werkt de Mode System Failure?
+
+Zie hoofdstuk 1.8 Operationele Regels ERTMS Nederland
+
+De mode System Failure wordt geactiveerd in geval van een storing die de werking van
+het boordsysteem beïnvloedt en de veiligheid niet meer gegarandeerd is.
+De machinist informeert de treindienstleider.
+
+In de mode System Failure zijn de remmen geactiveerd.
+Bij deze storing volgt de machinist de materieel beschrijving op om verder te kunnen rijden.
+
+1.34 Hoe werkt de Mode Isolation?
+
+Zie hoofdstuk 1.9 Operationele Regels ERTMS Nederland
+
+De mode Isolation wordt gebruikt om de ETCS-functie los te koppelen van de
+boordapparatuur. De machinist is verantwoordelijk voor het inschakelen van de
+mode Isolation.
+De machinist kan de mode Isolation altijd activeren.
+De manier waarop de mode Isolation kan worden ingeschakeld is afhankelijk van het
+materieel type. Om de mode Isolation te gebruiken moet er toestemming zijn van de
+vervoerder.
+
+In de mode Isolation moet de machinist toestemming hebben van de treindienstleider
+om te gaan rijden.
+
+Bij het rijden in de mode Isolation stopt de machinist voor ieder:
+- SMB
+- stoptonend hoofdsein
+- stopopdracht.
+
+Een SMB of stoptonend hoofdsein mogen alleen voorbij worden gereden als de machinist van
+de treindienstleider een European Instruction 1 heeft ontvangen.
+
+VVRV cluster ERTMS/ETCS  23/39
+Op baanvakken met SMB's rijdt de machinist maximaal de snelheid die geldt voor het
+rijden in de mode Staff Responsible.
+De machinist volgt alle opdrachten op die de seinen geven.
+
+Op baanvakken met lichtseinen rijdt de machinist volgens de regels die gelden voor
+het rijden met Seinstelsel NS'54.
+
+1.35 Hoe werkt de Mode Reversing?
+
+Zie hoofdstuk 1.10 Operationele Regels ERTMS Nederland
+
+In de mode Reversing kan de machinist vanuit de vooroplopende cabine achteruit
+rijden, als dit door de infrastructuur wordt toegelaten.
+
+De mode Reversing mag in Nederland niet worden gebruikt.
+
+1.36 Hoe werkt de Mode Sleeping?
+
+Zie hoofdstuk 1.11 Operationele Regels ERTMS Nederland
+
+Als er op een krachtvoertuig een cabine geactiveerd wordt, gaan alle andere
+elektrisch aangesloten ETCS on-board systemen naar de mode Sleeping.
+De cabines van deze krachtvoertuigen mogen niet in dienst worden genomen.
+
+Als de boordapparatuur in de mode Sleeping staat wordt er geen ERTMS informatie
+getoond op de DMI.
+
+1.37 Hoe werkt de Mode Non-Leading?
+
+Zie hoofdstuk 1.12 Operationele Regels ERTMS Nederland
+
+Als een cabine geactiveerd wordt is het mogelijk om in een andere cabine van een
+niet elektrisch verbonden krachtvoertuig de mode Non-Leading te kiezen.
+Hiermee kan door een 2e machinist dit krachtvoertuig worden bediend.
+
+Om de mode Non-Leading uit te schakelen moet de trein stilstaan en moet de
+machinist van het Non- Leading krachtvoertuig de rem activeren. .
+De boordapparatuur schakelt nu naar de mode Stand-By.
+
+VVRV cluster ERTMS/ETCS                                                             24/39
+1.38 Hoe werkt de Mode Unfitted?
+
+Zie hoofdstuk 1.13 Operationele Regels ERTMS Nederland
+
+De mode Unfitted wordt gebruikt om in Level 0 te kunnen rijden over infrastructuur die:
+- niet is uitgerust met ETCS of een nationaal beveiligingssysteem
+- is uitgerust met een nationaal beveiligingssysteem waarmee de ETCS
+
+     boordapparatuur niet kan werken
+- is uitgerust met ETCS maar op het moment niet bruikbaar is.
+
+In deze modus wordt de treinsnelheid altijd weergegeven aan de machinist die volledig
+verantwoordelijk is voor bewegingen van de trein.
+De machinist moet de seinen langs de spoorbaan opvolgen.
+
+De maximale snelheid voor het rijden in de mode Unfitted wordt bewaakt en is
+vastgelegd in een National Value.
+
+1.39 Hoe werkt de Mode System National?
+
+Zie hoofdstuk 1.14 Operationele Regels ERTMS Nederland
+
+In de mode System National rijdt de machinist in Nederland volgens de regels die
+gelden voor het rijden met Seinstelsel NS'54.
+
+Op de grensbaanvakken rijdt de machinist volgens de daar geldende regels.
+
+1.40 Hoe werkt start en vertrek in Level 1?
+
+Zie hoofdstuk 2.2 Operationele Regels ERTMS Nederland
+
+Na het bedienen van de knop "Start" wordt de mode Staff Responsible
+aangeboden. De mode Staff Responsible mag worden bevestigd als:
+- het voor de trein geldende hoofdsein uit de stand stop is, of
+- onder het SMB de oprijdlamp brandt, of
+- de machinist van de treindienstleider een European Instruction 7 heeft ontvangen, of
+- de machinist van de treindienstleider een European Instruction 1 heeft
+
+     ontvangen. De machinist mag nu vertrekken in de mode Staff Responsible.
+
+Als er wordt vertrokken met een European Instruction 1, moet de machinist na het
+bevestigen van de mode Staff Responsible, de procedure "Override End of Authority"
+uitvoeren.
+
+1.41 Hoe werkt start en vertrek in Level 2?
+
+VVRV cluster ERTMS/ETCS  25/39
+Zie hoofdstuk 2.3 Operationele Regels ERTMS Nederland
+
+Na het bedienen van de knop "Start" kan het volgende op de DMI worden getoond:
+- de tekstmelding "Wacht"
+- de tekstmelding "Bel Treindienstleider"
+- de tekstmelding "Schakel om naar ATB"
+- de mode Staff Responsible met de tekst "SR mode voor NCBG"
+- de mode Staff Responsible
+- de mode On Sight.
+
+Tekstmelding ``Wacht''
+
+Trein positie bekend (On sight)
+De machinist wacht tot de rijweg beschikbaar komt.
+Zodra de rijweg beschikbaar is, wordt de mode On Sight aangeboden.
+Na het bevestigen van de mode On Sight, moet de machinist de toegelaten snelheid
+oproepen.
+De machinist kan nu vertrekken.
+
+Trein positie niet bekend (Staff Responsible)
+De machinist wacht tot de rijweg beschikbaar komt.
+Zodra de rijweg beschikbaar is, wordt de mode Staff Responsible aangeboden.
+De machinist neemt contact op met de treindienstleider en vraagt om een European
+Instruction 7.
+Wanneer een SMB wordt genoemd in de European Instruction 7 (7.20 / 7.21) mag dit
+SMB voorbij worden gereden waarbij de "Override EOA" niet mag worden gebruikt
+Na ontvangst van de European Instruction 7 mag de mode bevestigd worden en kan
+de machinist vertrekken met maximaal 15 km/h.
+
+Tekstmelding ``Bel Treindienstleider''
+
+De machinist neemt contact op met de treindienstleider.
+Er is geen planregel beschikbaar om een rijweg in te stellen.
+
+Tekstmelding ``Schakel om naar ATB''
+
+De machinist schakelt om naar Level NTC-ATB.
+Dit kan alleen door de cabine uit en weer in dienst te nemen.
+De machinist moet nu een "Start of Mission" maken in Level NTC-ATB. De machinist
+vertrekt en rijdt volgens de regels voor seinstelsel NS'54.
+
+Mode Staff Responsible met de tekstmelding "SR mode voor NCBG"                    26/39
+
+VVRV cluster ERTMS/ETCS
+Na het bedienen van de knop "Start" zal in een NCBG de tekstmelding "SR
+mode voor NCBG" worden gegeven als:
+- het treinnummer bekend is bij het RBC
+- het een geplande beweging is vanuit NCBG.
+
+De machinist neemt contact op met de treindienstleider NCBG en vraagt om een
+European Instruction 7.
+Na ontvangst van de European Instruction 7 bevestigt de machinist de mode Staff
+Responsible en rijdt richting SMB aan het begin van het CBG.
+
+In NCBG is de machinist verantwoordelijk voor de juiste stand van
+de wissels. De mode On Sight wordt aangeboden als:
+- er een rijweg is ingesteld van NCBG naar CBG
+- de positie van de trein bekend is
+- de eventuele wissels in NCBG in de juiste stand liggen.
+
+De machinist bevestigt de mode On Sight.
+Na het bevestigen van de mode On Sight, moet de machinist de toegelaten snelheid
+oproepen.
+
+LET OP: Zolang de mode Staff Responsible actief is, moet de machinist alle seinen opvolgen en
+stoppen voor iedere stopopdracht.
+Het is mogelijk dat de toegelaten Staff Responsible snelheid stapsgewijs omlaag
+gebracht wordt als er geen doorschietruimte is achter het SMB.
+
+Mode On Sight
+Na het bedienen van de knop "Start", wordt de mode On Sight
+aangeboden als er een rijweg is ingesteld. De machinist bevestigt
+de mode On Sight.
+Na het bevestigen van de mode On Sight, moet de machinist de toegelaten
+snelheid oproepen. De machinist kan nu vertrekken.
+
+1.42 Hoe werkt oprijden tot de eerste blokgrens vanuit de Mode Stand By?
+
+Zie hoofdstuk 2.4 Operationele Regels ERTMS Nederland
+
+Als bij de blokgrens een SMB staat
+
+VVRV cluster ERTMS/ETCS  27/39
+Als het nodig is om een trein te verplaatsen binnen een blok (geen rijweg voorbij het
+eerste SMB) dan moet de machinist de trein gereedmaken zoals voor het vertrek als
+treinbeweging.
+De machinist moet aan de treindienstleider vragen of de trein mag worden verplaatst.
+
+De volgende modi kunnen worden aangeboden:
+- Staff Responsible, van de treindienstleider ontvangt de machinist een European Instruction 7
+- On Sight.
+De machinist mag de mode bevestigen en de trein verplaatsen.
+
+Als bij de blokgrens een hoofdsein staat
+
+Als het nodig is om een trein te verplaatsen binnen een blok (geen rijweg voorbij het
+hoofdsein) dan moet de machinist de trein gereedmaken zoals voor het vertrek als
+treinbeweging.
+
+De volgende modi kunnen worden aangeboden:
+- Staff Responsible, van de treindienstleider ontvangt de machinist European Instruction 7
+- On Sight
+- System National, van de treindienstleider ontvangt de machinist een
+
+     mondelinge toestemming.
+De machinist mag de mode bevestigen en de trein verplaatsen.
+
+Krijgt de machinist de tekstmelding "Schakel om naar ATB" dan schakelt de machinist
+om naar Level NTC-ATB.
+De machinist moet aan de treindienstleider vragen of de trein mag worden verplaatst.
+
+1.43 Hoe zet de machinist de trein weg?
+
+Zie hoofdstuk 2.7 Operationele Regels ERTMS Nederland
+
+Bij aankomst op een station of emplacement waar de trein moet keren of waar de
+trein eindigt, moet de trein in de mode Stand-By worden geschakeld als de machinist
+de trein verlaat.
+
+LET OP: Als in Level 2 gebied de mode Shunting wordt aangeboden en de treinbeweging
+eindigt op de grens van CBG naar NCBG, dan bevestigt de machinist deze niet.
+
+De machinist zet de trein weg volgens de regels van de vervoerder.
+
+1.44 Hoe werkt rijden met en zonder MA?  28/39
+
+VVRV cluster ERTMS/ETCS
+Zie hoofdstuk 3.1 en 3.2 Operationele Regels ERTMS Nederland
+
+Als de trein rijdt met een MA, dan volgt de machinist de opdrachten op die worden
+getoond op de DMI.
+
+Als de trein rijdt zonder MA, dan volgt de machinist de regels van de mode waarin
+gereden wordt. De machinist moet de seinen langs de baan opvolgen.
+
+1.45 Hoe werken Leveltransities?
+
+Zie hoofdstuk 3.3 Operationele Regels ERTMS Nederland
+
+Van Level NTC of Level 0 naar Level 1 of 2
+Bij het naderen van een Level 1 of 2 gebied vanuit Level NTC of Level 0, wordt een
+aankondiging gegeven op de DMI.
+
+De Leveltransitie moet bevestigd worden
+Als de machinist de Leveltransitie niet heeft bevestigd op het moment dat de
+transitielocatie wordt bereikt, volgt er na 5 seconden een remingreep.
+Zodra de machinist de Leveltransitie alsnog bevestigt, wordt de remingreep opgeheven.
+
+Van Level 1 of 2 naar Level NTC-ATB
+Bij het naderen van een Level NTC-ATB gebied, wordt een aankondiging gegeven op de DMI.
+
+Op het moment dat de machinist het Level-NTC krijgt aangekondigd en de
+treinsnelheid lager is dan 160km/h, moet de machinist de buitenseingeving gaan
+waarnemen.
+
+Op het moment dat Level-NTC moet worden bevestigd volgt de machinist de opdrachten van
+de buitenseingeving op.
+
+Als de machinist de Leveltransitie niet heeft bevestigd op het moment dat de
+transitielocatie wordt bereikt, volgt er na 5 seconden een remingreep.
+Zodra de machinist de Leveltransitie alsnog bevestigt, wordt de remingreep opgeheven.
+
+Wanneer het hoofdsein op de transitielocatie "geel knipper" toont (sein 214) moet
+naast het bevestigen van de Leveltransitie, ook de modetransitie naar On Sight worden
+bevestigd.
+
+VVRV cluster ERTMS/ETCS  29/39
+Wanneer het hoofdsein op de transitielocatie gedoofd/onjuist is of een seinbeeld geeft
+wat niet overeenkomt met de MA maar de MA laat voorbijrijden toe, dan moet de
+machinist achter het hoofdsein gaan "rijden op zicht".
+De machinist meldt het gedoofde/onjuist seinbeeld aan de treindienstleider.
+
+Leveltransitie van 1 naar 2
+Bij het naderen van een Level 2 gebied vanuit Level 1, wordt een aankondiging gegeven op
+de DMI.
+Deze Leveltransitie hoeft niet te worden bevestigd door de machinist.
+
+Als er geen RBC verbinding is zal de transitie op de transitiegrens worden gemaakt.
+Wordt de RBC verbinding op de transitiegrens niet gemaakt dan zal na 35 seconden
+een remingreep volgen.
+
+Van Level 2 naar Level 1
+Bij het naderen van een Level 1 gebied vanuit Level 2, wordt een aankondiging gegeven op
+de DMI.
+
+Deze Leveltransitie hoeft niet te worden bevestigd door de machinist.
+
+Van Level 1 of 2 naar Level 0
+Bij het naderen van een Level 0 gebied, wordt een aankondiging gegeven op de DMI.
+
+Als de machinist de Leveltransitie niet heeft bevestigd op het moment dat de
+transitielocatie wordt bereikt, volgt er na 5 seconden een remingreep.
+Zodra de machinist de Leveltransitie alsnog bevestigt, wordt de remingreep opgeheven.
+
+1.46 Welke Track conditions zijn er?
+
+Zie hoofdstuk 3.4 Operationele Regels ERTMS Nederland
+
+Wanneer de trein rijdt met een MA of in de mode Non Leading, moet de machinist de
+track conditions opvolgen die worden weergegeven op de DMI.
+
+Rijdt de trein zonder een MA, dan moet de machinist de seingeving buiten opvolgen.
+
+Track conditions zijn:
+- Non Stopping Area
+- Stroomafnemer neerlaten, automatisch of handmatig
+- Stroomafnemer moet neergelaten zijn
+- Stroomafnemer op, automatisch of als de machinist er zeker van is dat alle stroomafnemers
+
+     het spanningsloze gedeelte gepasseerd zijn
+
+VVRV cluster ERTMS/ETCS  30/39
+ - Stroomafnemer moet opgezet zijn
+ - Snelschakelaar uitschakelen, automatisch of handmatig
+ - Snelschakelaar inschakelen, automatisch of als de machinist er zeker van is dat alle
+
+       stroomafnemers het spanningsloze gedeelte gepasseerd zijn
+ - Luchtinlaat geopend, automatisch of handmatig
+ - Luchtinlaat gesloten, automatisch of handmatig
+ - Wijziging bovenleidingspanning (spanningssluis), automatisch of handmatig.
+
+ 1.47 Wat is een Non Stopping Area?
+
+ Zie hoofdstuk 3.4 Operationele Regels ERTMS Nederland
+
+ Een Non Stopping Area is een gebied waar de machinist probeert te voorkomen
+ om te stoppen. Bij het naderen van een Non Stopping Area, wordt een
+ aankondiging gegeven op de DMI.
+
+ De machinist moet stoppen in een Non Stopping Area als:
+- dit door de MA wordt afgedwongen
+- bij het rijden zonder MA voor ieder SMB
+- bij doorrijden de veiligheid direct in gevaar komt.
+
+ LET OP: In een Non Stopping Area is het niet toegestaan om zonder MA een SMB of
+ stoptonend sein te passeren zonder European Instruction 1.
+
+ 1.48 Hoe werkt rijden met verlaagde snelheid?
+
+ Zie hoofdstuk 3.5 Operationele Regels ERTMS Nederland
+
+ European Instruction 5 (SB)
+ Opdracht om te rijden met een verlaagde snelheid.
+ Indien er een noodzaak is om een gedeelte van de infra met een lagere snelheid te
+ berijden, krijgt de machinist van de treindienstleider de European Instruction 5.
+ De opgegeven snelheid kan in de MA worden verwerkt.
+ Ook kan er een opdracht bijgegeven worden om de infra te schouwen.
+
+ European Instruction 6 (ROZ)
+ Opdracht om op zicht te rijden te rijden.
+ Indien er een noodzaak is om op een gedeelte van de infra op zicht te rijden, krijgt de
+ machinist van de treindienstleider de European Instruction 6.
+ De opgegeven snelheid kan in de MA worden verwerkt.
+
+VVRV cluster ERTMS/ETCS                                                                   31/39
+Ook kan er een opdracht bijgegeven worden om de infra te schouwen.
+
+Tijdelijke snelheidsbeperking
+Als er een tijdelijke snelheidsbeperking (Temporary Speed Restriction TSR) in de
+infrasystemen is ingesteld, wordt dit in de MA verwerkt.
+Wanneer de tijdelijke snelheid lager is dan de toegelaten SR snelheid zijn er ook L- A- E-
+borden geplaatst
+
+Bij een baanvak met ETCS en seinstelsel NS'54 én in de Transitie gebieden waar de
+transitie volgt naar NTC-ATB, zullen bij een tijdelijke snelheidsbeperking L- A - E- borden
+worden geplaatst.
+
+1.49 Hoe werkt Slippery Rail?
+
+Zie hoofdstuk 3.6 Operationele Regels ERTMS Nederland
+
+Wanneer de machinist vermoedt of geïnformeerd wordt dat de sporen glad kunnen
+zijn, kan de machinist de functie Slippery Rail inschakelen.
+
+Bij het inschakelen van de functie Slippery Rail moet de machinist er op letten dat er
+geen overspeed ingreep volgt door het wijzigen van de remcurve.
+
+De machinist mag Slippery Rail inschakelen zolang er geen remcurve actief is.
+
+1.50 Hoe werkt herroepen van een rijweg?
+
+Zie hoofdstuk 3.10 Operationele Regels ERTMS Nederland
+
+Bij het herroepen van de rijweg ziet de machinist dit op de DMI.
+Als de rijweg wordt herroepen, dan wordt door de boordapparatuur gecontroleerd of er
+voldoende remwegafstand is.
+
+Bij onvoldoende remwegafstand volgt een remingreep vanwege Overspeed.
+Als de trein berekent dat de EOA wordt gepasseerd dan zal de herroepen rijweg niet
+vrijkomen. Wordt berekend dat de nieuwe EOA gehaald wordt, dan komt de
+herroepen rijweg direct vrij.
+
+Als om logistieke redenen of bijsturing een rijweg herroepen moet worden dan
+mag de treindienstleider dit pas doen:
+- na afstemming met de machinist, of
+
+VVRV cluster ERTMS/ETCS  32/39
+- als de treindienstleider de zekerheid heeft dat er geen machinist op of bij de trein is.
+
+Bij direct gevaar mag de rijweg meteen worden herroepen.
+
+1.51 Hoe werkt rijden van CBG naar NCBG?
+
+Zie hoofdstuk 4.1 Operationele Regels ERTMS Nederland
+
+S-bord
+Bij het rijden richting een S-bord krijgt de trein een EOA vlak voor het S-bord.
+Zodra de trein stilstaat, wordt de mode Shunting aangeboden.
+De machinist bevestigt de mode Shunting.
+Als de machinist toestemming heeft van de treindienstleider NCBG mag het S-bord
+worden gepasseerd.
+
+Facultatief S-bord
+Bij het rijden richting een facultatief S-bord krijgt de trein een MA.
+Voor het bereiken van het bord, wordt de mode Shunting aangeboden.
+De machinist bevestigt de mode Shunting.
+Als de machinist toestemming heeft van de treindienstleider NCBG mag het facultatief S-bord
+worden gepasseerd.
+
+Bord einde beveiliging
+Bij het rijden richting een bord einde beveiliging krijgt de trein een MA.
+Voor het bereiken van het bord, wordt de mode Shunting aangeboden.
+De machinist bevestigt de mode Shunting.
+
+1.52 Hoe werkt rijden van NCBG naar CBG?
+
+Zie hoofdstuk 4.2 Operationele Regels ERTMS Nederland
+
+Als de trein op een plaats staat waarvan in één beweging het NCBG kan worden
+verlaten, dan maakt de machinist Start of Mission in hetzelfde level als de infra.
+
+Bij het bedienen van de knop "Start" kan het volgende
+gebeuren. Op de DMI wordt aangeboden:
+- de tekstmelding "Bel Treindienstleider", of
+- de mode Staff Responsible (met eventueel de tekstregel "SR voor NCBG"), of
+- de mode On Sight.
+
+VVRV cluster ERTMS/ETCS                                                       33/39
+1.53 Hoe werkt rangeren in een NCBG of vrijgave-gebied?
+
+Zie hoofdstuk 4.3 Operationele Regels ERTMS Nederland
+
+Als de trein op een NCBG, of in een vrijgave rangeergebied staat, en de
+rangeerbeweging blijft in het gebied dan kiest de machinist voor de mode Shunting.
+De mode Shunting wordt door het RBC toegestaan (level 2).
+
+Na toestemming van de treindienstleider NCBG of de gebiedsverantwoordelijke voor
+het vrijgave rangeergebied, mag de machinist de mode Shunting bevestigen en met
+de rangeerbeweging beginnen.
+
+Er mag gerangeerd worden met de plaatselijke snelheid.
+
+Bij het rijden in de mode Shunting, moet de machinist stoppen voor ieder stopbord en
+de opdracht van het onderbord uitvoeren.
+Een facultatief stopbord mag voorbij worden gereden na toestemming van de
+gebiedsverantwoordelijke.
+
+Als de rangeerwerkzaamheden klaar zijn en de trein staat stil, dan meldt de machinist dit aan
+de treindienstleider NCBG of de gebiedsverantwoordelijke.
+
+1.54 Hoe werkt rangeren in Shunting in een CBG?
+
+Zie hoofdstuk 4.4 Operationele Regels ERTMS Nederland
+
+In CBG wordt in de mode Shunting gerangeerd bij:
+- het aanpassen van de samenstelling van een trein
+- het geduwd rijden naar een werkgebied
+- het uithalen van een trein in een NCBG voorbij de grens met het CBG.
+
+Het rangeerdeel mag in de mode Shunting een SMB passeren na toestemming van de
+treindienstleider.
+De toestemming kan worden gegeven door middel van een:
+- rangeerrijwegsein op/onder het SMB
+- European Instruction 7 met vak 7.11 en 7.20 met het opgegeven SMB nummer.
+Als er wordt gereden zonder rangeerrijwegseinen of hoofdseinen, dan moet de machinist
+stoppen voor iedere overweg met een LX bord zoals beschreven in 5.4.3 van de ORE.
+
+Het rangeerdeel mag in de mode Shunting een hoofdsein passeren als het hoofdsein
+uit de stand stop is.
+
+VVRV cluster ERTMS/ETCS  34/39
+1.55 Hoe werkt het gebruik van de Override EOA met European Instruction 1?
+
+Zie hoofdstuk 5.1 Operationele Regels ERTMS Nederland
+
+Voor het passeren van een EOA
+Om een EOA te mogen passeren, moet de machinist van de treindienstleider een European
+Instruction 1 krijgen.
+De machinist moet de procedure "Override EOA" toepassen.
+
+Voor het passeren van een SMB
+Om een SMB te mogen passeren zonder geldige MA, moet de machinist van de
+treindienstleider een European Instruction 1 krijgen.
+De machinist moet de procedure "Override EOA" toepassen.
+
+Voor het passeren van een stoptonend hoofdsein
+Om een stoptonend hoofdsein te mogen passeren, moet de machinist van de treindienstleider
+een European Instruction 1 krijgen.
+De machinist moet de procedure "Override EOA" toepassen.
+
+Voor het passeren van een hoofdsein bij een transitielocatie naar ETCS-Level 1 of 2
+Om een stoptonend hoofdsein bij een transitielocatie van Level NTC-ATB naar Level 1 of 2 te
+mogen passeren, moet de machinist van de treindienstleider een European Instruction 1
+krijgen.
+De machinist moet de procedure "Override EOA" en de "ATB-Vv" procedure toepassen.
+Deze functies kunnen gecombineerd zijn in het materieel.
+
+1.56 Hoe werkt rijden na de Mode Trip met European Instruction 2?
+
+Zie hoofdstuk 5.2 Operationele Regels ERTMS Nederland
+
+Verder rijden na de Mode Trip
+Als de trein in de mode TRIP staat, bevestigt de machinist de mode en komt de trein in
+de mode Posttrip.
+De machinist informeert de treindienstleider dat de trein stilstaat door een TRIP en als
+het mogelijk is de reden van de TRIP.
+
+Om verder te mogen rijden krijgt de machinist van de treindienstleider de European Instruction 2
+met vak 2.10 aangekruist. De machinist kiest "Start".
+Als er een MA volgt, dan mag de machinist deze opvolgen.
+
+VVRV cluster ERTMS/ETCS  35/39
+Als de mode Staff Responsible wordt aangeboden, dan rijdt de machinist verder in de
+mode Staff Responsible.
+
+Terugzetten na Mode Trip
+Als de trein in de mode TRIP staat door het passeren van een EOA, bevestigt de
+machinist de mode. De trein komt in de mode Post Trip.
+
+Alleen om een aanrijding te voorkomen mag een trein worden teruggezet zonder
+toestemming van de treindienstleider.
+De afstand waarover terug gezet kan worden is bepaald in een National Value.
+
+1.57 Hoe werkt RBC-verbindingsverlies?
+
+Zie hoofdstuk 5.3 Operationele Regels ERTMS Nederland
+
+Als de trein geen informatie meer ontvangt van het RBC zal na 35 seconden (NV) een
+remingreep volgen.
+Op de DMI komt de tekst "Communication error".
+Ieder verbindingsverlies meldt de machinist aan de treindienstleider.
+
+Remingreep met bedrijfsremming
+De boordapparatuur zal proberen de verbinding met het RBC te herstellen.
+Bij een remingreep met een bedrijfsremming zal op het moment dat de verbinding
+hersteld is, de remming worden opgeheven.
+
+Wordt de verbinding met het RBC niet hersteld dan zal op het moment dat de trein
+stilstaat, de MA worden ingekort tot de voorkant van de trein.
+
+Verder rijden na bedrijfsremming
+Als de trein stilstaat moet de machinist de treindienstleider informeren en proberen weer
+verbinding te krijgen met het RBC.
+
+Wordt bij stilstand van de trein de RBC verbinding weer gemaakt en er is een MA,
+dan mag die worden opgevolgd.
+
+Volgt er geen MA, dan moet de machinist de treindienstleider informeren dat er geen MA is.
+Verder rijden zonder RBC-verbinding
+Lukt het niet om weer verbinding te krijgen met het RBC, dan meldt de machinist dit
+aan de treindienstleider.
+
+Moet de trein verder rijden op een Level 2 only baanvak, dan ontvangt de machinist
+een European Instruction 1.
+
+VVRV cluster ERTMS/ETCS  36/39
+De machinist voert de procedure "Override EOA" uit en rijdt in de mode Staff
+Responsible zonder een RBC verbinding.
+De machinist volgt de regels die gelden voor het rijden in de mode Staff
+Responsible en moet stoppen voor ieder SMB.
+
+Moet de machinist verder rijden op een baanvak waar zowel Level 2 als ATB
+aanwezig is, dan schakelt de machinist om naar Level NTC-ATB.
+De machinist rijdt verder volgens de regels die gelden voor het rijden met seinstelsel NS'54.
+
+1.58 Wat doet de machinist als een balisefout optreedt?
+
+Zie hoofdstuk 5.5 Operationele Regels ERTMS Nederland
+
+Indien er een balisefout optreedt wordt dit op de DMI getoond met de tekstmelding
+`Balise read error' of `Trackside malfunction'
+
+Balisefout met Mode Trip
+Om verder te mogen rijden krijgt de machinist van de treindienstleider de European Instruction 2
+met vak 2.10 aangekruist. De machinist kiest "Start".
+
+Als er een MA volgt, dan mag de machinist deze opvolgen.
+Als de mode Staff Responsible wordt aangeboden, dan vertrekt de machinist in de
+mode Staff Responsible
+
+Balisefout met intrekken MA tot voorkant trein
+Bij een balisefout wordt een bedrijfsremming ingezet totdat de trein stilstaat.
+Op het moment dat de trein stilstaat, wordt de MA ingekort tot de voorkant van de trein.
+De machinist meldt aan de treindienstleider dat hij stilstaat door een balise fout en dat
+de MA ingekort is tot de voorkant van de trein.
+
+Als de treindienstleider opnieuw een rijweg kan instellen en er een MA wordt
+aangeboden, mag de machinist de MA opvolgen.
+
+Kan de treindienstleider niet opnieuw een rijweg instellen of wordt de MA niet verlengd,
+dan ontvangt de machinist van de treindienstleider een European Instruction 1.
+De machinist rijdt verder na het toepassen van de procedure `Override EOA'.
+
+Balisefout zonde remingreep
+De machinist meldt iedere balisefout aan de treindienstleider.
+
+Balisefout in de Mode Shunting
+
+VVRV cluster ERTMS/ETCS  37/39
+Indien een trein in Shunting mode een defecte balise passeert volgt een
+bedrijfsremming. De trein blijft in dat geval in de mode Shunting.
+
+De machinist meldt dit aan de treindienstleider en vraagt toestemming om
+verder te rijden. Na toestemming van de treindienstleider mag de machinist
+verder rijden.
+
+Als de balisefout op een balise van het buitendienst gesteld spoor optreedt, dan moet de
+machinist dit aan de LWB melden.
+
+1.59 Wat doet de machinist na ontvangst van een alarmoproep via GSM-R?
+
+Zie hoofdstuk 5.6 Operationele Regels ERTMS Nederland
+
+Als de machinist een alarmoproep ontvangt via de GSM-R gaat de machinist direct
+'rijden op zicht.
+
+Bij het naderen van een tunnel of Non Stopping Area
+Als er een alarm oproep wordt ontvangen bij het naderen van een tunnel of Non
+Stopping Area en de machinist niet meer kan stoppen voor het bereiken van de tunnel
+of Non Stopping Area dan rijdt de machinist met `rijden op zicht', Machinisten van
+goederentreinen kiezen een veilige snelheid waarmee de tunnel of Non Stopping Area
+nog uitgereden kan worden. Bij gevaar moet de machinist direct stoppen.
+
+Zodra de tunnel is verlaten of het Non Stopping Area symbool dooft gaat de machinist
+direct `rijden op zicht'.
+
+Rijdend in een tunnel of Non Stopping Area
+Als er een alarm oproep wordt ontvangen in een tunnel of een Non Stopping Area, dan gaat
+de machinist direct `rijden op zicht. Machinisten van goederentreinen kiezen een veilige
+snelheid waarmee de tunnel of Non Stopping Area nog uitgereden kan worden. Bij gevaar
+moet de machinist direct stoppen.
+Zodra de tunnel is verlaten of het Non Stopping Area symbool dooft, gaat de machinist direct
+`rijden op zicht'
+
+Beëindigen van ROZ na alarmoproep
+De machinist beëindigt het rijden op zicht als:
+- de alarmoproep op de GSM-R is beëindigd; en
+- de treindienstleider meldt dat de alarmoproep beëindigd is.
+Bij stilstand moet de machinist toestemming hebben van de treindienstleider om verder te
+mogen rijden.
+
+VVRV cluster ERTMS/ETCS  38/39
+1.60 Welke symbolen, tekstberichten en waarden zijn er zoal?
+
+Zie hoofdstuk 6 Operationele Regels ERTMS
+De symbolen, tekstberichten en waarden zoals opgenomen in hoofdstuk 7 van de ORE kunnen
+naar voren komen in het examen.
+
+VVRV cluster ERTMS/ETCS  39/39
+

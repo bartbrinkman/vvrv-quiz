@@ -1,0 +1,592 @@
+{
+ "id": "01",
+ "titel": "Wet- en regelgeving",
+ "bron": "01-aug-25-cluster-wet-en-regelgeving.pdf",
+ "vragen": [
+  {
+   "id": "01-001",
+   "vraag": "Welke uitspraak over de Inspectie Leefomgeving en Transport (ILT) is juist?",
+   "opties": [
+    "De ILT is als Nationale veiligheidsinstantie onderdeel van het ministerie van Infrastructuur en Waterstaat",
+    "De ILT valt onder het ministerie van Sociale Zaken en Werkgelegenheid en handhaaft daar als toezichthouder de Arbeidstijdenwet",
+    "De ILT is als interne toezichthouder onderdeel van ProRail en controleert de naleving van regels op het spoorwegterrein",
+    "De ILT is als Europese veiligheidsinstantie onderdeel van het Spoorwegbureau van de Europese Unie (ERA)"
+   ],
+   "antwoord": 0,
+   "uitleg": "De ILT houdt als ‘Nationale veiligheidsinstantie’ toezicht op de naleving van spoorwetten en -regels en is onderdeel van het ministerie van Infrastructuur en Waterstaat.",
+   "bron": "§ 1.3 Nationale veiligheidsinstantie ILT"
+  },
+  {
+   "id": "01-002",
+   "vraag": "De ILT constateert een overtreding bij een spoorwegonderneming. Het bedrijf krijgt eerst zelf de gelegenheid om binnen een afgesproken tijdpad de legale situatie te herstellen, en er wordt verscherpt toezicht ingesteld. Onder welke categorie van de ILT-interventieladder valt dit?",
+   "opties": [
+    "Correctief",
+    "Preventief",
+    "Repressief",
+    "Punitief"
+   ],
+   "antwoord": 0,
+   "uitleg": "Correctieve interventies zijn gericht op herstel of het voorkomen van herhaling; bedrijven krijgen eerst zelf de gelegenheid binnen een afgesproken tijdpad de overtreding ongedaan te maken. Verscherpt toezicht is een van de voorbeelden.",
+   "bron": "§ 1.3 ILT-interventieladder"
+  },
+  {
+   "id": "01-003",
+   "vraag": "Onder welke categorie van de ILT-interventieladder valt het intrekken of opschorten van een vergunning, certificaat of erkenning?",
+   "opties": [
+    "Correctief",
+    "Punitief",
+    "Reputatief",
+    "Repressief"
+   ],
+   "antwoord": 3,
+   "uitleg": "Repressieve interventies zijn gericht op het bestraffen van de overtreder; voorbeelden zijn een boete opleggen en het intrekken of opschorten van een vergunning, certificaat of erkenning.",
+   "bron": "§ 1.3 ILT-interventieladder"
+  },
+  {
+   "id": "01-004",
+   "vraag": "Bij welke categorie van de ILT-interventieladder ligt de regie bij het Openbaar Ministerie?",
+   "opties": [
+    "Repressief",
+    "Punitief",
+    "Correctief",
+    "Reputatief"
+   ],
+   "antwoord": 1,
+   "uitleg": "Punitieve interventies zijn gericht op het bestraffen van de dader en het afschrikken van anderen; de regie ligt bij het Openbaar Ministerie (bijvoorbeeld proces-verbaal naar de officier van justitie).",
+   "bron": "§ 1.3 ILT-interventieladder"
+  },
+  {
+   "id": "01-005",
+   "vraag": "Een machinist loopt over een emplacement en wordt aangesproken door een BOA van ProRail die zich als zodanig identificeert en om zijn legitimatie vraagt. Wat geldt volgens de richtlijn Gedragsregels op spoorwegterreinen (RLN00300)?",
+   "opties": [
+    "Hij hoeft zich alleen te legitimeren tegenover politie of toezichthouders van de ILT",
+    "Hij moet eerst toestemming van zijn eigen spoorwegonderneming vragen",
+    "Hij is alleen verplicht te tonen als hij de cabine van zijn trein heeft verlaten",
+    "Hij is verplicht zijn legitimatie te tonen en medewerking te verlenen"
+   ],
+   "antwoord": 3,
+   "uitleg": "Conform de Wet op de uitgebreide identificatieplicht verleent iedereen op spoorwegterrein medewerking aan bevoegde ambtenaren die zich kunnen identificeren, waaronder BOA's van ProRail, en is verplicht zijn legitimatie te tonen.",
+   "bron": "§ 1.3 Infrastructuurbeheerder ProRail"
+  },
+  {
+   "id": "01-006",
+   "vraag": "Welke instantie keurt (audit) het Veiligheidsbeheersysteem (VBS) van iedere spoorwegonderneming die gebruik maakt van het Nederlandse hoofdrailnet?",
+   "opties": [
+    "De ILT",
+    "ProRail",
+    "Het Spoorwegbureau van de EU (ERA)",
+    "De Autoriteit Consument en Markt (ACM)"
+   ],
+   "antwoord": 0,
+   "uitleg": "Volgens de tekst keurt (audit) de ILT het VBS van iedere spoorwegonderneming die gebruik maakt van het Nederlandse hoofdrailnet.",
+   "bron": "§ 1.3 Spoorwegonderneming"
+  },
+  {
+   "id": "01-007",
+   "vraag": "Op basis van welke regelgeving is iedere spoorwegonderneming onder andere verplicht een Veiligheidsbeheersysteem te ontwikkelen?",
+   "opties": [
+    "Beschikking van de Commissie van 29 oktober 2009",
+    "Gedelegeerde verordening (EU) 2018/762",
+    "Verordening (EU) 36/2010",
+    "Uitvoeringsverordening (EU) 2019/773"
+   ],
+   "antwoord": 1,
+   "uitleg": "De tekst noemt de Gedelegeerde verordening (EU) 2018/762 als grondslag voor de verplichting een VBS te ontwikkelen.",
+   "bron": "§ 1.3 Spoorwegonderneming"
+  },
+  {
+   "id": "01-008",
+   "vraag": "Welk onderdeel moet het VBS volgens Richtlijn (EU) 2016/798 onder meer bevatten?",
+   "opties": [
+    "Een register van alle door de onderneming uitgegeven machinistenvergunningen en aanvullende bevoegdheidsbewijzen",
+    "De Toegangsovereenkomst met de infrastructuurbeheerder, inclusief de vergoedingen voor de afgesproken diensten",
+    "Procedures om ongevallen, incidenten en bijna-ongelukken te melden, te onderzoeken en te analyseren",
+    "De jaardienstregeling met het basis-uurpatroon en de aanvragen voor treinpaden in de ad hoc-fase"
+   ],
+   "antwoord": 2,
+   "uitleg": "Richtlijn 2016/798 eist onder meer procedures waarmee ongevallen, incidenten, bijna-ongelukken en andere gevaarlijke voorvallen worden gemeld, onderzocht en geanalyseerd, naast een veiligheidsbeleid en opleidingsprogramma's.",
+   "bron": "§ 1.5 Richtlijn (EU) 2016/798 veiligheid op het spoor"
+  },
+  {
+   "id": "01-009",
+   "vraag": "Welke EU-rechtshandeling is bindend voor het te bereiken resultaat, maar laat de nationale instanties vrij in de keuze van vorm en middelen?",
+   "opties": [
+    "Verordening",
+    "Besluit",
+    "Aanbeveling",
+    "Richtlijn"
+   ],
+   "antwoord": 3,
+   "uitleg": "Een richtlijn is bindend voor het te bereiken resultaat voor elke lidstaat waarvoor zij bestemd is, maar de nationale instanties mogen vorm en middelen kiezen.",
+   "bron": "§ 1.4 Waaruit bestaat EU wetgeving?"
+  },
+  {
+   "id": "01-010",
+   "vraag": "Wat is kenmerkend voor een Europese verordening?",
+   "opties": [
+    "Zij moet eerst door de lidstaten in nationale wetgeving worden omgezet voordat zij geldt",
+    "Zij geldt rechtstreeks met dezelfde kracht als nationaal recht, zonder omzetting door nationale instanties",
+    "Zij is alleen bindend voor de lidstaten, burgers of instanties aan wie zij uitdrukkelijk is gericht",
+    "Zij is bindend voor het te bereiken resultaat, maar laat de keuze van vorm en middelen aan de lidstaten"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een verordening heeft een algemene strekking, is bindend in al haar onderdelen en rechtstreeks geldend in elke lidstaat, zonder dat nationale instanties daarvoor iets hoeven te doen.",
+   "bron": "§ 1.4 Waaruit bestaat EU wetgeving?"
+  },
+  {
+   "id": "01-011",
+   "vraag": "In welke Europese regelgeving komen de eisen aan de Netverklaring aan bod?",
+   "opties": [
+    "Richtlijn (EU) 2016/797 interoperabiliteit van het spoorwegsysteem",
+    "Richtlijn (EU) 2016/798 veiligheid op het spoor",
+    "Richtlijn (EU) 2012/34 instellen van een Europese spoorwegruimte",
+    "Verordening (EU) 2016/796 Spoorwegbureau van de Europese Unie (ERA)"
+   ],
+   "antwoord": 2,
+   "uitleg": "Richtlijn 2012/34 gaat over het realiseren van één Europese spoorwegruimte en behandelt onder meer de eisen aan de Netverklaring.",
+   "bron": "§ 1.5 Richtlijn (EU) 2012/34"
+  },
+  {
+   "id": "01-012",
+   "vraag": "Waarover moet elke spoorwegonderneming op het hoofdrailnet volgens Richtlijn (EU) 2012/34 beschikken?",
+   "opties": [
+    "Een bedrijfsvergunning en een veiligheidscertificaat",
+    "Een veiligheidscertificaat en een voertuigvergunning",
+    "Een bedrijfsvergunning en een concessie van de provincie",
+    "Een vervoersconcessie en een Toegangsovereenkomst"
+   ],
+   "antwoord": 0,
+   "uitleg": "De Richtlijn schrijft voor dat elke spoorwegonderneming op het hoofdrailnet moet beschikken over een bedrijfsvergunning en een veiligheidscertificaat.",
+   "bron": "§ 1.5 Richtlijn (EU) 2012/34"
+  },
+  {
+   "id": "01-013",
+   "vraag": "Waarvoor is het Spoorwegbureau van de Europese Unie (ERA) het enige loket?",
+   "opties": [
+    "Afgifte van machinistenvergunningen en aanvullende bevoegdheidsbewijzen aan machinisten in de hele EU",
+    "Afgifte van voertuigvergunningen en veiligheidscertificaten voor spoorwegondernemingen",
+    "Uitgifte van de jaarlijkse netverklaringen en het afsluiten van toegangsovereenkomsten met spoorwegondernemingen",
+    "Verlening van bedrijfsvergunningen en vervoersconcessies aan grensoverschrijdende spoorwegondernemingen"
+   ],
+   "antwoord": 1,
+   "uitleg": "Volgens Verordening (EU) 2016/796 is ERA het enige loket voor de afgifte van voertuigvergunningen en veiligheidscertificaten voor spoorwegondernemingen.",
+   "bron": "§ 1.5 Verordening (EU) 2016/796 Spoorwegbureau van de EU"
+  },
+  {
+   "id": "01-014",
+   "vraag": "Door wie worden TSI's (Technische Specificaties voor Interoperabiliteit) vastgesteld?",
+   "opties": [
+    "Door ERA zelfstandig, zonder tussenkomst van andere EU-instellingen",
+    "Door het Europees Parlement op voordracht van de nationale veiligheidsinstanties",
+    "Door de Europese Commissie op basis van aanbevelingen van ERA",
+    "Door de Raad van de EU op basis van advies van de infrastructuurbeheerders"
+   ],
+   "antwoord": 2,
+   "uitleg": "TSI's worden vastgesteld door de Europese Commissie op basis van aanbevelingen van het Spoorwegbureau van de Europese Unie (ERA).",
+   "bron": "§ 1.5 Uitvoeringsverordening (EU) 2019/773"
+  },
+  {
+   "id": "01-015",
+   "vraag": "Waar is de ‘TSI exploitatie en verkeersleiding’ (TSI OPE) te vinden?",
+   "opties": [
+    "In bijlage IV van Richtlijn 2007/59/EG (machinistenrichtlijn)",
+    "In bijlage 4, behorende bij artikel 24 van de Regeling spoorverkeer",
+    "In bijlage 1 van Richtlijn (EU) 2016/797 interoperabiliteit",
+    "In bijlage 1 van Uitvoeringsverordening (EU) 2019/773"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bijlage 1 van Uitvoeringsverordening (EU) 2019/773 bevat de TSI exploitatie en verkeersleiding (TSI Operations / TSI OPE).",
+   "bron": "§ 1.5 Uitvoeringsverordening (EU) 2019/773"
+  },
+  {
+   "id": "01-016",
+   "vraag": "In welke regelgeving staan de essentiële eisen die aan de subsystemen worden gesteld en die door de TSI's moeten worden geborgd?",
+   "opties": [
+    "Richtlijn (EU) 2016/797",
+    "Richtlijn (EU) 2016/798",
+    "Richtlijn (EU) 2012/34",
+    "Verordening (EU) 2016/796"
+   ],
+   "antwoord": 0,
+   "uitleg": "TSI's dienen de essentiële eisen aan de subsystemen te borgen; deze eisen staan in Richtlijn 2016/797, de Interoperabiliteitsrichtlijn.",
+   "bron": "§ 1.5 Uitvoeringsverordening (EU) 2019/773"
+  },
+  {
+   "id": "01-017",
+   "vraag": "In welke bijlage(n) van Richtlijn 2007/59/EG staan de eisen aan de machinist betreffende specifieke vakkennis van rollend materieel en infrastructuur?",
+   "opties": [
+    "Bijlagen I en IV",
+    "Bijlage IV",
+    "Bijlagen IV en VII",
+    "Bijlagen V en VI"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bijlage IV bevat de algemene vakkennis; bijlagen V en VI bevatten de eisen betreffende specifieke vakkennis van rollend materieel en infrastructuur.",
+   "bron": "§ 1.6 Richtlijn 2007/59/EG"
+  },
+  {
+   "id": "01-018",
+   "vraag": "Welke combinatie over periodieke herinstructie volgens Richtlijn 2007/59/EG is juist?",
+   "opties": [
+    "Bijlage VII; de spoorwegonderneming draagt er zorg voor",
+    "Bijlage VII; de ILT als nationale veiligheidsinstantie draagt er zorg voor",
+    "Bijlage I; de spoorwegonderneming draagt er zorg voor",
+    "Bijlage IV; Stichting VVRV draagt er namens de minister zorg voor"
+   ],
+   "antwoord": 0,
+   "uitleg": "Volgens bijlage VII draagt de spoorwegonderneming er zorg voor dat de functionaris periodiek een herinstructie volgt over de juiste uitvoering van de functie.",
+   "bron": "§ 1.6 Richtlijn 2007/59/EG, Bijlage VII"
+  },
+  {
+   "id": "01-019",
+   "vraag": "Een machinist wil weten wie in Nederland het register bijhoudt van zijn aanvullend bevoegdheidsbewijs. Wie is dat?",
+   "opties": [
+    "De ILT, die ook het register van machinistenvergunningen bijhoudt",
+    "De spoorwegonderneming die het bevoegdheidsbewijs heeft uitgegeven",
+    "Stichting VVRV, die namens de minister de certificaten afgeeft",
+    "Het Spoorwegbureau van de EU (ERA), als enig Europees loket"
+   ],
+   "antwoord": 1,
+   "uitleg": "De ILT houdt het register van machinistenvergunningen bij; iedere spoorwegonderneming houdt een register bij van de door haar uitgegeven bevoegdheidsbewijzen.",
+   "bron": "§ 1.6 Beschikking van de Commissie van 29 oktober 2009"
+  },
+  {
+   "id": "01-020",
+   "vraag": "Welke regelgeving bevat de eisen voor gewaarmerkte afschriften van aanvullende bevoegdheidsbewijzen en aanvraagformulieren voor machinistenvergunningen?",
+   "opties": [
+    "Besluit 2011/765/EU",
+    "Beschikking van de Commissie van 29 oktober 2009",
+    "Verordening (EU) 36/2010",
+    "Regeling spoorwegpersoneel 2011"
+   ],
+   "antwoord": 2,
+   "uitleg": "Verordening (EU) 36/2010 bevat de eisen voor EU-modellen voor vergunningen, aanvullende bevoegdheidsbewijzen, gewaarmerkte afschriften daarvan en aanvraagformulieren.",
+   "bron": "§ 1.6 Verordening (EU) 36/2010"
+  },
+  {
+   "id": "01-021",
+   "vraag": "Waar zijn de eisen omschreven waaraan de organisatie van examens voor treinbestuurders moet voldoen?",
+   "opties": [
+    "Aanbeveling 2011/766/EU",
+    "Verordening (EU) 36/2010",
+    "Besluit mandaat, volmacht en machtiging Stichting VVRV",
+    "Besluit 2011/765/EU"
+   ],
+   "antwoord": 3,
+   "uitleg": "Besluit 2011/765/EU bevat onder meer de eisen voor de organisatie van examens voor treinbestuurders; de aanbeveling 2011/766/EU is niet bindend en gaat over erkenningscriteria.",
+   "bron": "§ 1.6 Besluit 2011/765/EU; § 1.19"
+  },
+  {
+   "id": "01-022",
+   "vraag": "Welke combinatie van spoorwegpakket en inhoud is juist?",
+   "opties": [
+    "Tweede spoorwegpakket: eisen voor interoperabiliteit en veiligheid",
+    "Eerste spoorwegpakket: concurrentie in het personenvervoer mogelijk gemaakt",
+    "Derde spoorwegpakket: scheiding tussen infrastructuurbeheer en vervoer",
+    "Vierde spoorwegpakket: concurrentie in het goederenvervoer mogelijk gemaakt"
+   ],
+   "antwoord": 0,
+   "uitleg": "Het eerste pakket schreef scheiding van beheer en vervoer voor en maakte concurrentie in het goederenvervoer mogelijk; het tweede stelde eisen voor interoperabiliteit en veiligheid; het derde maakte concurrentie in het personenvervoer mogelijk.",
+   "bron": "§ 1.7 Europese spoorwegpakket"
+  },
+  {
+   "id": "01-023",
+   "vraag": "Wie houdt toezicht op de naleving van de Spoorwegwet voor wat betreft de marktaspecten (eerlijke concurrentie)?",
+   "opties": [
+    "De ILT",
+    "ProRail",
+    "De Autoriteit Consument en Markt (ACM)",
+    "Het ministerie van Infrastructuur en Waterstaat"
+   ],
+   "antwoord": 2,
+   "uitleg": "Voor de marktaspecten (eerlijke concurrentie) houdt de ACM toezicht op de naleving van de Spoorwegwet.",
+   "bron": "§ 1.8 Spoorwegwet"
+  },
+  {
+   "id": "01-024",
+   "vraag": "Tot welk jaar is NS volgens de vakkennis concessiehouder voor het hoofdrailnet?",
+   "opties": [
+    "2033",
+    "2030",
+    "2035",
+    "2025"
+   ],
+   "antwoord": 0,
+   "uitleg": "Voor het hoofdrailnet geldt dat NS (tot 2033) concessiehouder is en op de belangrijkste trajecten de spoorvervoerder is.",
+   "bron": "§ 1.8 Spoorwegwet"
+  },
+  {
+   "id": "01-025",
+   "vraag": "Waar is het seinreglement (seinenboek) wettelijk vastgelegd?",
+   "opties": [
+    "In bijlage 1 bij het Besluit spoorverkeer",
+    "In bijlage 4, behorende bij artikel 24 van de Regeling spoorverkeer",
+    "In bijlage 4, behorende bij artikel 24 van het Besluit spoorverkeer",
+    "In bijlage IV van Richtlijn 2007/59/EG"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bijlage 4, behorende bij artikel 24 van de Regeling spoorverkeer, is het seinreglement; de machinist moet deze seinen kennen behalve de lokaal voorkomende.",
+   "bron": "§ 1.8 Regeling spoorverkeer"
+  },
+  {
+   "id": "01-026",
+   "vraag": "In welke regelgeving staan regels voor het veilig en ongestoord gebruik van het hoofdrailnet, zoals de samenstelling van treinen en veilig vertrek?",
+   "opties": [
+    "Regeling spoorverkeer",
+    "Spoorwegwet",
+    "Besluit spoorverkeer",
+    "Besluit aanwijzing toezichthouders spoorwegen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Het Besluit spoorverkeer bevat regels over bijvoorbeeld de samenstelling van treinen en veilig vertrek en vervoer; de Regeling spoorverkeer werkt dit verder uit (seinen, emplacementen).",
+   "bron": "§ 1.8 Besluit spoorverkeer"
+  },
+  {
+   "id": "01-027",
+   "vraag": "Welke bevoegdheid hebben de ILT en de Nationale Politie op emplacementen en de vrije baan volgens het Besluit aanwijzing toezichthouders spoorwegen?",
+   "opties": [
+    "Bevoegdheidsbewijzen van machinisten uitgeven",
+    "Tijdelijke snelheidsbeperkingen in de IAM opnemen",
+    "De jaardienstregeling tussentijds wijzigen",
+    "Opruimwerkzaamheden staken of stilleggen"
+   ],
+   "antwoord": 3,
+   "uitleg": "De ILT en de Nationale Politie mogen onder meer opsporingen uitvoeren, opruimwerkzaamheden staken of stilleggen, afwijkingen op regelgeving toestaan, personen meenemen voor verhoor en ademanalyse afnemen.",
+   "bron": "§ 1.8 Besluit aanwijzing toezichthouders spoorwegen"
+  },
+  {
+   "id": "01-028",
+   "vraag": "Een trein met lege wagens die gevaarlijke stoffen hebben vervoerd, staat klaar om te vertrekken van een spooraansluiting. Wat geldt volgens RID en de Regeling vervoer over de spoorweg van gevaarlijke stoffen?",
+   "opties": [
+    "Vrachtbriefgegevens zijn alleen verplicht voor beladen wagens; lege wagens mogen zonder vrachtbrief vertrekken",
+    "Ook voor lege wagens moeten de verplichte vrachtbriefgegevens vóór vertrek bij de spoorwegonderneming zijn",
+    "De vrachtbriefgegevens mogen voor lege wagens tot uiterlijk aankomst op de bestemming worden nagezonden",
+    "De vrachtbriefgegevens zijn bij lege wagens alleen verplicht bij grensoverschrijdend vervoer onder RID"
+   ],
+   "antwoord": 1,
+   "uitleg": "Van alle wagens voor gevaarlijke stoffen, leeg of beladen, moeten de verplichte vrachtbriefgegevens vóór vertrek van de terminal of spooraansluiting bij de spoorwegonderneming aanwezig zijn.",
+   "bron": "§ 1.8 RID en Regeling vervoer over de spoorweg van gevaarlijke stoffen"
+  },
+  {
+   "id": "01-029",
+   "vraag": "Waarop moet de spoorwegonderneming volgens RID wagens met gevaarlijke stoffen vóór overname controleren?",
+   "opties": [
+    "Op de geldigheid van de Toegangsovereenkomst van de verlader met ProRail",
+    "Op vermelding van de wagens in de IAM-dagpublicatie van die dag",
+    "Op de aanwezigheid van de juiste gevaaretiketten en oranje borden",
+    "Op een geldige voertuigvergunning van ERA voor elke afzonderlijke wagen"
+   ],
+   "antwoord": 2,
+   "uitleg": "De spoorwegonderneming moet vóór overname de wagens controleren op aanwezigheid van de juiste gevaaretiketten en oranje borden.",
+   "bron": "§ 1.8 RID en Regeling vervoer over de spoorweg van gevaarlijke stoffen"
+  },
+  {
+   "id": "01-030",
+   "vraag": "In welke categorie spoorvoertuigen valt een werktrein volgens artikel 1 van het Besluit spoorwegpersoneel 2011?",
+   "opties": [
+    "Categorie A, net als rangeerlocomotieven en onderhoudsspoorwagons",
+    "Categorie B, net als spoorvoertuigen voor het vervoer van goederen",
+    "Categorie A, maar alleen zolang hij binnen een emplacement rangeert",
+    "Categorie B, omdat werktreinen ook over de vrije baan rijden"
+   ],
+   "antwoord": 0,
+   "uitleg": "Categorie A omvat rangeerlocomotieven, werktreinen, onderhoudsspoorwagons en andere locomotieven voor het rangeren; categorie B omvat voertuigen voor reizigers- en goederenvervoer.",
+   "bron": "§ 1.9 Besluit spoorwegpersoneel 2011"
+  },
+  {
+   "id": "01-031",
+   "vraag": "Welke regelgeving geeft invulling aan de medische en psychologische eisen voor de machinist en de bijbehorende verklaringen van geschiktheid?",
+   "opties": [
+    "Besluit spoorwegpersoneel 2011",
+    "Regeling spoorwegpersoneel 2011",
+    "Arbeidsomstandighedenwet (Arbowet)",
+    "Besluit 2011/765/EU"
+   ],
+   "antwoord": 1,
+   "uitleg": "De Regeling spoorwegpersoneel 2011 geeft invulling aan onder meer de medische en psychologische eisen, de aanvraag van een machinistenvergunning en erkenning van EG-beroepskwalificaties.",
+   "bron": "§ 1.9 Regeling spoorwegpersoneel 2011"
+  },
+  {
+   "id": "01-032",
+   "vraag": "Over welke zaken mag Stichting VVRV op grond van het mandaat van de minister van Infrastructuur en Waterstaat besluiten nemen?",
+   "opties": [
+    "Afgifte van machinistenvergunningen, bijhouden van het vergunningenregister en intrekken van vergunningen",
+    "Erkenning van opleidingsinstituten, audit van het VBS en toezicht op de periodieke herinstructie",
+    "Vaststelling van examenprogramma's, erkenning van examinatoren en afgifte van beoordelingen/certificaten",
+    "Uitgifte van aanvullende bevoegdheidsbewijzen, periodieke herinstructie en registratie van bevoegdheden"
+   ],
+   "antwoord": 2,
+   "uitleg": "VVRV heeft mandaat voor de vaststelling van examenprogramma's, erkenning van examinatoren en afgifte van beoordelingen/certificaten; de machinistenvergunning wordt uitsluitend door de ILT uitgegeven.",
+   "bron": "§ 1.9 Besluit mandaat, volmacht en machtiging Stichting VVRV"
+  },
+  {
+   "id": "01-033",
+   "vraag": "Wat is naast veiligheid, gezondheid en welzijn een tweede doelstelling van de Arbeidstijdenwet, en wie houdt toezicht?",
+   "opties": [
+    "Het voorkomen van beroepsziekten bij nacht- en ploegendiensten; toezicht door de ILT",
+    "Het verbeteren van de arbeidsveiligheid bij werkzaamheden langs het spoor; toezicht door railAlert",
+    "Het beperken van overwerk en het borgen van rusttijden in roosters; toezicht door ProRail",
+    "Het makkelijker maken arbeid te combineren met zorgtaken; toezicht door de inspectie SZW"
+   ],
+   "antwoord": 3,
+   "uitleg": "Een tweede doelstelling van de ATW is het makkelijker maken om arbeid te combineren met zorgtaken of andere verantwoordelijkheden; de inspectie SZW houdt toezicht.",
+   "bron": "§ 1.9 Arbeidstijdenwet"
+  },
+  {
+   "id": "01-034",
+   "vraag": "Welke uitspraak over de Regeling communicatieprocedures is juist?",
+   "opties": [
+    "Zij bevat de regels voor mondelinge én schriftelijke veiligheidsberichten; de ILT is verantwoordelijk voor de wijze van communiceren",
+    "Zij bevat de regels voor mondelinge veiligheidsberichten; ProRail is verantwoordelijk voor de wijze van communiceren",
+    "Zij bevat de formulieren voor de European Instructions; ERA is verantwoordelijk voor de wijze van communiceren",
+    "Zij bevat de regels voor mondelinge veiligheidsberichten; elke spoorwegonderneming bepaalt zelf de wijze van communiceren"
+   ],
+   "antwoord": 1,
+   "uitleg": "ProRail is verantwoordelijk voor de wijze van communiceren van veiligheidsberichten; de regels voor de mondelinge veiligheidsberichten zijn vastgelegd in de Regeling communicatieprocedures.",
+   "bron": "§ 1.12 Regeling communicatieprocedures"
+  },
+  {
+   "id": "01-035",
+   "vraag": "Welk nummer heeft het formulier van de European Instruction ‘Intrekking van een Instruction’?",
+   "opties": [
+    "2",
+    "6",
+    "8",
+    "4"
+   ],
+   "antwoord": 3,
+   "uitleg": "De acht European Instructions zijn genummerd; nummer 4 is ‘Intrekking van een Instruction’ (2 = doorrijden na TRIP, 6 = rijden op zicht, 8 = defecte overweg passeren).",
+   "bron": "§ 1.13 Boek van Europese en Nationale instructies"
+  },
+  {
+   "id": "01-036",
+   "vraag": "Een machinist meldt een ernstige spoorverzakking. De werkelijke toegestane snelheid ter plaatse is nog niet bekend. Welke instructie geeft de treindienstleider in eerste instantie voor dat deel van de spoorweg?",
+   "opties": [
+    "European Instruction 6 (verplichting om te rijden op zicht)",
+    "European Instruction 5 (verplichting om de snelheid te beperken)",
+    "European Instruction 3 (verplichting om stil te blijven staan)",
+    "Nationale Instructie Verkeerd Spoor"
+   ],
+   "antwoord": 0,
+   "uitleg": "De treindienstleider geeft in eerste instantie European Instruction 6 totdat bekend is wat de werkelijke maximumsnelheid mag zijn; daarna volgt European Instruction 5.",
+   "bron": "§ 1.15 IAM, Tijdelijke Snelheidsbeperking"
+  },
+  {
+   "id": "01-037",
+   "vraag": "Hoelang wordt European Instruction 5 voor een snelheidsbeperking die nog niet in de IAM staat aan machinisten uitgereikt?",
+   "opties": [
+    "Totdat de nieuwe Weekpublicatie uitkomt",
+    "Totdat de nieuwe Dag-TSB uitkomt",
+    "Totdat de LAE-borden langs de baan zijn geplaatst",
+    "Totdat de treindienstleider European Instruction 4 geeft"
+   ],
+   "antwoord": 1,
+   "uitleg": "European Instruction 5 wordt uitgereikt totdat de nieuwe Dag-TSB uitkomt.",
+   "bron": "§ 1.15 IAM, Tijdelijke Snelheidsbeperking"
+  },
+  {
+   "id": "01-038",
+   "vraag": "Hoe worden aanvragen voor treinpaden behandeld die binnenkomen na de sluitingstermijn van de jaardienst?",
+   "opties": [
+    "Ze worden doorgeschoven naar de volgende jaardienstregeling en daar met voorrang behandeld",
+    "Ze worden door de treindienstleider via TAD's ingepland op basis van de actuele bijsturing",
+    "Ze worden in de ad hoc-fase per stuk behandeld (first-come-first-served)",
+    "Ze worden gebundeld en op basis van het basis-uurpatroon naar rato verdeeld"
+   ],
+   "antwoord": 2,
+   "uitleg": "Alle aanvragen na de sluitingstermijn van de jaardienst worden verwerkt in de ad hoc-fase, waarin aanvragen per stuk (first-come-first-served) worden behandeld.",
+   "bron": "§ 1.14 Dienstregeling"
+  },
+  {
+   "id": "01-039",
+   "vraag": "Hoe is de verantwoordelijkheid rond de IAM (informatie aan machinisten) verdeeld?",
+   "opties": [
+    "De spoorwegonderneming verspreidt de informatie; de machinist blijft zelf verantwoordelijk voor de kennisname",
+    "ProRail verspreidt de informatie rechtstreeks aan machinisten; de spoorwegonderneming is verantwoordelijk voor de kennisname",
+    "De ILT verspreidt de informatie aan de spoorwegondernemingen; die zijn verantwoordelijk voor de kennisname door machinisten",
+    "De treindienstleider verspreidt de informatie; de machinist hoeft alleen de daarbij gegeven European Instructions op te volgen"
+   ],
+   "antwoord": 0,
+   "uitleg": "De spoorwegondernemingen zijn verantwoordelijk voor de verspreiding van de IAM onder hun machinisten; de machinist blijft altijd zelf verantwoordelijk voor de kennisname.",
+   "bron": "§ 1.15 IAM"
+  },
+  {
+   "id": "01-040",
+   "vraag": "Waaruit bestaat een ‘IAM-dienst’?",
+   "opties": [
+    "Een Maandpublicatie met alle TSB's voor de komende maand en een Weekpublicatie met wijzigingen per week daarop",
+    "Een Weekpublicatie met de TSB's voor de komende week en een Dagpublicatie met aanpassingen per dag daarop",
+    "Een Dagpublicatie met de TSB's van die dag en een Weekpublicatie met de nieuwe Wegwijzers voor de komende week",
+    "Een Weekpublicatie met de jaardienstregeling voor de komende week en een Dagpublicatie met de TAD's per dag"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een IAM-dienst bestaat uit een Weekpublicatie met de Tijdelijke Snelheidsbeperkingen die de komende week van kracht zijn en een Dagpublicatie met aanpassingen per dag op de Weekpublicatie.",
+   "bron": "§ 1.15 IAM-dienst (week- en dagpublicatie)"
+  },
+  {
+   "id": "01-041",
+   "vraag": "In kolom 4 van de TSB staan twee snelheden. Voor welke treinen geldt het onderste getal?",
+   "opties": [
+    "Voor reizigerstreinen die sneller dan 120 km/h mogen rijden",
+    "Voor alle treinen met een hoog tonmeter-gewicht, ongeacht hun maximumsnelheid",
+    "Voor goederentreinen tot maximaal 120 km/h, inclusief losse locs",
+    "Voor goederentreinen, maar niet voor losse locs"
+   ],
+   "antwoord": 2,
+   "uitleg": "Het onderste getal geldt voor goederentreinen tot maximaal 120 km per uur inclusief losse locs (in verband met hoog tonmeter-gewicht); het bovenste getal voor overige treinen.",
+   "bron": "§ 1.15 TSB kolom 4"
+  },
+  {
+   "id": "01-042",
+   "vraag": "Wat betekent een (*) in kolom 3 van de TSB?",
+   "opties": [
+    "Door plaatselijke omstandigheden staat het L-bord minder ver dan voorgeschreven van het A-bord",
+    "De LAE-borden worden in de loop van de publicatie met de vordering van de werkzaamheden verschoven",
+    "De plaatsaanduiding is door plaatselijke omstandigheden niet op 100 meter afgerond maar exact vermeld",
+    "Door plaatselijke omstandigheden staat het E-bord op minder dan de voorgeschreven afstand van het A-bord"
+   ],
+   "antwoord": 0,
+   "uitleg": "(*) betekent dat door plaatselijke omstandigheden het L-bord op minder dan de voorgeschreven afstand van het A-bord is geplaatst.",
+   "bron": "§ 1.15 TSB kolom 3"
+  },
+  {
+   "id": "01-043",
+   "vraag": "Een machinist rijdt over een baanvak waar volgens de TSB borden van een snelheidsbeperking moeten staan, maar hij ziet langs de baan geen borden. Wat moet hij doen?",
+   "opties": [
+    "De baanvaksnelheid aanhouden, omdat de borden langs de baan leidend zijn",
+    "Handelen alsof de borden er wel staan en de treindienstleider informeren",
+    "Stoppen en wachten op European Instruction 5 van de treindienstleider",
+    "Handelen alsof de borden er staan en dit na afloop van de dienst melden bij zijn spoorwegonderneming"
+   ],
+   "antwoord": 1,
+   "uitleg": "Ontbreken borden terwijl ze er volgens de TSB wel hadden moeten staan, dan moet de machinist handelen alsof ze er wel staan (de TSB is leidend) en de treindienstleider informeren.",
+   "bron": "§ 1.15 TSB kolom 6, Let op"
+  },
+  {
+   "id": "01-044",
+   "vraag": "Wat is het voordeel van het tegen de rijrichting in werken bij spoor- en ballastbedvernieuwing?",
+   "opties": [
+    "De LAE-borden hoeven tijdens de gehele duur van de werkzaamheden niet verschoven te worden",
+    "Er hoeft voor het werkgebied geen TSB in de IAM-weekpublicatie te worden opgenomen",
+    "Goederentreinen mogen in het werkgebied dezelfde snelheid aanhouden als reizigerstreinen",
+    "In het werkgebied mag de snelheid halverwege of zelfs eerder alweer verhoogd worden"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij tegen de rijrichting in werken mag in het werkgebied de snelheid halverwege of eerder alweer verhoogd worden, waardoor vertragingen door de TSB beperkt blijven.",
+   "bron": "§ 1.15 TSB"
+  },
+  {
+   "id": "01-045",
+   "vraag": "Een spoorwegonderneming schrijft voor dat een bepaald deel van een opstelterrein alleen met een maximumsnelheid of onder begeleiding bereden mag worden. Waar is dergelijke plaatselijke regelgeving opgenomen?",
+   "opties": [
+    "In de Netverklaring",
+    "In het Handboek Incidentmanagement Rail",
+    "In de Wegwijzer",
+    "In de Toegangsovereenkomst"
+   ],
+   "antwoord": 2,
+   "uitleg": "Spoorwegondernemingen kunnen eigen plaatselijke regelgeving hebben, zoals een maximumsnelheid of begeleiding op een opstelterrein; deze is opgenomen in de Wegwijzer.",
+   "bron": "§ 1.18 Lokale en plaatselijke regelgeving"
+  }
+ ]
+}

@@ -1,0 +1,592 @@
+{
+ "id": "10",
+ "titel": "Treinincidenten",
+ "bron": "10-aug-25-cluster-treinincidenten.pdf",
+ "vragen": [
+  {
+   "id": "10-001",
+   "vraag": "Welke uitspraak over het onderscheid tussen 'treinincident' en 'calamiteit' is volgens ProRail juist?",
+   "opties": [
+    "Treinincident wordt vooral gebruikt bij (dreigend) gevaar voor mens, dier, goederen en/of milieu; calamiteit is de overkoepelende term waarbij ook bedrijfscontinuïteit een rol speelt",
+    "Calamiteit wordt alleen gebruikt als er daadwerkelijk letsel bij mens of dier is opgetreden; treinincident wordt gebruikt bij uitsluitend materiële schade aan infrastructuur of materieel",
+    "Beide termen zijn strikt gescheiden: een calamiteit valt nooit onder één van de treinincidentscenario's en wordt altijd volledig door de overheidshulpdiensten afgehandeld",
+    "Calamiteit wordt vooral gebruikt bij (dreigend) gevaar voor mens, dier, goederen en/of milieu; treinincident is de overkoepelende term waarbij ook bedrijfscontinuïteit een rol speelt"
+   ],
+   "antwoord": 3,
+   "uitleg": "De termen worden door elkaar gebruikt; calamiteit vooral bij (dreigend) gevaar voor mens, dier, goederen en/of milieu, treinincident als overkoepelende term waarbij ook bedrijfscontinuïteit meespeelt.",
+   "bron": "1.2 Wat is een treinincident en wat is een calamiteit?"
+  },
+  {
+   "id": "10-002",
+   "vraag": "Een voorval valt ook onder de definitie van treinincident als het past in de omschrijving van één van de omschreven treinincidentscenario's (TIS). Hoeveel TIS zijn er volgens de vakkennis omschreven?",
+   "opties": [
+    "Twaalf",
+    "Twintig",
+    "Vijftien",
+    "Vijfentwintig"
+   ],
+   "antwoord": 1,
+   "uitleg": "Volgens de definitie is ook ieder voorval dat past in de omschrijving van één van de twintig omschreven treinincidentscenario's een treinincident.",
+   "bron": "1.2 Wat is een treinincident en wat is een calamiteit?"
+  },
+  {
+   "id": "10-003",
+   "vraag": "Wie is bij een treinincident verantwoordelijk voor de overall-coördinatie en de operationele leiding bij het beperken en afhandelen van het incident?",
+   "opties": [
+    "De betrokken spoorwegonderneming(en)",
+    "ProRail, afdeling Incidentenregie",
+    "De bevelvoerder van de brandweer ter plaatse",
+    "De treindienstleider van de betreffende post"
+   ],
+   "antwoord": 1,
+   "uitleg": "De vakkennis stelt uitdrukkelijk dat niet de spoorwegonderneming(en) maar ProRail, afdeling Incidentenregie, verantwoordelijk is voor overall-coördinatie en operationele leiding.",
+   "bron": "1.3 Wat is ProRail incidentenregie?"
+  },
+  {
+   "id": "10-004",
+   "vraag": "Bij 'opschalen' naar een hoger niveau voor de afhandeling van een treinincident neemt de Regisseur Incidentenregie taken en verantwoordelijkheden over. Van wie?",
+   "opties": [
+    "Van de Voorzitter van het Regionaal Beleidsteam Incidentmanagement",
+    "Van de Officier van Dienst Rail (OvD-R)",
+    "Van de treindienstleider die het incident heeft gealarmeerd",
+    "Van de dienstdoende manager Wachtdienst van de spoorwegonderneming"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij opschalen neemt de Regisseur Incidentenregie de taken en verantwoordelijkheden over van de Officier van Dienst Rail.",
+   "bron": "1.3 Functionarissen Incidentenregie"
+  },
+  {
+   "id": "10-005",
+   "vraag": "Naar wie schaalt de Officier van Dienst Rail 'beleidsmatig' op?",
+   "opties": [
+    "Naar de Regisseur Incidentenregie van ProRail",
+    "Naar de Voorzitter RBI (Regionaal Beleidsteam Incidentmanagement)",
+    "Naar de directie van de betrokken spoorwegonderneming(en) via de manager Wachtdienst",
+    "Naar de Inspectie Leefomgeving en Transport (ILT) en de Onderzoeksraad voor Veiligheid"
+   ],
+   "antwoord": 1,
+   "uitleg": "De OvD-R schaalt operationeel op naar de Regisseur Incidentenregie en beleidsmatig naar de Voorzitter RBI.",
+   "bron": "1.3 Officier van Dienst Rail"
+  },
+  {
+   "id": "10-006",
+   "vraag": "Welke taak hoort volgens de vakkennis bij de Meldkamer spoor/Backoffice?",
+   "opties": [
+    "Het kiezen van een treinincidentscenario en daarop volgend alarmeren van hulpdiensten en spoorpartijen",
+    "Het hersporen van materieel en het vrijbaan maken na een ontsporing, met assistentie aan de hulpdiensten",
+    "Het ter plekke voeren van de operationele leiding en coördinatie, herkenbaar aan kleding met opdruk 'OvD-R'",
+    "Het geven van opdracht tot ruim uitschakelen of complete lijn uitschakeling van de bovenleidingspanning"
+   ],
+   "antwoord": 0,
+   "uitleg": "De Backoffice werkt 24/7 en kiest onder meer het TIS en alarmeert vervolgens (overheids)hulpdiensten en spoorpartijen; hersporen is een taak van Incidentenbestrijding.",
+   "bron": "1.3 Meldkamer spoor/Backoffice"
+  },
+  {
+   "id": "10-007",
+   "vraag": "Welke taak hoort bij Incidentenbestrijding, de operationele organisatie die uitrukt met voorrangsvoertuigen?",
+   "opties": [
+    "Assistentie verlenen bij het evacueren van reizigers uit gestrande treinen",
+    "Verzamelen, vastleggen en distribueren van informatie tijdens een treinincident",
+    "Afstemming met de (overheids)hulpdiensten en borgen van een veilige afhandeling",
+    "Starten van de alarmering zodra een treinincident is vastgesteld"
+   ],
+   "antwoord": 0,
+   "uitleg": "Incidentenbestrijding is verantwoordelijk voor hersporen en vrijbaan maken, assistentie bij redding en bron- en effectbestrijding, en assistentie bij evacuatie uit gestrande treinen.",
+   "bron": "1.3 Incidentenbestrijding"
+  },
+  {
+   "id": "10-008",
+   "vraag": "Welke reeks geeft de eerste veiligheidsmaatregelen van de machinist bij een treinincident weer in de volgorde zoals de vakkennis ze noemt?",
+   "opties": [
+    "Snelremming, alarmoproep via GSM-R, kortsluitkabel plaatsen, gevaarsein ontsteken",
+    "Alarmoproep via GSM-R, snelremming, gevaarsein ontsteken, kortsluitkabel plaatsen",
+    "Snelremming, gevaarsein ontsteken, alarmoproep via GSM-R, tegentrein tegemoet lopen",
+    "Alarmoproep via GSM-R, kortsluitkabel plaatsen, snelremming, tegensein controleren"
+   ],
+   "antwoord": 1,
+   "uitleg": "De eerste veiligheidsmaatregelen zijn: alarmoproep via GSM-R, snelremming, gevaarsein ontsteken, kortsluitkabel plaatsen, eventueel tegensein controleren en eventueel tegentrein tegemoet lopen.",
+   "bron": "1.4 Veiligheidsmaatregelen nemen"
+  },
+  {
+   "id": "10-009",
+   "vraag": "Een trein komt na een incident in een tunnel tot stilstand. Het nevenspoor is vrij en onbelemmerd. Wat doet de machinist met de kortsluitkabel?",
+   "opties": [
+    "Hij plaatst geen kortsluitkabel, zodat andere treinen niet onnodig hoeven te stoppen",
+    "Hij plaatst altijd een kortsluitkabel op het nevenspoor, omdat in tunnels geen uitzonderingen gelden",
+    "Hij plaatst de kortsluitkabel op het eigen spoor om de trein achter hem tegen te houden",
+    "Hij plaatst pas een kortsluitkabel nadat de treindienstleider het nevenspoor buiten gebruik heeft genomen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Is in een tunnel het nevenspoor vrij, dan wordt geen kortsluitkabel geplaatst, zodat andere treinen niet onnodig hoeven te stoppen.",
+   "bron": "1.4 Aandachtspunten plaatsen kortsluitkabel"
+  },
+  {
+   "id": "10-010",
+   "vraag": "Op welk baanvak is de kortsluitkabel volgens de vakkennis niet betrouwbaar?",
+   "opties": [
+    "Op een gecombineerd baanvak ATB-ERTMS, waar de sporen met spoorstroomlopen worden bezetgemeld",
+    "Op ieder ERTMS-baanvak, zonder uitzondering",
+    "Op een baanvak met ATB-EG waar spoorstroomlopen worden gebruikt voor het bezetmelden van de sporen",
+    "Op een baanvak waar alleen assentellers worden gebruikt voor het bezetmelden van de sporen"
+   ],
+   "antwoord": 3,
+   "uitleg": "De kortsluitkabel werkt bijvoorbeeld niet bij ATB-NG of op baanvakken met alleen assentellers; op een aantal ERTMS-baanvakken werkt hij wel, en op gecombineerd ATB-ERTMS moet hij indien nodig ook worden geplaatst.",
+   "bron": "1.4 Aandachtspunten plaatsen kortsluitkabel"
+  },
+  {
+   "id": "10-011",
+   "vraag": "Een machinist wil een treinincident melden, maar de treindienstleider is niet te bereiken. Wat doet hij?",
+   "opties": [
+    "Hij belt 112 en vraagt naar de Meldkamer Spoor",
+    "Hij belt 112 en vraagt naar de Meldkamer politie",
+    "Hij belt de wachtdienst van zijn eigen spoorwegonderneming en wacht op instructies",
+    "Hij belt rechtstreeks de Officier van Dienst Rail"
+   ],
+   "antwoord": 0,
+   "uitleg": "Is de treindienstleider niet te bereiken, dan neemt de machinist contact op met het landelijke alarmnummer 112 en vraagt naar de Meldkamer Spoor.",
+   "bron": "1.4 Treinincident melden aan treindienstleider"
+  },
+  {
+   "id": "10-012",
+   "vraag": "Over de toestand waarvan informeert de machinist de treindienstleider na het nemen van de eerste veiligheidsmaatregelen?",
+   "opties": [
+    "Personeel en overige betrokkenen, materieel, eigen- en nevenspoor, bovenleiding",
+    "Personeel en overige betrokkenen, materieel, weersomstandigheden ter plaatse, stand van de seingeving",
+    "Reizigersaantallen, materieel, eigen spoor, overwegen in de omgeving",
+    "Materieel, lading, eigen- en nevenspoor, bereikbaarheid van de locatie voor de hulpdiensten"
+   ],
+   "antwoord": 0,
+   "uitleg": "Na de eerste veiligheidsmaatregelen informeert de machinist de treindienstleider over de toestand van personeel en overige betrokkenen, materieel, eigen- en nevenspoor en bovenleiding.",
+   "bron": "1.4 Treinincident melden aan treindienstleider"
+  },
+  {
+   "id": "10-013",
+   "vraag": "Welke combinatie bevat uitsluitend gegevens die de vakkennis noemt voor de plaatsbepaling van een locatie?",
+   "opties": [
+    "Treinnummer, overwegnummer, seinnummer en GPS-coördinaten",
+    "Stationsnaam, dienstnummer, wisselnummer en postcode",
+    "Treinnummer, spoornummer, wisselnummer en seinnummer",
+    "Baanvak en kilometrering, bovenleidingmastnummer, seinnummer en tijdstip"
+   ],
+   "antwoord": 2,
+   "uitleg": "Plaatsbepaling kan worden aangegeven door treinnummer, stationsnaam of baanvak en kilometrering, spoornummer, wisselnummer en seinnummer.",
+   "bron": "1.4 Treinincident melden aan treindienstleider"
+  },
+  {
+   "id": "10-014",
+   "vraag": "In welke situatie brengt de machinist de trein bij voorkeur niet tot stilstand onder een perronoverkapping?",
+   "opties": [
+    "Bij een onverklaarbare treinleidingdrukverlaging",
+    "Bij een reiziger die onwel is geworden",
+    "Bij brand in of aan de trein",
+    "Bij een aanslag op het openbaar vervoer"
+   ],
+   "antwoord": 2,
+   "uitleg": "De machinist stopt bij een onveilige situatie bij voorkeur niet in tunnels, op (lange) bruggen en bij brand in/aan de trein onder een perronoverkapping.",
+   "bron": "1.5 Waar moet de machinist proberen niet te stoppen bij een treinincident?"
+  },
+  {
+   "id": "10-015",
+   "vraag": "Wanneer kan de machinist gebruikmaken van een noodremoverbrugging (indien aanwezig)?",
+   "opties": [
+    "Als de trein dreigt stil te vallen op een plaats die niet bereikbaar is voor hulpverleners, of bij direct gevaar",
+    "Als de treindienstleider niet bereikbaar is en de trein op een station langs een perron tot stilstand dreigt te komen",
+    "Alleen nadat de treindienstleider via veiligheidscommunicatie toestemming heeft gegeven, ongeacht de plaats van stilstand",
+    "Als een reiziger de noodrem heeft getrokken terwijl de trein langs een perron staat"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een noodremoverbrugging kan worden gebruikt wanneer de trein dreigt stil te komen op een plaats die niet voor hulpverleners bereikbaar is of wanneer er sprake is van direct gevaar.",
+   "bron": "1.5 Waar moet de machinist proberen niet te stoppen bij een treinincident?"
+  },
+  {
+   "id": "10-016",
+   "vraag": "Wanneer begint en eindigt volgens de vakkennis de alarmering bij een treinincident?",
+   "opties": [
+    "Ze begint bij de alarmoproep van de machinist via GSM-R en eindigt zodra de OvD-R ter plaatse is en de leiding overneemt",
+    "Ze begint wanneer de treindienstleider vaststelt dat er een treinincident is en eindigt als alle betrokken partijen zijn gealarmeerd",
+    "Ze begint wanneer de Backoffice een TIS kiest en eindigt als alle hulpdiensten het spoor hebben verlaten en zijn afgemeld",
+    "Ze begint bij de melding van de machinist aan 112 en eindigt als de treindienstleider de veiligheidsmaatregelen heeft afgeschaald"
+   ],
+   "antwoord": 1,
+   "uitleg": "Alarmering start op het moment dat de treindienstleider vaststelt dat er een treinincident is en eindigt wanneer alle betrokken partijen zijn gealarmeerd.",
+   "bron": "1.6 Alarmering"
+  },
+  {
+   "id": "10-017",
+   "vraag": "Wat is de juiste koppeling tussen bovenleidingspanning en de opdracht die de treindienstleider geeft om de spanning af te schakelen?",
+   "opties": [
+    "1500V gelijkspanning: complete lijn uitschakeling; 25kV wisselspanning: ruim uitschakelen",
+    "1500V gelijkspanning: plaatselijk uitschakelen; 25kV wisselspanning: ruim uitschakelen",
+    "Bij beide spanningssoorten: ruim uitschakelen, aangevuld met aarden door Incidentenbestrijding",
+    "1500V gelijkspanning: ruim uitschakelen; 25kV wisselspanning: complete lijn uitschakeling"
+   ],
+   "antwoord": 3,
+   "uitleg": "De treindienstleider geeft afhankelijk van de situatie opdracht tot ruim uitschakelen (1500V gelijkspanning) of complete lijn uitschakeling (25kV wisselspanning).",
+   "bron": "1.6 Spanning uitschakelen"
+  },
+  {
+   "id": "10-018",
+   "vraag": "Onder welke voorwaarden mag een treindienstleider de veiligheidsmaatregelen afschalen?",
+   "opties": [
+    "Na toestemming van de Regisseur Incidentenregie en nadat de machinist via veiligheidscommunicatie heeft gemeld dat het spoor vrij is",
+    "Na toestemming van de OvD-R en nadat hij via de Meldkamer politie heeft gehoord dat alle hulpdiensten het spoor hebben verlaten",
+    "Na toestemming van de OvD-R en nadat Incidentenbestrijding heeft gemeld dat het materieel is herspoord en weggesleept",
+    "Zodra de Meldkamer spoor/Backoffice meldt dat alle betrokken partijen zijn gealarmeerd en de OvD-R ter plaatse is"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een treindienstleider mag pas afschalen na toestemming van de OvD-R en nadat hij via de Meldkamer politie heeft gehoord dat alle hulpdiensten het spoor hebben verlaten.",
+   "bron": "1.6 Afschalen veiligheidsmaatregelen"
+  },
+  {
+   "id": "10-019",
+   "vraag": "Op een stilstaande trein is behalve de machinist geen ander personeel aanwezig en evacuatie wordt overwogen. Wie beslist over het wel of niet evacueren?",
+   "opties": [
+    "De treindienstleider, omdat er geen conducteur aanwezig is die als chef van de trein kan optreden",
+    "De machinist, als chef van de trein, volgens de regels van zijn spoorwegonderneming",
+    "De Officier van Dienst Rail, die daarover beslist zodra hij ter plaatse is en de leiding heeft",
+    "De Meldkamer spoor/Backoffice, op basis van het gekozen treinincidentscenario (TIS)"
+   ],
+   "antwoord": 1,
+   "uitleg": "Het treinpersoneel beslist over evacueren; is er geen ander personeel, dan is de machinist chef van de trein en handelt hij naar de regels van zijn spoorwegonderneming.",
+   "bron": "1.7 Wat doet de machinist bij evacuatie van reizigers?"
+  },
+  {
+   "id": "10-020",
+   "vraag": "Er moet geëvacueerd worden. Wat doet de machinist volgens de vakkennis als eerste?",
+   "opties": [
+    "Wachten tot de treindienstleider toestemming geeft waarop reizigers de trein kunnen verlaten",
+    "Bekijken aan welke kant ontgrendeld moet worden en direct de deuren aan die kant openen",
+    "Afspraken maken met het treinpersoneel over de maatregelen en direct toestemming geven tot evacuatie",
+    "Reizigers vragen elkaar te helpen en alvast de deuren aan de perronzijde of veilige kant ontgrendelen"
+   ],
+   "antwoord": 0,
+   "uitleg": "De eerste stap bij evacuatie is wachten tot de treindienstleider toestemming geeft; daarna bepaalt de machinist de veilige kant, maakt afspraken met treinpersoneel en assisteert.",
+   "bron": "1.7 Wat doet de machinist bij evacuatie van reizigers?"
+  },
+  {
+   "id": "10-021",
+   "vraag": "Bij een evacuatie op een baanvak met meer sporen moeten reizigers een spoor oversteken. Welke maatregelen neemt de machinist?",
+   "opties": [
+    "Hij vraagt de treindienstleider alle sporen van het baanvak buiten gebruik te nemen en plaatst alleen een kortsluitkabel op het eigen spoor achter zijn trein",
+    "Hij vraagt de treindienstleider de bovenleiding uit te schakelen en laat de reizigers tussen de sporen door naar het dichtstbijzijnde station lopen",
+    "Hij vraagt de treindienstleider de sporen aan de kant van het dichtstbijzijnde looppad buiten gebruik te nemen en plaatst een kortsluitkabel op de over te steken sporen",
+    "Hij plaatst een kortsluitkabel op het nevenspoor aan de zijde van het looppad en laat de reizigers zonder tussenkomst van de treindienstleider oversteken"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij evacuatie op een baanvak met meer sporen vraagt de machinist de sporen aan de zijde van het dichtstbijzijnde looppad buiten gebruik te nemen en plaatst hij een kortsluitkabel op sporen waar reizigers moeten oversteken.",
+   "bron": "1.7 Evacuatie op een baanvak met meer sporen"
+  },
+  {
+   "id": "10-022",
+   "vraag": "Na een bovenleidingbreuk moeten reizigers geëvacueerd worden. Welke handeling hoort hier volgens de vakkennis bij?",
+   "opties": [
+    "De treindienstleider vragen de spanning van de bovenleiding te halen (uitschakelen) en afstand houden van de bovenleiding",
+    "De stroomafnemers omhoog laten om de gebroken bovenleiding te ondersteunen en reizigers pas laten uitstappen als de hulpdiensten er zijn",
+    "Direct evacueren via de veilige kant en de treindienstleider pas achteraf informeren over de locatie en het treinnummer",
+    "De kortsluitkabel tegen de gebroken bovenleiding plaatsen om deze te aarden en daarna de reizigers laten uitstappen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij evacuatie na bovenleidingbreuk vraagt de machinist de treindienstleider de spanning eraf te halen, geeft locatie en treinnummer door en houdt afstand van de bovenleiding.",
+   "bron": "1.7 Evacuatie na bovenleidingbreuk"
+  },
+  {
+   "id": "10-023",
+   "vraag": "Een machinist brengt bezwaren in tegen het langer stilstaan van zijn trein voor strafrechtelijk onderzoek, maar er wordt geen overeenstemming bereikt met justitie. Wat doet hij?",
+   "opties": [
+    "Hij volgt de instructie van de treindienstleider, omdat die bij een treinincident leidend is",
+    "Hij rijdt door zodra de slachtoffers verzorgd zijn en meldt dit achteraf aan justitie",
+    "Hij handelt naar de wens van justitie en meldt dit na afloop van zijn dienst aan zijn spoorwegonderneming",
+    "Hij handelt naar de wens van justitie en meldt dit direct aan de treindienstleider"
+   ],
+   "antwoord": 3,
+   "uitleg": "Wordt geen overeenstemming bereikt, dan handelt de machinist naar de wens van justitie en meldt hij dit direct aan de treindienstleider.",
+   "bron": "1.8 Wat is de rol van de machinist bij eventueel justitieel onderzoek?"
+  },
+  {
+   "id": "10-024",
+   "vraag": "Wat moet de machinist tijdens een verklaring aan de politie (als verdachte of als getuige) doen?",
+   "opties": [
+    "Antwoord geven op vragen over de toedracht en zijn mening geven over de schuldvraag",
+    "Alleen meewerken aan een ademtest als hij als verdachte wordt aangemerkt",
+    "Een volledige verklaring afleggen, ook als die belastend is voor collega's",
+    "Antwoord geven op vragen over de toedracht en meewerken aan een ademtest"
+   ],
+   "antwoord": 3,
+   "uitleg": "De machinist geeft antwoord op vragen over de toedracht, doet geen uitspraken over de schuldvraag, legt geen belastende verklaringen af en werkt mee aan een ademtest.",
+   "bron": "1.8 Wat is de rol van de machinist bij eventueel justitieel onderzoek?"
+  },
+  {
+   "id": "10-025",
+   "vraag": "Bij een treinincident is nog geen leidinggevende en geen OvD-R aanwezig. De politie vraagt de machinist van de regels af te wijken. Wat is juist?",
+   "opties": [
+    "De politie heeft bij een treinincident het gezag; de machinist moet haar aanwijzing altijd opvolgen en meldt dit achteraf",
+    "De verantwoordelijkheid ligt bij de Meldkamer spoor/Backoffice; afwijken van de regels mag alleen na toestemming van de Backoffice",
+    "De verantwoordelijkheid ligt alleen bij de treindienstleider; de machinist mag nooit van de regels afwijken",
+    "Machinist en treindienstleider zijn verantwoordelijk voor de spoorwegveiligheid; afwijken mag alleen als die niet in gevaar komt"
+   ],
+   "antwoord": 3,
+   "uitleg": "Zolang er geen leidinggevende aanwezig is, ligt de verantwoordelijkheid bij machinist en treindienstleider; afwijken op verzoek van de politie mag alleen als de spoorwegveiligheid niet in gevaar komt.",
+   "bron": "1.9 Hoe is de gezagsverhouding bij treinincidenten?"
+  },
+  {
+   "id": "10-026",
+   "vraag": "Bij een treinincident is een wachtdienstfunctionaris van de eigen spoorwegonderneming aanwezig, maar (nog) geen OvD-R. Wat geldt voor de verantwoordelijkheid voor de spoorwegveiligheid?",
+   "opties": [
+    "De wachtdienstfunctionaris is verantwoordelijk, maar overlegt altijd eerst met de machinist over mogelijke risico's",
+    "De machinist blijft verantwoordelijk zolang er geen OvD-R is; de wachtdienstfunctionaris heeft alleen een adviserende rol",
+    "De wachtdienstfunctionaris is verantwoordelijk en hoeft de machinist niet te raadplegen",
+    "De treindienstleider blijft verantwoordelijk tot de OvD-R ter plaatse is; de wachtdienstfunctionaris ondersteunt alleen het personeel"
+   ],
+   "antwoord": 0,
+   "uitleg": "Is een wachtdienstfunctionaris of leidinggevende van de eigen organisatie aanwezig, dan is deze verantwoordelijk voor de spoorwegveiligheid, maar hij overlegt altijd eerst met de machinist over mogelijke risico's.",
+   "bron": "1.9 Hoe is de gezagsverhouding bij treinincidenten?"
+  },
+  {
+   "id": "10-027",
+   "vraag": "Een machinist merkt een onverwachte daling van de treinleidingdruk; in de cabine verschijnt geen andere melding. Welke veiligheidsmaatregelen neemt hij in elk geval?",
+   "opties": [
+    "Snelremming uitvoeren en stroomafnemers neerlaten of dieselmotor uitzetten",
+    "Snelremming uitvoeren en de treinleiding opnieuw vullen om de oorzaak te testen",
+    "Normaal remmen tot stilstand en de treindienstleider vragen om een hulptrein",
+    "Snelremming uitvoeren en direct langs de trein lopen om lekkage op te sporen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Zonder andere cabinemelding gaat de machinist uit van een ontsporing; hij voert een snelremming uit en laat de stroomafnemers neer of zet de dieselmotor uit.",
+   "bron": "1.10 Wat doet de machinist bij onverklaarbare treinleidingdrukverlaging?"
+  },
+  {
+   "id": "10-028",
+   "vraag": "Bij een onverklaarbare treinleidingdrukverlaging neemt de machinist onder een bepaalde voorwaarde daarnaast maatregelen als alarmoproep, gevaarsein ontsteken en eventueel nevenspoor afdekken. Welke voorwaarde is dat?",
+   "opties": [
+    "Er is geen zicht op de lengte van de trein",
+    "De trein is een goederentrein met gevaarlijke stoffen",
+    "De treindienstleider is niet bereikbaar",
+    "De trein staat stil op een baanvak met meer dan twee sporen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Indien er geen zicht is op de lengte van de trein, neemt de machinist daarnaast onder meer alarmoproep, gevaarsein, kortsluitkabel en informeren van treindienstleider en eigen spoorwegonderneming.",
+   "bron": "1.10 Wat doet de machinist bij onverklaarbare treinleidingdrukverlaging?"
+  },
+  {
+   "id": "10-029",
+   "vraag": "Een machinist van een gestrande trein heeft om hulp gevraagd. Kort daarna lukt het hem het defect te verhelpen. Wat geldt?",
+   "opties": [
+    "Hij mag direct doorrijden, mits hij de treindienstleider en zijn spoorwegonderneming achteraf informeert",
+    "Hij mag doorrijden zodra hij de afdekking van het gevaarpunt heeft opgeheven",
+    "Hij moet altijd wachten tot de hulptrein is aangekoppeld en hem naar het eerstvolgende station sleept",
+    "Hij mag de trein niet zonder meer in beweging zetten, ook al is het defect verholpen"
+   ],
+   "antwoord": 3,
+   "uitleg": "Als de machinist om hulp heeft gevraagd mag hij de trein niet zonder meer in beweging zetten, ook al is het defect verholpen; het inzetten van een hulptrein is aan voorwaarden gebonden (TSI OPE aanhangsel B).",
+   "bron": "1.11 Wat doet de machinist bij een gestrande trein?"
+  },
+  {
+   "id": "10-030",
+   "vraag": "Een machinist vermoedt dat zijn trein anders dan door seingeving in een tunnel tot stilstand gaat komen. Wat doet hij?",
+   "opties": [
+    "Hij meldt dit pas aan de treindienstleider als de trein daadwerkelijk stilstaat",
+    "Hij laat direct de stroomafnemers neer en evacueert via de vluchtdeuren",
+    "Hij meldt dit direct aan de treindienstleider via een alarmoproep",
+    "Hij meldt dit aan zijn spoorwegonderneming, die de treindienstleider informeert"
+   ],
+   "antwoord": 2,
+   "uitleg": "Constateert of vermoedt de machinist dat de trein anders dan door seingeving in een tunnel tot stilstand gaat komen, dan meldt hij dit direct aan de treindienstleider (alarmoproep).",
+   "bron": "1.13 Wat doet de machinist bij brand en/of rookontwikkeling in of voor een tunnel?"
+  },
+  {
+   "id": "10-031",
+   "vraag": "Welke informatie geeft de machinist bij brand in of voor een tunnel door aan de treindienstleider?",
+   "opties": [
+    "Oorzaak, ernst en zijn acties, functie (dienstnummer), treinnummer, (nummer) tunnelbuis en indien mogelijk een schatting van het aantal reizigers",
+    "Oorzaak en ernst, zijn naam en woonplaats, treinnummer, de kilometrering van de tunnelingang en het aantal rijtuigen van de trein",
+    "Type en toestand van het materieel, het nummer van de dichtstbijzijnde vluchtdeur, treinnummer en de namen van het treinpersoneel aan boord",
+    "Oorzaak en ernst, de stand van de sprinklerinstallatie, het seinnummer voor de tunnel en het exacte aantal reizigers per rijtuig"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij brand in of voor de tunnel meldt de machinist: (mogelijke) oorzaak, ernst en acties, functie (dienstnummer), treinnummer, plaatsbepaling ((nummer) tunnelbuis) en indien mogelijk een schatting van het aantal reizigers.",
+   "bron": "1.13 Wat doet de machinist bij brand en/of rookontwikkeling in of voor een tunnel?"
+  },
+  {
+   "id": "10-032",
+   "vraag": "Bij brand in de trein hoeft de machinist geen rekening te houden met een tunnel, brug of perronoverkapping. Bij gevaar waarvoor stopt hij dan zo snel mogelijk?",
+   "opties": [
+    "Personen, vertraging van het overige treinverkeer, schade aan het materieel en uitval van de verlichting in de trein",
+    "Uitsluitend personen; bij ander gevaar rijdt hij altijd door naar het eerstvolgende station met een perron",
+    "Personen, omgeving (milieu en spoorwegomgeving), ontsporing en ernstige uitbreiding van de brand",
+    "Omgeving (milieu en spoorwegomgeving), schade aan de bovenleiding, uitval van de airco en uitbreiding van de brand"
+   ],
+   "antwoord": 2,
+   "uitleg": "Zonder tunnel, brug of perronoverkapping stopt de machinist zo snel mogelijk bij gevaar voor personen, omgeving (milieu en spoorwegomgeving), ontsporing en ernstige uitbreiding van de brand.",
+   "bron": "1.14 Wat doet de machinist bij brand en/of rookontwikkeling in de trein?"
+  },
+  {
+   "id": "10-033",
+   "vraag": "Onder welke omstandigheden probeert de machinist bij brand het brandende deel van de trein los te koppelen van het niet-brandende deel?",
+   "opties": [
+    "Altijd, ongeacht het type koppeling, zodra de trein stilstaat, ook als die onder een perronoverkapping of in een tunnel staat",
+    "Alleen na toestemming van de bevelvoerder van de brandweer en uitsluitend bij een schroefkoppeling tussen de wagens",
+    "Bij automatische koppeling of loc-eerste wagen/rijtuig, in overleg met zijn spoorwegonderneming en afhankelijk van de situatie",
+    "Alleen bij dieselmaterieel, nadat de dieselmotoren zijn gestopt en de treindienstleider uitdrukkelijk akkoord heeft gegeven"
+   ],
+   "antwoord": 2,
+   "uitleg": "De machinist probeert het brandende deel los te koppelen (bij automatische koppeling of loc-eerste wagen/rijtuig), in overleg met zijn spoorwegonderneming en afhankelijk van de situatie.",
+   "bron": "1.14 Ontkoppelen materieel"
+  },
+  {
+   "id": "10-034",
+   "vraag": "Wat doet de machinist als hij vaststelt dat zijn trein een stoptonend sein is gepasseerd?",
+   "opties": [
+    "Hij rijdt door tot het volgende sein, stopt daar en meldt de passage dan aan de treindienstleider via GSM-R",
+    "Hij stopt de trein onmiddellijk, neemt contact op met de treindienstleider en neemt de nodige veiligheidsmaatregelen",
+    "Hij rijdt voorzichtig terug tot voor het sein en meldt de passage daarna aan de treindienstleider",
+    "Hij stopt de trein, plaatst een kortsluitkabel op het eigen spoor en wacht zonder verder contact op de OvD-R"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij een onterechte passage van een stoptonend sein stopt de machinist de trein onmiddellijk, neemt contact op met de treindienstleider en neemt de nodige veiligheidsmaatregelen.",
+   "bron": "1.15 Wat gebeurt er bij een onterechte passage van een stoptonend sein?"
+  },
+  {
+   "id": "10-035",
+   "vraag": "Op een warme zomerdag ziet een machinist ijs-/condensvorming op de ketelwand van een ketelwagen met sterk gekoeld gas (bijvoorbeeld chloor). Hoe moet hij dit beoordelen?",
+   "opties": [
+    "Als onregelmatigheid; ijs op de ketelwand duidt altijd op het vrijkomen van gas",
+    "Als normaal; ook ijsvorming aan afsluiters en flenzen is bij gekoelde gassen normaal",
+    "Als onregelmatigheid, maar alleen als de wagen ook beschadigd is",
+    "Als normaal; ijsvorming aan afsluiters en flenzen zou wel een onregelmatigheid zijn"
+   ],
+   "antwoord": 3,
+   "uitleg": "IJsvorming aan afsluiters en flenzen van een gasreservoir is een onregelmatigheid, maar ijs-/condensvorming op de ketelwand bij sterk gekoelde gassen niet; dit is normaal tijdens zomerdagen.",
+   "bron": "1.16 Hoe herkent de machinist een onregelmatigheid met gevaarlijke stoffen?"
+  },
+  {
+   "id": "10-036",
+   "vraag": "Wanneer valt een lege ketelwagen waarin gevaarlijke stoffen hebben gezeten niet meer onder de regeling 'gevaarlijke stoffen'?",
+   "opties": [
+    "Zodra de ketelwagen volledig is gelost bij de ontvanger en de afsluiters door de verlader zijn gecontroleerd",
+    "Als is aangegeven dat de ketel gereinigd is; de opschriften op de schilden zijn dan verwijderd",
+    "Als de ketelwagen langer dan 24 uur leeg heeft gestaan en er geen stank of lekkage meer waarneembaar is",
+    "Als de machinist heeft vastgesteld dat de afsluiters zijn dichtgedraaid"
+   ],
+   "antwoord": 1,
+   "uitleg": "Lege ketelwagens zijn even gevaarlijk als volle (restlading), behalve wanneer aangegeven is dat ze gereinigd zijn; bij een gereinigde ketel zijn de opschriften op de schilden verwijderd.",
+   "bron": "1.16 Hoe herkent de machinist een onregelmatigheid met gevaarlijke stoffen?"
+  },
+  {
+   "id": "10-037",
+   "vraag": "Een machinist van een goederentrein gaat op onderzoek uit bij een wagen met gevaarlijke stoffen. Hoe benadert hij de wagen?",
+   "opties": [
+    "Zoveel mogelijk met de wind tegen; bij windstil weer mag hij de wagen gewoon benaderen",
+    "Altijd haaks op de windrichting; bij windstil weer alleen met vluchtmasker",
+    "Zoveel mogelijk met de wind in de rug; bij windstil weer gaat hij niet naar de wagen toe",
+    "Zoveel mogelijk met de wind in de rug; bij windstil weer alleen met vluchtmasker en signalerende kleding"
+   ],
+   "antwoord": 2,
+   "uitleg": "De machinist loopt zoveel mogelijk met de wind in de rug naar de wagen toe en gaat bij windstil weer niet naar de wagen toe; bij lekkage loopt hij haaks op de windrichting weg (niet rennen).",
+   "bron": "1.17 Op onderzoek uitgaan"
+  },
+  {
+   "id": "10-038",
+   "vraag": "Een machinist van een reizigerstrein passeert op de vrije baan een goederentrein en vermoedt een incident met gevaarlijke stoffen. Wat doet hij?",
+   "opties": [
+    "Hij stopt direct naast de goederentrein om de situatie te beoordelen en plaatst een alarmoproep via GSM-R",
+    "Hij stopt zo snel mogelijk en dekt het nevenspoor af met de kortsluitkabel",
+    "Hij rijdt door, zet de luchtventilatie uit en meldt het vermoeden pas op het volgende station aan de treindienstleider",
+    "Hij plaatst een alarmoproep via GSM-R, stopt niet en zet indien mogelijk de luchtventilatie tijdelijk uit"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een vermoeden plaatst hij een alarmoproep via GSM-R, stopt hij als reizigerstrein niet vanwege gevaar voor de reizigers en zet hij indien mogelijk de luchtventilatie voor een bepaalde tijd uit.",
+   "bron": "1.17 Tijdens de rit"
+  },
+  {
+   "id": "10-039",
+   "vraag": "Een machinist constateert op een emplacement een onregelmatigheid met gevaarlijke stoffen aan een stilstaande goederentrein. Welke maatregel hoort daarbij?",
+   "opties": [
+    "Hij loopt met de wind tegen weg van de trein, zodat hij een eventuele stof kan ruiken en de aard kan doorgeven",
+    "Hij gebruikt een lamp met open vlam om de wagen goed te kunnen inspecteren",
+    "Hij laat de stroomafnemers van materieel in de buurt juist omhoog, zodat dat materieel snel uit het gebied kan wegrijden",
+    "Hij laat indien mogelijk stroomafnemers zakken of dieselmotoren uitzetten van materieel in de buurt"
+   ],
+   "antwoord": 3,
+   "uitleg": "Op een station/emplacement laat de machinist indien mogelijk de stroomafnemers zakken of dieselmotoren uitzetten van materieel in de buurt, loopt hij haaks op de windrichting weg en ontsteekt geen vuur of licht.",
+   "bron": "1.17 Vanuit stilstaande trein op station/emplacement"
+  },
+  {
+   "id": "10-040",
+   "vraag": "Welke gegevens van het Kemlerbord geeft de machinist bij een onregelmatigheid met gevaarlijke stoffen door aan de treindienstleider?",
+   "opties": [
+    "Het UN-nummer en het wagenkenmerk",
+    "De GEVI-code en het nummer van het gevaarsetiket",
+    "De GEVI-code en het UN-nummer",
+    "Het wagennummer en de stofnaam"
+   ],
+   "antwoord": 2,
+   "uitleg": "De machinist meldt zo mogelijk onder meer de gegevens op het Kemlerbord (GEVI-code; UN-nummer); wagenkenmerk, gevaarsetiketten en stofnaam zijn afzonderlijke gegevens.",
+   "bron": "1.17 Melding aan de treindienstleider en overige maatregelen"
+  },
+  {
+   "id": "10-041",
+   "vraag": "Welke maatregel is volgens de vakkennis een taak van de treindienstleider bij incidenten met gevaarlijke stoffen?",
+   "opties": [
+    "Het nevenspoor ter plaatse met een kortsluitkabel afdekken",
+    "Opdracht geven de wisselverwarming en ander open vuur te doven",
+    "Tegemoetkomende treinen ter plaatse waarschuwen met rode lamp en/of rode vlag",
+    "De gegevens van het Kemlerbord (GEVI-code en UN-nummer) ter plaatse aflezen"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij incidenten met gevaarlijke stoffen geeft de treindienstleider opdracht de wisselverwarming en ander open vuur te doven; de machinist vraagt om de bovenleiding spanningsloos te stellen.",
+   "bron": "1.17 Melding aan de treindienstleider en overige maatregelen"
+  },
+  {
+   "id": "10-042",
+   "vraag": "Uiterlijk wanneer moeten wagenlijsten worden geleverd aan het systeem Online Vervoer Gevaarlijke Stoffen (OVGS)?",
+   "opties": [
+    "Vijftien minuten voor vertrek",
+    "Direct na vertrek van de trein",
+    "Vijf minuten voor vertrek",
+    "Dertig minuten voor vertrek"
+   ],
+   "antwoord": 2,
+   "uitleg": "Wagenlijsten moeten uiterlijk vijf minuten voor vertrek worden geleverd aan OVGS, zodat hulpdiensten bij een calamiteit sneller te werk kunnen gaan.",
+   "bron": "1.17 OVGS/WLIS"
+  },
+  {
+   "id": "10-043",
+   "vraag": "Een machinist heeft zelf een verdacht voorwerp in zijn rijdende trein geïdentificeerd. Het volgende station heeft meerdere aankomstsporen. Hoe handelt hij?",
+   "opties": [
+    "Hij stopt direct op de vrije baan, laat de reizigers uitstappen en vraagt de treindienstleider de alarmering te verzorgen",
+    "Hij licht de treindienstleider in, rijdt zo snel mogelijk naar het station en kiest zelf het perron dat het dichtst bij de uitgang ligt",
+    "Hij licht de treindienstleider in en stopt op een gunstige plaats buiten het station voor de hulpdiensten",
+    "Hij licht de treindienstleider in en rijdt zo langzaam mogelijk naar het station, zodat die een geschikte stoplocatie kan zoeken"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een bevestigde of zelf geïdentificeerde verdenking licht de machinist de treindienstleider in en rijdt naar het volgende station; bij meerdere aankomstsporen zo langzaam mogelijk om de treindienstleider tijd te geven een stoplocatie te zoeken.",
+   "bron": "1.18 Wat doet de machinist bij verdacht gedrag en/of een verdacht voorwerp in de trein?"
+  },
+  {
+   "id": "10-044",
+   "vraag": "Een machinist krijgt tijdens de rit van de politie een bommelding door. Wat doet hij?",
+   "opties": [
+    "Hij rijdt zo langzaam mogelijk door naar het volgende station, zodat de treindienstleider een perron kan kiezen, en laat daar iedereen uitstappen",
+    "Hij stopt onmiddellijk met een snelremming, ongeacht de plaats, en verzorgt daarna zelf de alarmering via 112 en de Meldkamer Spoor",
+    "Hij brengt in overleg met de treindienstleider de trein op een gunstige plaats tot stilstand en vraagt die de alarmering te verzorgen",
+    "Hij rijdt door naar het eerstvolgende perron, laat de reizigers uitstappen en gaat daarna naar het voorplein van het station"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een bommelding brengt de machinist in overleg met de treindienstleider de trein op een gunstige plaats tot stilstand en vraagt de treindienstleider de alarmering te verzorgen.",
+   "bron": "1.19 Wat doet de machinist bij een bommelding?"
+  },
+  {
+   "id": "10-045",
+   "vraag": "Er is een aanslag op het openbaar vervoer gepleegd en het treinverkeer wordt volledig stilgelegd. Waar wacht de machinist, nadat de reizigers zijn uitgestapt, op verdere instructies?",
+   "opties": [
+    "In de cabine van zijn trein",
+    "Op het perron naast zijn trein",
+    "Op het voorplein van het station",
+    "Bij de dienstruimte van zijn spoorwegonderneming"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een aanslag stopt de machinist langs het eerstvolgende perron, informeert treinpersoneel, laat reizigers uitstappen, overlegt over afrangeren en gaat naar het voorplein van het station om op instructies te wachten.",
+   "bron": "1.20 Wat doet de machinist bij een aanslag op het openbaar vervoer?"
+  }
+ ]
+}

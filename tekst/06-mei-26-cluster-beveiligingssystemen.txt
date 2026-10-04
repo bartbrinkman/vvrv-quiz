@@ -1,0 +1,783 @@
+VVRV cluster Beveiligingssystemen
+
+                                                                                                                                                             1/20
+1  Beveiligings syst emen
+
+   Beveiligingssystemen                                                         2
+
+   1.1 Voorwoord                                                                3
+
+   1.2 Wat is centraal bediend gebied en niet centraal bediend
+
+                           gebied?                                              3
+
+   1.3 Wat is het blokstelsel op de vrije baan?                                 4
+
+   1.4 Welke soorten beveiligingssystemen met automatisch blokstelsel
+
+                           zijn er op de vrije baan/hoofdspoorweg?              6
+
+   1.5 Welke soorten beveiligingssystemen zonder automatisch
+
+                           blokstelsel zijn er op de vrije baan/hoofdspoorweg?  7
+
+   1.6 Welke soorten beveiligingssystemen zijn er op stations en
+
+                           emplacementen?                                       8
+
+   1.7 Wat is het verschil tussen bediende emplacementen en vrije
+
+                           baan/hoofdspoorweg?                                  9
+
+   1.8 Wat is de opbouw van het seinstelsel langs de baan?                      10
+
+   1.9 Wat doet de machinist bij een hoofdsein dat niet uit de stand stop
+
+                           komt?                                                13
+
+   1.10 Wat doet de machinist bij een gedoofd of onjuist hoofdsein?             13
+
+   1.11 Wat is automatische treinbeïnvloeding (ATB)?                            14
+
+   1.12 Welke soorten ATB zijn er?                                              15
+
+   1.13 Wat doet de machinist bij ATB-storingen?                                18
+
+   1.14 Wat is ERTMS/ETCS?                                                      19
+
+   1.15 Wat is het verschil tussen ATB en ERTMS?                                19
+
+VVRV cluster Beveiligingssystemen                                                   2/20
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan
+verbreding worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld.
+Toch kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet
+aansprakelijk voor schade als gevolg daarvan.
+
+Versie mei 2026
+
+1.2 Wat is centraal bediend gebied en niet centraal bediend gebied?
+
+Het Nederlandse spoorwegnet is voor wat betreft de beveiliging te verdelen in centraal
+bediend gebied (CBG) en niet centraal bediend gebied (NCBG).
+
+Een CBG is een gebied op het spoorwegnet:
+- waar de bediening van de seinen en individuele infraobjecten plaatsvindt vanuit één
+
+     centraal punt
+- waarbinnen de samenhang van rijweginstelling en spoorbezetting vanuit één systeem
+
+     wordt bewaakt.
+
+In het CBG wordt de rijweg beveiligd vanuit de post van de treindienstleider. Hij:
+- stelt een veilige rijweg in
+- bedient de seinen en de wissels
+- is verantwoordelijk voor de veiligheid in zijn gebied.
+
+Een NCBG is een gebied op het spoorwegnet waarbinnen de bediening van individuele
+infraobjecten en de rijweginstelling lokaal plaatsvindt. Dit gebeurt onder supervisie van een
+treindienstleider.
+
+Omdat de treindienstleider in NCBG geen infrabezetting ziet, kan hij geen garanties geven
+voor het veilig berijdbaar zijn van sporen. De machinist is zelf verantwoordelijk voor een
+veilige verplaatsing van het materieel.
+
+VVRV cluster Beveiligingssystemen  3/20
+Vooraf spreken machinist en treindienstleider af welke rangeerbewegingen worden
+uitgevoerd.
+
+De treindienstleider is namens de infrabeheerder de verantwoordelijke voor de treinenloop.
+Door het instellen van rijwegen en het bedienen van wissels en seinen geeft hij een gedeelte
+van het spoor vrij zodat een spoorwegonderneming er met haar treinen overheen kan rijden.
+
+1.3 Wat is het blokstelsel op de vrije baan?
+
+Het blokstelsel
+Met blokstelsel wordt een beveiliging van een spoorweg bedoeld waarbij de baan is
+ingedeeld in blokken. Doel van het indelen in blokken is dat er meer treinbewegingen
+mogelijk zijn; de seinen zorgen voor een veilige onderlinge afstand wanneer treinen kort
+achter elkaar vertrekken in dezelfde richting.
+
+Op het beveiligde spoorwegnet rijdt een machinist van het ene blok naar het volgende blok.
+Een bloklengte is de afstand tussen twee seinen. Als de trein een blok binnenrijdt, toont het
+sein aan het begin van het blok rood.
+
+Een treindetectiesysteem bepaalt voor elk blok of het door een trein bezet of vrij is (met
+andere woorden: of er wel of geen sprake is van blokbezetting).
+
+De treindetectie gebeurt door middel van spoorstroomlopen en/of assentellers.
+
+De status `wel of geen blokbezetting' wordt met een licht- of cabinesein (dit laatste bij
+ERTMS) aan de machinist doorgegeven.
+
+Uitgezonderd bij treinincidenten mag zich maar één trein tegelijk in een blok bevinden.
+
+ES-lassen en geïsoleerd spoor
+Voor de treindetectie worden spoorsecties toegepast die onderling elektrisch geïsoleerd zijn
+door elektrische scheidingslassen. Deze ES-lassen scheiden de spoorstaven van het ene blok
+elektrisch van de spoorstaven in het aangrenzende blok.
+
+In het hele beveiligde gebied (vrije baan, stations en emplacementen) is het spoor door de
+ES-lassen verdeeld in geïsoleerde secties, vandaar de term: `geïsoleerd spoor'.
+
+Aan de ene zijde van het blok wordt een spanning aangesloten en aan de andere zijde een
+relais. Is het blok niet bezet, dan loopt er van de ene spoorstaaf naar de andere een
+stroompje dat het relais aan de andere zijde bekrachtigt. We spreken dan van een
+opgetrokken relais. Rijdt een trein het blok in, dan ontstaat er via de wielassen van de trein
+kortsluiting. Het relais krijgt geen spanning meer en valt af. Door het `afvallen' van het relais
+
+VVRV cluster Beveiligingssystemen  4/20
+detecteert het beveiligingssysteem dat het spoor bezet is en toont het gepasseerde sein
+automatisch rood. Omdat een trein een lange remweg heeft, gaat het sein van het vorige
+blok van rood naar geel. Zodoende kan de machinist van een achteropkomende trein de
+remming tijdig inzetten.
+
+Ook bij storing wordt de voeding onderbroken en zorgt het relais ervoor dat het sein
+automatisch rood toont.
+
+Assentellers
+Een assenteller is vrijwel direct op de spoorstaaf gemonteerd.
+
+Een assenteller meet het magnetisch veld. Een treinwiel dat de assenteller passeert, verstoort
+het magnetisch veld. Door het optreden van de verstoring wordt de betreffende as geteld.
+
+Het aantal assen bij het begin van het blok wordt vergeleken met het aantal getelde assen
+aan het eind van het blok. Als er evenveel assen zijn geteld, wordt het blok als vrij
+beschouwd. Bij een verschil moet er materieel zijn achtergebleven en wordt het blok als
+bezet beschouwd.
+
+Bij elk elektronisch systeem is er kans op storingen. Bij een telfout in de assentellers kiest het
+beveiligingssysteem de veiligste kant (`fail-safe') en blijft het blok bezet. De machinist mag
+het blok vervolgens, in verband met een mogelijke bezetting, alleen inrijden met
+toestemming van de treindienstleider.
+
+Om telfouten te corrigeren heeft de treindienstleider de mogelijkheid het assentellersysteem
+te resetten. Het systeem wordt dan op nul gezet en het blok komt pas vrij als de trein het blok
+daadwerkelijk in zijn geheel verlaten heeft. Dit wordt een zachte reset genoemd.
+
+Bij een harde reset wordt het blok direct vrijgegeven naar de beveiliging. De trein hoeft het
+blok niet uit te rijden. (Een harde reset gebeurt ter plaatse in de relaiskast, met toestemming
+van de treindienstleider.)
+
+Voor een harde reset moet de treindienstleider:
+- er van overtuigd zijn dat er geen trein onderweg is
+- strikt de procedure voor de harde reset in acht nemen.
+
+VVRV cluster Beveiligingssystemen  5/20
+1.4 Welke soorten beveiligingssystemen met automatisch blokstelsel zijn er
+       op de vrije baan/hoofdspoorweg?
+
+Enkelspoorbeveiliging
+Enkelsporige baanvakken komen voor in gebieden met minder treinverkeer. Het spoor kan in
+twee richtingen bereden worden en is in beide richtingen beveiligd.
+
+De overwegen zijn bij enkelspoor van zowel midden- als aanrijdsecties voorzien die,
+onafhankelijk van de ingestelde rijrichting, werkzaam zijn aan beide zijden van de overweg.
+
+Dubbelspoorbeveiliging
+Bij dubbelspoorbeveiliging zijn beide sporen in één richting beveiligd. Op de meeste
+baanvakken rijdt men over het rechterspoor. Bij dubbelspoorbeveiliging komt de machinist
+op het linkerspoor keperbakens tegen.
+
+Dubbelspoorbeveiliging komt niet vaak meer voor.
+
+Een linkerspoor bij dubbelspoorbeveiliging dat niet is voorzien van een beveiligingssysteem
+wordt `Verkeerd spoor' (VS) genoemd. Het is alleen mogelijk het `verkeerde spoor' te
+berijden met een schriftelijke instructie waarop precies staat hoe de machinist het `verkeerde
+spoor' moet berijden.
+
+`Verkeerd spoor' is te herkennen aan het witte vierkante zwart omlijnde bord met de letters
+`VS'.
+
+Dubbelspoor met linkerspoorbeveiliging
+Ook genoemd `Beveiligd linkerspoor' of `Automatisch blokstelsel met beveiligd linkerspoor'.
+De beide sporen zijn in beide rijrichtingen gelijkwaardig beveiligd. Bij beveiligd linkerspoor kan
+er zonder bijzondere maatregelen linkerspoor gereden worden.
+
+De meeste baanvakken met linkerspoorbeveiliging kennen alleen voor het rechterspoor een
+verdeling in korte blokken. Het linkerspoor kan één groot blok zijn dat meestal bestaat het uit
+een voorsein in combinatie met een hoofdsein.
+
+Wanneer treinen bij linkerspoorbeveiliging tegen de ingestelde rijrichting rijden, moet de
+machinist rekening houden met het mogelijk niet juist functioneren van een beveiligde
+overweg.
+
+VVRV cluster Beveiligingssystemen  6/20
+Dubbelenkelspoorbeveiliging
+Dubbelenkelspoorbeveiliging bestaat uit twee of meerdere sporen. Bij dubbelenkelspoor zijn
+zowel het linker- als rechterspoor in beide richtingen gelijkwaardig ingericht. Dit betekent dat
+treinen zowel op het linker- als op het rechterspoor op blokafstand kunnen rijden.
+
+De overwegen zijn net als bij enkelspoor van zowel midden- als aanrijdsecties voorzien die
+vanuit twee richtingen kunnen worden geactiveerd.
+
+1.5 Welke soorten beveiligingssystemen zonder automatisch blokstelsel zijn
+       er op de vrije baan/hoofdspoorweg?
+
+Systemen met vereenvoudigde beveiliging
+Vereenvoudigde beveiligings- en beheersingssystemen (VBBS genoemd) worden toegepast
+op baanvakken, waar zich eenvoudige emplacementen, VBBS-stations, bevinden, waarvan
+de wissels en seinen automatisch werken dan wel centraal worden bediend.
+
+Tot de vereenvoudigde beveiligings- en beheersingssystemen behoren bijvoorbeeld VCVL en
+CTB.
+
+VCVL (Vereenvoudigde Centrale VerkeersLeiding)
+VCVL kent alleen in- en uitrijseinen. Het systeem functioneert met automatisch werkende
+inrijseinen en bediende uitrijseinen.
+
+De treindienstleider stelt de rijwegen in. Waar centraal bediende wissels zijn, zijn ook de
+inrijseinen bediende seinen.
+
+CTB (Centraal Telecom Blokstelsel)
+Het beveiligingssysteem op CTB- baanvakken werkt uitsluitend met communicatie. De
+treindienstleider geeft toestemming een blok te berijden.
+
+Voor elk blok staat een blokbord. Na toestemming van de treindienstleider mag de trein het
+blok inrijden. Als het blok geheel verlaten is, meldt de machinist het blok weer vrij bij de
+treindienstleider.
+
+VVRV cluster Beveiligingssystemen  7/20
+1.6 Welke soorten beveiligingssystemen zijn er op stations en
+       emplacementen?
+
+NX-beveiliging (eNtrance / eXit)
+In tegenstelling tot voorheen toegepaste systemen is de NX-beveiliging een routesysteem,
+dat wil zeggen: er worden geen wissels en seinen afzonderlijk bediend, maar rijwegen
+ingesteld waarbij de apparatuur de wissels in de gewenste stand stuurt en het sein uit de
+stand stop brengt.
+
+Het is een `all-relay'-systeem waarbij het verband tussen wissels en seinen geheel langs
+elektrische weg tot stand komt.
+
+Een spoorwegemplacement dat met NX-beveiliging wordt bediend is schematisch
+afgebeeld op een groot tableau. De NX-bediening werkt met behulp van relaisschakeling.
+
+EBP (Elektronische Bedien Post)
+NX-beveiliging werkt compleet met relaisschakelingen. De volgende stap was om de niet-
+veiligheidscircuits te vervangen door elektronica.
+
+Dit resulteerde in EBP, ook wel `Relaisbeveiliging NX met elektronische bediening' genoemd.
+Hierbij bestaan de veiligheidscircuits nog wel uit relais.
+
+EBS (Elektronische Beveiliging SIMIS)
+Na de EBP waren de veiligheidscircuits aan de beurt om vervangen te worden door
+elektronica.
+
+Siemens had een dergelijk systeem in het programma dat na enige aanpassingen geschikt
+was voor de Nederlandse beveiliging.
+
+SIMIS staat voor `Sicheres MikrocomputerSysteem.
+
+VPI (Vital Processor Interlocking)
+Het nadeel van EBS was dat het te omvangrijk was voor emplacementen met weinig wissels
+en seinen. VPI, ontwikkeld door Alstom, biedt hiervoor een oplossing.
+
+Deze beveiliging werkt in combinatie met EBP, die voor de bediening en signalering zorgt. VPI
+zorgt voor de beveiliging.
+
+Het verschil tussen EBP en VPI zijn de computers. Bij VPI is er maar één enkele processor die
+alle functies van de beveiliging verzorgt.
+
+VVRV cluster Beveiligingssystemen  8/20
+PLC (Programmable Logic Controller)
+
+PLC is een nieuw type beveiligingssysteem dat geen gebruik meer maakt van conventionele
+relaisbeveiliging.
+
+PLC is een open systeem, dat onder meer in de procestechniek wordt toegepast, waardoor
+spoorbedrijven zelf het gebruik en onderhoud van het systeem zo veel mogelijk in eigen hand
+kunnen houden.
+
+Het systeem is betrouwbaarder en heeft minder onderhoud nodig. Groot voordeel is dat PLC-
+Interlocking precies aangeeft welk onderdeel aan vervanging toe is, waardoor een monteur
+sneller kan handelen.
+
+1.7 Wat is het verschil tussen bediende emplacementen en vrije
+       baan/hoofdspoorweg?
+
+In de beveiliging wordt onderscheid gemaakt tussen bediende emplacementen en vrije
+baan/hoofdspoorweg.
+
+Op een emplacement zijn de seinen bedienbaar. Door een rijweg van een bepaald spoor
+naar een ander spoor in te stellen worden de wissels voor die rijweg in de goede stand
+gestuurd en komt het sein aan het begin van die rijweg uit de stand stop. Wordt de rijweg
+afgereden dan komt het sein weer in de stand stop (rood). Is de rijweg afgereden dan komt
+de rijweg daarna weer beschikbaar voor dezelfde of andere rijwegen.
+
+Op de vrije baan/hoofdspoorweg is de situatie anders. Op de vrije baan (het spoor tussen
+twee bediende emplacementen) staan seinen in de automatische stand. Vanuit een
+emplacement wordt een rijweg ingesteld van het emplacement naar een spoor van de vrije
+baan. De trein rijdt de rijweg af. Op de vrije baan zorgt de vrije baanbeveiliging ervoor dat
+het sein van het blok waar de trein in rijdt op rood staat. Het sein van het blok daarachter
+(gezien in de rijrichting van de trein) op geel en het sein van het blok daar weer achter op
+groen. Al rijdend `bedient' zo de trein de seinen. Alle tegenseinen staan op de vrije baan op
+rood. Bij een emplacement aangekomen gaat de rijweginstelling weer zoals beschreven bij
+emplacement.
+
+Een bediende baan is hoofdspoorweg met alleen maar bediende seinen, bijvoorbeeld
+Hanzelijn, Amsterdam-Utrecht, Betuweroute en HSL.
+
+Een nadeel van een bediende baan is dat in geval van een seinstoring alle seinen onderweg
+gestoord zijn en de treindienstleider voor iedere seinpassage European Instruction 1 moet
+afgeven.
+
+VVRV cluster Beveiligingssystemen  9/20
+1.8 Wat is de opbouw van het seinstelsel langs de baan?
+
+Het seinstelsel is de verzameling van verschillende seinbeelden. Het seinbeeld is het beeld dat
+het sein laat zien. Seinen hebben de vorm van een wit of gekleurd licht, een bord, een
+beweegbare arm, lichten aan de voor- of achterzijde van een trein, geluidssignalen,
+gebaren, enzovoorts. Seinen geven de machinist van een trein opdrachten, toestemmingen
+en informatie.
+
+Bijlage 4 behorende bij artikel 24 van de Regeling Spoorverkeer bevat alle Nederlandse
+seinen. De machinist moet voor het VVRV-examen alle seinen behalve de lokaal
+voorkomende seinen uit deze bijlage kennen (seinreglement).
+
+Lichtseinen
+Lichtseinen vormen de basis van het seinstelsel. Ze geven informatie over:
+- de bezetting van het spoor
+- de stand van het volgende sein
+- de (maximum) snelheid die een trein mag rijden.
+
+Een lichtsein is een vast sein dat groen, geel, rood of wit licht kan uitstralen.
+
+Een lichtsein kan al of niet:
+- knipperen
+- voorzien zijn van een verlichte cijferbak.
+
+Bij lichtseinen kunnen borden geplaatst zijn, bijvoorbeeld om aan te geven dat het gaat om
+een Voorsein (V) of een P-sein (P).
+
+Lichtseinen hebben de volgende kleuren:
+- groen (hoog geplaatst groen; laag geplaatst groen; groen knipper; groen knipper met
+
+     een getal)
+- geel (hoog geplaatst geel; laag geplaatst geel; geel knipper; geel met een getal; geel
+
+     met een knipperend getal)
+- rood (hoog geplaatst rood; laag geplaatst rood; rood knipper)
+- wit (hoog geplaatst wit en laag geplaatst wit).
+
+Er zijn twee soorten lichtseinen:
+- voorseinen
+- hoofdseinen.
+
+VVRV cluster Beveiligingssystemen  10/20
+Voorseinen
+Een voorsein is een lichtsein dat aan een hoofdsein of bord met betekenis `stop' voorafgaat
+en geen rood licht kan uitstralen/geen stop kan tonen.
+
+Een voorsein staat op tenminste remwegafstand van het hoofdsein. Voorseinen worden
+vooraf gegaan door een wit baken en tonen de kleur:
+- groen
+- geel, wel of niet voorzien van een getal.
+
+Een voorsein is herkenbaar aan het rechthoekig achtergrondscherm, eventueel voorzien van
+één of twee afgeronde hoeken of een vierkant zwart bord met een witte `V' of een kenbord
+dat is voorzien van een `v' voor het getal.
+Een voorsein gebruiken heeft als voordeel dat het voorafgaande bediende hoofdsein een
+beter beeld dan geel kan tonen, als het eerstvolgende hoofdsein een rood licht uitstraalt.
+
+Hoofdseinen
+Een hoofdsein is een lichtsein dat rood licht kan uitstralen/stop kan tonen.
+
+Onafhankelijk van de automatische blokbeveiliging kan de treindienstleider een bediend
+hoofdsein altijd aansturen en stop laten tonen.
+
+Hoofdseinen kunnen worden onderverdeeld in laaggeplaatste lichtseinen of hooggeplaatste
+lichtseinen. Waarbij de hooggeplaatste lichtseinen al dan niet voorzien zijn van een cijferbak.
+
+Er wordt onderscheid gemaakt in bediende seinen en P-seinen.
+
+Bediende seinen
+Bediende seinen tonen in ruststand altijd rood. Wanneer de treindienstleider een rijweg instelt,
+komt het lichtsein uit de stand stop. Bediende seinen worden op afstand centraal bediend
+door de treindienstleider. Ze zijn geplaatst op stations, emplacement en/of aansluitingen en
+dekken een gevaarpunt af, zoals een infra-inrichting. Bijvoorbeeld:
+- een wissel
+- een overweg
+- een beweegbare brug
+- een stop-ontspoorblok of ontspoortong.
+
+P-seinen
+Een P-sein is een hoofdsein voorzien van een P-bord (Permissief/toegestaan).
+
+P-seinen tonen in ruststand meestal groen (uitzonderingen daargelaten).
+
+VVRV cluster Beveiligingssystemen  11/20
+P-seinen verdelen de vrije baan/hoofdspoorweg in blokken; een P-sein geeft toegang tot
+een volgend blok.
+
+Snelheidsborden
+De maximum toegestane snelheid tussen twee gespecificeerde knooppunten is de
+maximumsnelheid die een trein op dat baanvak mag rijden. Deze wordt kenbaar gemaakt
+aan de machinist door middel van een bord. Het baanvaksnelheidsbord is nu nog vaak
+uitgevoerd als een groene driehoek met een zwarte rand en de punt naar boven. Bij alle
+aanpassingen en nieuwe situaties wordt het baanvaksnelheidsbord vervangen door het witte
+vierkante snelheidsbord (plaatselijke snelheid). Het bord geeft aan dat verhoging van de
+snelheid naar de aangegeven snelheid is toegestaan (aangegeven in tientallen,
+bijvoorbeeld een 8 voor 80 km/u).
+
+Op bepaalde gedeelten van een baanvak geldt een plaatselijke snelheid. Dit wordt
+aangegeven met een snelheidsbord.
+
+Bij geplande of ongeplande werkzaamheden kan het voorkomen dat de aangegeven
+snelheid niet kan worden gereden; er wordt dan een tijdelijke snelheid gereden.
+
+Tijdelijke snelheid wordt aangegeven door L-, A- en E-borden in combinatie met een tijdelijk
+snelheidsbord. Wanneer en waar de borden geplaatst zijn, staat aangegeven in de IAM
+(Informatie Aan Machinisten).
+
+Het kan voorkomen dat de machinist een traject berijdt waarbij er volgens de IAM tijdelijke
+snelheidsborden staan, maar in werkelijkheid niet. Is dit het geval dan volgt de machinist de
+IAM-informatie en handelt hij alsof de borden er wel staan. Hij meldt het afwezig zijn van de
+borden direct aan de treindienstleider.
+
+Als de borden er (nog) wel staan maar er staat geen informatie over in de IAM, dan volgt de
+machinist de borden op en meldt dit direct aan de treindienstleider.
+Als een verschil is in de snelheden op de borden ten opzichte van de snelheden in de IAM,
+dan kiest de machinist de laagste snelheid en meldt hij dit direct aan de
+treindienstleider.
+
+ATB-borden
+De ATB-baanseinen bestaan uit vier ATB-borden (ATB-naderingsbord, -inschakelbord, -
+codebord, -uitschakelbord) en het ATB-codewisselsein.
+
+Het ATB-codewisselsein geeft aan dat er een cabinesein wordt getoond dat een
+snelheidsbegrenzing oplegt. Een lichtsein dat volgt na het codewisselsein legt deze
+snelheidsbegrenzing op. Het cabinesein wordt eerder getoond dan het lichtsein omdat de
+
+VVRV cluster Beveiligingssystemen  12/20
+ATB-remwegafstand tussen het lichtsein na het codewisselsein en het daaropvolgende
+lichtsein te kort is.
+
+1.9 Wat doet de machinist bij een hoofdsein dat niet uit de stand stop komt?
+
+Bij een storing aan wissels, beweegbare bruggen of andere onderdelen van de infrastructuur
+die gedekt worden door een hoofdsein, kan het voorkomen dat het desbetreffende
+hoofdsein niet meer uit de stand stop kan komen.
+
+Een bediend hoofdsein dat in de stand stop blijft, mag alléén voorbij gereden worden met
+toestemming van de treindienstleider. De toestemming kan alleen gegeven worden door
+middel van European Instruction 1. Na ontvangst van European Instruction 1 gaat machinist
+rijden op zicht tenzij de treindienstleider anders bepaalt.
+
+Een P-sein dat in de stand stop blijft, mag met toestemming van de treindienstleider voorbij
+gereden worden met rijden op zicht. Dit mag ook als geen spreekverbinding met de
+treindienstleider tot stand kan worden gebracht.
+
+Alle opeenvolgende P-seinen die in de stand stop blijven staan, mogen óók voorbij gereden
+worden met rijden op zicht.
+
+Bij het passeren van een P-sein dat stop toont, moet de machinist altijd rekening houden met
+het niet goed functioneren van de overwegen.
+
+Zie artikel 33 Regeling spoorverkeer.
+
+1.10 Wat doet de machinist bij een gedoofd of onjuist hoofdsein?
+
+Gedoofd of onjuist hoofdsein
+Een gedoofd hoofdsein is een hoofdsein dat geen seinbeeld kan tonen. Wanneer een
+machinist een gedoofd hoofdsein opmerkt tijdens de rit meldt hij dit aan de treindienstleider.
+
+Een onjuist hoofdsein is een lichtsein dat een seinbeeld toont dat niet in Bijlage 4, behorende
+bij artikel 24 van de Regeling Spoorverkeer' voorkomt. Een onjuist hoofdsein meldt de
+machinist bij de treindienstleider.
+
+Merkt een machinist een gedoofd of onjuist hoofdsein op, dan stelt hij vast of het sein een P-
+sein of een bediend sein is.
+
+Wanneer het een P-sein betreft gaat de machinist bij het desbetreffende sein direct rijden op
+zicht.
+
+VVRV cluster Beveiligingssystemen  13/20
+Betreft het een gedoofd of onjuist bediend hoofdsein, dan vraagt de machinist zich het
+volgende af:
+- Rij ik op zicht?
+- Toonde het voorafgaande hoofdsein geel?
+- Was het voorafgaande sein een keperbaken?
+
+Is het antwoord op één van de bovenstaande drie vragen `ja', dan stopt de machinist direct
+voor het gedoofde of onjuiste hoofdsein. Is het antwoord op alle drie de vragen `nee', dan
+gaat de machinist verder met rijden op zicht.
+
+Gedoofd of onjuist voorsein
+Bij een gedoofd of onjuist voorsein handelt de machinist alsof deze het seinbeeld geel toont.
+
+Als de machinist op zicht rijdt, blijft hij op zicht rijden.
+
+Zie artikel 31 en 32 Regeling spoorverkeer.
+
+1.11 Wat is automatische treinbeïnvloeding (ATB)?
+
+Automatische treinbeïnvloeding is een systeem met informatieoverdracht via de spoorstaven,
+dat waarschuwt en ingrijpt als de snelheid van de trein te hoog is ten opzichte van de door
+de vaste en lichtseinen langs de baan opgelegde snelheid. De voor de trein bestemde
+informatie wordt in de vorm van een gecodeerde stroom (verschillende frequenties) in de
+spoorstaven gestuurd.
+
+ATB dient ter ondersteuning voor een juiste opvolging van de lichtseinen en borden voor
+vaste snelheidsbeperkingen. De ATB geeft door middel van cabineseinen voortdurend
+informatie over toegelaten snelheden.
+
+Wanneer de machinist een opdracht tot snelheid verminderen niet op de vereiste wijze
+opvolgt, brengt de ATB de trein automatisch tot stilstand (ATB-snelremming). De machinist
+kan deze remming pas onderbreken nadat de trein stilstaat (uitgezonderd ATB-NG).
+
+Bij een ATB-snelheid die hoger is dan seingeving langs de baan, geldt: een machinist moet
+de seingeving langs de baan opvolgen, ook al laat de ATB het rijden met een hogere
+snelheid toe.
+
+Legt de ATB een lagere snelheid op dan de seingeving langs de baan, dan moet de
+machinist de opdracht van de ATB opvolgen om een ATB-snelremming te voorkomen.
+
+De ATB-apparatuur bestaat uit apparatuur in het spoor (baanapparatuur/ATB-infra-
+elementen) en apparatuur in de trein (de treinapparatuur).
+
+VVRV cluster Beveiligingssystemen  14/20
+Eén asgever (aan de aspot) is voor de ATB.
+
+De treinapparatuur bestaat uit:
+- ATB-cabinesignalering: geeft de veiligheidsinformatie die in de cabine zicht- en hoorbaar
+
+     is voor de machinist; de ATB-cabinesignalering bestaat uit een aantal ­ verschillend
+     gekleurde lampen ­ met of zonder cijfers. De ATB maakt daarnaast gebruik van
+     geluidssignalen (bel en gong)
+- ATB-spoelen: Aan het voorste draaistel van de trein, circa 20 centimeter boven de rails,
+     zitten opneemspoelen die de ATB-codes uit het spoor opnemen en doorgeven aan de
+     ATB-relaiskast.
+- ATB-remkleppen: in de treinleiding (luchtleiding die de remmen bedient) is een ATB-
+     remklep opgenomen die de treinleiding ontlucht wanneer de machinist de ATB-opdracht
+     niet tijdig opvolgt.
+
+1.12 Welke soorten ATB zijn er?
+
+Er worden in Nederland vier soorten ATB gebruikt:
+- ATB-EG: Eerste Generatie
+- ATB-vv: Verbeterde versie; een aanvulling op ATB EG
+- ATB-NG: Nieuwe Generatie, feitelijk de tweede generatie
+- ATB-E: Eenvoudig (een vereenvoudigde uitvoering van ATB-EG).
+
+ATB-EG
+
+ATB-EG is op het grootste deel van het spoorwegnet.
+Het is een systeem met continue informatieoverdracht via de rails en maakt daartoe gebruik
+van het 75 Hz-signaal dat ook voor de bediening van de seinen wordt gebruikt.
+
+ATB-EG onderscheidt snelheidsintervallen (met bijbehorende cabineseinen en ATB-codes):
+- geel: 0 t/m 40 km/u (ATB-code ontbreekt)
+- geel 6: 40 t/m 60 km/u (ATB-code 220)
+- geel 8: 60 t/m 80 km/u (ATB-code 180)
+- geel 13: 80 t/m 130 km/u (ATB-code 120)
+- groen: hoger dan 130 km/u (ATB-code 96)
+Buiten Dienst (ATB-code 75)
+Als er dus geen ATB-code aanwezig is, is de maximum snelheid beperkt tot 40 km/uur.
+
+Bij materieel dat niet sneller kan dan 100 of 130 km/u, wordt `groen' gebruikt voor snelheden
+tussen 90 en 100 km/u, en is er geen `geel 13'.
+
+Gongslag en belsignaal: iedere keer als de snelheidstrap wijzigt, volgt er een gongslag. Als de
+snelheid moet worden teruggebracht, en de trein dus te hard rijdt, volgt er een belsignaal
+dat continu klinkt: de machinist moet dan binnen een bepaalde tijd remmen. Als de remming
+
+VVRV cluster Beveiligingssystemen  15/20
+tijdig wordt ingezet, stopt het belsignaal.
+Als de snelheid vervolgens voldoende omlaag gebracht is, klinkt de bel intermitterend: de
+machinist weet dan dat hij de remming kan beëindigen. Bij niet tijdig remmen volgt de ATB-
+snelremming.
+
+De machinist realiseert zich daarbij dat ATB een hulpmiddel is en dat hij altijd
+snelheidsverlagingen van borden/seinen moet opvolgen.
+
+Een technische beperking van de ATB-EG (zonder vv-functionaliteit) is dat alleen een
+snelheid boven de 40 km/u bewaakt wordt. ATB-EG verhindert dus niet dat de machinist bij
+een snelheid  40 km/u door een stoptonend sein rijdt.
+
+De 40 km/u-grens is gebaseerd op de Spoorwegwet: boven de 40 km/u is een systeem van
+beveiliging wettelijk verplicht. Bij een snelheid van 40 km/u of lager wordt de machinist
+geacht onder alle omstandigheden de seinen langs de baan tijdig te kunnen waarnemen.
+
+ATB-vv
+Om de beperking van ATB-EG onder 40 km/u op te lossen is ATB-vv ontwikkeld. Deze voegt
+de bij ATB-EG ontbrekende bewaking bij lagere snelheid toe, en heeft als doel het aantal
+onterechte STS-passages te verminderen.
+
+ATB-vv is een verbetering ten opzichte van ATB-EG. Door het plaatsen van bakens langs de
+baan kan de trein door een snelremming tijdig voor een gevaarpunt tot stilstand gedwongen
+worden (ook wanneer de snelheid  40 km/u).
+
+Bij ATB-vv zijn op een afstand van 120, 30 en 3 meter voor het relevante sein bakens geplaatst
+die actief zijn als het bijbehorende sein `stop toont. In de meeste gevallen is er bovendien
+een `vrijgavelus' in het midden van het spoor gelegd die 60 meter voor het sein begint.
+
+ATB-vv werkt alleen als in de richting van een stoptonend sein wordt gereden. De bakens zijn
+aan de rechterzijde van het spoor geplaatst en worden daardoor alleen door de
+rechteropneemspoel van het krachtvoertuig opgepikt; er is dus geen effect op treinen die uit
+de andere richting over de bakens rijden.
+
+Om na het ontvangen van European Instruction 1 een stoptonend sein te kunnen passeren
+moet de machinist een bepaalde procedure op het materieel uitvoeren.
+
+ATB-vv kent geen rembel onder de 40 km/u; de machinist wordt bij deze snelheden niet
+gewaarschuwd als hij te hard rijdt of onvoldoende remt. Bij hogere snelheden werkt de bel
+normaal.
+
+ATB-NG
+ATB-NG bewaakt de snelheid wel tot de release snelheid.
+
+VVRV cluster Beveiligingssystemen  16/20
+ATB-NG werkt niet met continue overdracht van informatie (zoals ATB-EG), maar doet dat
+puntsgewijs. De snelheid van de trein wordt bewaakt bij constante baanvaksnelheid en bij
+remming naar een lagere snelheid met behulp van een remcurve in de snelheidsmeter.
+
+ATB-NG functioneert met behulp van ATB-NG-baan- en ATB-NG-treinapparatuur.
+
+De ATB-NG-baanapparatuur bestaat uit bakens en lussen in het spoor en kasten langs de
+baan. De baanapparatuur stuurt afhankelijk van het seinbeeld en de snelheidsinformatie
+(snelheden in bogen, hellingspercentage, tijdelijke snelheidsbeperking) bakens en/of
+signaallussen aan. De bakens en signaallussen zenden deze berichten uit. Als de trein zich
+met zijn antenne boven een baken of lus bevindt, neemt de treinapparatuur deze berichten
+op, toont ze op het ATB-cabinedisplay, en bewaakt of aan de opdrachten wordt voldaan.
+
+De baanapparatuur geeft minstens bij elk sein de informatie door. In sommige situaties moet
+er vaker informatie worden uitgewisseld dan alleen bij de seinen; er worden dan extra bakens
+of lussen gebruikt.
+
+Bij ATB-NG worden de snelheidsintervallen zoals bij ATB-EG, niet meer gebruikt. Elke snelheid,
+die ter plaatse vereist is, wordt getoond (in stappen van 10 km/u).
+ATB-NG geeft in het ATB-cabinedisplay precies aan hoever de trein van het punt af is waar
+gestopt moet worden én wanneer er geremd moet worden om op tijd stil te staan.
+Voor deze remaanwijzing rekent de treinapparatuur zelf een zogenaamde remcurve uit waar
+de machinist zich aan moet houden. Doet hij dit niet dan grijpt het systeem in met een
+snelremming.
+
+ATB-NG maakt het onmogelijk dat een trein een gevaarpunt bereikt. Uiterlijk ter plaatse van
+het stoptonende sein grijpt ATB-NG in door middel van een snelremming.
+
+Om ingeval van een storing toch een stoptonend sein te kunnen passeren, moet de
+machinist een aantal handelingen uitvoeren (drukknop-`STS' bedienen). De machinist kan
+vervolgens met 'rijden op zicht' doorrijden tot aan het volgende hoofdsein.
+
+De ATB-NG-drukknop `STS' mag alléén na toestemming van de treindienstleider worden
+bediend.
+
+ATB-E
+ATB-E is eigenlijk geen aparte soort ATB maar functioneert onder ATB-EG. Alle functionaliteiten
+van ATB-EG zijn in ATB-E verwerkt, echter de signalering is geminimaliseerd.
+
+ATB-E wordt toegepast bij materieel van spoorwegaannemers, buitenlandse locomotieven
+en museumbedrijven die toestemming hebben om over het hoofdspoornet te rijden.
+
+ATB-E werkt in grote lijnen hetzelfde als ATB-EG en kan ook worden uitgebreid met ATB-vv.
+ATB-E maakt gebruik van de ATB-codes en soms van de ATB-vv-bakens.
+
+VVRV cluster Beveiligingssystemen  17/20
+De machinist kan bij ATB-E geen toegestane snelheden aflezen. Daarnaast is er met ATB-EG
+een verschil in de bediening én hoe het systeem reageert op een te hoge snelheid.
+
+1.13 Wat doet de machinist bij ATB-storingen?
+
+De machinist kan met de volgende ATB-storingen te maken krijgen:
+- ATB-baanstoring
+- ATB-materieelstoring
+- ATB-veiligheidsstoring.
+
+ATB-baanstoring
+Een ATB-baanstoring heeft de volgende kenmerken:
+- de ATB-cabineseinen laten ten onrechte één of meer keren in één blok een lagere
+
+     snelheid toe dan de vaste seinen langs de baan én
+- bij ATB-NG verschijnt op het display de melding `baan heeft onderhoud nodig'.
+
+De machinist meldt de plaats van een ATB-baanstoring direct aan de treindienstleider.
+
+ATB-materieelstoring
+Een ATB-materieelstoring heeft de volgende kenmerken:
+- de ATB-cabineseinen komen niet overeen met de vaste seinen langs de baan en
+- de afwijking blijft zich herhalen na het passeren van meerdere seinen of bakens.
+
+De machinist meldt een ATB-materieelstoring aan de treindienstleider en noteert dit in de
+materieelagenda of soortgelijk document. Als de storing zo hinderlijk is dat niet meer normaal
+gereden kan worden, moet de machinist de ATB `BB' (buiten bedrijf) zetten en dit melden
+aan de treindienstleider en de verantwoordelijke van zijn bedrijf.
+
+ATB-veiligheidsstoring
+Een ATB-veiligheidsstoring heeft de volgende kenmerken:
+- de ATB-EG-cabineseinen laten ten onrechte een hogere snelheid toe dan de vaste
+
+     seinen langs de baan of
+- defecte snelheidsmeter bij een fase 4 of ATB-NG installatie of
+- het ATB-cabinesein toont ten onrechte 'BD' (buiten dienst) of
+- de ATB-remming blijft ten onrechte uit.
+
+De machinist meldt een ATB-veiligheidsstoring aan de treindienstleider en de
+verantwoordelijke van zijn bedrijf en noteert dit in materieelagenda of soortgelijk document.
+
+VVRV cluster Beveiligingssystemen  18/20
+Bij een storing aan de ATB is het zaak de apparatuur zo lang mogelijk in bedrijf te houden. De
+machinist zet de ATB-apparatuur pas buiten bedrijf als de trein zijn rit niet meer op normale
+wijze kan vervolgen. Met de ATB buiten bedrijf handelt de machinist volgens de voorschriften
+van zijn spoorwegonderneming, tot aan het eerstvolgende punt waar uitwisseling plaats
+vindt.
+
+1.14 Wat is ERTMS/ETCS?
+
+ERTMS (European Rail Traffic Management System) is een overkoepelende set systemen die
+grensoverschrijdend treinverkeer binnen de Europese Unie mogelijk moeten maken. ERTMS is
+een Europese standaard voor treinbeïnvloeding en spoorwegseinen dat als doel heeft
+om tot één Europees treinbeveiligingssysteem te komen.
+
+ETCS (European Train Control System) is een onderdeel van ERTMS. Het ETCS toont de
+machinist op een cabinedisplay hoe snel en hoe ver de trein nog mag rijden; het systeem
+controleert beide grenswaarden.
+
+ETCS kent diverse Levels, onder meer:
+- Level 1: Informatie wordt via actieve bakens in het spoor ontvangen.
+- Level 2: Informatie wordt via een radioverbinding ontvangen (GSM-R-datakanaal).
+
+Een balise is een baken dat in het spoor geplaatst wordt en dat via radiogolven informatie
+aan een trein kan afgeven. Eurobalise is de verzamelnaam van alle soorten balises die
+binnen het ERTMS-systeem gebruikt worden.
+
+De Eurobalise bevat een bericht dat afgegeven wordt als de trein er met een ETCS-antenne
+overheen rijdt. Een Eurobalise kan op elke plek in de baan geplaatst worden en heeft geen
+stroomvoorziening nodig. De ETCS-antenne op de trein zorgt namelijk - door middel van een
+magnetisch veld - voor de elektrische voeding van de balise.
+
+De voordelen van ERTMS zijn:
+- Snelheden hoger dan 160 km/uur zijn mogelijk.
+- ERTMS vervangt de nationale beveiligsystemen (zoals ATB); grensoverschrijdend verkeer
+
+     wordt hierdoor gemakkelijker.
+- ERTMS is interoperabel (baan- en treinsystemen van verschillende leveranciers en landen
+
+     werken met elkaar samen).
+
+1.15 Wat is het verschil tussen ATB en ERTMS?
+
+Het huidige ATB-systeem (in verschillende versies) kan alleen op een aantal vaste plaatsen en
+bij een aantal vaste snelheden op het spoor ingrijpen. ETCS `weet' op elk moment precies
+
+VVRV cluster Beveiligingssystemen  19/20
+hoe hard een trein rijdt en wat de afstand is tot een blokgrens of andere treinen. ERTMS kan
+wanneer er gevaar dreigt op ieder moment ingrijpen.
+
+ETCS rijdt op cabinesignalering, al dan niet in combinatie met seinen langs de baan.
+De cabinesignalering is uitgevoerd als beeldscherm, de zogenaamde machine interface
+(meestal genaamd DMI driver machine interface).
+
+VVRV cluster Beveiligingssystemen  20/20
+

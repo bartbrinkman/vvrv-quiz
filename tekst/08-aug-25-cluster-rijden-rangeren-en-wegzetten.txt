@@ -1,0 +1,555 @@
+VVRV cluster Rijden, rangeren en wegzetten
+
+                                                                                                                                                             1/13
+Rijden, rangeren en wegzetten
+
+1.1 Voorwoord                                                        3
+
+1.2 Wie is verantwoordelijk voor het veilig rijden van de trein?     3
+
+1.3 Wat bepaalt de maximale snelheid voor het rijden van een
+
+trein?                                                               3
+
+1.4 Waarmee houdt de machinist rekening tijdens het versnellen en
+
+remmen?                                                              3
+
+1.5 Welke Europese en Nationale instructies kan de machinist
+
+krijgen?                                                             4
+
+1.6 Wat houdt het rempercentage in?                                  4
+
+1.7 Wat doet de machinist bij onvoldoende beremming?                 5
+
+1.8 Welke soorten remmingen worden onderscheiden?                    5
+
+1.9 Wanneer mag de machinist de door een sein opgedragen
+
+snelheidsverlaging of snelheidsverhoging inzetten?                   6
+
+1.10 Wanneer mag de machinist de snelheid direct verhogen?           6
+
+1.11 Hoeveel personen mogen tijdens het rijden in de bediende
+
+cabine?                                                              6
+
+1.12 Wat doet de machinist met de dodeman?                           7
+
+1.13 Wat doet de machinist als sporen niet veilig te berijden zijn?  7
+
+1.14 Wat betekent rijden op zicht?                                   7
+
+1.15 Wat doet de machinist bij slecht zicht?                         7
+
+1.16 Wat houdt energiezuinig rijden in?                              8
+
+1.17 Wat is rangeren?                                                8
+
+1.18 Wat is rangeren voor de machinist?                              9
+
+1.19 Wat is rangeren voor de rangeerder?                             9
+
+1.20 Wanneer moet de machinist bij het uitvoeren van een
+
+rangeerbeweging begeleid worden?                                     9
+
+1.21 Wat is nodig om als machinist met een rangeerbeweging te
+
+kunnen beginnen?                                                     10
+
+1.22 Wat bepaalt de maximale snelheid van een rangeerbeweging?       10
+
+1.23 Wat houdt `vrijgave rangeren' in?                               11
+
+1.24 Wat is het verschil tussen rangeren in centraal bediend gebied
+
+(CBG) en niet centraal bediend gebied (NCBG)?                        11
+
+1.25 Hoe krijgt de machinist toestemming voor rangeren in niet
+
+centraal bediend gebied (NCBG)?                                      12
+
+1.26 Wat houdt `rangeren met toestemming per beweging' in niet
+
+centraal bediend gebied (NCBG) in?                                   12
+
+1.27 Wat houdt een TijdRuimteSlot (TRS) in niet centraal bediend
+
+gebied (NCBG) in?                                                    12
+
+1.28 Waar let de machinist op wanneer hij een rangeerbeweging
+
+uitvoert, specifiek in niet centraal bediend gebied (NCBG)?          13
+
+1.29 Hoe parkeert de machinist de trein?                             13
+
+                                                                         2/13
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan
+verbreding worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld.
+Toch kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet
+aansprakelijk voor schade als gevolg daarvan.
+
+Versie augustus 2025
+
+1.2 Wie is verantwoordelijk voor het veilig rijden van de trein?
+
+De machinist is verantwoordelijk voor het veilig rijden van de trein. Hij volgt daarbij de seinen
+en Europese en nationale instructies van de treindienstleider onvoorwaardelijk op.
+
+1.3 Wat bepaalt de maximale snelheid voor het rijden van een trein?
+
+De maximale snelheid waarmee de machinist de trein mag rijden, is onder meer afhankelijk
+van:
+- de hoogst toegelaten snelheid op een baanvak
+- de plaatselijke snelheid
+- de hoogst toegelaten snelheid van het betrokken materieel
+- Europese en nationale instructies
+
+- een tijdelijke snelheidsbeperking.
+
+1.4 Waarmee houdt de machinist rekening tijdens het versnellen en
+       remmen?
+
+Bij het versnellen en remmen houdt de machinist rekening met bijvoorbeeld de volgende
+factoren:
+- Europese en nationale instructies
+- tijdelijke snelheidsbeperkingen (Informatie Aan Machinisten IAM)
+
+                                                                                                                                                               3/13
+- lengte en gewicht trein
+- rempercentage
+- stand P/G-kraan en Leeg/Beladen-hendel
+- eigenschappen baanvak (soort beveiliging, lengte, bochten, helling, overzichtelijkheid)
+- gladde sporen
+- materieelstoringen.
+
+1.5 Welke Europese en Nationale instructies kan de machinist krijgen?
+
+European Instructions zijn vastgestelde opdrachten die in een aantal situaties worden
+gebruikt, onder meer:
+- stoptonend sein passeren: European Instruction 1
+- snelheid beperken: European Instruction 5
+- rijden op zicht: European Instruction 6
+- defecte overweg passeren: European Instruction 8.
+
+Met European Instruction 4 kan een eerder gegeven European Instruction worden
+ingetrokken.
+
+In mindere mate komt voor:
+- verkeerd spoor rijden: nationale instructie verkeerd spoor.
+
+De variabele gegevens van een Europese of Nationale instructie worden ingevuld op het
+daarvoor bedoelde formulier (zie Boek van Europese en Nationale instructies).
+
+De minimale bewaartermijn van een Europese of Nationale instructie na afgifte is 12
+maanden.
+
+Zie ook cluster veiligheidscommunicatie.
+
+1.6 Wat houdt het rempercentage in?
+
+Het rempercentage is de verhouding tussen de som van de remgewichten en het
+treingewicht (totale massa van spoorvoertuigen en belading), vermenigvuldigd met 100% en
+afgerond naar beneden op hele procenten.
+
+De machinist berekent het percentage zelf, checkt de DMI in geval van ERTMS/ETCS of
+neemt het rempercentage van de beremmingsstaat over.
+
+Op de beremmingsstaat staan onder andere:
+- het treingewicht
+- de samenstelling van de trein
+
+                                                                                                                                                               4/13
+- lengte van de trein
+- het aantal assen
+- het aanwezige rempercentage
+- het vereiste rempercentage
+- de hoogst toegelaten snelheid
+- type krachtvoertuig
+- wagens met gevaarlijke stoffen
+- andere bijzonderheden van de trein.
+
+1.7 Wat doet de machinist bij onvoldoende beremming?
+
+Het onvoldoende beremd zijn van een trein kan veroorzaakt worden doordat de machinist
+de rem van een draaistel of voertuig heeft moeten afsluiten.
+
+Indien een machinist constateert dat zijn trein onvoldoende beremd is, neemt hij contact op
+met zijn spoorwegonderneming; in overleg kan worden besloten:
+- de trein alsnog te laten rijden met een lagere snelheid
+- de trein uit de dienst te nemen voor herstelling
+- voertuigen bij te plaatsen of uit te rangeren om aan voldoende remvermogen te komen.
+
+De machinist informeert de treindienstleider als tijdens de rit remmen worden afgesloten
+waardoor het remvermogen onvoldoende wordt.
+
+1.8 Welke soorten remmingen worden onderscheiden?
+
+Bedrijfsremming
+Remming waarmee de trein in alle gevallen behalve in noodgevallen remt.
+
+Volremming
+De maximale bedrijfsremming (1,5 bar uit de treinleiding).
+
+Snelremming
+Het maximaal remmen van een trein. Hierbij wordt de treinleidingdruk snel verlaagd tot 0 bar.
+
+Behalve doordat de machinist de remkraan in de snelremstand zet, kan een snelremming
+worden aangestuurd door:
+- ingreep treinbeveiliging (ATB/PZB/ETCS)
+- dodemaningreep
+- treinbreuk
+- bediening noodrem(trekker) door passagier
+- system failure of storing.
+
+                                                                                                                                                               5/13
+1.9 Wanneer mag de machinist de door een sein opgedragen
+       snelheidsverlaging of snelheidsverhoging inzetten?
+
+Een door een sein opgedragen snelheidsverlaging wordt ingezet zodra het eerste
+spoorvoertuig van de trein dat sein heeft bereikt.
+Een door een sein toegestane snelheidsverhoging mag worden uitgevoerd, nadat het laatste
+spoorvoertuig van de trein dit sein of het punt van toegestane snelheidsverhoging
+gepasseerd is.
+Zie artikel 30 Regeling spoorverkeer
+
+1.10 Wanneer mag de machinist de snelheid direct verhogen?
+
+Met inachtneming van geboden of toestemmingen van specifieke snelheidsborden, zoals
+opgenomen in bijlage 4 bij artikel 24 Regeling spoorverkeer (seinreglement), kan de machinist
+bij dag en goed zicht de snelheid meteen verhogen, als:
+
+a. het eerste hoofdsein dat wordt voorbijgereden, toestaat om te rijden met een hogere
+     snelheid dan waarmee de trein rijdt
+
+b. er tussen dit hoofdsein en de trein geen wissels zijn
+c. de trein in zijn geheel de wisselbogen is gepasseerd en
+d. het punt van de toegestane snelheidsverhoging is gepasseerd,
+
+De machinist mag de snelheid ook verhogen naar een door een specifiek snelheidsbord
+aangegeven snelheid hoger dan 40 kilometer per uur, als het voorafgaande lichtsein groen
+licht uitstraalde.
+Zie artikel 31 Regeling Spoorverkeer.
+
+1.11 Hoeveel personen mogen tijdens het rijden in de bediende cabine?
+
+Iedere spoorwegonderneming treft maatregelen die voorkomen dat machinisten gedurende
+het gebruik van een hoofdspoorweg hun aandacht verliezen/verminderen.
+Het is daarom verboden zich in de bestuurderscabine van een trein te bevinden zonder
+toestemming van de betrokken spoorwegonderneming.
+Het aantal in de bediende cabine toe te laten personen wordt bepaald door de
+spoorwegonderneming.
+
+                                                                                                                                                               6/13
+1.12 Wat doet de machinist met de dodeman?
+
+De dodeman (ook wel genoemd `Intermitterende dodeman' of `dodemaninstallatie') is de
+oudste vorm van beveiliging aan boord van treinen. De machinist moet tijdens de rit met
+tussenpauzen (intermitterend) een hefboom of voetpedaal neergedrukt houden
+(uitzonderingen daargelaten). Raakt hij onwel, dan stopt het bedienen van de dodeman en
+volgt er automatisch een snelremming.
+
+1.13 Wat doet de machinist als sporen niet veilig te berijden zijn?
+
+Als de machinist tijdens de rit merkt dat het spoor niet veilig te berijden is dan:
+- brengt hij de trein zo snel mogelijk tot stilstand
+- informeert hij direct de treindienstleider.
+
+Ziet een machinist dat het nevenspoor niet veilig te berijden is, dan:
+- brengt hij de trein zo snel mogelijk tot stilstand
+- ontsteekt hij direct het gevaarsein op zijn trein
+- zendt hij een alarmoproep uit via de GSM-R
+- plaatst hij afhankelijk van het soort baanvakbeveiliging de kortsluitkabel
+- loopt hij indien mogelijk de tegentrein tegemoet met een rode lamp of vlag en geeft hij
+
+     bij benadering van de tegentrein het gevaarsein.
+
+1.14 Wat betekent rijden op zicht?
+
+Rijden op zicht (ROZ) is rijden met een zodanige snelheid, niet hoger dan 40 kilometer per uur
+of zoveel minder bij een lagere plaatselijke snelheid, dat in geval van bezet spoor of ander
+kenbaar gevaar op elk punt tijdig kan worden gestopt.
+Zie Regeling Spoorverkeer bijlage 4 bij artikel 24 (seinreglement).
+Rijden op zicht kan bijvoorbeeld worden toegepast als de treinbeveiliging niet functioneert,
+als er gevaar dreigt of als er achter het sein een trein staat.
+
+1.15 Wat doet de machinist bij slecht zicht?
+
+Is het zicht minder dan 300 meter dan geeft de machinist om de vijf seconden het
+`attentiesein':
+- op baangedeelten waar onbeveiligde openbare overwegen voorkomen
+
+                                                                                                                                                               7/13
+- op baangedeelten waar overpaden met landhekken voorkomen (alléén tussen 05.00 uur
+     en 20.00 uur)
+
+- bij het benaderen of het berijden van wisselcomplexen waar sneeuwruimers aan het werk
+     kunnen zijn.
+
+1.16 Wat houdt energiezuinig rijden in?
+
+Energiezuinig rijden is vooral: het maximaal inzetten op uitrollen, binnen de tijdsmarges van
+de dienstregeling. Het toepassen van energiezuinig rijden levert een spoorwegonderneming
+een aanzienlijke financiële besparing op. Ook is het duurzamer in de zin van dat het milieu
+minder belast wordt door CO2-uitstoot (verminderen broeikaseffect).
+
+Er zijn verschillen in elektrisch en diesel materieel wat betreft energiezuinig rijden.
+
+Bij sommige soorten elektrisch materieel zetten weerstanden een deel van de gevraagde
+stroom om in warmte. Deze warmteontwikkeling wordt verder niet gebruikt.
+Materieel waarin draaistroommotoren of chopperschakeling zijn toegepast, zijn relatief
+energiezuinig. De tractiemotor krijgt gedoseerd stroom en er is geen tussenschakeling van
+weerstanden. Met elektrisch materieel is het mogelijk om relatief snel op de gewenste
+snelheid te komen; bovendien is het beter voor het milieu.
+
+De dieselmotor wordt minder belast als het toerental laag wordt gehouden. In combinatie
+met een gematigde aanzet komt er een optimale verbranding tot stand (minder
+roetuitstoot).
+
+De machinist heeft een belangrijke rol bij het energiezuinig rijden en remmen.
+
+Hij kan veel energie besparen door:
+- op tijd te vertrekken
+- de trein snel op de gewenste snelheid te brengen, de tractie uit te schakelen en daarna
+
+     te laten uitrollen (een trein in beweging kan door zijn massa en snelheid -de zogenaamde
+     kinetische energie- lang uitrollen zonder energie te verbruiken)
+- kennis van het baanvak (gebruik maken van natuurlijke hellingen en van kunstwerken;
+     anticiperen op lichtseinen en snelheidsborden).
+
+1.17 Wat is rangeren?
+
+Rangeren is: op een spoorwegemplacement splitsen of opnieuw samenvoegen van treinen,
+dan wel in een bepaalde volgorde op een spoor of naar andere sporen manoeuvreren
+(Besluit Spoorverkeer, artikel 29). Koppelen en ontkoppelen valt daarmee onder rangeren,
+
+                                                                                                                                                               8/13
+1.18 Wat is rangeren voor de machinist?
+
+Rangeren voor de machinist is: het verplaatsen van trein- of rangeerdelen (door middel van
+besturen en begeleiden), bijvoorbeeld:
+- omrijden van een locomotief
+- 'voorbrengen' van materieel van een opstelspoor naar een perronspoor
+- een samengesteld rangeerdeel verplaatsen
+- een loc verplaatsen naar een trein.
+Rangeren in deze zin wordt ook wel `het uitvoeren van een rangeerbeweging' genoemd.
+
+Een machinist is bevoegd om vanuit de cabine te koppelen en ontkoppelen, en ook fysiek
+buiten de cabine, maar dan alleen tussen loc en eerste wagen/rijtuig.
+
+1.19 Wat is rangeren voor de rangeerder?
+
+De rangeerder mag treinen of rangeerdelen samenstellen en begeleiden op
+spoorwegemplacementen (Besluit Spoorwegpersoneel artikel 3):
+- af- en aankoppelen van doorgaande rijtuigen (combineren en splitsen)
+- bijplaatsen van rijtuigen of treinstellen
+- plaatsen, `uithalen' of `uitzetten' van wagens of voertuigen
+- sorteren van wagens naar bestemming.
+
+De rangeerder mag de machinist op hoofdspoorwegen begeleiden met een maximum
+snelheid van 40 km per uur. De spoorwegonderneming kan het geldende maximum lager
+stellen. Aanwijzingen van de rangeerder moeten worden opgevolgd.
+
+1.20 Wanneer moet de machinist bij het uitvoeren van een rangeerbeweging
+       begeleid worden?
+
+De machinist moet worden begeleid:
+- als hij de rijweg niet kan overzien
+- als hij onvoldoende of geen wegbekendheid heeft
+- als dit in de lokale regelgeving is voorgeschreven.
+
+Bij begeleid rangeren volgt de machinist alle instructies van de begeleider op; daarom moet
+hij:
+- de begeleider altijd kunnen zien of horen via een spreekverbinding (portofoon, GSM-R)
+- bij gebruik van een spreekverbinding altijd de regels voor veiligheidscommunicatie
+
+     hanteren (TSI en regelgeving ProRail)
+- meteen stoppen met rangeren wanneer er geen contact (zicht of gehoor) meer is met
+
+     de begeleider.
+
+                                                                                                                                                               9/13
+1.21 Wat is nodig om als machinist met een rangeerbeweging te kunnen
+       beginnen?
+
+De machinist mag een rangeerbeweging beginnen als:
+- hij een rangeeropdracht van zijn bedrijf en
+- toestemming van de treindienstleider heeft
+- het rangeren veilig kan wat betreft:
+
+     o personen nabij het rangeerdeel
+     o het materieel
+     o de lading
+     o de infrastructuur.
+
+Rangeeropdracht
+De machinist ontvangt de rangeeropdracht van zijn bedrijf.
+
+Uit de rangeeropdracht blijkt:
+- welke rangeerbewegingen moeten worden uitgevoerd
+- op welk tijdstip de rangeerbewegingen moeten worden uitgevoerd
+- via welke weg de rangeerbewegingen moeten worden uitgevoerd
+- met welke bijzonderheden rekening moet worden gehouden
+- met welke bepalingen van de spoorwegonderneming rekening moet worden gehouden.
+
+Toestemming rangeerbeweging
+De treindienstleider geeft op een van onderstaande manieren toestemming om de
+rangeerbeweging aan te vangen:
+- mondeling (per spreekverbinding)
+- via een handsein gegeven door de rangeerder of begeleider
+- door het uit de stand 'stop' brengen van het voor de rangeerbeweging geldende sein
+- door middel van een European Instruction.
+
+1.22 Wat bepaalt de maximale snelheid van een rangeerbeweging?
+
+De machinist voert een rangeerbeweging uit met maximaal 40 km/u. De
+spoorwegonderneming kan bepalen dat de maximale snelheid lager is.
+
+De maximum snelheid is afhankelijk van:
+- een veilige werkplek
+- de maximaal toegestane snelheid van de voertuigen
+- de belasting, het zicht en de beremming van het rangeerdeel
+- de maximale snelheid die de infra toestaat
+
+                                                                                                                                                              10/13
+- tijdelijke snelheidsbeperkingen
+- de lokale bedrijfsregels
+- de seingeving.
+
+1.23 Wat houdt `vrijgave rangeren' in?
+
+Emplacementen die zijn uitgevoerd met een `Vrijgave rangeren' geven de machinisten
+begeleider (rangeerder) de mogelijkheid om ter plaatse de rangeerbeweging uit te voeren
+en de wissels te bedienen zonder tussenkomst van de treindienstleider.
+Rangeren met een vrijgave kan op verschillende manieren; kenmerk is dat machinist en
+eventuele begeleider op eigen verantwoordelijkheid rangeren.
+
+Procedureel
+De treindienstleider geeft toestemming tot het schakelen van de vrijgave rangeren en maakt
+afspraken met de machinist over de vrijgave. De treindienstleider laat gedurende de
+afgesproken tijd geen treinen toe tot het gebied.
+
+Technisch
+Er wordt een aantal sporen technisch afgezonderd. De treindienstleider legt de toeleidende
+wissels vast. De machinist of begeleider krijgt een groen lampje te zien in een
+bedieningskastje (`sleutelkast') en bedient de bijbehorende knop om de wissels elektrisch `op
+slot' te zetten (controle: witte lamp brandt; groene lamp uit).
+De seinen in het vrijgavegebied tonen na het `sleutelen' een wit licht en geven geen
+beveiligingsgaranties.
+
+1.24 Wat is het verschil tussen rangeren in centraal bediend gebied (CBG) en
+       niet centraal bediend gebied (NCBG)?
+
+Binnen een CBG wordt een rangeerbeweging uitgevoerd met gebruikmaking van
+lichtseinen. Het rangeerdeel (de rangeerdelen) rijdt (rijden) de rijweg af die de
+treindienstleider heeft ingesteld.
+In een NCBG wordt een rangeerbeweging zonder lichtseinen uitgevoerd. Het rangeren in
+NCBG gaat daarom altijd in overleg met de treindienstleider; deze moet van elke
+rangeerbeweging op de hoogte zijn, zodat hij weet wat er in zijn gebied gebeurt.
+
+                                                                                                                                                              11/13
+1.25 Hoe krijgt de machinist toestemming voor rangeren in niet centraal
+       bediend gebied (NCBG)?
+
+De toestemming om sporen in een niet centraal bediend gebied te gebruiken kan worden
+aangevraagd. De treindienstleider geeft de toestemming tot rangeren nadat hij afspraken
+heeft gemaakt met de verschillende rangeergroepen. Toestemming kan gegeven worden
+als:
+- een enkelvoudige rijweg, waarbij begin, einde en eventuele tussengelegen punten
+
+     worden opgegeven via sein-, spoor- of wisselnummers. Een enkelvoudige rijweg wordt
+     altijd in één richting uitgevoerd (toestemming per beweging)
+- een TijdRuimteSlot (TRS) voor meerdere opeenvolgende bewegingen, waarbij de
+     ruimtelijke grenzen van het gebied waarbinnen die bewegingen plaatsvinden zijn
+     aangegeven door seinen en de tijdgrenzen via gewenste begin- en eindtijdstippen.
+
+Zie Netverklaring ProRail.
+
+1.26 Wat houdt `rangeren met toestemming per beweging' in niet centraal
+       bediend gebied (NCBG) in?
+
+Rangeren met toestemming per beweging in NCBG betekent het volgende:
+- de treindienstleider geeft toestemming aan de machinist voor het uitvoeren van een
+
+     beweging van een spoor naar een ander spoor, eventueel via tussenliggende sporen
+     (rijweg)
+- als de beweging eenmaal is uitgevoerd, kan de machinist pas na toestemming een
+     nieuwe beweging uitvoeren
+- de treindienstleider zorgt ervoor dat hij geen twee bewegingen tegelijkertijd toestemming
+     geeft te bewegen op hetzelfde spoor
+- de machinist en de begeleider zijn beiden verantwoordelijk voor de veilige uitvoering van
+     de rangeerbeweging.
+- nadat een aangevraagde enkelvoudige en geheel binnen een niet centraal bediend
+     gebied gelegen rijweg is afgelegd, meldt de machinist zich bij de treindienstleider met de
+     mededeling dat het aangevraagde gebruik beëindigd is.
+
+1.27 Wat houdt een TijdRuimteSlot (TRS) in niet centraal bediend gebied
+       (NCBG) in?
+
+Voor een TijdRuimteSlot geldt het volgende:
+- een NCBG kan meerdere TRS'n bevatten
+- worden meerdere aan elkaar grenzende TRS'n toegewezen aan één machinist (met of
+
+     zonder begeleider/rangeerder), dan beschouwt hij deze combinatie als één tijd-
+     ruimteslot
+
+                                                                                                                                                              12/13
+- in een NCBG worden de fysieke grenzen van een TRS aangegeven in de
+     plaatselijke/lokale regelgeving
+
+- er mag maar één machinist tegelijk actief zijn
+- in overleg met de infragebruiker kan een treindienstleider NCGB een tijd-ruimteslot nader
+
+     definiëren.
+
+1.28 Waar let de machinist op wanneer hij een rangeerbeweging uitvoert,
+       specifiek in niet centraal bediend gebied (NCBG)?
+
+Machinist (en begeleider) let(ten)op:
+- obstakels
+- voertuigen op het te berijden spoor
+- niet-vrijstaande voertuigen op eventuele nevensporen
+- de wisselstanden
+- ontspoortongen en stop-ontspoorblokken
+- stopblokken en remsloffen
+- afsluitborden en rode vlaggen of rode lampen
+- de vrijbalken.
+
+De machinist stopt bijvoorbeeld wanneer een wisselsein niet in de eindstand en in de juiste
+stand staat of een wisseltong niet in de eindstand ligt. Verder rijden mag pas wanneer zeker is
+dat dit veilig kan.
+
+Als een wissel onverhoopt is opengereden, dan informeert de machinist/rangeerder de
+treindienstleider en de eigen spoorwegonderneming en wacht tot het wissel is vrijgegeven
+door de treindienstleider.
+
+1.29 Hoe parkeert de machinist de trein?
+
+Parkeren is: op een spoorwegemplacement laten stilstaan van een trein anders dan
+gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen
+van reizigers of voor het onmiddellijk laden of lossen van goederen (Besluit Spoorverkeer).
+
+Een kracht-of spoorvoertuig moet altijd voldoende geremd weggezet worden op de hand-
+of parkeerrem. Als dit niet mogelijk is, dan:
+- koppelt de machinist het kracht-/spoorvoertuig aan een ander wel geremd voertuig of
+- legt hij een stopblok voor de wielen (indien toegestaan).
+
+De machinist zet de trein weg in de bedrijfstoestand die is bepaald door de
+spoorwegonderneming.
+
+                                                                                                                                                              13/13
+

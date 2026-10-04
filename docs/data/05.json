@@ -1,0 +1,657 @@
+{
+ "id": "05",
+ "titel": "Railinfra",
+ "bron": "05-sep-25-cluster-railinfra.pdf",
+ "vragen": [
+  {
+   "id": "05-001",
+   "vraag": "Welke term gebruikt de vakkennis voor de toegewezen tijd en ruimte op het spoor bij rangeren (in plaats van 'treinpad')?",
+   "opties": [
+    "Dienstregelingpad",
+    "Rangeerpad (RP)",
+    "Infracapaciteitsslot (ICS)",
+    "Tijd-ruimteslot (TRS)"
+   ],
+   "antwoord": 3,
+   "uitleg": "De term 'treinpad' wordt gebruikt voor het rijden van treinen; voor rangeren wordt o.a. de term 'tijd-ruimteslot' (TRS) gebruikt.",
+   "bron": "1.3 Wat doet de railinfrastructuurbeheerder?"
+  },
+  {
+   "id": "05-002",
+   "vraag": "Wie bepaalt de maximum toegestane snelheid per baanvak die als overzicht in de Netverklaring is opgenomen?",
+   "opties": [
+    "ProRail als infrabeheerder en opsteller van de Netverklaring",
+    "De Inspectie Leefomgeving en Transport als veiligheidsinstantie",
+    "Het ministerie van Infrastructuur en Waterstaat",
+    "De spoorwegondernemingen via de Toegangsovereenkomst"
+   ],
+   "antwoord": 2,
+   "uitleg": "De Netverklaring bevat o.a. een overzicht van de maximum toegestane snelheid per baanvak, zoals bepaald door het ministerie van Infrastructuur en Waterstaat.",
+   "bron": "1.3 Wat doet de railinfrastructuurbeheerder?"
+  },
+  {
+   "id": "05-003",
+   "vraag": "Hoe worden hoofdspoorwegen en lokale spoorwegen aangewezen?",
+   "opties": [
+    "Bij ministeriële regeling",
+    "Bij Koninklijk Besluit",
+    "Via de jaarlijkse Netverklaring",
+    "Bij provinciale verordening"
+   ],
+   "antwoord": 1,
+   "uitleg": "Hoofdspoorwegen en lokale spoorwegen worden aangewezen bij Koninklijk Besluit (Besluiten tot aanwijzing uit 2020).",
+   "bron": "1.4 Verschil hoofdspoorwegen, lokale en bijzondere spoorwegen"
+  },
+  {
+   "id": "05-004",
+   "vraag": "Welke uitspraak over lokale spoorwegen is juist?",
+   "opties": [
+    "Er gelden minder beveiligingstechnische eisen, maar het beheer ligt altijd bij ProRail als infrabeheerder",
+    "Ze vormen de restcategorie van alle spoorwegen die niet als hoofdspoorweg zijn aangewezen, zoals museumlijnen",
+    "Er gelden minder beveiligingstechnische eisen; ProRail kan het beheer hebben, maar dat hoeft niet",
+    "De Staat is rechthebbende en ze zijn bestemd voor internationale en nationale verbindingen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Lokale spoorwegen zijn vaak van secundair, regionaal belang met minder beveiligingstechnische eisen; ProRail kan het beheer hebben, maar het hoeft niet.",
+   "bron": "1.4 Lokale spoorwegen"
+  },
+  {
+   "id": "05-005",
+   "vraag": "Wat is volgens de vakkennis een infraknooppunt?",
+   "opties": [
+    "Een dienstregelingpunt met ten minste één door de treindienstleider bedienbaar wissel",
+    "Een verzameling dienstregelingpunten voor de planning van personeelsdiensten",
+    "Een punt op de vrije baan waar een spooraansluiting op aansluit",
+    "Een dienstregelingpunt met meer dan twee aansluitende vrije banen"
+   ],
+   "antwoord": 3,
+   "uitleg": "Een infraknooppunt is een dienstregelingpunt met meer dan twee aansluitende vrije banen (alternatief: halteringsplaats waar meerdere treinstromen samenkomen).",
+   "bron": "1.5 Knooppunt"
+  },
+  {
+   "id": "05-006",
+   "vraag": "Hoe lang zijn de blokken waarin de vrije baan is verdeeld ongeveer, en waarmee kan een blok worden beveiligd?",
+   "opties": [
+    "Ongeveer 1500 meter; met P-seinen",
+    "Ongeveer 1800 meter; met overwegaankondigingsborden",
+    "Ongeveer 2750 meter; met lichtseinen op portalen",
+    "Ongeveer 1800 meter; met P-seinen"
+   ],
+   "antwoord": 3,
+   "uitleg": "De vrije baan is verdeeld in blokken van ongeveer 1800 meter lang; een blok kan beveiligd worden door P-seinen.",
+   "bron": "1.5 Vrije baan"
+  },
+  {
+   "id": "05-007",
+   "vraag": "Een machinist ziet op de vrije baan een wissel liggen. Waarvoor dient zo'n wissel volgens de vakkennis?",
+   "opties": [
+    "Het maakt inhalen van treinen op de vrije baan mogelijk",
+    "Het geeft toegang tot een spooraansluiting",
+    "Het is een overloopwissel voor enkelsporig rijden",
+    "Het hoort bij een halte voor kopmaken"
+   ],
+   "antwoord": 1,
+   "uitleg": "Op de vrije baan zijn geen door de treindienstleider bedienbare wissels, maar in zeer beperkte mate komen wissels voor die toegang geven tot een spooraansluiting.",
+   "bron": "1.5 Vrije baan"
+  },
+  {
+   "id": "05-008",
+   "vraag": "Wat onderscheidt een halte van een station?",
+   "opties": [
+    "Bij een halte op de vrije baan liggen geen wissels; een station heeft ten minste één wissel",
+    "Bij een halte kunnen geen goederen worden aangenomen of afgeleverd; bij een station wel",
+    "Een halte heeft ten minste één wissel; een station heeft er minimaal twee, zodat treinen kunnen kruisen",
+    "Een halte is geen dienstregelingpunt en staat niet in de dienstregeling; een station wel"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een station is voorzien van ten minste één wissel; bij haltes op de vrije baan liggen géén wissels. Bij een halte kunnen wel reizigers in/uitstappen en/of goederen worden aangenomen.",
+   "bron": "1.5 Station / Halte"
+  },
+  {
+   "id": "05-009",
+   "vraag": "Tot welke afstand vóór het toeleidende sein behoren aangrenzende sporen volgens artikel 39 van de Regeling spoorverkeer tot het emplacement (tenzij de netverklaring anders aangeeft)?",
+   "opties": [
+    "Maximaal 100 meter",
+    "Maximaal 250 meter",
+    "Maximaal 200 meter",
+    "Maximaal 500 meter"
+   ],
+   "antwoord": 2,
+   "uitleg": "Tot een spoorwegemplacement behoren o.a. alle aangrenzende sporen tot maximaal 200 m voor het toeleidende sein, of de afstand die in de netverklaring is aangegeven.",
+   "bron": "1.5 Emplacement"
+  },
+  {
+   "id": "05-010",
+   "vraag": "Wie ziet erop toe dat de infrabeheerder zich houdt aan de regels (zoals geluidsbeperking) uit de omgevingsvergunning van een emplacement?",
+   "opties": [
+    "De Inspectie Leefomgeving en Transport",
+    "Het ministerie van Infrastructuur en Waterstaat",
+    "De verkeersleiding van ProRail",
+    "De lokale overheid"
+   ],
+   "antwoord": 3,
+   "uitleg": "De regels staan in de omgevingsvergunning die gemeente of provincie heeft verleend; de lokale overheid ziet erop toe dat de infrabeheerder zich eraan houdt.",
+   "bron": "1.5 Emplacement"
+  },
+  {
+   "id": "05-011",
+   "vraag": "Wie bepaalt bij regionale spoorlijnen welke spoorwegonderneming het treinvervoer mag verzorgen?",
+   "opties": [
+    "De provincies en stadsregio's, via een aanbesteding",
+    "ProRail, via de verdeling van treinpaden",
+    "Het ministerie van IenW, via de hoofdrailnetconcessie",
+    "De gemeenten, via de omgevingsvergunning"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij regionale spoorlijnen bepalen provincies en stadsregio's welke onderneming het vervoer verzorgt; via aanbesteding krijgt één onderneming een vervoersconcessie.",
+   "bron": "1.6 Regionale spoorlijnen"
+  },
+  {
+   "id": "05-012",
+   "vraag": "Hoeveel kilometer van het 125 kilometer lange HSL-Zuid-tracé is hogesnelheidsspoor waarop 300 km/u mogelijk is?",
+   "opties": [
+    "40 kilometer",
+    "85 kilometer",
+    "100 kilometer",
+    "125 kilometer"
+   ],
+   "antwoord": 1,
+   "uitleg": "Het HSL-Zuid tracé is 125 km lang; 85 km daarvan is hogesnelheidsspoor waarop 300 km/u mogelijk is.",
+   "bron": "1.6 Hogesnelheidslijn-Zuid"
+  },
+  {
+   "id": "05-013",
+   "vraag": "Welke locatie is GEEN aansluiting van de HSL-Zuid op bestaand spoor?",
+   "opties": [
+    "Rotterdam Centraal",
+    "Rotterdam Lombardijen",
+    "Zevenbergschen Hoek",
+    "Hoofddorp"
+   ],
+   "antwoord": 0,
+   "uitleg": "De vijf aansluitingen op bestaand spoor zijn Hoofddorp, Rotterdam West, Rotterdam Lombardijen, Zevenbergschen Hoek en Breda.",
+   "bron": "1.6 Hogesnelheidslijn-Zuid"
+  },
+  {
+   "id": "05-014",
+   "vraag": "Wat is bijzonder aan de beweegbare bruggen in de Rotterdamse Havenspoorlijn (zoals de Calandbrug en Botlekbrug)?",
+   "opties": [
+    "De scheepvaart heeft daar voorrang, in tegenstelling tot de rest van het land",
+    "Ze zijn uitgerust met 1500 V DC-bovenleiding in plaats van de 25 kV op de rest van de Betuweroute",
+    "Ze worden op afstand bediend door de machinist van de naderende goederentrein",
+    "Ze liggen op het A15-tracé en het treinverkeer heeft daar altijd voorrang boven de scheepvaart"
+   ],
+   "antwoord": 0,
+   "uitleg": "In de Havenspoorlijn liggen de Botlekbrug, Calandbrug, Dintelhavenbrug en Suurhoffbrug; in tegenstelling tot de rest van het land heeft hier de scheepvaart voorrang.",
+   "bron": "1.6 Betuweroute: Havenspoorlijn en A15-tracé"
+  },
+  {
+   "id": "05-015",
+   "vraag": "Wat is juist over stamlijnen?",
+   "opties": [
+    "Ze behoren juridisch tot de hoofdspoorweg; na intrekking van het Reglement op de Raccordementen (2016) zijn de meeste als hoofdspoorweg aangewezen",
+    "Ze behoren tot het bedrijfsterrein en blijven eigendom van de aangesloten bedrijven, ook na intrekking van het Reglement op de Raccordementen (2016)",
+    "Ze vormen sinds intrekking van het Reglement op de Raccordementen (2016) samen met de spooraansluitingen een raccordement onder beheer van de provincie",
+    "Ze zijn bijzondere spoorwegen waarop alleen de vervoerder rijdt met wie het aangesloten bedrijf een vervoerscontract heeft afgesloten"
+   ],
+   "antwoord": 0,
+   "uitleg": "Stamlijnen behoren juridisch tot de hoofdspoorweg; na het intrekken van het Reglement op de Raccordementen in december 2016 zijn de meeste als hoofdspoorweg aangewezen.",
+   "bron": "1.7 Stamlijn"
+  },
+  {
+   "id": "05-016",
+   "vraag": "Een bedrijf wil een nieuwe spooraansluiting op de hoofdbaan. Hoe is het aansluitend wissel geregeld?",
+   "opties": [
+    "De overheid betaalt het wissel; daarna wordt het bedrijf eigenaar en zorgt het zelf voor het onderhoud",
+    "Het bedrijf betaalt het wissel, blijft daarna eigenaar en besteedt het onderhoud uit aan de infrabeheerder",
+    "De infrabeheerder betaalt het wissel, blijft eigenaar en verhaalt het onderhoud via de infraheffing op het bedrijf",
+    "Het bedrijf betaalt het wissel; daarna wordt het eigendom van de overheid en onderhoudt de infrabeheerder het"
+   ],
+   "antwoord": 3,
+   "uitleg": "Het bedrijf moet zelf het aansluitend wissel bekostigen; na aanleg komt het in eigendom van de overheid en voert de infrabeheerder het onderhoud uit.",
+   "bron": "1.7 Spooraansluiting"
+  },
+  {
+   "id": "05-017",
+   "vraag": "Welk onderdeel behoort tot de onderbouw van de spoorbaan?",
+   "opties": [
+    "De dwarsliggers",
+    "Een fly over",
+    "Het ballastbed",
+    "De ballastloze betonplaat met ingegoten spoor"
+   ],
+   "antwoord": 1,
+   "uitleg": "De onderbouw is het geheel van aardenbaan en kunstwerken (tunnels, bruggen, fly overs); ballast, dwarsliggers en betonplaat horen bij de bovenbouw.",
+   "bron": "1.8 Onderbouw / Bovenbouw"
+  },
+  {
+   "id": "05-018",
+   "vraag": "Wat wordt verstaan onder 'ingegoten spoor'?",
+   "opties": [
+    "Een ballastconstructie waarbij de dwarsliggers en spoorstaven volledig in een betonnen gietmassa zijn vastgezet",
+    "Een ballastloze constructie van doorlopend beton, spoorstaven en een rubber/kunststof gietmassa",
+    "Een ballastloze constructie van doorlopend beton waarop de spoorstaaf met een bevestigingsplaat is vastgezet",
+    "Straatspoor waarbij de verzonken spoorstaven aan de zijden en in het midden met asfalt of klinkers zijn opgevuld"
+   ],
+   "antwoord": 1,
+   "uitleg": "Ingegoten spoor is een ballastloze constructie met doorlopende betonplaat, spoorstaven en rubber/kunststof gietmassa; met een bevestigingsplaat heet het indirecte bevestiging op beton.",
+   "bron": "1.8 Bovenbouw"
+  },
+  {
+   "id": "05-019",
+   "vraag": "Welke functie hebben spoorstaven volgens de vakkennis naast het dragen en geleiden van de wielen?",
+   "opties": [
+    "Het aarden van de bovenleiding bij uitschakeling door het OBI en het afvoeren van zwerfstroom",
+    "Het voeden van de treinen met 1500 V gelijkspanning via een derde rail langs de spoorstaaf",
+    "Het geleiden van de retourstroom van de bovenleiding en de zwakstromen van de treinbeveiliging",
+    "Het compenseren van de middelpuntvliedende kracht in bogen door de verkanting van de spoorstaven"
+   ],
+   "antwoord": 2,
+   "uitleg": "Spoorstaven geleiden o.a. de retourstroom van de bovenleiding en de zwakstromen van de treinbeveiliging (treindetectie en treinbeïnvloeding).",
+   "bron": "1.8 Spoorstaven"
+  },
+  {
+   "id": "05-020",
+   "vraag": "Welk type wissel kan tegelijkertijd bereden worden door twee spoorvoertuigen die beide rechtuit rijden?",
+   "opties": [
+    "Kruiswissel",
+    "Overloopwissel",
+    "Half Engels wissel",
+    "Gekoppeld wissel"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een kruiswissel bestaat uit vier enkele wissels (of twee gekoppelde) en een kruis en kan tegelijkertijd bereden worden door twee spoorvoertuigen die beide rechtuit rijden.",
+   "bron": "1.8 Wissels"
+  },
+  {
+   "id": "05-021",
+   "vraag": "Wat is het voordeel van een meerdelig wissel ten opzichte van een enkeldelig wissel?",
+   "opties": [
+    "De dubbele wisseltongen voorkomen dat het wissel bij een verkeerde stand kan worden opengereden",
+    "De extra strijkregel tegenover het puntstuk maakt wisselverwarming in de winter overbodig",
+    "De extra wisselstangen laten het wissel bij bediening altijd simultaan omlopen met een tweede wissel",
+    "Door het beweegbare puntstuk kan het wissel met hogere snelheid afbuigend worden bereden"
+   ],
+   "antwoord": 3,
+   "uitleg": "Meerdelige wissels hebben ook een beweegbaar puntstuk dat ervoor zorgt dat het wissel met hogere snelheid afbuigend bereden kan worden.",
+   "bron": "1.8 Wissels"
+  },
+  {
+   "id": "05-022",
+   "vraag": "Een machinist kijkt vanaf de voorkant van een wissel en ziet ruimte tussen de linkertong en de linkerspoorstaaf. Wat betekent dit?",
+   "opties": [
+    "Het wissel is linksleidend; de trein buigt af naar links",
+    "Het wissel is rechtsleidend; de trein buigt af naar rechts",
+    "Het wissel is linksleidend; de trein buigt af naar rechts",
+    "Het wissel is rechtsleidend; de trein buigt af naar links"
+   ],
+   "antwoord": 0,
+   "uitleg": "Linksleidend: ruimte tussen de linkertong en linkerspoorstaaf (vanaf voorkant wissel gezien): de trein buigt af naar links.",
+   "bron": "1.8 Wissels (wisselstanden)"
+  },
+  {
+   "id": "05-023",
+   "vraag": "Een machinist nadert een handbediend wissel. Wat moet hij doen?",
+   "opties": [
+    "Met maximaal 10 km/u over het wissel rijden en daarna de stand aan de treindienstleider melden",
+    "Het wissel alleen controleren als het grendel door de treindienstleider op afstand is vrijgegeven",
+    "Stoppen voor het wissel en controleren of het in de eindstand en in de juiste stand voor de rijweg ligt",
+    "Stoppen voor het wissel en wachten op European Instruction 8 van de treindienstleider"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij handbediende wissels (of een European Instruction) stopt de machinist voor het wissel en controleert of het in de eindstand én in de juiste stand ligt.",
+   "bron": "1.8 Wissels"
+  },
+  {
+   "id": "05-024",
+   "vraag": "Een hand- of voetbediend wissel met voorkeurstand is gebruikt. In welke stand moet het omstelgewicht worden teruggebracht?",
+   "opties": [
+    "Zwart gedeelte boven, wit gedeelte onder",
+    "In de stand die de laatste rijweg aangeeft",
+    "Wit gedeelte boven, zwart gedeelte onder",
+    "In de stand die de treindienstleider op afstand vrijgeeft"
+   ],
+   "antwoord": 2,
+   "uitleg": "Wissels met voorkeurstand moeten altijd teruggebracht worden in de voorkeurstand: het witte gedeelte van het omstelgewicht boven, het zwarte onder.",
+   "bron": "1.8 Wissels (wisselbediening)"
+  },
+  {
+   "id": "05-025",
+   "vraag": "Waar worden stop-ontspoorblokken volgens de vakkennis veelal geplaatst?",
+   "opties": [
+    "Op sporen die leiden naar een werkplaats, een hek of een ander kwetsbaar object",
+    "Aan het einde van elk kopspoor, als vervanging van het stootjuk of de spoorbeëindigingsconstructie",
+    "Op de vrije baan bij spooraansluitingen, als vervanging van een ontsporingstong",
+    "Vóór beveiligde overwegen op emplacementen, om doorrijden bij een stoptonend sein te voorkomen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Stop-ontspoorblokken worden veelal geplaatst op sporen richting een werkplaats, hek of ander kwetsbaar object, waar ontsporen beter is dan letsel of grote schade.",
+   "bron": "1.8 Stop-ontspoorblokken"
+  },
+  {
+   "id": "05-026",
+   "vraag": "Wat geeft een vrijbalk aan?",
+   "opties": [
+    "Het fysieke einde van een kopspoor, waar een stootjuk of spoorbeëindigingsconstructie de blokkade vormt",
+    "De grens van het profiel van vrije ruimte waarbuiten het inspectiepad naast het spoor moet liggen",
+    "De uiterste grens waar spoorvoertuigen mogen staan zonder bewegingen op het andere spoor te hinderen",
+    "Het begin van de aankondigingssectie van een beveiligde overweg op een emplacement met samenlopende sporen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Een vrijbalk is een meestal wit gemarkeerde betonnen balk tussen samenlopende of kruisende sporen; de uiterste grens waar spoorvoertuigen mogen worden geplaatst zonder het andere spoor te hinderen.",
+   "bron": "1.8 Vrijbalk"
+  },
+  {
+   "id": "05-027",
+   "vraag": "Waarom wordt de bovenleidingspanning op het Nederlandse 1500 V-systeem vaak verhoogd tot 1800 V?",
+   "opties": [
+    "Om aan te sluiten op het Europese hogesnelheidsnet",
+    "Vanwege intensief treinverkeer",
+    "Om ijzelafzetting op de rijdraad te voorkomen",
+    "Om zwerfstroom en corrosie te verminderen"
+   ],
+   "antwoord": 1,
+   "uitleg": "De meeste treinen zijn geschikt voor 1500 V DC; vanwege intensief treinverkeer wordt de spanning vaak verhoogd tot 1800 V.",
+   "bron": "1.9 Bovenleidingspanning"
+  },
+  {
+   "id": "05-028",
+   "vraag": "Wat is een reden waarom voor de Betuweroute voor 25 kV is gekozen?",
+   "opties": [
+    "Een 1800 V DC-systeem levert onvoldoende energie voor zware goederentreinen met een redelijk hoge frequentie",
+    "Een 25 kV-systeem heeft langs de hele route geen onderstations of schakelstations nodig",
+    "Met 25 kV is bij de overgang naar de Havenspoorlijn geen fasescheiding of spanningssluis nodig",
+    "Zware goederentreinen kunnen de beweegbare bruggen in de Havenspoorlijn alleen op wisselspanning passeren"
+   ],
+   "antwoord": 0,
+   "uitleg": "Voor de Betuweroute is 25 kV gekozen omdat de lijn deel is van het Europese railtransportnetwerk en omdat 1800 V DC onvoldoende energie kan leveren voor de zware goederentreinen.",
+   "bron": "1.9 Bovenleidingspanning"
+  },
+  {
+   "id": "05-029",
+   "vraag": "Wat is een kenmerk van onderstations voor treinen op 25 kV AC?",
+   "opties": [
+    "Ze transformeren de aangeleverde 10 kV-draaistroom en richten deze daarna gelijk",
+    "Ze zijn aangesloten op het hoogspanningsnet en hebben geen gelijkrichter",
+    "Ze krijgen hun voeding via de 3 kV-seinwezenvoeding in het kabelbed",
+    "Ze werken uitsluitend als distributiestation voor de sporen op emplacementen"
+   ],
+   "antwoord": 1,
+   "uitleg": "Onderstations voor 25 kV AC zijn aangesloten op het hoogspanningsnet en hebben geen gelijkrichter; DC-onderstations transformeren en richten 10 kV gelijk.",
+   "bron": "1.10 Onderstation"
+  },
+  {
+   "id": "05-030",
+   "vraag": "Wat is GEEN functie van een schakelstation?",
+   "opties": [
+    "Het reduceren van het spanningsverlies over de bovenleiding",
+    "Het gelijkrichten van de aangeleverde 10 kV-spanning",
+    "Het verdelen van een baanvak zodat kortsluiting eenvoudig geïsoleerd kan worden",
+    "Het als distributiestation voeden van meerdere sporen bij emplacementen"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een schakelstation reduceert spanningsverlies, verdeelt een baanvak voor isolatie van kortsluiting en functioneert als distributiestation. Gelijkrichten gebeurt in het onderstation.",
+   "bron": "1.10 Schakelstation / Onderstation"
+  },
+  {
+   "id": "05-031",
+   "vraag": "Wat wordt bedoeld met 'roestrijden'?",
+   "opties": [
+    "Een trein met zandstrooi-installatie rijdt over gladde sporen om roest en bladresten van de spoorstaven te verwijderen",
+    "Een trein rijdt speciaal een afwijkende route over een emplacement om geïsoleerde wissels en sporen te berijden",
+    "Een trein rijdt met opgezette stroomafnemer over een emplacement om ijzel en roest van de rijdraad te schrapen",
+    "Een werktrein rijdt na een buitendienststelling over het spoor om de spoorstroomlopen te testen voordat het weer in dienst gaat"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een dun laagje roest kan de spoorstroomloop onderbreken; daarom moeten geïsoleerde wissels en sporen bereden worden. Roestrijden is een speciaal hiervoor gereden afwijkende route.",
+   "bron": "1.10 Spoorstroomloop"
+  },
+  {
+   "id": "05-032",
+   "vraag": "Wat is de gemiddelde hoogte van de rijdraad boven de spoorbaan?",
+   "opties": [
+    "5,50 meter",
+    "2,75 meter",
+    "4,50 meter",
+    "6,25 meter"
+   ],
+   "antwoord": 0,
+   "uitleg": "De rijdraad hangt met hangdraden aan de draagkabel; de gemiddelde hoogte boven de spoorbaan is 5,50 meter.",
+   "bron": "1.10 Rijdraad"
+  },
+  {
+   "id": "05-033",
+   "vraag": "Wat is de maximale lengte van een bovenleidingsectie, en waarmee kan de rijdraad worden afgespannen?",
+   "opties": [
+    "1800 meter; met gewichten of met veren",
+    "1500 meter; uitsluitend met gewichten",
+    "70 meter; met isolatoren aan de portalen",
+    "1500 meter; met gewichten of met gasdruk"
+   ],
+   "antwoord": 3,
+   "uitleg": "De lengte van een sectie is maximaal 1500 meter; afspannen kan met behulp van gewichten of met gasdruk.",
+   "bron": "1.10 Afspaninrichting"
+  },
+  {
+   "id": "05-034",
+   "vraag": "Hoe ver staan de bovenleidingportalen buiten emplacementen ongeveer uit het hart van het spoor, en wat is de lengte-afstand ertussen?",
+   "opties": [
+    "Ongeveer 1,5 meter uit het hart; ongeveer 70 meter ertussen",
+    "Ongeveer 2,75 meter uit het hart; ongeveer 150 meter ertussen",
+    "Ongeveer 2,75 meter uit het hart; ongeveer 70 meter ertussen",
+    "Ongeveer 5,50 meter uit het hart; ongeveer 50 meter ertussen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Portalen staan ongeveer 2,75 m uit het hart van het spoor (op emplacementen dichter); de lengte-afstand tussen portalen is ongeveer 70 m.",
+   "bron": "1.10 Portalen"
+  },
+  {
+   "id": "05-035",
+   "vraag": "Een bovenleidingschakelaar is uitgeschakeld. Mag de bovenleiding nu veilig worden benaderd?",
+   "opties": [
+    "Nee, de bovenleiding moet ook nog geaard worden, en dat mogen alleen speciaal opgeleide personen",
+    "Ja, een uitgeschakelde schakelaar garandeert een spanningsloze en daarmee veilig te benaderen bovenleiding",
+    "Nee, de machinist moet eerst zelf de bovenleiding aarden met de kortsluitlans van de trein",
+    "Ja, mits iedereen tenminste 1,5 meter afstand houdt van de rijdraad en de draagkabel"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een uitgeschakelde schakelaar geeft geen garantie; de bovenleiding moet ook geaard worden. Alleen speciaal opgeleide personen mogen dit (niet te verwarren met het aarden van de trein door de machinist).",
+   "bron": "1.10 Bovenleidingschakelaar"
+  },
+  {
+   "id": "05-036",
+   "vraag": "Een trein komt onbedoeld tot stilstand in een spanningssluis zonder beschikbare spanningsvoerende bovenleiding. Wat doet de machinist?",
+   "opties": [
+    "De stroomafnemer opzetten en proberen de sluis uit te rollen",
+    "Zelf het OBI bellen om de bovenleiding in te schakelen",
+    "Contact opnemen met de treindienstleider en diens instructies opvolgen",
+    "Direct de reizigers evacueren via het inspectiepad"
+   ],
+   "antwoord": 2,
+   "uitleg": "Als een trein onbedoeld tot stilstand komt in een spanningssluis zonder spanningsvoerende bovenleiding, neemt de machinist contact op met de treindienstleider en volgt diens instructies op.",
+   "bron": "1.10 Spanningssluis"
+  },
+  {
+   "id": "05-037",
+   "vraag": "Welk systeem valt volgens de vakkennis BUITEN de tunneltechnische installaties (TTI)?",
+   "opties": [
+    "Treinstilstanddetectie",
+    "Automatisch openende vluchtdeuren",
+    "ATB/ETCS-treinbeveiliging",
+    "Afzuiging met ventilatoren"
+   ],
+   "antwoord": 2,
+   "uitleg": "Het normale treinbeveiligingssysteem (treindetectie, ATB, ETCS) valt buiten de tunnelinstallaties; treinstilstanddetectie hoort er wel bij.",
+   "bron": "1.11 Spoortunnel"
+  },
+  {
+   "id": "05-038",
+   "vraag": "Een machinist nadert een WILO. Welk beeld toont deze installatie als er een trein aankomt?",
+   "opties": [
+    "De twee witte lampen knipperen",
+    "De witte lamp knippert en de bel klinkt",
+    "De twee witte lampen branden continu",
+    "De rode lamp knippert"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een WILO knippert de rode lamp als er een trein komt en de witte lamp als er geen trein komt. Bij een WIDO knipperen twee witte lampen als er een trein komt.",
+   "bron": "1.12 WIDO en WILO"
+  },
+  {
+   "id": "05-039",
+   "vraag": "Bij welke situatie is zandstrooien volgens de vakkennis toegestaan?",
+   "opties": [
+    "Bij het remmen bij een snelheid van 15 km/u",
+    "In de buurt van een wissel om doorglijden te voorkomen",
+    "Tijdens stilstand om de remweg bij vertrek te verkorten",
+    "Bij gladde sporen om de trein in beweging te stellen"
+   ],
+   "antwoord": 3,
+   "uitleg": "Zandstrooien mag alleen om in beweging te stellen of tijdig tot stilstand te komen; verboden bij wissels en kruisingen, bij remmen onder 20 km/u en bij stilstand (behalve testen).",
+   "bron": "1.14 Wat doet de machinist bij gladde sporen?"
+  },
+  {
+   "id": "05-040",
+   "vraag": "Een afhangend deel van een defecte bovenleiding ligt op de trein. Wat moet gebeuren voordat personen de trein verlaten?",
+   "opties": [
+    "De machinist laat de stroomafnemers zakken en houdt bij het uitstappen tenminste 1,5 meter afstand",
+    "De machinist aardt eerst de trein en laat reizigers aan de van de bovenleiding afgekeerde zijde uitstappen",
+    "De treindienstleider laat de bovenleiding afschakelen en aarden, en de machinist wacht op bevestiging",
+    "De machinist meldt het rechtstreeks aan het OBI en evacueert de reizigers direct via de vluchtdeuren"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bevindt een afhangend deel zich op de trein, dan vraagt de machinist de treindienstleider de bovenleiding uit te schakelen (afschakelen en aarden, wachten op bevestiging) voordat personen de trein verlaten.",
+   "bron": "1.18 Wat doet de machinist bij een defecte bovenleiding?"
+  },
+  {
+   "id": "05-041",
+   "vraag": "Een machinist rijdt in centraal bediend gebied naar een wissel dat in storing ligt. Welke instructies moet hij ontvangen voordat hij tot of over het wissel mag rijden?",
+   "opties": [
+    "European Instruction 8 met aanvullende instructie X.95",
+    "European Instruction 5 en European Instruction 6",
+    "European Instruction 1 en European Instruction 5 met aanvullende instructie X.95",
+    "European Instruction 1 en European Instruction 6 met aanvullende instructie X.95"
+   ],
+   "antwoord": 3,
+   "uitleg": "In centraal bediend gebied kan de machinist na ontvangst van EI 1 en EI 6 met aanvullende instructie X.95 rijden tot of over het wissel dat in storing ligt.",
+   "bron": "1.19 Wat doet de machinist bij een wisselstoring?"
+  },
+  {
+   "id": "05-042",
+   "vraag": "Bij een storing van een AHOB werkt ook het aanrijden van de middensectie niet. Het is nacht. Hoe beveiligt de machinist de overweg?",
+   "opties": [
+    "Met een rode vlag en een rood licht tot de eerste as van de trein over de overweg is",
+    "Met een rood (liefst knipperend) licht tot de eerste as over de overweg is",
+    "Met een rood (liefst knipperend) licht tot de trein geheel over de overweg is",
+    "Door de middensectie opnieuw aan te rijden en twintig seconden te wachten voordat hij verder rijdt"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij nacht en slecht zicht beveiligt de machinist de overweg met een rood licht (liefst knipperend) tot de trein geheel over de overweg is; bij dag met een rode vlag tot de eerste as erover is.",
+   "bron": "1.20 Wat doet de machinist bij een overwegstoring? (AHOB/AOB)"
+  },
+  {
+   "id": "05-043",
+   "vraag": "De AKI-installatie van een overweg werkt niet. Wat doet de machinist na de European Instruction 8?",
+   "opties": [
+    "Stoppen voor de overweg, wachten tot de installatie werkt en verdergaan na tien seconden",
+    "Stoppen voor de overweg en verder rijden als sein 226b wordt getoond",
+    "De middensectie aanrijden, stoppen en pas verdergaan nadat de AKI tien seconden werkt",
+    "De middensectie aanrijden, stoppen en pas verdergaan nadat de AKI twintig seconden werkt"
+   ],
+   "antwoord": 3,
+   "uitleg": "Als een AKI niet werkt: de middensectie aanrijden en stoppen, pas verdergaan nadat de AKI twintig seconden werkt, en normale snelheid nadat de eerste as de overweg is gepasseerd.",
+   "bron": "1.20 Wat doet de machinist bij een overwegstoring? (AKI)"
+  },
+  {
+   "id": "05-044",
+   "vraag": "Een machinist ziet bij een (H)ALI-overweg sein 226c. Wat is juist?",
+   "opties": [
+    "Hij vermindert na ontvangst van European Instruction 8 de snelheid naar 10 km/u en geeft een attentiesein",
+    "Hij stopt voor de overweg en rijdt pas verder als sein 226b wordt getoond",
+    "Hij rijdt de middensectie aan, stopt en rijdt pas verder nadat de installatie twintig seconden werkt",
+    "Hij stopt voor de overweg en rijdt pas verder na European Instruction 6 van de treindienstleider"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij (H)ALI is sprake van storing als sein 226c wordt getoond; de machinist stopt en rijdt verder als 226b wordt getoond. Er wordt geen European Instruction gegeven.",
+   "bron": "1.20 Wat doet de machinist bij een overwegstoring? (HALI/ALI)"
+  },
+  {
+   "id": "05-045",
+   "vraag": "Waardoor ontstaat spoorspatting?",
+   "opties": [
+    "Door trekkrachten in de spoorstaven bij lage temperaturen",
+    "Door drukkrachten in de spoorstaven bij hoge temperaturen",
+    "Door het wegzakken van de ondergrond na langdurige regen",
+    "Door veroudering van de ballast en slechte bodemgesteldheid"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij hoge temperaturen ontstaan drukkrachten waardoor het spoor zijdelings wil uitbuigen; geeft de constructie mee, dan is spoorspatting een feit. Verzakking komt door wegzakken van ondergrond/ballast.",
+   "bron": "1.21 Spoorspatting of spoorverzakking"
+  },
+  {
+   "id": "05-046",
+   "vraag": "Na een spoorverzakking: welke European Instructions worden achtereenvolgens gegeven?",
+   "opties": [
+    "Eerst European Instruction 5; als de snelheid bekend is European Instruction 6",
+    "Eerst European Instruction 6; als de snelheid bekend is European Instruction 5",
+    "Eerst European Instruction 8; daarna European Instruction 5",
+    "Eerst European Instruction 1; daarna European Instruction 6 met X.95"
+   ],
+   "antwoord": 1,
+   "uitleg": "Afhankelijk van de ernst wordt eerst EI 6 gegeven; als de snelheid bekend is, wordt EI 5 gegeven.",
+   "bron": "1.21 Spoorspatting of spoorverzakking"
+  },
+  {
+   "id": "05-047",
+   "vraag": "Wie vraagt aan het begin van een buitendienststelling aan de treindienstleider om de sporen buiten dienst te stellen?",
+   "opties": [
+    "De begeleider buitendienstgesteld spoor (BBD)",
+    "De leider werkplekbeveiliging (LWB)",
+    "De gereedschapsmachinist (GMcn)",
+    "Het Operationeel Besturingscentrum Infra (OBI)"
+   ],
+   "antwoord": 1,
+   "uitleg": "Aan het begin van de buitendienststelling vraagt de LWB aan de treindienstleider om de sporen buiten dienst te stellen.",
+   "bron": "1.22 Buitendienststelling en indienststelling"
+  },
+  {
+   "id": "05-048",
+   "vraag": "Waar staan de veiligheidsmaatregelen beschreven die de LWB moet treffen, zoals het plaatsen van een kortsluitlans?",
+   "opties": [
+    "In de werkplekbeveiligingsinstructie (WBI)",
+    "In de IAM/TSB-publicatie van de betreffende week",
+    "In de Netverklaring van ProRail",
+    "In het Normenkader Veilig Werken (NVW)"
+   ],
+   "antwoord": 0,
+   "uitleg": "De LWB is verplicht veiligheidsmaatregelen te treffen; deze staan beschreven in de werkplekbeveiligingsinstructie (WBI). Het werk gebeurt onder de NVW-normen.",
+   "bron": "1.22 Buitendienststelling en indienststelling"
+  },
+  {
+   "id": "05-049",
+   "vraag": "Voor welke situaties wordt het OBI (voorheen SMC) van ProRail ingeschakeld?",
+   "opties": [
+    "Voor wisselstoringen, overwegstoringen en spoorverzakkingen op de vrije baan en op emplacementen",
+    "Voor het verdelen van treinpaden, het publiceren van de Netverklaring en het opstellen van de IAM",
+    "Voor storingen aan bovenleiding en tunneltechnische installaties en voor calamiteiten in tunnels",
+    "Voor het buitendienststellen van sporen op verzoek van de LWB en het plaatsen van kortsluitlansen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Het OBI wordt ingeschakeld voor het schakelen en verhelpen van bovenleidingstoringen, storingen aan TTI en calamiteiten in tunnels.",
+   "bron": "1.22 OBI (voorheen SMC)"
+  },
+  {
+   "id": "05-050",
+   "vraag": "Een machinist moet rekening houden met hulpverleners langs de baan na een ongepland treinincident. Hoe wordt hij geïnformeerd?",
+   "opties": [
+    "Via de IAM/TSB",
+    "Met European Instruction 5",
+    "Met European Instruction 8",
+    "Met European Instruction 6"
+   ],
+   "antwoord": 3,
+   "uitleg": "Ongeplande werkzaamheden staan niet in de IAM; de machinist krijgt EI 5 (toestand infra) of EI 6 (werkzaamheden langs de baan en/of hulpverleners).",
+   "bron": "1.23 Informatie over werkzaamheden aan de infra"
+  }
+ ]
+}
