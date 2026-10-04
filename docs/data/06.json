@@ -1,0 +1,592 @@
+{
+ "id": "06",
+ "titel": "Beveiligingssystemen",
+ "bron": "06-mei-26-cluster-beveiligingssystemen.pdf",
+ "vragen": [
+  {
+   "id": "06-001",
+   "vraag": "Een machinist moet in niet centraal bediend gebied rangeren. Wat geldt hierbij volgens de vakkennis?",
+   "opties": [
+    "De treindienstleider stelt vanuit zijn post een veilige rijweg in, bedient de wissels en is verantwoordelijk voor de veiligheid van de rangeerbeweging.",
+    "De machinist rangeert zelfstandig zonder vooraf gemaakte afspraken; de treindienstleider wordt achteraf over de uitgevoerde bewegingen geïnformeerd.",
+    "Machinist en treindienstleider spreken vooraf de rangeerbewegingen af; de machinist is zelf verantwoordelijk voor een veilige verplaatsing.",
+    "De machinist mag pas rangeren nadat de treindienstleider, die de infrabezetting ziet, voor elke beweging European Instruction 1 heeft afgegeven."
+   ],
+   "antwoord": 2,
+   "uitleg": "In NCBG is de machinist zelf verantwoordelijk voor een veilige verplaatsing van het materieel, en vooraf spreken machinist en treindienstleider af welke rangeerbewegingen worden uitgevoerd.",
+   "bron": "1.2 Wat is centraal bediend gebied en niet centraal bediend gebied?"
+  },
+  {
+   "id": "06-002",
+   "vraag": "Wat gebeurt er in een spoorstroomloop wanneer een trein het blok binnenrijdt?",
+   "opties": [
+    "De stroom door de spoorstaven neemt via de wielassen toe, waardoor het relais wordt bekrachtigd en het sein rood toont.",
+    "De ES-lassen onderbreken de voeding van het blok, waardoor het relais afvalt en het sein van het vorige blok rood wordt.",
+    "De wielassen verstoren het magnetisch veld, waardoor het relais wordt opgetrokken en het blok als bezet geldt.",
+    "Via de wielassen ontstaat kortsluiting; het relais krijgt geen spanning meer en valt af."
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een vrij blok bekrachtigt een stroompje het relais (opgetrokken). Rijdt een trein het blok in, dan ontstaat via de wielassen kortsluiting, krijgt het relais geen spanning meer en valt het af; het sein toont dan rood.",
+   "bron": "1.3 Wat is het blokstelsel op de vrije baan? (ES-lassen en geïsoleerd spoor)"
+  },
+  {
+   "id": "06-003",
+   "vraag": "Bij een assentellersysteem treedt een telfout op. Wat is het gevolg en wat mag de machinist?",
+   "opties": [
+    "Het blok blijft bezet; de machinist mag het blok zonder toestemming inrijden, mits hij rijdt op zicht tot het eind van het blok.",
+    "Het systeem voert automatisch een zachte reset uit; de machinist wacht tot het sein weer een rijdend seinbeeld toont.",
+    "Het blok blijft bezet (fail-safe); de machinist mag het blok alleen met toestemming van de treindienstleider inrijden.",
+    "Het blok wordt na vergelijking van de getelde assen als vrij beschouwd; de machinist mag met maximaal 40 km/u doorrijden."
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een telfout kiest het systeem de veiligste kant en blijft het blok bezet. De machinist mag het blok in verband met mogelijke bezetting alleen inrijden met toestemming van de treindienstleider.",
+   "bron": "1.3 Wat is het blokstelsel op de vrije baan? (Assentellers)"
+  },
+  {
+   "id": "06-004",
+   "vraag": "Wat geldt voor een harde reset van een assentellersysteem?",
+   "opties": [
+    "De treindienstleider voert de reset op afstand uit vanuit zijn post; het blok komt vrij zodra het systeem op nul is gezet.",
+    "De machinist voert de reset ter plaatse in de relaiskast uit nadat hij European Instruction 1 heeft ontvangen.",
+    "Het systeem wordt op nul gezet en het blok komt pas vrij nadat de eerstvolgende trein het blok daadwerkelijk geheel heeft verlaten.",
+    "Het blok wordt direct vrijgegeven; de reset gebeurt ter plaatse in de relaiskast met toestemming van de treindienstleider."
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een harde reset wordt het blok direct vrijgegeven; de trein hoeft het blok niet uit te rijden. Dit gebeurt ter plaatse in de relaiskast met toestemming van de treindienstleider.",
+   "bron": "1.3 Wat is het blokstelsel op de vrije baan? (Assentellers)"
+  },
+  {
+   "id": "06-005",
+   "vraag": "Wat geldt voor de overwegen bij enkelspoorbeveiliging?",
+   "opties": [
+    "Ze hebben alleen middensecties, waardoor de overweg in beide rijrichtingen pas sluit als de trein de overweg zelf bereikt.",
+    "Ze worden uitsluitend door de treindienstleider bediend, omdat het enkelspoor geen aanrijdsecties heeft voor de tegenrichting.",
+    "Ze hebben alleen aanrijdsecties in de ingestelde rijrichting; tegen de rijrichting moet de machinist rekening houden met storing.",
+    "Ze hebben midden- en aanrijdsecties die, ongeacht de ingestelde rijrichting, aan beide zijden van de overweg werken."
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij enkelspoor zijn overwegen voorzien van zowel midden- als aanrijdsecties die, onafhankelijk van de ingestelde rijrichting, werkzaam zijn aan beide zijden van de overweg.",
+   "bron": "1.4 Enkelspoorbeveiliging"
+  },
+  {
+   "id": "06-006",
+   "vraag": "Een machinist moet bij dubbelspoorbeveiliging over een linkerspoor rijden dat niet beveiligd is. Hoe herkent hij dit spoor en wat heeft hij nodig?",
+   "opties": [
+    "Aan een geel vierkant bord met de letters 'VS'; hij mag rijden na mondelinge toestemming van de treindienstleider via GSM-R.",
+    "Aan een wit vierkant zwart omlijnd bord met 'VS'; hij mag zonder bijzondere maatregelen rijden op zicht.",
+    "Aan keperbakens langs het linkerspoor; hij heeft van de treindienstleider European Instruction 1 nodig voor iedere seinpassage.",
+    "Aan een wit vierkant zwart omlijnd bord met 'VS'; hij heeft een schriftelijke instructie nodig waarop staat hoe hij moet rijden."
+   ],
+   "antwoord": 3,
+   "uitleg": "Een onbeveiligd linkerspoor bij dubbelspoorbeveiliging heet 'Verkeerd spoor' (VS), herkenbaar aan het witte vierkante zwart omlijnde bord met 'VS'. Berijden mag alleen met een schriftelijke instructie waarop precies staat hoe.",
+   "bron": "1.4 Dubbelspoorbeveiliging (Verkeerd spoor)"
+  },
+  {
+   "id": "06-007",
+   "vraag": "Een trein rijdt bij linkerspoorbeveiliging tegen de ingestelde rijrichting in. Waarmee moet de machinist rekening houden?",
+   "opties": [
+    "Met keperbakens in plaats van lichtseinen langs het linkerspoor.",
+    "Met het mogelijk niet juist functioneren van een beveiligde overweg.",
+    "Met het ontbreken van ATB-codes, waardoor hij maximaal 40 km/u mag rijden.",
+    "Met het feit dat hij het blok na verlaten moet vrijmelden bij de treindienstleider."
+   ],
+   "antwoord": 1,
+   "uitleg": "Wanneer treinen bij linkerspoorbeveiliging tegen de ingestelde rijrichting rijden, moet de machinist rekening houden met het mogelijk niet juist functioneren van een beveiligde overweg.",
+   "bron": "1.4 Dubbelspoor met linkerspoorbeveiliging"
+  },
+  {
+   "id": "06-008",
+   "vraag": "Wat onderscheidt dubbelenkelspoorbeveiliging van beveiligd linkerspoor?",
+   "opties": [
+    "Bij dubbelenkelspoor zijn beide sporen in één richting beveiligd en komt de machinist op het linkerspoor keperbakens tegen.",
+    "Bij dubbelenkelspoor is alleen het rechterspoor in beide richtingen op blokafstand beveiligd; het linkerspoor is 'Verkeerd spoor'.",
+    "Bij dubbelenkelspoor kunnen treinen op zowel het linker- als het rechterspoor in beide richtingen op blokafstand rijden.",
+    "Bij dubbelenkelspoor is het linkerspoor één groot blok, meestal bestaande uit een voorsein in combinatie met een hoofdsein."
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij dubbelenkelspoor zijn linker- en rechterspoor in beide richtingen gelijkwaardig ingericht, zodat treinen op beide sporen op blokafstand kunnen rijden. Bij beveiligd linkerspoor heeft meestal alleen het rechterspoor korte blokken.",
+   "bron": "1.4 Dubbelenkelspoorbeveiliging"
+  },
+  {
+   "id": "06-009",
+   "vraag": "Welke systemen worden in de vakkennis (versie mei 2026) als voorbeelden van vereenvoudigde beveiligings- en beheersingssystemen (VBBS) genoemd?",
+   "opties": [
+    "VPI en PLC",
+    "NX en EBP",
+    "VCVL en CTB",
+    "TPRB en VCVL"
+   ],
+   "antwoord": 2,
+   "uitleg": "Volgens de gewijzigde tekst behoren tot de VBBS bijvoorbeeld VCVL en CTB. TPRB is in de versie van mei 2026 verwijderd.",
+   "bron": "1.5 Systemen met vereenvoudigde beveiliging"
+  },
+  {
+   "id": "06-010",
+   "vraag": "Hoe functioneren de seinen bij VCVL (Vereenvoudigde Centrale VerkeersLeiding)?",
+   "opties": [
+    "Bediende inrijseinen en automatisch werkende uitrijseinen; de machinist stelt de rijwegen in via een bedieningskast bij het station.",
+    "Zonder in- en uitrijseinen; de treindienstleider geeft per blok toestemming via communicatie en de machinist meldt het blok vrij.",
+    "Automatisch werkende in- en uitrijseinen; de wissels lopen na passage terug in de normale stand en de treindienstleider bedient niets.",
+    "Automatisch werkende inrijseinen en bediende uitrijseinen; waar centraal bediende wissels zijn, zijn ook de inrijseinen bediend."
+   ],
+   "antwoord": 3,
+   "uitleg": "VCVL kent alleen in- en uitrijseinen, met automatisch werkende inrijseinen en bediende uitrijseinen. De treindienstleider stelt de rijwegen in; waar centraal bediende wissels zijn, zijn ook de inrijseinen bediende seinen.",
+   "bron": "1.5 VCVL (Vereenvoudigde Centrale VerkeersLeiding)"
+  },
+  {
+   "id": "06-011",
+   "vraag": "Een machinist rijdt op een CTB-baanvak en heeft toestemming gekregen een blok in te rijden. Wat moet hij doen nadat hij het blok geheel heeft verlaten?",
+   "opties": [
+    "Het blok weer vrijmelden bij de treindienstleider.",
+    "Bij het volgende blokbord wachten op European Instruction 1.",
+    "Niets; het blok komt automatisch vrij via de assentellers.",
+    "Het blokkastje bedienen zodat het uitrijsein weer op stop komt."
+   ],
+   "antwoord": 0,
+   "uitleg": "CTB werkt uitsluitend met communicatie. Voor elk blok staat een blokbord; na toestemming mag de trein het blok inrijden en als het blok geheel verlaten is, meldt de machinist het blok weer vrij bij de treindienstleider.",
+   "bron": "1.5 CTB (Centraal Telecom Blokstelsel)"
+  },
+  {
+   "id": "06-012",
+   "vraag": "Wat maakt NX-beveiliging tot een routesysteem?",
+   "opties": [
+    "Er worden rijwegen ingesteld in plaats van losse wissels en seinen; de apparatuur stuurt de wissels en brengt het sein uit de stand stop.",
+    "De niet-veiligheidscircuits zijn vervangen door elektronica, terwijl de veiligheidscircuits nog uit relais bestaan.",
+    "De machinist kiest zelf de route met een drukknop bij het sein, waarna de apparatuur de wissels in de gewenste stand stuurt.",
+    "Eén enkele processor verzorgt alle beveiligingsfuncties, terwijl de bediening via een groot tableau verloopt."
+   ],
+   "antwoord": 0,
+   "uitleg": "NX is een routesysteem: er worden rijwegen ingesteld waarbij de apparatuur de wissels in de gewenste stand stuurt en het sein uit de stand stop brengt. Het is een 'all-relay'-systeem.",
+   "bron": "1.6 NX-beveiliging (eNtrance / eXit)"
+  },
+  {
+   "id": "06-013",
+   "vraag": "Wat is het kenmerkende verschil tussen EBP en EBS?",
+   "opties": [
+    "Bij EBP bestaan de veiligheidscircuits nog uit relais; bij EBS zijn ook de veiligheidscircuits vervangen door elektronica.",
+    "Bij EBP zijn de veiligheidscircuits al elektronisch; bij EBS zijn alleen de niet-veiligheidscircuits door elektronica vervangen.",
+    "EBP werkt volledig met relaisschakelingen, ook voor de bediening; EBS werkt met één enkele processor in combinatie met NX.",
+    "EBP is door Siemens ontwikkeld voor grote emplacementen; EBS is door Alstom ontwikkeld voor emplacementen met weinig wissels."
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij EBP zijn de niet-veiligheidscircuits vervangen door elektronica en bestaan de veiligheidscircuits nog uit relais. Daarna werden bij EBS (Siemens, SIMIS) ook de veiligheidscircuits door elektronica vervangen.",
+   "bron": "1.6 EBP en EBS"
+  },
+  {
+   "id": "06-014",
+   "vraag": "Hoe is de taakverdeling bij een emplacement met VPI-beveiliging?",
+   "opties": [
+    "VPI zorgt voor de bediening en signalering; EBS zorgt met relaisschakelingen voor de beveiliging.",
+    "PLC zorgt voor de bediening en signalering; VPI zorgt met één enkele processor voor de treindetectie.",
+    "NX zorgt voor de bediening via een tableau; VPI zorgt met meerdere processoren voor de beveiliging.",
+    "EBP zorgt voor bediening en signalering; VPI zorgt voor de beveiliging met één enkele processor."
+   ],
+   "antwoord": 3,
+   "uitleg": "VPI werkt in combinatie met EBP, die voor de bediening en signalering zorgt; VPI zorgt voor de beveiliging. Bij VPI is er maar één enkele processor die alle beveiligingsfuncties verzorgt.",
+   "bron": "1.6 VPI (Vital Processor Interlocking)"
+  },
+  {
+   "id": "06-015",
+   "vraag": "Wat wordt in de vakkennis genoemd als groot voordeel van PLC-Interlocking?",
+   "opties": [
+    "Het combineert relaisbeveiliging met elektronische bediening voor kleine emplacementen.",
+    "Het geeft precies aan welk onderdeel aan vervanging toe is, zodat een monteur sneller kan handelen.",
+    "Het is door Siemens na enige aanpassingen geschikt gemaakt voor de Nederlandse beveiliging.",
+    "Het maakt op emplacementen snelheden hoger dan 160 km/u mogelijk zonder extra baanapparatuur."
+   ],
+   "antwoord": 1,
+   "uitleg": "PLC maakt geen gebruik meer van conventionele relaisbeveiliging, is een open systeem en is betrouwbaarder. Groot voordeel is dat PLC-Interlocking precies aangeeft welk onderdeel aan vervanging toe is.",
+   "bron": "1.6 PLC (Programmable Logic Controller)"
+  },
+  {
+   "id": "06-016",
+   "vraag": "Wat is volgens de vakkennis een nadeel van een bediende baan, zoals de Hanzelijn of de Betuweroute?",
+   "opties": [
+    "Er staan alleen P-seinen, waardoor de machinist bij een seinstoring zonder toestemming van de treindienstleider op zicht mag doorrijden.",
+    "De rijweg komt na het afrijden niet meer beschikbaar voor andere treinen, zodat de treindienstleider elke rijweg opnieuw moet aanvragen.",
+    "Bij een seinstoring zijn alle seinen onderweg gestoord; de treindienstleider moet voor iedere seinpassage European Instruction 1 geven.",
+    "De seinen staan in de automatische stand, waardoor de treindienstleider bij gevaar geen stop kan laten tonen op het bediende hoofdsein."
+   ],
+   "antwoord": 2,
+   "uitleg": "Een bediende baan is hoofdspoorweg met alleen bediende seinen. Nadeel is dat bij een seinstoring alle seinen onderweg gestoord zijn en de treindienstleider voor iedere seinpassage European Instruction 1 moet afgeven.",
+   "bron": "1.7 Wat is het verschil tussen bediende emplacementen en vrije baan/hoofdspoorweg?"
+  },
+  {
+   "id": "06-017",
+   "vraag": "Welke uitspraak over een voorsein is juist?",
+   "opties": [
+    "Het staat op tenminste remwegafstand van het hoofdsein, wordt voorafgegaan door een keperbaken en kan rood knipper tonen.",
+    "Het staat op tenminste 120 meter van het hoofdsein, heeft een P-bord en toont in ruststand groen.",
+    "Het staat op tenminste remwegafstand van het hoofdsein, wordt voorafgegaan door een wit baken en kan geen rood tonen.",
+    "Het staat direct voor een overweg, wordt voorafgegaan door een wit baken en kan rood tonen."
+   ],
+   "antwoord": 2,
+   "uitleg": "Een voorsein gaat vooraf aan een hoofdsein of bord met betekenis stop, kan geen rood licht uitstralen, staat op tenminste remwegafstand van het hoofdsein en wordt voorafgegaan door een wit baken.",
+   "bron": "1.8 Voorseinen"
+  },
+  {
+   "id": "06-018",
+   "vraag": "Hoe ziet het baanvaksnelheidsbord er nu nog vaak uit, en waardoor wordt het bij aanpassingen vervangen?",
+   "opties": [
+    "Een groene driehoek met zwarte rand en de punt naar boven; vervangen door het witte vierkante snelheidsbord.",
+    "Een witte driehoek met rode rand en de punt naar beneden; vervangen door het groene vierkante snelheidsbord.",
+    "Een groene driehoek met zwarte rand en de punt naar beneden; vervangen door het gele vierkante snelheidsbord.",
+    "Een wit vierkant bord met zwarte rand; vervangen door de groene driehoek met de punt naar boven."
+   ],
+   "antwoord": 0,
+   "uitleg": "Het baanvaksnelheidsbord is nu nog vaak een groene driehoek met een zwarte rand en de punt naar boven. Bij alle aanpassingen en nieuwe situaties wordt het vervangen door het witte vierkante snelheidsbord.",
+   "bron": "1.8 Snelheidsborden"
+  },
+  {
+   "id": "06-019",
+   "vraag": "Volgens de IAM staan er op een traject tijdelijke snelheidsborden, maar de machinist ziet ze in werkelijkheid niet. Wat moet hij doen?",
+   "opties": [
+    "De IAM-informatie volgen, handelen alsof de borden er staan en het ontbreken direct aan de treindienstleider melden.",
+    "Direct stoppen, het ontbreken melden en wachten op een schriftelijke instructie van de treindienstleider voor dat traject.",
+    "Rijden op zicht tot het eerstvolgende hoofdsein en het ontbreken melden aan de verantwoordelijke van zijn bedrijf.",
+    "De baanvaksnelheid aanhouden omdat er geen borden staan, en het ontbreken na afloop van de rit in de materieelagenda melden."
+   ],
+   "antwoord": 0,
+   "uitleg": "Staan er volgens de IAM tijdelijke snelheidsborden maar in werkelijkheid niet, dan volgt de machinist de IAM-informatie, handelt alsof de borden er staan en meldt het afwezig zijn direct aan de treindienstleider.",
+   "bron": "1.8 Snelheidsborden"
+  },
+  {
+   "id": "06-020",
+   "vraag": "Een tijdelijk snelheidsbord toont 60 km/u, terwijl in de IAM voor die plek 40 km/u staat. Wat doet de machinist?",
+   "opties": [
+    "Hij rijdt 40 km/u en meldt het verschil direct aan de treindienstleider.",
+    "Hij rijdt 40 km/u en hoeft niets te melden omdat hij de laagste snelheid kiest.",
+    "Hij rijdt 60 km/u omdat de borden langs de baan altijd voorgaan, en meldt het verschil.",
+    "Hij rijdt 60 km/u en noteert het verschil in de materieelagenda."
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij een verschil tussen de snelheden op de borden en in de IAM kiest de machinist de laagste snelheid en meldt hij dit direct aan de treindienstleider.",
+   "bron": "1.8 Snelheidsborden"
+  },
+  {
+   "id": "06-021",
+   "vraag": "Waarom wordt bij een ATB-codewisselsein het cabinesein eerder getoond dan het lichtsein dat de snelheidsbegrenzing oplegt?",
+   "opties": [
+    "Omdat op die plaats geen ATB-code aanwezig is en de snelheid daardoor tot het volgende lichtsein tot 40 km/u is beperkt.",
+    "Omdat de machinist het lichtsein na het codewisselsein door een boog of overkapping niet tijdig kan waarnemen.",
+    "Omdat de ATB-remwegafstand tussen het lichtsein na het codewisselsein en het daaropvolgende lichtsein te kort is.",
+    "Omdat het codewisselsein de overgang van ATB-EG naar ATB-NG aangeeft, waarbij de cabineseinen eerder moeten wisselen."
+   ],
+   "antwoord": 2,
+   "uitleg": "Het cabinesein wordt eerder getoond dan het lichtsein omdat de ATB-remwegafstand tussen het lichtsein na het codewisselsein en het daaropvolgende lichtsein te kort is.",
+   "bron": "1.8 ATB-borden"
+  },
+  {
+   "id": "06-022",
+   "vraag": "Een bediend hoofdsein komt door een wisselstoring niet uit de stand stop. Hoe mag de machinist het sein passeren?",
+   "opties": [
+    "Na toestemming via European Instruction 1; daarna rijdt hij altijd maximaal 40 km/u tot het volgende sein.",
+    "Alleen met toestemming via European Instruction 1; daarna rijdt hij op zicht, tenzij de treindienstleider anders bepaalt.",
+    "Zonder toestemming met rijden op zicht, ook als er geen spreekverbinding met de treindienstleider tot stand komt.",
+    "Na mondelinge toestemming van de treindienstleider; daarna mag hij de baanvaksnelheid aanhouden."
+   ],
+   "antwoord": 1,
+   "uitleg": "Een bediend hoofdsein dat in de stand stop blijft, mag alleen voorbij gereden worden met toestemming van de treindienstleider door middel van European Instruction 1. Daarna gaat de machinist rijden op zicht, tenzij de treindienstleider anders bepaalt.",
+   "bron": "1.9 Wat doet de machinist bij een hoofdsein dat niet uit de stand stop komt?"
+  },
+  {
+   "id": "06-023",
+   "vraag": "Een machinist staat voor een P-sein dat stop blijft tonen en krijgt geen spreekverbinding met de treindienstleider. Wat mag hij doen?",
+   "opties": [
+    "Het sein voorbijrijden met maximaal 40 km/u, omdat ATB-EG daaronder niet bewaakt.",
+    "Het sein voorbijrijden met rijden op zicht, maar bij het volgende stoptonende P-sein weer stoppen en wachten.",
+    "Blijven wachten tot er een spreekverbinding is, omdat toestemming via European Instruction 1 vereist is.",
+    "Het sein voorbijrijden met rijden op zicht, rekening houdend met het niet goed functioneren van overwegen."
+   ],
+   "antwoord": 3,
+   "uitleg": "Een P-sein dat in de stand stop blijft, mag met rijden op zicht voorbij gereden worden, ook als geen spreekverbinding tot stand komt. Ook opeenvolgende P-seinen in de stand stop mogen zo worden gepasseerd; de machinist houdt altijd rekening met niet goed functionerende overwegen.",
+   "bron": "1.9 Wat doet de machinist bij een hoofdsein dat niet uit de stand stop komt?"
+  },
+  {
+   "id": "06-024",
+   "vraag": "Een machinist rijdt niet op zicht en nadert een gedoofd bediend hoofdsein. Het voorafgaande hoofdsein toonde geel. Wat moet hij doen?",
+   "opties": [
+    "Doorrijden met maximaal 40 km/u en het gedoofde sein melden.",
+    "Direct stoppen voor het gedoofde hoofdsein.",
+    "Verder rijden met rijden op zicht tot het volgende hoofdsein.",
+    "Het sein behandelen alsof het geel toont en snelheid verminderen."
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij een gedoofd of onjuist bediend hoofdsein stopt de machinist direct als het antwoord op één van de vragen 'Rij ik op zicht?', 'Toonde het voorafgaande hoofdsein geel?' of 'Was het voorafgaande sein een keperbaken?' ja is.",
+   "bron": "1.10 Wat doet de machinist bij een gedoofd of onjuist hoofdsein?"
+  },
+  {
+   "id": "06-025",
+   "vraag": "Een machinist ziet een hoofdsein dat een seinbeeld toont dat niet in Bijlage 4 van de Regeling Spoorverkeer voorkomt. Het blijkt een P-sein te zijn. Wat doet hij?",
+   "opties": [
+    "Hij meldt het onjuiste sein bij de treindienstleider en gaat bij dat sein direct rijden op zicht.",
+    "Hij stopt direct voor het sein, meldt het onjuiste sein en wacht op European Instruction 1 van de treindienstleider.",
+    "Hij behandelt het sein alsof het geel toont, meldt het en rijdt verder met de toegestane snelheid.",
+    "Hij stelt eerst vast of het voorafgaande sein geel toonde en stopt alleen in dat geval direct voor het sein."
+   ],
+   "antwoord": 0,
+   "uitleg": "Een onjuist hoofdsein toont een seinbeeld dat niet in Bijlage 4 voorkomt en wordt gemeld bij de treindienstleider. Betreft het een P-sein, dan gaat de machinist bij dat sein direct rijden op zicht. De drie vragen gelden alleen voor bediende hoofdseinen.",
+   "bron": "1.10 Wat doet de machinist bij een gedoofd of onjuist hoofdsein?"
+  },
+  {
+   "id": "06-026",
+   "vraag": "Hoe handelt een machinist (niet rijdend op zicht) bij een gedoofd voorsein?",
+   "opties": [
+    "Alsof het voorsein het seinbeeld geel toont.",
+    "Hij gaat direct rijden op zicht tot het volgende voorsein.",
+    "Alsof het voorsein het seinbeeld groen toont.",
+    "Hij stopt direct voor het gedoofde voorsein."
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij een gedoofd of onjuist voorsein handelt de machinist alsof deze het seinbeeld geel toont. Rijdt hij al op zicht, dan blijft hij op zicht rijden.",
+   "bron": "1.10 Gedoofd of onjuist voorsein"
+  },
+  {
+   "id": "06-027",
+   "vraag": "De ATB laat een hogere snelheid toe dan de seingeving langs de baan. Wat moet de machinist doen?",
+   "opties": [
+    "Het verschil als ATB-baanstoring melden en de ATB-snelheid aanhouden.",
+    "De seingeving langs de baan opvolgen.",
+    "De ATB-snelheid aanhouden, omdat de ATB de snelheid bewaakt.",
+    "De ATB direct buiten bedrijf zetten en rijden op zicht."
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij een ATB-snelheid die hoger is dan de seingeving langs de baan moet de machinist de seingeving langs de baan opvolgen. Legt de ATB een lagere snelheid op, dan volgt hij de ATB om een snelremming te voorkomen.",
+   "bron": "1.11 Wat is automatische treinbeïnvloeding (ATB)?"
+  },
+  {
+   "id": "06-028",
+   "vraag": "Wanneer kan de machinist een ATB-snelremming onderbreken?",
+   "opties": [
+    "Zodra de snelheid onder de toegestane snelheid is gekomen, bij alle ATB-soorten.",
+    "Pas nadat de trein stilstaat, uitgezonderd bij ATB-E.",
+    "Pas na toestemming van de treindienstleider, bij alle ATB-soorten.",
+    "Pas nadat de trein stilstaat, uitgezonderd bij ATB-NG."
+   ],
+   "antwoord": 3,
+   "uitleg": "Wanneer de machinist een opdracht tot snelheid verminderen niet op de vereiste wijze opvolgt, brengt de ATB de trein tot stilstand. De machinist kan deze remming pas onderbreken nadat de trein stilstaat (uitgezonderd ATB-NG).",
+   "bron": "1.11 Wat is automatische treinbeïnvloeding (ATB)?"
+  },
+  {
+   "id": "06-029",
+   "vraag": "Welk cabinesein en welke snelheid horen bij ATB-EG-code 180?",
+   "opties": [
+    "Geel 13: 80 t/m 130 km/u",
+    "Groen: hoger dan 130 km/u",
+    "Geel 6: 40 t/m 60 km/u",
+    "Geel 8: 60 t/m 80 km/u"
+   ],
+   "antwoord": 3,
+   "uitleg": "ATB-EG: geel 6 = code 220 (40-60 km/u), geel 8 = code 180 (60-80 km/u), geel 13 = code 120 (80-130 km/u), groen = code 96 (>130 km/u).",
+   "bron": "1.12 ATB-EG"
+  },
+  {
+   "id": "06-030",
+   "vraag": "Wat betekent het als er bij ATB-EG geen ATB-code aanwezig is, en wat betekent code 75?",
+   "opties": [
+    "Zonder code is de snelheid beperkt tot 60 km/u; code 75 betekent Buiten Dienst.",
+    "Zonder code is de snelheid onbeperkt; code 75 betekent geel 6.",
+    "Zonder code is de snelheid beperkt tot 40 km/u; code 75 betekent Buiten Dienst.",
+    "Zonder code volgt een snelremming; code 75 betekent groen."
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij het cabinesein geel (0 t/m 40 km/u) ontbreekt de ATB-code; zonder code is de maximumsnelheid dus 40 km/u. ATB-code 75 staat voor Buiten Dienst.",
+   "bron": "1.12 ATB-EG"
+  },
+  {
+   "id": "06-031",
+   "vraag": "Wat geldt bij ATB-EG voor materieel dat niet sneller kan dan 100 of 130 km/u?",
+   "opties": [
+    "'Geel 13' wordt gebruikt voor snelheden tussen 90 en 100 km/u en er is geen 'groen'.",
+    "'Groen' wordt gebruikt voor snelheden tussen 90 en 100 km/u en er is geen 'geel 13'.",
+    "'Groen' wordt gebruikt voor snelheden boven 130 km/u en er is geen 'geel 8'.",
+    "'Geel 8' wordt gebruikt voor snelheden tussen 80 en 100 km/u en er is geen 'geel 13'."
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij materieel dat niet sneller kan dan 100 of 130 km/u wordt 'groen' gebruikt voor snelheden tussen 90 en 100 km/u, en is er geen 'geel 13'.",
+   "bron": "1.12 ATB-EG"
+  },
+  {
+   "id": "06-032",
+   "vraag": "Bij ATB-EG klinkt na een snelheidsverlaging eerst een continu belsignaal en daarna een intermitterend belsignaal. Wat betekent het intermitterende belsignaal?",
+   "opties": [
+    "De machinist heeft de remming te laat ingezet en moet binnen een bepaalde tijd alsnog verder remmen.",
+    "De snelheidstrap is gewijzigd naar een hogere snelheid en de machinist mag weer optrekken.",
+    "De snelheid is voldoende omlaag gebracht en de machinist kan de remming beëindigen.",
+    "De remming is niet tijdig ingezet; de ATB-snelremming volgt en is pas na stilstand te onderbreken."
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij te hoge snelheid klinkt een continu belsignaal en moet de machinist binnen een bepaalde tijd remmen. Als de snelheid voldoende omlaag is, klinkt de bel intermitterend: de machinist kan de remming beëindigen. Een wijziging van snelheidstrap geeft een gongslag.",
+   "bron": "1.12 ATB-EG"
+  },
+  {
+   "id": "06-033",
+   "vraag": "Wat is de technische beperking van ATB-EG zonder vv-functionaliteit, en waarop is die grens gebaseerd?",
+   "opties": [
+    "Alleen snelheden boven 40 km/u worden bewaakt; dat is de grens uit de ERTMS-standaard.",
+    "Alleen snelheden boven 40 km/u worden bewaakt; boven 40 km/u is volgens de Spoorwegwet beveiliging verplicht.",
+    "Alleen snelheden onder 130 km/u worden bewaakt; daarboven is ERTMS verplicht volgens de Spoorwegwet.",
+    "Alleen snelheden boven 60 km/u worden bewaakt; die grens staat in Bijlage 4 van de Regeling Spoorverkeer."
+   ],
+   "antwoord": 1,
+   "uitleg": "ATB-EG bewaakt alleen een snelheid boven 40 km/u. De 40 km/u-grens is gebaseerd op de Spoorwegwet: boven de 40 km/u is een beveiligingssysteem wettelijk verplicht.",
+   "bron": "1.12 ATB-EG"
+  },
+  {
+   "id": "06-034",
+   "vraag": "Op welke afstanden voor het relevante sein liggen bij ATB-vv de bakens, en waar begint de vrijgavelus meestal?",
+   "opties": [
+    "Bakens op 200, 60 en 10 meter; de vrijgavelus begint 120 meter voor het sein.",
+    "Bakens op 120, 30 en 3 meter; de vrijgavelus begint 60 meter voor het sein.",
+    "Bakens op 120, 60 en 3 meter; de vrijgavelus begint 30 meter voor het sein.",
+    "Bakens op 100, 30 en 5 meter; de vrijgavelus begint 60 meter voor het sein."
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij ATB-vv zijn op 120, 30 en 3 meter voor het relevante sein bakens geplaatst die actief zijn als het sein stop toont. Meestal is er een vrijgavelus die 60 meter voor het sein begint.",
+   "bron": "1.12 ATB-vv"
+  },
+  {
+   "id": "06-035",
+   "vraag": "Waarom hebben ATB-vv-bakens geen effect op treinen die uit de andere richting over de bakens rijden?",
+   "opties": [
+    "De bakens liggen rechts van het spoor en worden alleen door de rechteropneemspoel opgepikt.",
+    "De bakens worden alleen actief als de trein sneller rijdt dan 40 km/u in de richting van het stoptonende sein.",
+    "De bakens liggen in het midden van het spoor, net als de vrijgavelus, en zenden alleen in één richting uit.",
+    "De bakens worden door de treindienstleider uitgeschakeld voor tegengestelde rijrichting."
+   ],
+   "antwoord": 0,
+   "uitleg": "ATB-vv-bakens zijn aan de rechterzijde van het spoor geplaatst en worden daardoor alleen door de rechteropneemspoel van het krachtvoertuig opgepikt; er is dus geen effect op treinen uit de andere richting.",
+   "bron": "1.12 ATB-vv"
+  },
+  {
+   "id": "06-036",
+   "vraag": "Een machinist rijdt met ATB-vv met 35 km/u richting een stoptonend sein en remt onvoldoende. Wat geldt hierbij?",
+   "opties": [
+    "Hij krijgt een continu belsignaal en moet binnen een bepaalde tijd remmen, anders volgt een snelremming.",
+    "Er gebeurt niets, omdat ATB-vv net als ATB-EG alleen snelheden boven 40 km/u bewaakt.",
+    "Hij krijgt een gongslag en een intermitterende bel, waarna de ATB de snelheid automatisch tot 20 km/u terugbrengt.",
+    "Hij krijgt geen rembel als waarschuwing, maar de bakens kunnen wel een snelremming veroorzaken."
+   ],
+   "antwoord": 3,
+   "uitleg": "ATB-vv kent geen rembel onder 40 km/u; de machinist wordt niet gewaarschuwd. Wel kan de trein door de bakens met een snelremming tijdig voor het gevaarpunt tot stilstand worden gedwongen, ook bij snelheden onder 40 km/u.",
+   "bron": "1.12 ATB-vv"
+  },
+  {
+   "id": "06-037",
+   "vraag": "Hoe vindt de informatieoverdracht bij ATB-NG plaats, vergeleken met ATB-EG?",
+   "opties": [
+    "Via Eurobalises in het spoor die door het magnetisch veld van de antenne van de trein worden gevoed.",
+    "Continu via het 75 Hz-signaal in de rails, net als bij ATB-EG, maar met meer snelheidscodes.",
+    "Puntsgewijs via bakens en lussen, in plaats van continu via het 75 Hz-signaal in de rails.",
+    "Via een radioverbinding over het GSM-R-datakanaal met een centrale computer langs de baan."
+   ],
+   "antwoord": 2,
+   "uitleg": "ATB-NG werkt niet met continue overdracht van informatie zoals ATB-EG, maar puntsgewijs via bakens en (signaal)lussen. ATB-EG gebruikt het 75 Hz-signaal dat ook voor de seinbediening wordt gebruikt.",
+   "bron": "1.12 ATB-NG / ATB-EG"
+  },
+  {
+   "id": "06-038",
+   "vraag": "Een machinist met ATB-NG moet door een storing een stoptonend sein passeren. Wat is de juiste werkwijze?",
+   "opties": [
+    "De ATB buiten bedrijf zetten en rijden op zicht tot het eerstvolgende uitwisselpunt.",
+    "Na toestemming van de treindienstleider de drukknop 'STS' bedienen en op zicht doorrijden tot het volgende hoofdsein.",
+    "Zonder toestemming de drukknop 'STS' bedienen als er geen spreekverbinding is, en met maximaal 40 km/u doorrijden.",
+    "Na toestemming de drukknop 'STS' bedienen en met de baanvaksnelheid doorrijden tot het volgende voorsein of P-sein."
+   ],
+   "antwoord": 1,
+   "uitleg": "Om bij storing een stoptonend sein te passeren bedient de machinist de drukknop 'STS', wat alleen na toestemming van de treindienstleider mag. Daarna kan hij met rijden op zicht doorrijden tot aan het volgende hoofdsein.",
+   "bron": "1.12 ATB-NG"
+  },
+  {
+   "id": "06-039",
+   "vraag": "Welke uitspraak over ATB-E is juist?",
+   "opties": [
+    "Het is een aparte vierde generatie ATB met een eigen remcurve; de machinist ziet op het display de afstand tot het stoppunt.",
+    "Het functioneert onder ATB-EG met geminimaliseerde signalering; de machinist kan geen toegestane snelheden aflezen.",
+    "Het functioneert onder ATB-NG met puntsgewijze overdracht en kan, anders dan ATB-EG, niet worden uitgebreid met ATB-vv.",
+    "Het is uitsluitend bestemd voor reizigersmaterieel en toont dezelfde cabineseinen als ATB-EG."
+   ],
+   "antwoord": 1,
+   "uitleg": "ATB-E is eigenlijk geen aparte soort maar functioneert onder ATB-EG met geminimaliseerde signalering. Het wordt gebruikt door spoorwegaannemers, buitenlandse locomotieven en museumbedrijven, kan worden uitgebreid met ATB-vv, en de machinist kan geen toegestane snelheden aflezen.",
+   "bron": "1.12 ATB-E"
+  },
+  {
+   "id": "06-040",
+   "vraag": "Tijdens de rit laten de ATB-cabineseinen in één blok ten onrechte een lagere snelheid toe dan de seinen langs de baan; daarna klopt alles weer. Om welke storing gaat het en wat doet de machinist?",
+   "opties": [
+    "Een ATB-baanstoring; hij meldt de plaats direct aan de treindienstleider.",
+    "Een ATB-baanstoring; hij noteert dit alleen in de materieelagenda na afloop van de rit.",
+    "Een ATB-veiligheidsstoring; hij meldt dit aan de treindienstleider en de verantwoordelijke van zijn bedrijf.",
+    "Een ATB-materieelstoring; hij noteert dit in de materieelagenda en zet de ATB buiten bedrijf."
+   ],
+   "antwoord": 0,
+   "uitleg": "Een ATB-baanstoring kenmerkt zich doordat de cabineseinen ten onrechte één of meer keren in één blok een lagere snelheid toelaten dan de vaste seinen. De machinist meldt de plaats direct aan de treindienstleider.",
+   "bron": "1.13 ATB-baanstoring"
+  },
+  {
+   "id": "06-041",
+   "vraag": "De ATB-cabineseinen komen niet overeen met de seinen langs de baan en de afwijking herhaalt zich na het passeren van meerdere seinen. Normaal rijden is nog wel mogelijk. Wat doet de machinist?",
+   "opties": [
+    "Hij meldt een ATB-veiligheidsstoring en stopt bij het eerstvolgende sein.",
+    "Hij zet de ATB direct 'BB' en meldt dit aan de treindienstleider en de verantwoordelijke van zijn bedrijf.",
+    "Hij meldt een ATB-materieelstoring aan de treindienstleider en noteert dit in de materieelagenda of soortgelijk document.",
+    "Hij meldt de plaats van een ATB-baanstoring direct aan de treindienstleider en rijdt verder volgens de cabineseinen."
+   ],
+   "antwoord": 2,
+   "uitleg": "Dit is een ATB-materieelstoring. De machinist meldt deze aan de treindienstleider en noteert dit in de materieelagenda. Alleen als de storing zo hinderlijk is dat niet meer normaal gereden kan worden, zet hij de ATB 'BB'.",
+   "bron": "1.13 ATB-materieelstoring"
+  },
+  {
+   "id": "06-042",
+   "vraag": "Welk verschijnsel is een kenmerk van een ATB-veiligheidsstoring?",
+   "opties": [
+    "Het ATB-cabinesein toont ten onrechte 'BD' (buiten dienst).",
+    "De cabineseinen laten in één blok ten onrechte een lagere snelheid toe dan de seinen langs de baan.",
+    "De cabineseinen wijken af en dit herhaalt zich na het passeren van meerdere seinen.",
+    "Bij ATB-NG verschijnt op het display de melding 'baan heeft onderhoud nodig'."
+   ],
+   "antwoord": 0,
+   "uitleg": "Kenmerken van een ATB-veiligheidsstoring zijn onder meer: cabineseinen laten ten onrechte een hogere snelheid toe, defecte snelheidsmeter bij fase 4 of ATB-NG, het cabinesein toont ten onrechte 'BD', of de ATB-remming blijft ten onrechte uit.",
+   "bron": "1.13 ATB-veiligheidsstoring"
+  },
+  {
+   "id": "06-043",
+   "vraag": "Wanneer zet de machinist bij een ATB-storing de ATB-apparatuur buiten bedrijf, en hoe handelt hij daarna?",
+   "opties": [
+    "Pas als de treindienstleider daartoe opdracht geeft na een melding; daarna met rijden op zicht en maximaal 40 km/u tot het eerstvolgende hoofdsein.",
+    "Direct bij elke ATB-storing; daarna volgens de aanwijzingen van de treindienstleider tot het eindpunt van de rit.",
+    "Bij elke ATB-veiligheidsstoring, na melding aan de verantwoordelijke van zijn bedrijf; daarna met maximaal 40 km/u tot het eerstvolgende station.",
+    "Pas als de rit niet meer normaal kan worden vervolgd; daarna volgens de voorschriften van zijn spoorwegonderneming tot het eerstvolgende uitwisselpunt."
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een ATB-storing moet de apparatuur zo lang mogelijk in bedrijf blijven. De machinist zet haar pas buiten bedrijf als de trein zijn rit niet meer op normale wijze kan vervolgen en handelt dan volgens de voorschriften van zijn spoorwegonderneming tot het eerstvolgende punt waar uitwisseling plaatsvindt.",
+   "bron": "1.13 Wat doet de machinist bij ATB-storingen?"
+  },
+  {
+   "id": "06-044",
+   "vraag": "Wat is het verschil tussen ETCS Level 1 en Level 2?",
+   "opties": [
+    "Bij Level 1 wordt alleen de snelheid bewaakt; bij Level 2 ook de afstand die de trein nog mag rijden tot het einde van de toestemming.",
+    "Bij Level 1 komt informatie via actieve bakens in het spoor; bij Level 2 via een radioverbinding (GSM-R-datakanaal).",
+    "Bij Level 1 komt informatie via gecodeerde stroom in de spoorstaven; bij Level 2 via Eurobalises die door de trein worden gevoed.",
+    "Bij Level 1 komt informatie via een radioverbinding (GSM-R-datakanaal); bij Level 2 via actieve bakens in het spoor."
+   ],
+   "antwoord": 1,
+   "uitleg": "ETCS Level 1: informatie wordt via actieve bakens in het spoor ontvangen. Level 2: informatie wordt via een radioverbinding (GSM-R-datakanaal) ontvangen.",
+   "bron": "1.14 Wat is ERTMS/ETCS?"
+  },
+  {
+   "id": "06-045",
+   "vraag": "Wat is volgens de vakkennis een wezenlijk verschil tussen ATB en ETCS?",
+   "opties": [
+    "ATB grijpt alleen op vaste plaatsen en bij vaste snelheden in; ETCS weet op elk moment de snelheid en de afstand tot een blokgrens of andere treinen.",
+    "ATB maakt snelheden boven 160 km/u mogelijk en is interoperabel; ETCS blijft beperkt tot de nationale snelheidsintervallen van ATB-EG.",
+    "ATB weet op elk moment de snelheid en de afstand tot andere treinen; ETCS grijpt alleen op vaste plaatsen en bij vaste snelheden in.",
+    "ATB toont de toegestane snelheid en afstand op een DMI-beeldscherm; ETCS werkt uitsluitend met lichtseinen en borden langs de baan."
+   ],
+   "antwoord": 0,
+   "uitleg": "Het huidige ATB-systeem kan alleen op een aantal vaste plaatsen en bij vaste snelheden ingrijpen. ETCS weet op elk moment hoe hard een trein rijdt en wat de afstand is tot een blokgrens of andere treinen, en kan op ieder moment ingrijpen.",
+   "bron": "1.15 Wat is het verschil tussen ATB en ERTMS?"
+  }
+ ]
+}

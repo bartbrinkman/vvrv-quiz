@@ -1,0 +1,462 @@
+{
+ "id": "08",
+ "titel": "Rijden, rangeren en wegzetten",
+ "bron": "08-aug-25-cluster-rijden-rangeren-en-wegzetten.pdf",
+ "vragen": [
+  {
+   "id": "08-001",
+   "vraag": "Wie is verantwoordelijk voor het veilig rijden van de trein?",
+   "opties": [
+    "De treindienstleider, omdat hij de rijweg instelt, de seinen bedient en instructies aan de machinist geeft",
+    "De machinist en de treindienstleider gezamenlijk, ieder voor het eigen deel van rijweg en seingeving",
+    "De spoorwegonderneming, die de machinist daarvoor instrueert",
+    "De machinist, die seinen en instructies van de treindienstleider onvoorwaardelijk opvolgt"
+   ],
+   "antwoord": 3,
+   "uitleg": "De machinist is verantwoordelijk voor het veilig rijden van de trein; hij volgt de seinen en Europese en nationale instructies van de treindienstleider onvoorwaardelijk op.",
+   "bron": "1.2 Wie is verantwoordelijk voor het veilig rijden van de trein?"
+  },
+  {
+   "id": "08-002",
+   "vraag": "Welke European Instruction wordt gebruikt om de machinist op te dragen te rijden op zicht?",
+   "opties": [
+    "European Instruction 1",
+    "European Instruction 5",
+    "European Instruction 8",
+    "European Instruction 6"
+   ],
+   "antwoord": 3,
+   "uitleg": "Stoptonend sein passeren: EI 1; snelheid beperken: EI 5; rijden op zicht: EI 6; defecte overweg passeren: EI 8.",
+   "bron": "1.5 Welke Europese en Nationale instructies kan de machinist krijgen?"
+  },
+  {
+   "id": "08-003",
+   "vraag": "Waarvoor dient European Instruction 4?",
+   "opties": [
+    "Het passeren van een defecte overweg na toestemming van de treindienstleider",
+    "Het rijden over het verkeerde spoor op een baanvak zonder linksrijbeveiliging",
+    "Het beperken van de snelheid op een baanvak",
+    "Het intrekken van een eerder gegeven European Instruction"
+   ],
+   "antwoord": 3,
+   "uitleg": "Met European Instruction 4 kan een eerder gegeven European Instruction worden ingetrokken.",
+   "bron": "1.5 Welke Europese en Nationale instructies kan de machinist krijgen?"
+  },
+  {
+   "id": "08-004",
+   "vraag": "Wat is de minimale bewaartermijn van een Europese of Nationale instructie na afgifte?",
+   "opties": [
+    "12 maanden",
+    "6 maanden",
+    "24 maanden",
+    "3 maanden"
+   ],
+   "antwoord": 0,
+   "uitleg": "De minimale bewaartermijn van een Europese of Nationale instructie na afgifte is 12 maanden.",
+   "bron": "1.5 Welke Europese en Nationale instructies kan de machinist krijgen?"
+  },
+  {
+   "id": "08-005",
+   "vraag": "Hoe wordt het rempercentage bepaald?",
+   "opties": [
+    "Som van de remgewichten gedeeld door het treingewicht, maal 100%, naar boven afgerond op hele procenten",
+    "Som van de remgewichten gedeeld door het treingewicht, maal 100%, naar beneden afgerond op hele procenten",
+    "Treingewicht gedeeld door de som van de remgewichten, maal 100%, naar beneden afgerond op hele procenten",
+    "Som van de remgewichten gedeeld door het gewicht van de belading, maal 100%, naar beneden afgerond"
+   ],
+   "antwoord": 1,
+   "uitleg": "Het rempercentage is de verhouding tussen de som van de remgewichten en het treingewicht (totale massa van voertuigen en belading), vermenigvuldigd met 100% en naar beneden afgerond op hele procenten.",
+   "bron": "1.6 Wat houdt het rempercentage in?"
+  },
+  {
+   "id": "08-006",
+   "vraag": "Een trein heeft een treingewicht van 750 ton en een som van de remgewichten van 520 ton. Wat is het rempercentage?",
+   "opties": [
+    "70%",
+    "69%",
+    "144%",
+    "69,3%"
+   ],
+   "antwoord": 1,
+   "uitleg": "520 / 750 x 100% = 69,33%, naar beneden afgerond op hele procenten is dat 69%.",
+   "bron": "1.6 Wat houdt het rempercentage in?"
+  },
+  {
+   "id": "08-007",
+   "vraag": "Een machinist constateert dat zijn trein onvoldoende beremd is. Wat doet hij?",
+   "opties": [
+    "Hij meldt dit aan de treindienstleider en vertrekt met rijden op zicht naar het eerstvolgende station met een werkplaats",
+    "Hij vertrekt zelfstandig met een verlaagde snelheid van maximaal 40 km/u naar de eerstvolgende werkplaats voor herstel",
+    "Hij neemt contact op met zijn spoorwegonderneming en in overleg wordt besloten hoe verder te gaan",
+    "Hij laat de rangeerder de remproef herhalen en vertrekt bij een geslaagde proef"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij onvoldoende beremming neemt de machinist contact op met zijn spoorwegonderneming; in overleg kan worden besloten met lagere snelheid te rijden, de trein uit dienst te nemen of voertuigen bij te plaatsen of uit te rangeren.",
+   "bron": "1.7 Wat doet de machinist bij onvoldoende beremming?"
+  },
+  {
+   "id": "08-008",
+   "vraag": "Tijdens de rit moet een machinist remmen afsluiten, waardoor het remvermogen onvoldoende wordt. Wie moet hij in dat geval (ook) informeren?",
+   "opties": [
+    "De wagencontroleur",
+    "De rangeerder",
+    "De treindienstleider",
+    "De infrabeheerder via de IAM"
+   ],
+   "antwoord": 2,
+   "uitleg": "De machinist informeert de treindienstleider als tijdens de rit remmen worden afgesloten waardoor het remvermogen onvoldoende wordt.",
+   "bron": "1.7 Wat doet de machinist bij onvoldoende beremming?"
+  },
+  {
+   "id": "08-009",
+   "vraag": "Wat wordt verstaan onder een volremming?",
+   "opties": [
+    "Het maximaal remmen, waarbij de treinleidingdruk snel naar 0 bar gaat",
+    "De maximale bedrijfsremming, waarbij 1,5 bar uit de treinleiding wordt gehaald",
+    "De maximale bedrijfsremming, waarbij 0,5 bar uit de treinleiding wordt gehaald",
+    "Een remming die alleen in noodgevallen door de treinbeveiliging wordt ingezet"
+   ],
+   "antwoord": 1,
+   "uitleg": "Volremming is de maximale bedrijfsremming (1,5 bar uit de treinleiding). Bij een snelremming wordt de treinleidingdruk snel verlaagd tot 0 bar.",
+   "bron": "1.8 Welke soorten remmingen worden onderscheiden? - Volremming"
+  },
+  {
+   "id": "08-010",
+   "vraag": "Wat kenmerkt een snelremming?",
+   "opties": [
+    "De treinleidingdruk wordt met 1,5 bar verlaagd",
+    "De treinleidingdruk wordt snel verlaagd tot 0 bar",
+    "Het is de remming die in alle gevallen behalve noodgevallen wordt gebruikt",
+    "Alleen de rem van het krachtvoertuig wordt maximaal aangesproken"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een snelremming is het maximaal remmen van een trein, waarbij de treinleidingdruk snel wordt verlaagd tot 0 bar.",
+   "bron": "1.8 Welke soorten remmingen worden onderscheiden? - Snelremming"
+  },
+  {
+   "id": "08-011",
+   "vraag": "Welke van de volgende gebeurtenissen kan volgens de tekst een snelremming aansturen?",
+   "opties": [
+    "Het afsluiten van de rem van een draaistel",
+    "Een treinbreuk",
+    "Het passeren van een bord met een lagere snelheid",
+    "Het in de volremstand zetten van de remkraan"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een snelremming kan naast de remkraan in snelremstand worden aangestuurd door een ingreep van de treinbeveiliging, een dodemaningreep, treinbreuk, bediening van de noodrem door een passagier of een system failure/storing.",
+   "bron": "1.8 Welke soorten remmingen worden onderscheiden? - Snelremming"
+  },
+  {
+   "id": "08-012",
+   "vraag": "Wanneer moet de machinist een door een sein opgedragen snelheidsverlaging inzetten?",
+   "opties": [
+    "Zodra het eerste spoorvoertuig van de trein dat sein heeft bereikt",
+    "Nadat het laatste spoorvoertuig van de trein dat sein is gepasseerd",
+    "Zodra het sein voor de machinist waarneembaar wordt",
+    "Uiterlijk bij het eerstvolgende hoofdsein na dat sein"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een door een sein opgedragen snelheidsverlaging wordt ingezet zodra het eerste spoorvoertuig van de trein dat sein heeft bereikt (artikel 30 Regeling spoorverkeer).",
+   "bron": "1.9 Snelheidsverlaging of snelheidsverhoging door een sein"
+  },
+  {
+   "id": "08-013",
+   "vraag": "Wanneer mag een door een sein toegestane snelheidsverhoging worden uitgevoerd?",
+   "opties": [
+    "Zodra het eerste spoorvoertuig van de trein dat sein of dat punt heeft bereikt",
+    "Nadat het laatste spoorvoertuig het sein of het punt van toegestane snelheidsverhoging is gepasseerd",
+    "Zodra de bediende cabine het sein of het punt van toegestane snelheidsverhoging is gepasseerd",
+    "Nadat de helft van de trein het sein of het punt van toegestane snelheidsverhoging is gepasseerd"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een door een sein toegestane snelheidsverhoging mag worden uitgevoerd nadat het laatste spoorvoertuig van de trein dit sein of het punt van toegestane snelheidsverhoging gepasseerd is.",
+   "bron": "1.9 Snelheidsverlaging of snelheidsverhoging door een sein"
+  },
+  {
+   "id": "08-014",
+   "vraag": "Onder welke omstandigheden mag de machinist volgens artikel 31 Regeling spoorverkeer de snelheid direct verhogen na een hoofdsein dat een hogere snelheid toestaat?",
+   "opties": [
+    "Bij elk zicht, zodra de kop van de trein het hoofdsein is gepasseerd en er tussen dat hoofdsein en de trein geen wissels meer liggen",
+    "Bij dag en goed zicht, zodra de helft van de trein de wisselbogen is gepasseerd",
+    "Bij nacht en goed zicht, als er tussen dat hoofdsein en de trein geen wissels zijn en de treindienstleider mondeling toestemming geeft",
+    "Bij dag en goed zicht, als er tussen dat hoofdsein en de trein geen wissels zijn en de trein de wisselbogen geheel is gepasseerd"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij dag en goed zicht mag direct worden verhoogd als het eerste hoofdsein een hogere snelheid toestaat, er geen wissels tussen dit sein en de trein zijn, de trein in zijn geheel de wisselbogen is gepasseerd en het punt van toegestane snelheidsverhoging is gepasseerd.",
+   "bron": "1.10 Wanneer mag de machinist de snelheid direct verhogen?"
+  },
+  {
+   "id": "08-015",
+   "vraag": "Wanneer mag de machinist de snelheid verhogen naar een door een specifiek snelheidsbord aangegeven snelheid hoger dan 40 km/u?",
+   "opties": [
+    "Als het voorafgaande lichtsein geel licht met een getal uitstraalde",
+    "Als het voorafgaande lichtsein groen licht uitstraalde",
+    "Als de treindienstleider hiervoor een European Instruction 5 heeft gegeven",
+    "Als het voorafgaande lichtsein geel knipperend licht uitstraalde"
+   ],
+   "antwoord": 1,
+   "uitleg": "De machinist mag de snelheid verhogen naar een door een specifiek snelheidsbord aangegeven snelheid hoger dan 40 km/u als het voorafgaande lichtsein groen licht uitstraalde.",
+   "bron": "1.10 Wanneer mag de machinist de snelheid direct verhogen?"
+  },
+  {
+   "id": "08-016",
+   "vraag": "Wie bepaalt hoeveel personen zich tijdens het rijden in de bediende cabine mogen bevinden?",
+   "opties": [
+    "De infrabeheerder",
+    "De machinist zelf",
+    "De spoorwegonderneming",
+    "De Regeling spoorverkeer, die maximaal twee personen toestaat"
+   ],
+   "antwoord": 2,
+   "uitleg": "Het is verboden zich zonder toestemming van de spoorwegonderneming in de cabine te bevinden; het aantal toe te laten personen wordt bepaald door de spoorwegonderneming.",
+   "bron": "1.11 Hoeveel personen mogen tijdens het rijden in de bediende cabine?"
+  },
+  {
+   "id": "08-017",
+   "vraag": "Wat gebeurt er als de machinist onwel raakt en de dodeman niet meer bedient?",
+   "opties": [
+    "Er volgt automatisch een volremming",
+    "Er volgt automatisch een snelremming",
+    "De tractie wordt uitgeschakeld en de trein rolt uit",
+    "De treindienstleider krijgt een melding en remt de trein op afstand"
+   ],
+   "antwoord": 1,
+   "uitleg": "Raakt de machinist onwel, dan stopt het bedienen van de dodeman en volgt er automatisch een snelremming.",
+   "bron": "1.12 Wat doet de machinist met de dodeman?"
+  },
+  {
+   "id": "08-018",
+   "vraag": "Een machinist ziet tijdens de rit dat het nevenspoor niet veilig te berijden is. Welke handeling hoort bij wat hij moet doen?",
+   "opties": [
+    "Doorrijden tot het eerstvolgende hoofdsein en daar de treindienstleider informeren",
+    "Alleen de treindienstleider informeren en zelf met rijden op zicht doorrijden",
+    "Altijd de kortsluitkabel plaatsen, ongeacht het soort baanvakbeveiliging",
+    "Een alarmoproep uitzenden via de GSM-R"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een onveilig nevenspoor brengt de machinist de trein zo snel mogelijk tot stilstand, ontsteekt het gevaarsein, zendt een alarmoproep via GSM-R uit, plaatst afhankelijk van de baanvakbeveiliging de kortsluitkabel en loopt indien mogelijk de tegentrein tegemoet.",
+   "bron": "1.13 Wat doet de machinist als sporen niet veilig te berijden zijn?"
+  },
+  {
+   "id": "08-019",
+   "vraag": "Een machinist moet rijden op zicht op een gedeelte met een plaatselijke snelheid van 30 km/u. Wat is zijn maximale snelheid?",
+   "opties": [
+    "40 km/u, en zo dat hij voor bezet spoor of ander kenbaar gevaar tijdig kan stoppen",
+    "40 km/u, omdat rijden op zicht de plaatselijke snelheid vervangt",
+    "20 km/u, omdat bij rijden op zicht 10 km/u onder de plaatselijke snelheid geldt",
+    "30 km/u, en zo dat hij voor bezet spoor of ander kenbaar gevaar tijdig kan stoppen"
+   ],
+   "antwoord": 3,
+   "uitleg": "Rijden op zicht is rijden met een snelheid niet hoger dan 40 km/u of zoveel minder bij een lagere plaatselijke snelheid, zodat bij bezet spoor of ander kenbaar gevaar op elk punt tijdig kan worden gestopt.",
+   "bron": "1.14 Wat betekent rijden op zicht?"
+  },
+  {
+   "id": "08-020",
+   "vraag": "Bij welk zicht en met welke frequentie geeft de machinist het attentiesein op de voorgeschreven baangedeelten?",
+   "opties": [
+    "Bij zicht minder dan 300 meter, om de tien seconden",
+    "Bij zicht minder dan 500 meter, om de vijf seconden",
+    "Bij zicht minder dan 300 meter, om de vijf seconden",
+    "Bij zicht minder dan 200 meter, om de drie seconden"
+   ],
+   "antwoord": 2,
+   "uitleg": "Is het zicht minder dan 300 meter, dan geeft de machinist om de vijf seconden het attentiesein op de genoemde baangedeelten.",
+   "bron": "1.15 Wat doet de machinist bij slecht zicht?"
+  },
+  {
+   "id": "08-021",
+   "vraag": "Bij slecht zicht nadert een machinist om 22.00 uur een baangedeelte met overpaden met landhekken (zonder onbeveiligde openbare overwegen of wisselcomplexen). Moet hij daar het attentiesein geven?",
+   "opties": [
+    "Nee, bij overpaden met landhekken geldt dit alleen tussen 05.00 uur en 20.00 uur",
+    "Ja, bij overpaden met landhekken geldt dit de hele dag",
+    "Ja, bij overpaden met landhekken geldt dit juist tussen 20.00 uur en 05.00 uur",
+    "Nee, bij overpaden met landhekken geldt dit alleen tussen 06.00 uur en 22.00 uur"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij zicht minder dan 300 meter geldt het attentiesein op baangedeelten met overpaden met landhekken alleen tussen 05.00 uur en 20.00 uur.",
+   "bron": "1.15 Wat doet de machinist bij slecht zicht?"
+  },
+  {
+   "id": "08-022",
+   "vraag": "Wat is volgens de tekst vooral de kern van energiezuinig rijden?",
+   "opties": [
+    "Maximaal inzetten op uitrollen, binnen de tijdsmarges van de dienstregeling",
+    "Zo langzaam mogelijk optrekken en daarna constant op de hoogst toegelaten baanvaksnelheid blijven rijden",
+    "Zo vroeg mogelijk vertrekken om onderweg tijd te winnen",
+    "Zoveel mogelijk elektrisch remmen, ook als de tijdsmarges van de dienstregeling daardoor worden overschreden"
+   ],
+   "antwoord": 0,
+   "uitleg": "Energiezuinig rijden is vooral het maximaal inzetten op uitrollen, binnen de tijdsmarges van de dienstregeling. De machinist brengt de trein snel op snelheid, schakelt de tractie uit en laat uitrollen.",
+   "bron": "1.16 Wat houdt energiezuinig rijden in?"
+  },
+  {
+   "id": "08-023",
+   "vraag": "Waarom is materieel met draaistroommotoren of chopperschakeling relatief energiezuinig?",
+   "opties": [
+    "De tractiemotor krijgt gedoseerd stroom zonder tussenschakeling van weerstanden",
+    "Weerstanden zetten een deel van de gevraagde stroom om in warmte, die daarna voor de verwarming wordt benut",
+    "Het toerental van de motor wordt laag gehouden, wat met een gematigde aanzet een optimale verbranding geeft",
+    "De tractiemotor wordt alleen bij hellingen ingeschakeld"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij draaistroommotoren of chopperschakeling krijgt de tractiemotor gedoseerd stroom en is er geen tussenschakeling van weerstanden. Bij sommig ander elektrisch materieel gaat stroom via weerstanden verloren als warmte.",
+   "bron": "1.16 Wat houdt energiezuinig rijden in?"
+  },
+  {
+   "id": "08-024",
+   "vraag": "Valt het koppelen en ontkoppelen van voertuigen onder de definitie van rangeren volgens het Besluit Spoorverkeer?",
+   "opties": [
+    "Nee, koppelen en ontkoppelen is volgens het Besluit Spoorverkeer een aparte handeling naast rangeren",
+    "Alleen als het fysiek buiten de cabine gebeurt",
+    "Ja, omdat rangeren het splitsen of samenvoegen van treinen op een emplacement omvat",
+    "Alleen als het op een hoofdspoorweg buiten een spoorwegemplacement plaatsvindt, met begeleiding"
+   ],
+   "antwoord": 2,
+   "uitleg": "Rangeren is op een spoorwegemplacement splitsen of opnieuw samenvoegen van treinen, dan wel manoeuvreren (Besluit Spoorverkeer, art. 29). Koppelen en ontkoppelen valt daarmee onder rangeren.",
+   "bron": "1.17 Wat is rangeren?"
+  },
+  {
+   "id": "08-025",
+   "vraag": "Waar mag een machinist fysiek buiten de cabine koppelen en ontkoppelen?",
+   "opties": [
+    "Alleen tussen de loc en de eerste wagen/het eerste rijtuig",
+    "Tussen alle wagens van zijn eigen trein",
+    "Alleen tussen twee locomotieven",
+    "Nergens; buiten de cabine is dat voorbehouden aan de rangeerder"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een machinist is bevoegd om vanuit de cabine te koppelen en ontkoppelen, en ook fysiek buiten de cabine, maar dan alleen tussen loc en eerste wagen/rijtuig.",
+   "bron": "1.18 Wat is rangeren voor de machinist?"
+  },
+  {
+   "id": "08-026",
+   "vraag": "Met welke maximumsnelheid mag de rangeerder de machinist op hoofdspoorwegen begeleiden?",
+   "opties": [
+    "30 km/u, tenzij de spoorwegonderneming een hoger maximum stelt",
+    "40 km/u, tenzij de treindienstleider een hoger maximum toestaat",
+    "25 km/u, ongeacht de regels van de spoorwegonderneming",
+    "40 km/u, tenzij de spoorwegonderneming een lager maximum stelt"
+   ],
+   "antwoord": 3,
+   "uitleg": "De rangeerder mag de machinist op hoofdspoorwegen begeleiden met een maximumsnelheid van 40 km/u; de spoorwegonderneming kan dat maximum lager stellen.",
+   "bron": "1.19 Wat is rangeren voor de rangeerder?"
+  },
+  {
+   "id": "08-027",
+   "vraag": "Tijdens begeleid rangeren valt de portofoonverbinding met de begeleider weg en de machinist kan hem ook niet zien. Wat moet de machinist doen?",
+   "opties": [
+    "Meteen stoppen met rangeren",
+    "Verder rangeren met rijden op zicht tot het contact hersteld is",
+    "De beweging afmaken tot het afgesproken eindpunt en dan stoppen",
+    "Overschakelen op GSM-R en ondertussen doorrijden"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij begeleid rangeren moet de machinist meteen stoppen met rangeren wanneer er geen contact (zicht of gehoor) meer is met de begeleider.",
+   "bron": "1.20 Wanneer moet de machinist bij het uitvoeren van een rangeerbeweging begeleid worden?"
+  },
+  {
+   "id": "08-028",
+   "vraag": "Wat is nodig voordat een machinist een rangeerbeweging mag beginnen?",
+   "opties": [
+    "Een rangeeropdracht van de treindienstleider, toestemming van zijn bedrijf en een geslaagde remproef",
+    "Alleen toestemming van de treindienstleider; de rangeeropdracht volgt achteraf",
+    "Een rangeeropdracht van zijn bedrijf, toestemming van de treindienstleider en het rangeren moet veilig kunnen",
+    "Een rangeeropdracht van zijn bedrijf, toestemming van de treindienstleider en een rangeerder erbij"
+   ],
+   "antwoord": 2,
+   "uitleg": "De machinist mag een rangeerbeweging beginnen als hij een rangeeropdracht van zijn bedrijf en toestemming van de treindienstleider heeft en het rangeren veilig kan (personen, materieel, lading, infrastructuur).",
+   "bron": "1.21 Wat is nodig om als machinist met een rangeerbeweging te kunnen beginnen?"
+  },
+  {
+   "id": "08-029",
+   "vraag": "Welke van de volgende manieren is GEEN manier waarop de treindienstleider toestemming geeft om een rangeerbeweging aan te vangen?",
+   "opties": [
+    "Via een handsein gegeven door de rangeerder of begeleider",
+    "Door vermelding van de beweging op het dienstkaartje",
+    "Door het uit de stand 'stop' brengen van het geldende sein",
+    "Door middel van een European Instruction"
+   ],
+   "antwoord": 1,
+   "uitleg": "De treindienstleider geeft toestemming mondeling, via een handsein van rangeerder of begeleider, door het uit de stand 'stop' brengen van het sein of door een European Instruction.",
+   "bron": "1.21 - Toestemming rangeerbeweging"
+  },
+  {
+   "id": "08-030",
+   "vraag": "Bij technische vrijgave rangeren bedient de machinist de knop in de sleutelkast. Welke controle geeft aan dat de wissels elektrisch 'op slot' staan?",
+   "opties": [
+    "De groene lamp brandt en de witte lamp is uit",
+    "De witte en de groene lamp branden beide",
+    "De witte lamp brandt en de groene lamp is uit",
+    "De rode lamp is uit en de groene lamp knippert"
+   ],
+   "antwoord": 2,
+   "uitleg": "De machinist of begeleider ziet een groen lampje en bedient de knop om de wissels op slot te zetten; controle: witte lamp brandt, groene lamp uit.",
+   "bron": "1.23 Wat houdt 'vrijgave rangeren' in? - Technisch"
+  },
+  {
+   "id": "08-031",
+   "vraag": "Wat geldt voor de seinen in een technisch vrijgavegebied na het 'sleutelen'?",
+   "opties": [
+    "Ze tonen een wit licht en garanderen een vrije en vastgelegde rijweg",
+    "Ze tonen rood en mogen alleen met European Instruction 1 worden gepasseerd",
+    "Ze tonen een wit licht en geven geen beveiligingsgaranties",
+    "Ze worden gedoofd en de treindienstleider blijft verantwoordelijk voor de beveiliging"
+   ],
+   "antwoord": 2,
+   "uitleg": "De seinen in het vrijgavegebied tonen na het sleutelen een wit licht en geven geen beveiligingsgaranties; machinist en begeleider rangeren op eigen verantwoordelijkheid.",
+   "bron": "1.23 Wat houdt 'vrijgave rangeren' in? - Technisch"
+  },
+  {
+   "id": "08-032",
+   "vraag": "Wat kenmerkt rangeren met toestemming per beweging (enkelvoudige rijweg) in NCBG?",
+   "opties": [
+    "De rijweg wordt altijd in één richting uitgevoerd en voor een nieuwe beweging is opnieuw toestemming nodig",
+    "Binnen vastgestelde tijd- en ruimtegrenzen mogen meerdere opeenvolgende bewegingen in beide richtingen worden gemaakt",
+    "De rijweg wordt met lichtseinen door de treindienstleider ingesteld en na elke beweging automatisch weer vrijgegeven",
+    "Alleen de begeleider is verantwoordelijk voor de veilige uitvoering"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een enkelvoudige rijweg wordt altijd in één richting uitgevoerd; na de beweging kan de machinist pas na toestemming een nieuwe beweging uitvoeren. Machinist en begeleider zijn beiden verantwoordelijk.",
+   "bron": "1.25 en 1.26 Rangeren met toestemming per beweging in NCBG"
+  },
+  {
+   "id": "08-033",
+   "vraag": "Aan één machinist worden drie aan elkaar grenzende TijdRuimteSloten (TRS'n) toegewezen. Hoe moet hij deze beschouwen?",
+   "opties": [
+    "Als één tijd-ruimteslot",
+    "Als drie afzonderlijke slots, met per slot een nieuwe toestemming",
+    "Als drie slots waarin telkens een andere machinist actief mag zijn",
+    "Als een enkelvoudige rijweg in één richting"
+   ],
+   "antwoord": 0,
+   "uitleg": "Worden meerdere aan elkaar grenzende TRS'n toegewezen aan één machinist (met of zonder begeleider), dan beschouwt hij deze combinatie als één tijd-ruimteslot. Er mag maar één machinist tegelijk actief zijn.",
+   "bron": "1.27 Wat houdt een TijdRuimteSlot (TRS) in NCBG in?"
+  },
+  {
+   "id": "08-034",
+   "vraag": "Tijdens het rangeren is een wissel onverhoopt opengereden. Wat doet de machinist/rangeerder?",
+   "opties": [
+    "Het wissel zelf terugleggen, de treindienstleider achteraf informeren en de beweging met rijden op zicht afmaken",
+    "Alleen de eigen spoorwegonderneming informeren en wachten op een monteur van de infrabeheerder",
+    "De treindienstleider informeren en na vijf minuten zonder reactie voorzichtig verder rijden",
+    "De treindienstleider en de eigen spoorwegonderneming informeren en wachten tot de treindienstleider het wissel vrijgeeft"
+   ],
+   "antwoord": 3,
+   "uitleg": "Als een wissel onverhoopt is opengereden, informeert de machinist/rangeerder de treindienstleider en de eigen spoorwegonderneming en wacht tot het wissel is vrijgegeven door de treindienstleider.",
+   "bron": "1.28 Waar let de machinist op bij een rangeerbeweging in NCBG?"
+  },
+  {
+   "id": "08-035",
+   "vraag": "Een machinist wil een krachtvoertuig parkeren, maar het kan niet voldoende geremd worden weggezet op de hand- of parkeerrem. Wat doet hij?",
+   "opties": [
+    "Hij laat het krachtvoertuig met draaiende motor en aangezette bedrijfsrem staan in de door het bedrijf bepaalde bedrijfstoestand",
+    "Hij meldt het aan de treindienstleider en laat het voertuig ongeremd staan",
+    "Hij koppelt het aan een ander wel geremd voertuig of legt, indien toegestaan, een stopblok voor de wielen",
+    "Hij legt onder alle wielen remsloffen, ook als de lokale regels dat niet toestaan, en meldt dit aan zijn spoorwegonderneming"
+   ],
+   "antwoord": 2,
+   "uitleg": "Een kracht- of spoorvoertuig moet altijd voldoende geremd weggezet worden op de hand- of parkeerrem. Als dat niet kan, koppelt de machinist het aan een wel geremd voertuig of legt hij een stopblok voor de wielen (indien toegestaan).",
+   "bron": "1.29 Hoe parkeert de machinist de trein?"
+  }
+ ]
+}

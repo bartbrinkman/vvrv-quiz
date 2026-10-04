@@ -1,0 +1,1240 @@
+VVRV cluster Materieel
+
+VVRV cluster Materieel  1/30
+Materieel
+
+1.1 Voorwoord                                                         3
+
+1.2 Wat is een trein?                                                 3
+
+1.3 Wat zijn krachtvoertuigen?                                        3
+
+1.4 Wat zijn voertuigen?                                              4
+
+1.5 Wat is een treinnummer?                                           5
+
+1.6 Wat is het Europees voertuignummer?                               5
+
+1.7 Welke treinsoorten worden onderscheiden?                          5
+
+1.8 Waaruit bestaat een samengestelde trein?                          6
+
+1.9 Hoe is het onderstel opgebouwd?                                   7
+
+1.10 Hoe is de bak opgebouwd?                                         8
+
+1.11 Hoe is het loopwerk opgebouwd?                                   8
+
+1.12 Hoe is het stoot- en trekwerk opgebouwd?                         11
+
+1.13 Hoe is het remsysteem opgebouwd?                                 13
+
+1.14 Welke soorten remsystemen worden onderscheiden?                  15
+
+1.15 Wat zijn noodrem en noodremoverbrugging?                         17
+
+1.16 Wat is de functie van de P/G-kraan?                              17
+
+1.17 Hoe werken de verschillende soorten tractie?                     18
+
+1.18 Wat is de functie van de stroomafnemer?                          19
+
+1.19 Hoe is de bediening van deuren van een trein geregeld?           19
+
+1.20 Wat is de betekenis van opschriften?                             20
+
+1.21 Hoe zijn wagens met gevaarlijke stoffen te herkennen?            21
+
+1.22 Wat is ritregistratie?                                           22
+
+1.23 Wanneer is een materieelstoring een veiligheidsstoring?          22
+
+1.24 Wat doet de machinist bij voorkomende materieelstoringen?        22
+
+1.25 Wat doet de machinist bij storingen aan het loopwerk?            23
+
+1.26 Wat doet de machinist bij storingen aan het stoot- en
+
+trekwerk?                                                             24
+
+1.27 Wat doet de machinist bij storingen aan het remsysteem?          25
+
+1.28 Wat doet de machinist bij storingen aan de tractie?              26
+
+1.29 Wat doet de machinist bij storingen aan de
+
+stroomvoorziening?                                                    26
+
+1.30 Wat doet de machinist bij storingen aan deuren?                  27
+
+1.31 Wat doet de machinist bij onleesbare opschriften?                28
+
+1.32 Wat doet de machinist bij een beschadigde ruit, ruitenwisser of
+
+snelheidsmeter?                                                       28
+
+1.33 Wat doet de machinist bij een defecte dodeman?                   28
+
+1.34 Wat doet de machinist bij een defecte GSM-R?                     28
+
+1.35 Wat doet de machinist bij een defecte tyfoon?                    29
+
+1.36 Wat doet de machinist bij een defect frontsein?                  29
+
+1.37 Wat doet de machinist bij een defect sluitsein?                  30
+
+VVRV cluster Materieel                                                    2/30
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan
+verbreding worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld.
+Toch kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet
+aansprakelijk voor schade als gevolg daarvan.
+
+Versie augustus 2025
+
+1.2 Wat is een trein?
+
+Een trein is een samenstelling van spoorvoertuigen waarvan er ten minste één een
+krachtvoertuig is. Een spoorvoertuig (rollend materieel) is een voertuig, al dan niet geleed,
+dat op het spoor kan rijden en gebruik maakt van de dragende en geleidende functies van
+de railinfrastructuur én dat in staat is lading (personen, goederen) te dragen en/of tractie te
+verzorgen.
+
+Per land kunnen andere omschrijvingen gelden maar het gaat vrijwel altijd om een of meer
+tractievoertuigen met of zonder aangekoppelde voertuigen.
+
+Een spoorvoertuig kan een krachtvoertuig of een voertuig zijn.
+
+1.3 Wat zijn krachtvoertuigen?
+
+Krachtvoertuigen beschikken over een eigen voortbewegingsinrichting/tractie.
+
+Er zijn verschillende soorten krachtvoertuigen, bijvoorbeeld:
+- elektrische locomotieven en treinstellen
+- diesellocomotieven en treinstellen
+- stoomlocomotieven.
+
+VVRV cluster Materieel  3/30
+Locomotief
+Een locomotief is een krachtvoertuig dat ervoor bestemd is spoorvoertuigen zonder tractie
+voort te trekken of te duwen.
+
+Bij het samenstellen van een getrokken trein wordt voor het verplaatsen van de
+rijtuigen/wagens meestal een rangeerlocomotief gebruikt: een loc met een gering
+vermogen, een hoge trekkracht en een lage topsnelheid.
+
+Een radiografisch bedienbare locomotief heet radioloc.
+
+Treinstel
+Een treinstel is een krachtvoertuig dat:
+- bestaat uit een onveranderlijke combinatie van één of meer rijtuigen
+- aan beide uiteinden een stuurstand bevat.
+
+Onderhoudsmachine
+Een onderhoudsmachine is een krachtvoertuig dat op eigen kracht via het spoor naar de
+werkplek kan rijden en eventueel (afhankelijk van het voertuig) goederenwagens voort kan
+trekken of duwen.
+
+1.4 Wat zijn voertuigen?
+
+Voertuigen hebben geen eigen voortbewegingsinrichting/tractie. Er zijn verschillende soorten
+voertuigen, bijvoorbeeld rijtuigen en wagens.
+
+Rijtuig
+Een rijtuig is een spoorvoertuig zonder eigen tractie dat bestemd is om personen te
+vervoeren.
+Een stuurstandrijtuig heeft aan één uiteinde een stuurstand.
+
+Wagen
+Een goederenwagen is een spoorvoertuig zonder eigen tractie dat bestemd is om vracht te
+vervoeren. Er zijn vele typen wagens (alle toegespitst op de te vervoeren lading).
+
+VVRV cluster Materieel  4/30
+1.5 Wat is een treinnummer?
+
+Een trein rijdt onder een treinnummer van een beginpunt naar een eindpunt. De
+infrastructuurbeheerder bepaalt het treinnummer bij het toewijzen van een treinpad. Elke
+trein (goederen- of personentrein) die in Nederland rijdt, rijdt onder een treinnummer dat
+binnen één dag uniek is.
+
+De treinserie is: een reeks treindiensten waarbinnen de treinen een bepaalde route volgens
+een bepaald tijdspatroon afleggen.
+
+1.6 Wat is het Europees voertuignummer?
+
+Elk spoorvoertuig heeft een nummer van 12 cijfers (het Europees voertuignummer (EVN,
+voorheen UIC-code).
+Delen van dit nummer wijzen op bepaalde kenmerken van het voertuig, bijvoorbeeld het
+type (kracht)voertuig, het land waar waarin het voertuig ingeschreven is, bepaalde
+technische kenmerken, het serienummer en een controlecijfer.
+
+Bij incidenten wordt dit nummer gemeld. Het gehele nummer is van belang omdat er meer
+voertuigen rijden met dezelfde laatste vier cijfers.
+
+De spoorwegonderneming mag in grotere cijfers dan het Europees voertuignummer een
+eigen nummer aanbrengen indien dit nuttig is voor de exploitatie.
+
+1.7 Welke treinsoorten worden onderscheiden?
+
+Voorbeelden van reizigerstreinen:
+- hoge snelheidstrein
+- intercitytrein
+- sneltrein (regionaal vervoer)
+- stoptrein (regionaal vervoer).
+
+Voorbeelden van goederentreinen:
+- treinladingtreinen: een complete goederentrein bestaande uit één type wagen (charter
+
+     cargo; Full Train Load)
+- wagenladingtreinen of bonte treinen: losse wagens in een goederentrein van
+
+     verschillende klanten; de trein rijdt volgens een vaste dienstregeling en doet verschillende
+     bestemmingen aan
+- shuttletreinen of intermodaal vervoer: goederenvervoer waarbij meerdere vervoerswijzen
+     (modaliteiten) zijn betrokken (schip-vrachtwagen-trein); de treinen rijden naar vaste
+     bestemmingen met vaste vertrek- en aankomsttijden
+- bijzonder vervoer, bijvoorbeeld militair transport.
+
+VVRV cluster Materieel  5/30
+Een zogenaamde Losse Loc (LL) is een trein als hij onder een treinnummer rijdt.
+
+Een rangeerdeel is een of een aantal gekoppelde spoorvoertuigen waarmee gerangeerd
+wordt. Rangeren gebeurt als een trein wordt samengesteld of als een trein op de plaats van
+bestemming is aangekomen die niet vanaf hetzelfde spoor aan een nieuwe treindienst
+begint (in het laatste geval kan ook sprake zijn van een leeg materieelrit in plaats van
+rangeren).
+
+1.8 Waaruit bestaat een samengestelde trein?
+
+De samenstelling (configuratie) van een trein is een bepaalde koppeling van
+- meerdere treinstellen (inclusief een aanduiding van de rijtuigen waaruit ieder treinstel is
+
+     samengesteld)
+- locomotief/locomotieven met rijtuigen/wagens.
+
+Een treinstam is een set rijtuigen die:
+- in een bepaalde samenstelling gekoppeld zijn
+- gedurende enige tijd in deze samenstelling ingezet worden.
+
+De maximale treinlengte inclusief locomotief is 740 meter voor goederentreinen en 400 meter
+voor hogesnelheidstreinen. In het internationale verkeer zijn ook route-specifieke
+lengtebeperkingen van toepassing.
+
+De treinlengte moet kleiner zijn dan de nuttige lengte van de vertrek-, inhaal- en
+aankomstsporen waarop de trein volgens de dienstregeling is gepland.
+De lengte van reizigerstreinen moet ook zijn afgestemd op de nuttige lengte van de perrons
+waarlangs de trein volgens dienstregeling halteert.
+
+Voor treinlengte zie Netverklaring ProRail.
+
+Getrokken trein
+De locomotief trekt de rijtuigen/wagens.
+
+Dubbeltractie
+Is een trein te zwaar voor één locomotief, dan kan er een tweede worden bijgeplaatst.
+
+Er zijn hierbij meerdere mogelijkheden:
+- multiple-bedrijf: de tractie bestaat uit meerdere aan elkaar gekoppelde locomotieven,
+
+     die alle door de machinist vanaf één plek bediend worden
+- opdrukken: en extra geplaatste locomotief achteraan de trein, die ter plaatse door een
+
+     machinist bediend wordt
+
+VVRV cluster Materieel  6/30
+- trek-/duwbedrijf: naast trekken kan de locomotief de rijtuigen/wagens ook duwen; in het
+     laatste geval bedient de machinist de locomotief vanuit een stuurstand in de rijrichting. Er
+     zijn twee varianten van een trek-duwtrein:
+     o alleen de achterste loc levert tractie (machinist zit in stuurstandrijtuig)
+     o de vooropgaande en de opdrukkende loc leveren beide tractie
+
+- rijden in voorspan: de extra loc is achter de voorste loc geplaatst; het gaat hierbij altijd
+     om twee typen locomotief en twee machinisten (de machinist op de voorste loc bedient
+     de remkraan; zijn collega op de voorspanlok geeft desgevraagd alleen tractie)
+
+- rijden in tussenspan: er is een locomotief tussen de treinlocomotief en de trein geplaatst
+     en beide locomotieven worden door de eigen machinist bediend. De machinist in de
+     voorste locomotief bedient de treinrem; de machinist van elk ander tractievoertuig
+     schakelt zijn treinremkraan uit.
+
+Krachtvoertuig in opzending
+Uitgeschakeld krachtvoertuig dat meegenomen wordt in de trein en geen dienst doet voor
+reizigers of goederenvervoer.
+
+Buitengewoon vervoer
+Een trein valt in de categorie buitengewoon vervoer als afmetingen, gewicht of wagentype
+bijzondere technische of exploitatieve maatregelen vergen. Hiervoor is een vervoersregeling
+nodig.
+
+Er zijn twee soorten buitengewoon vervoer:
+- Buiten Profiel (BP): de lading van de wagens is groter dan de voorgeschreven afmeting
+- Bijzonder Vervoer (BV): de lading is uitzonderlijk, bijvoorbeeld een risicotrein met
+
+     voetbalsupporters of een Koninklijke trein.
+
+Er zijn treinen die in beide categorieën vallen.
+
+1.9 Hoe is het onderstel opgebouwd?
+
+Bij de loc-, rijtuig- en wagenbouw is het onderstel een belangrijke component.
+
+Het onderstel heeft als functies:
+- dragen van de lading
+- overbrengen totale gewicht (onderstel, bak en lading) op de assen
+- ondersteunen bak
+- bevestigen van stoot- en trekwerk, loopwerk, remwerk (en eventueel tractiemotor en
+
+     tandwielkast)
+- opvangen van de langskrachten.
+
+VVRV cluster Materieel  7/30
+Het onderstel bestaat onder meer uit de volgende onderdelen:
+- stel- en dwarsbalken
+- veerhanden
+- asbalansen (alleen bij spoorvoertuigen zonder draaistel).
+
+De stelbalken zijn het belangrijkste onderdeel van het onderstel. Zij vangen de horizontale
+stoot- en trekkrachten ­ die van de bufferbalken komen ­ op. Om de stootkrachten zo goed
+mogelijk te verdelen, liggen de stelbalken zo dicht mogelijk bij het hart van de buffers.
+
+Aan de onderzijde van de stelbalk zijn de veerhanden bevestigd. Aan de veerhanden zitten
+de draagveren, die op hun beurt rusten op de aspotten. De draagveren dragen de bak.
+
+Bij spoorvoertuigen die geen draaistellen hebben maar vaste assen, maken asbalansen deel
+uit van het onderstel: aan de binnenzijde van de stelbalken zijn dan de asbalansen bevestigd
+om de trek- en remkrachten over te brengen van het onderstel naar de wielen (bij wegrijden)
+en van de wielen naar het onderstel (bij remmen). Daarnaast zorgen de asbalansen ervoor
+dat de aspot voldoende ruimte krijgt om de oneffenheden van het spoor op te nemen.
+
+1.10 Hoe is de bak opgebouwd?
+
+De bak biedt het volume om reizigers of goederen te vervoeren. Het zijn de wagens of delen
+waaruit een trein bestaat. De bak moet zo ingericht zijn dat hij de lading op de meest
+effectieve wijze kan vervoeren.
+
+Bij reizigersmaterieel bestaat de bak uit een kokerconstructie: golfvloer, zijwanden en dak
+vormen één geheel.
+
+Voor het vervoer van goederen zijn er vele soorten wagens, bijvoorbeeld:
+- platte en open wagens om lading te vervoeren die bloot mag staan aan weersinvloeden
+- gesloten wagens
+- ketelwagens om gassen en vloeistoffen te vervoeren.
+
+1.11 Hoe is het loopwerk opgebouwd?
+
+Het loopwerk is een essentieel voor veilig en comfortabel vervoer. Het omvat alles wat nodig
+is om de trein stabiel en zonder gevaar van ontsporing over het spoor te kunnen laten
+bewegen, zoals draaistellen, wielstellen, aspotten en afvering.
+
+De wielen zitten bij een spoorvoertuig in de regel vast op de as en de as draait dus met de
+wielen mee (in tegenstelling tot wegvoertuigen).
+
+VVRV cluster Materieel  8/30
+Vaste assen of draaistel
+
+Vaste assen onder een voertuig komen alleen voor bij voertuigen met twee assen (bij
+(rangeer)locomotieven soms drie assen). Deze voertuigen zijn gebouwd voor ladingen met
+een gering gewicht (maximale asdruk per voertuig is in Nederland 22,5 ton (D-last) met als
+uitzondering de Betuweroute: 25 ton, (E-last)), terwijl de lengte over het algemeen ook korter
+is dan gemiddeld.
+
+Een draaistel wordt in de plaats van vaste assen gebruikt om:
+- de massa of trekkracht van het spoorvoertuig over meer assen te verdelen
+- een grotere spoorvoertuiglengte mogelijk te maken
+- zwaardere en grotere lasten mogelijk te maken
+- het rijcomfort te verhogen.
+
+In een draaistel zijn ondergebracht:
+- meerdere assen
+- het remwerk
+- onderdelen treinbeveiligingssysteem (bijvoorbeeld ATB-spoelen)
+- (mogelijk) zandstrooiers.
+
+Het spoorvoertuig rust op het draaistel met tussenkomst van een draaikom met lummelbout
+of via secundaire vering (dit in verband met overbrenging van de krachten van as tot bak).
+
+Draaistellen zijn onder te verdelen in:
+- loopdraaistellen (geen aangedreven assen)
+- motordraaistellen (één of meer aangedreven assen). In motordraaistellen is de
+
+     (elektrische) tractiemotor of tandwielkast bij diesel-hydraulische aandrijving in het
+     draaistel ingebouwd.
+
+Wielstel
+
+Om de veilige loop van het materieel te kunnen garanderen, is het van belang dat de
+wielstellen in orde zijn.
+
+Een wielstel heeft meerdere functies, onder andere:
+- geleiden van het spoorvoertuig over de spoorbaan
+- dragen van het volledige gewicht van het voertuig en de lading
+- trek- en remkrachten overbrengen die nodig zijn voor het rijden en afremmen.
+
+Het wielstel bestaat uit de volgende hoofdonderdelen:
+- wielas met aan ieder uiteinde een astap
+- volwielen óf wielen met een wielband (gebandageerde wielen)
+- aspotten met rollagers.
+
+VVRV cluster Materieel  9/30
+Een spoorwiel heeft een schuin profiel; de schuine kant van het loopvlak helpt de trein om
+beter door bogen (bochten) te rijden en beperkt het slingeren (de vetergang) van de trein.
+
+Flens: de opstaande rand aan de binnenkant van het treinwiel. Door de flens aan het wiel
+blijft de trein de spoorstaven volgen; de maatvoering en staat van de flens moeten volledig
+in orde zijn om ontsporing te voorkomen.
+
+Een wiel kan gebandageerd zijn of een volwiel zijn. Gebandageerd betekent dat er een
+stalen wielband om het binnenwiel of de velg gekrompen zit. Bij een volwiel zijn het
+binnenwiel en de wielband uit één stuk gemaakt. Aan de buitenzijde is een groef
+aangebracht om te kunnen bepalen of het wiel nog aan de toegestane maat voldoet. Bij
+een gebandageerd wiel zijn markeringen aangebracht om vast te kunnen stellen of de
+wielband niet los of verschoven is.
+
+Op de wielas, gedraaid uit een stuk hoogwaardig staal, zijn twee wielen geperst.
+De wielas is even dik als het gat waar de as in moet en wordt met veel kracht in het gat
+geperst. Dit gebeurt zonder verhitting van de wielen en/of de as; de wielen zijn in de regel
+`koud' op de as geperst.
+
+Op iedere astap (gedeelte van de wielas dat uitsteekt buiten ieder wiel) zijn aslagers
+geplaatst. Over de astap plus lagers is een aspot geschoven.
+
+Op de wielas kunnen ook remschijven en/of tandwielen (tractieoverbrenging) zijn
+gemonteerd.
+
+Aspotten
+De aspotten vormen de verbinding tussen het rollende gedeelte (wielstellen) en het
+stilstaande gedeelte van het spoorvoertuig (bij een vaste as: via de asbalansen aan het
+onderstel; bij een draaistel: via het draaistelframe).
+
+De aspotten dragen het totale gewicht van het spoorvoertuig en brengen dit over op de
+astap.
+
+De eisen die aan de aspotten worden gesteld zijn hoog omdat ze de niet afgeveerde
+schokken en stoten van de wielstellen krijgen te verwerken. De aspot is aan alle zijden
+afgesloten; het smeermiddel blijft zodoende in de pot, vocht en vuil er buiten.
+
+Afhankelijk van de positie onder het spoorvoertuig kan op de aspotten extra apparatuur zijn
+aangebracht:
+- snelheidsgevers voor de ATB-installatie en snelheidsmeter
+- snelheidsgevers voor de anti-blokkeerinstallatie (ABI)
+- retourstroom-/aardingsborstels.
+
+VVRV cluster Materieel  10/30
+Litzen
+Op diverse plaatsen zijn litzen gemonteerd. Litzen zijn koperen kabels of banden en geleiden
+stroom gemakkelijk. Hun functie is: mens en apparatuur beschermen tegen stroom door deze
+goed af te voeren naar de spoorstaven. Dit is van belang bij bijvoorbeeld een blikseminslag
+of een gebroken bovenleiding die op de trein terecht komt.
+
+Litzen worden ook gebruikt om de draaiende en rollende delen van een aspot te
+beschermen tegen inbranding door de stroom, veelal bij stilstand.
+
+(Af)vering
+De (af)vering zorgt ervoor dat de wielen de spoorstaven blijven volgen en er contact mee
+blijven houden. Slechte of defecte vering kan leiden tot ontsporing.
+
+Er zijn verschillende soorten veren in gebruik: schroefveren; bladveren; luchtveren;
+schokdempers; rubberpakketveren; silentblocks (metaal-rubbervering); enzovoort.
+
+De primaire vering zit direct op de wielassen en bestaat uit bladveren of schroefveren.
+De secundaire vering zit tussen het wielstel en de wagenbak en bestaat meestal uit
+schroefveren of bladveren; daarnaast kan er luchtvering zijn toegepast.
+
+Bij luchtvering zorgt een hoogteregelklep ervoor dat de rijtuigbak bij het beladen/ontladen
+van een rijtuig ­ door de luchtdruk in een veerbalg­op de ingestelde hoogte blijft.
+
+1.12 Hoe is het stoot- en trekwerk opgebouwd?
+
+Stoot- en trekwerk staat voor het geheel van buffers, trekhaak, luchtslangen,
+schroefkoppeling en automatische koppeling.
+
+Buffers
+De buffers vormen het stootwerk aan de voor- en achterzijde van een spoorvoertuig. Ze zijn
+bevestigd aan de bufferbalk (die weer bevestigd is aan de twee stelbalken van het
+onderstel). In de buffer is een veer (of rubberpakket) geplaatst die (dat) ervoor zorgt dat de
+drukkrachten op een veilige manier worden gedempt en dat de stoten worden
+opgevangen. In buffers kan ook olie en gas worden gebruikt.
+
+Buffers dienen om de schokken te dempen die tussen de loc/rijtuigen/wagens van een trein
+optreden tijdens het rijden. Buffers maken het mogelijk om de voertuigen van een trein strak
+te koppelen en toch bogen te kunnen doorlopen. Met name reizigerstreinen worden `strak'
+gekoppeld om schokken in de trein te voorkomen.
+
+VVRV cluster Materieel  11/30
+Tegenwoordig worden steeds meer spoorvoertuigen met crashbuffers uitgevoerd. Deze
+kunnen bij te hoge krachten de meeste energie absorberen waardoor schade aan het
+voertuig wordt beperkt.
+
+Strak koppelen: wanneer de buffers elkaar raken wordt de schroefkoppeling nog één slag
+aangedraaid.
+
+Lang draaien: schroefkoppeling wordt uitgedraaid in verband met krappe bogen (korte
+bochten).
+
+Trekhaak, schroefkoppeling en luchtslangen
+Het trekwerk bestaat uit een trekhaak en een schroefkoppeling; beide hangen in het
+midden van de bufferbalk. Ernaast hangen de luchtslangen.
+
+Ieder uiteinde van een spoorvoertuig beschikt zowel over een trekhaak als een ophanghaak.
+Aan de trekhaak is bij kort trekwerk een veerpakket bevestigd dat achter de bufferbalk is
+gemonteerd. Het veerpakket heeft als functie de trekkrachten op te vangen en te dempen.
+
+Kort trekwerk heeft in tegenstelling tot doorgaand trekwerk geen lange trekstang onder het
+voertuig door. Bij doorgaand trekwerk is het veerpakket in het midden van het voertuig
+gemonteerd (halverwege de trekstang).
+
+Deze constructie maakt het mogelijk om:
+- bij goederenwagens een grotere, diepe laadvloer te construeren
+- in reizigersmaterieel materieel dubbeldeks uit te voeren.
+
+De luchtslangen moeten worden verbonden om een juiste werking van pneumatische
+installaties en remmen te garanderen.
+
+Het gaat om de luchtslangen van:
+- de hoofdreservoirleiding (herkenbaar aan het kruis op de monturen)
+- de treinleiding (herkenbaar aan de punt op de monturen).
+
+Degene die de slangen koppelt, is ervoor verantwoordelijk dat dezelfde slangen aan elkaar
+gekoppeld worden.
+
+De schroefkoppeling is de traditionele constructie om rijtuigen onderling, wagens onderling
+en rijtuigen/wagens aan de locomotief te koppelen.
+
+Automatische koppeling
+Buffers en schroefkoppelingen als manier om treindelen te koppelen, wordt normaal trek- en
+stootwerk genoemd.
+
+VVRV cluster Materieel  12/30
+Bij een automatische koppeling hoeft er geen of minder werk verricht te worden voor het
+aan- of afkoppelen van de voertuigen. Doorgaans bevat de automatische koppeling de
+elektrische en pneumatische verbindingen voor de treinbesturing en het doorgaand
+remmen; aparte stuurstroomkabels en/of luchtslangen zijn zodoende niet nodig.
+
+1.13 Hoe is het remsysteem opgebouwd?
+
+Compressor en hoofdreservoir
+Voor het vullen van diverse reservoirs met lucht is een compressor nodig. De compressor zuigt
+de lucht aan en verzamelt deze in een groot vat: het hoofdreservoir.
+
+Om overdruk in het hoofdreservoir te voorkomen is er op de compressor een beveiliging
+geplaatst die in werking treedt wanneer de maximale toegestane druk in het hoofdreservoir
+is bereikt.
+
+Hoofdreservoirleiding en treinleiding
+Beide leidingen zijn van essentieel belang; ieder heeft zijn eigen functie.
+
+De hoofdreservoirleiding transporteert de hogere ( 7 bar) druk via een reduceerinrichting
+naar het remsysteem en andere luchtsystemen, zoals tyfoons, stroomafnemers, enzovoort.
+
+Goederenwagens zijn meestal niet voorzien van een hoofdreservoirleiding.
+
+Voor de uitleg hieronder worden getallen gebruikt, die in de praktijk kunnen variëren.
+
+De treinleiding is de commandoleiding van het remsysteem en is bedoeld voor het in werking
+stellen van het remsysteem. Een reduceerinrichting zit tussen de hoofdreservoirleiding en de
+treinleiding. Deze brengt de hoge druk van bijvoorbeeld 10 bar uit de hoofdreservoirleiding
+terug tot bijvoorbeeld 5 bar in de treinleiding. Bij sommige materieelsoorten is de
+reduceerinrichting in de remkraan ingebouwd.
+
+Deze 5 bar in de treinleiding is de werkdruk om commando's over te kunnen brengen. Door
+met de remkraan lucht uit de treinleiding te laten wordt de luchtdruk van 5 bar verlaagd
+naar bijvoorbeeld 4,5 bar. Als gevolg van deze verlaging reageert de tripleklep, zodat het
+remsysteem in de remstand komt. Door met de remkraan de luchtdruk weer naar 5 bar te
+verhogen, lossen de remmen.
+
+Bij sommige materieelsoorten is het mogelijk om een lagedrukoverlading (LDO) te geven om
+het loskomen van de tripleklep te garanderen.
+Bij een lagedrukoverlading wordt de treinleidingdruk gecontroleerd verhoogd naar 5,4 bar.
+De druk is dan hoger geworden dan de stuurreservoirdruk. De tijdelijke overdruk wordt door
+de remkraan gecontroleerd teruggebracht naar de standaard treinleidingdruk van 5 bar.
+
+VVRV cluster Materieel                 13/30
+De tripleklep is een pneumatisch apparaat dat verbindingen maakt of verbreekt waardoor
+remmen aanslaan of lossen.
+
+Er zijn triplekleppen die trapsgewijs rembaar en trapsgewijs losbaar zijn en het remsysteem
+onuitputtelijk maken (driedrukkentripleklep). Er zijn ook triplekleppen die het systeem
+uitputtelijk maken (tweedrukkentripleklep).
+
+Remkraan
+De pneumatische remmen van de trein worden door de machinist bediend. De
+rembediening vindt plaats met de remkraan of remeenheid. Elke vorm van rembediening
+van de pneumatische rem is in vaktaal: de remkraan.
+
+Met de remkraan wordt een commando gegeven aan de apparatuur om de trein te laten
+stoppen. Er zijn verschillende soorten remkranen die een commando pneumatisch kunnen
+geven. Deze remkraan komt steeds minder voor in materieel. De tegenwoordig gebruikte
+remkranen kunnen de remapparatuur ook elektrisch of elektronisch aansturen.
+
+De pneumatische rem wordt vanuit de machinistencabine bediend. Een remstation in elk
+spoorvoertuig zet de remopdracht om in een stijging van de remcilinderdruk.
+
+In de trein is voor de zelfwerkende doorgaande luchtdrukrem één remkraan in dienst. De
+remkraan houdt de luchtdruk in de treinleiding op 5 bar; de remmen van de trein zijn dan
+gelost. Wanneer de machinist, door de remkraan te bedienen, de luchtdruk in de treinleiding
+verlaagt, slaan de remmen aan.
+
+Bij 3,5 bar treinleidingdruk is de maximale remkracht bereikt: een volremming.
+Bij directe verlaging van de treinleidingdruk naar 0 bar door de remkraan in de snelremstand
+te zetten: snelremming.
+
+Remcilinders, remblokken en remschijven
+Remcilinders duwen de remblokken tegen het wiel/de remschijf. De remblokken en
+remschijven zorgen er door de wrijving op de wielen voor dat de trein afremt.
+
+Blokkenrem
+Het remblok van een blokkenrem drukt direct op het loopvlak van het wiel en is gemaakt van
+gietijzer of kunststof.
+
+Schijfrem
+Op het wielstel zijn remschijven gemonteerd. Tijdens het remmen worden de remschijven
+geklemd tussen kunststof remblokken.
+
+VVRV cluster Materieel  14/30
+Het gebruik van schijfremmen heeft als voordeel dat:
+- er minder slijtage is van het loopvlak van de wielen
+- de remmen minder snel blokkeren.
+
+Aan het rode vlak in het remvenster is te zien dat de remmen vastzitten.
+
+Remversteller
+Remblokken worden met grote kracht tegen de wielen gedrukt. De remblokken en wielen
+slijten daardoor af en de remwerkstangen moeten steeds worden ingekort. Dit verstellen van
+het remwerk gebeurt automatisch met remverstellers.
+
+Anti-blokkeerinstallatie
+De anti-blokkeerinstallatie (ABI) voorkomt dat een te stevig geremde as ineens stil gaat staan.
+
+Automatische lastafremming
+Automatische lastafremming is een systeem dat ervoor zorgt dat de remkracht van een trein
+automatisch wordt aangepast aan de belading van de trein. Het verandert de luchrdruk in
+de remcilinders, afhankelijk van het totale gewicht van de trein (wagen plus lading). Dit
+betekent dat de trein minder hard remt wanneer deze leeg is en harder remt wanneer deze
+zwaarder beladen is, waardoor een optimale remvertraging wordt bereikt en de remweg zo
+kort mogelijk blijft.
+
+1.14 Welke soorten remsystemen worden onderscheiden?
+
+Directe rem (loc rem)
+Bij de directe rem worden de remmen van de loc of het treinstel direct door de remkraan
+vanuit de hoofdreservoirleiding gevuld. Bij de directe rem wordt de treinleiding niet gebruikt.
+
+Directe rem wordt ook wel rangeerrem of locrem genoemd en is een directe luchtdrukrem
+die remkracht uitoefent op de wielen/assen van de locomotief.
+
+Indirecte rem (trein rem)
+Bij de indirecte rem worden de remstations van alle voertuigen in de trein via de remkraan en
+de treinleiding bediend.
+
+VVRV cluster Materieel  15/30
+Bij een snelremming/noodremming wordt de treinleiding direct ontlucht, waardoor de hele
+trein remt. Vanuit het hulpreservoir of remreservoir stroomt via de tripleklep lucht naar de
+remcilinders.
+
+Zelfwerkend doorgaand luchtdruksysteem
+In elke trein bevindt zich een `zelfwerkende doorgaande rem'. Deze luchtdrukrem is een
+wettelijk verplichte rem. Het is een luchtdrukleiding (treinleiding) die door de gehele trein
+loopt (vandaar het woord `doorgaand'). De treinleiding wordt via de remkraan met 5 bar
+luchtdruk gevuld.
+
+`Zelfwerkend' wil zeggen dat het remsysteem, door welke oorzaak ook, in werking kan
+worden gesteld. Dit kan dus ook zonder ingreep van de machinist (denk aan reizigers-
+noodremming, dodemanremming, ATB-remming, breken koppeling). De luchtdruk wordt
+verlaagd in de treinleiding, hetgeen resulteert in het remmen van de trein.
+
+Het instrument/apparaat dat er voor zorgt dat een remsysteem zelfwerkend wordt, is de
+tripleklep. Bij een snelremming wordt de treinleiding direct ontlucht, waardoor de hele trein
+remt.
+
+Toegevoegde remsystemen
+EP-rem (elektropneumatische rem)
+Bij de elektropneumatische rem worden de remstations via de remkraan elektrisch bediend.
+De remelektronica onderdrukt een remming via de treinleiding. De EP-rem geeft elektrische
+commando's naar de regelklep en stuurt deze zodanig aan dat de tripleklep niet reageert. Er
+stroomt direct lucht naar de remcilinders.
+
+Voordeel van de EP-rem ten opzichte van de pneumatische rem is het gelijktijdig aanslaan
+en lossen van de remmen in de gehele trein.
+
+ED-rem (elektrodynamische rem)
+Door tijdens het remmen de motor als rem te gebruiken, wordt de bewegingsenergie
+omgezet in elektrische energie.
+
+Eventueel opgewekte elektrische energie wordt (bij modern materieel) teruggevoerd naar
+de bovenleiding of opgeslagen in accu's.
+
+HD-rem (hydrodynamische rem)
+De hydraulische transmissie maakt gebruik van vloeistof, meestal olie, en zet kinetische
+energie om in warmte.
+
+VVRV cluster Materieel  16/30
+Magneetrem
+Bij een magneetrem wordt een blok met permanente (PMg) of niet-permanente magneten
+(elektromagneten EMg) op de spoorstaaf neergelaten. Door wrijving met de spoorstaaf remt
+de trein af.
+
+Parkeerrem/Handrem
+De parkeerrem of handrem houdt opgesteld materieel op zijn plaats.
+
+Als parkeerrem wordt meestal de mechanische handrem, veerrem of een permanente
+magneetrem gebruikt.
+
+Hogedrukrem
+Omdat de remwerking van de remblokken bij een bepaalde snelheid ontoereikend is, is
+materieel uitgerust met een HD-rem: boven een bepaalde snelheid wordt de remcilinderdruk
+verhoogd.
+
+1.15 Wat zijn noodrem en noodremoverbrugging?
+
+De noodrem is wettelijk verplicht in iedere ruimte waar zich personen kunnen bevinden
+(behalve in de toiletten).
+
+Bediening van de noodrem opent de noodremklep in de treinleiding: de treinleidingdruk
+daalt naar 0 bar en de trein komt met maximale remkracht tot stilstand.
+
+Een trein kan uitgerust zijn met noodremoverbrugging die het voor de machinist mogelijk
+maakt de noodrem te overbruggen en te voorkomen dat de trein op een ongunstige plaats
+tot stilstand komt.
+
+1.16 Wat is de functie van de P/G-kraan?
+
+De P/G-kraan is een per rit in een bepaalde treinsamenstelling af te stellen kraan op de
+locomotief en aan iedere goederenwagen. De kraan regelt de snelheid van de opbouw van
+de remkracht.
+
+Bij bepaalde goederentreinen dient de P/G-kraan in de stand G te staan. De G-stand zorgt
+voor lange remcilindervul- en lostijden zodat schokken en duwen, en daarmee een
+treinbreuk, voorkomen wordt, omdat schroefkoppelingen een beperkte maximale belasting
+kunnen hebben.
+
+De spoorwegonderneming kan bepalen dat een trein wordt gereden onder het remregime
+`lange loc': de hele trein staat in de P-stand, behalve de loc('s) en de eerste (5-7) wagens
+(die staan in de G-stand).
+
+VVRV cluster Materieel  17/30
+Bij een trein die volledig in de G-stand rijdt, is de remweg langer dan een trein die volledig
+rijdt in de P-stand of als `lange loc'.
+
+De spoorwegonderneming is zelf verantwoordelijk voor het opnemen van een remtabel in
+het handboek en het beschrijven hoe de treinen geremd moeten zijn.
+
+1.17 Hoe werken de verschillende soorten tractie?
+
+Tractie is het systeem (de aandrijving) om een spoorvoertuig voort te bewegen.
+
+Het motorvermogen bepaalt hoe snel de trein optrekt en welke snelheid hij kan bereiken (in
+samenhang met andere factoren zoals: het gewicht van de trein; een eventuele helling waar
+de trein tegenop rijdt; en de wrijving die hij ondervindt van de spoorstaven en van de lucht).
+
+Overbrenging (transmissie) is de verzamelnaam voor de verschillende technieken om
+vermogens over te brengen/om te vormen. De aandrijving van motoras naar wielas is
+meestal mechanisch met tandwielen. De tractiemotor drijft een tandwiel aan dat bevestigd
+is op de wielas.
+
+Elektromotor
+Een elektrische locomotief/elektrisch treinstel is een krachtvoertuig dat elektriciteit als
+energiebron gebruikt. De manier waarop het motorvermogen geregeld wordt, hangt af van
+het type materieel en wordt bepaald door de machinist.
+
+Het hoogspanningssysteem is nodig om de spanning van de bovenleiding te verwerken om:
+- de elektromotoren te voeden
+- de trein te verwarmen.
+
+Dieselmotor
+Een diesellocomotief/-treinstel is een krachtvoertuig dat diesel als energiebron voor de
+aandrijving gebruikt.
+
+Bij een dieselelektrische locomotief/treinstel drijft dieselmotor een generator aan die direct of
+via een omweg (wisselrichter; batterij) de elektromotoren voedt die de wielen aandrijven.
+
+Bij een dieselhydraulische locomotief drijft de dieselmotor een hydraulische pomp aan
+waardoor vloeistof onder hoge druk naar een hydromotor gevoerd wordt. Een hydromotor
+beschikt over een schoepenrad dat door de vloeistof in beweging wordt gezet.
+
+VVRV cluster Materieel  18/30
+1.18 Wat is de functie van de stroomafnemer?
+
+De stroomafnemer zorgt voor het contact tussen de e-locomotief/het treinstel en de rijdraad
+boven de spoorbaan. De stroomafnemer haalt de hoogspanning van de bovenleiding en
+zorgt ervoor dat er een stroom kan gaan lopen naar de hoogspanningsinstallatie in de trein
+én uiteindelijk weer naar het onderstation. Via de stroomafnemer worden de tractiemotoren
+gevoed om te kunnen rijden.
+De stroomafnemer werkt op lucht- en/of veerdruk.
+
+Op het schuitje zit de koolstrip die het contact met de rijdraad onderhoudt. De koolstrip is
+gemaakt van materiaal (koolstof) dat zachter is dan de rijdraad, omdat de koolstrip
+makkelijker te vervangen is dan de bovenleiding. De koolstrip is het enige contactoppervlak
+met de rijdraad. Beschadiging van de koolstrip en het schuitje kan leiden tot draadbreuk.
+
+De dempers zorgen ervoor dat het schuitje ook de kleine bewegingen van de rijdraad kan
+volgen.
+
+1.19 Hoe is de bediening van deuren van een trein geregeld?
+
+Reizigerstreinen
+De deuren geven toegang tot het treinstel of rijtuig. Ze worden elektrisch (centraal of lokaal)
+aangestuurd of elektrisch met lucht bediend (elektro-pneumatisch).
+
+Reizigersdeuren zijn minimaal op de volgende manieren te bedienen:
+- lokaal openen en sluiten (normale bediening door de reizigers; alleen mogelijk als geen
+
+     `centraal sluiten-commando' is gegeven en de deuren `ontgrendeld' zijn)
+- centraal sluiten en ontgrendelen (normale bediening door het treinpersoneel voor het
+
+     sluiten/ontgrendelen van alle deuren van een treinsamenstelling; is mogelijk bij elke
+     deurpartij én vanuit de bediende cabine; ontgrendelen kan alleen vanuit de bediende
+     cabine)
+- lokaal openen van één deur van een vergrendelde trein (bediening door het
+     treinpersoneel)
+- nood openen door reizigers (lokaal)
+- nood openen buiten door treinpersoneel/hulpdiensten.
+
+Tijdens het sluiten zorgt de (sluit)klembeveiliging ervoor dat een persoon of voorwerp niet
+klem komt te zitten tussen de deur. Deze klembeveiliging `tast' af of er nog iets tussen de
+sluitende deuren zit. Is dat het geval, dan opent de deur weer.
+
+Zodra alle deuren van de betreffende treinsamenstelling gesloten zijn, komt er een melding
+dat de deuren centraal vergrendeld zijn.
+
+VVRV cluster Materieel  19/30
+Goederentreinen
+Naast volledig gesloten goederenwagens zijn er ook goederenwagens met deuren/luiken.
+Deze moeten voor het vertrek van de trein worden gecontroleerd op het goed gesloten en
+vergrendeld zijn. Hiertoe dienen vergrendelingen te worden gebruikt waarvan de stand
+(open/gesloten) zichtbaar is voor zich buiten de trein bevindend personeel.
+
+1.20 Wat is de betekenis van opschriften?
+
+Op een spoorvoertuig staan vele opschriften, vooral ook op goederenwagens.
+
+Identificatie
+Opschriften met algemene gegevens over het spoorvoertuig, zoals voertuigsoort,
+voertuigtype, eigenaar, land, regiem.
+
+Constructie en uitrusting
+Opschriften die informatie geven over de kenmerken van de voertuigen, zoals lengte van de
+laadvloer, breedte, omvang, afstand tussen de assen, laadvermogen, maximumtarra,
+gewicht in P/G, remstelsel, hoogspanningssymbool.
+
+Gebruik
+Opschriften die de voorwaarden aanduiden waaronder spoorvoertuigen mogen rijden of die
+erop wijzen dat zij tijdelijk uit de dienst genomen zijn, bijvoorbeeld RIV (internationaal
+verkeer), kenmerken gevaarlijke stoffen en beplakkingsmodellen voor de wagencontroleur
+(deze laatste zijn ook berichten naar anderen).
+
+Lading
+Opschriften die een overzicht geven van de asbelasting in relatie tot baanvakken, zoals
+beladingsraster en gewicht.
+
+Onderhoud en herstel
+Opschriften die informatie geven over de staat van onderhoud en herstel, zoals revisiedatum.
+
+VVRV cluster Materieel  20/30
+1.21 Hoe zijn wagens met gevaarlijke stoffen te herkennen?
+
+Een trein die wagens met gevaarlijke stoffen vervoert, is herkenbaar aan de buitenzijden.
+
+De volgende gegevens kunnen aan de buitenzijden te zien zijn:
+- oranje kenmerking
+- gevaarsetiket
+- stofnaam
+- oranje band om de wagen.
+
+Oranje kenmerking
+Het oranje kenmerkingsbord (ook wel Kemlerbord genoemd) bestaat uit een GEVI-code en
+een UN-nummer.
+
+De GEVI-code is het bovenste getal van de oranje kenmerking. Dit nummer bestaat uit twee
+of drie cijfers, soms voorafgegaan door de letter X. Het eerste cijfer komt overeen met de
+gevarenklasse waartoe de stof behoort (bijvoorbeeld 3 brandbare vloeistoffen), het tweede
+en soms derde cijfer wijst op bijkomende gevaren van de stof.
+
+Het UN-nummer (stofidentificatienummer) is het onderste nummer van de oranje kenmerking.
+Dit nummer bestaat altijd uit vier cijfers. Het nummer duidt de identificatie voor de stof of
+groep van stoffen aan, bijvoorbeeld UN 2238 voor chloortolueen.
+
+De betekenis van de GEVI-code staat op het zakkaartje `Gevaarlijke stoffen'.
+
+Gevaarsetiket
+Iedere wagen die gevaarlijke stoffen vervoert, is voorzien van gevaarsetiketten.
+Gevaarsetiketten hebben de vorm van een vierkant met de punt naar beneden; het etiket is
+bedrukt met een gevaarsidentificatienummer in de onderste punt van het vierkant (het
+eerste cijfer van de GEVI-code) met daarboven een icoon dat de aard van het gevaar
+aangeeft (bijvoorbeeld `Ontplofbare stoffen').
+
+De betekenis van het gevaarsetiket staat op het zakkaartje `Gevaarlijke stoffen'
+
+Stofnaam
+Voor sommige gevaarlijke stoffen is het verplicht om de stofnaam duidelijk zichtbaar op de
+wagen aan te geven.
+
+VVRV cluster Materieel  21/30
+Oranje band
+Ketelwagens met een oranje band zijn bestemd voor het vervoer van vloeibaar gemaakte
+gassen.
+
+1.22 Wat is ritregistratie?
+
+Spoorvoertuigen die sneller dan 40 km/u kunnen rijden, zijn voorzien van een systeem voor
+automatische ritregistratie. De registratie start bij het in beweging zetten van het voertuig en
+eindigt 30 seconden na het tot stilstand komen.
+
+Geregistreerd worden onder meer:
+- tijd
+- snelheid
+- bediening remmen
+- ATB-gegevens
+- ERTMS-gegevens.
+
+De machinist kan de gegevens niet uitlezen.
+
+1.23 Wanneer is een materieelstoring een veiligheidsstoring?
+
+Een veiligheidsstoring is een storing die direct gevaar kan opleveren voor de
+spoorwegveiligheid.
+
+Het constateren en afhandelen van veiligheidsstoringen dient zodanig te zijn dat wordt
+voldaan aan de primaire eis die gesteld wordt aan railvervoer: veiligheid.
+
+1.24 Wat doet de machinist bij voorkomende materieelstoringen?
+
+Constateert een machinist een defect/onregelmatigheid aan het materieel waardoor hij niet
+verder kan rijden, dan moet hij dit afhankelijk van het type defect/onregelmatigheid direct of
+zo snel mogelijk melden aan:
+- de treindienstleider
+- zijn spoorwegonderneming.
+
+In sommige situaties moet hij ook zelf een aantekening maken in de materieelagenda of een
+vergelijkbaar document (kan ook digitaal). De spoorwegonderneming bepaalt wat de
+machinist moet doen.
+
+VVRV cluster Materieel  22/30
+1.25 Wat doet de machinist bij storingen aan het loopwerk?
+
+Wordt aan het loopwerk (wielstel, aspot, vering) een defect of onregelmatigheid
+geconstateerd, dan is het van groot belang dat het voertuig niet gereed gemaakt wordt of
+zo snel mogelijk aan de kant wordt gezet. Eerst moet het defect/de onregelmatigheid
+worden bekeken. In overleg met de technische ondersteuning wordt een besluit genomen
+over het vervolg.
+
+Het inzetten van voertuigen met defecten/onregelmatigheden aan het loopwerk kan leiden
+tot ontsporing.
+
+Bij de wielen kunnen de volgende defecten/onregelmatigheden voorkomen:
+- wielbanden: vlakke plaatsen op de wielband; uitbrokkeling; opstuwing materiaal;
+
+     uitwalsing; scheuren in wielband; scherpe wielflens; verschoven controlestrepen op de
+     wielband (mogelijk loszittende wielband); blanke slijtdelen op de wielband
+- wielen: scheuren in de wielschijf; blanke slijtdelen op de wielen; loszittende sprengring
+- as: verbogen (wielen slingeren); slijtgroef in de as; blanke slijtdelen op de as.
+
+Vlakke plaatsen
+
+Vlakke plaatsen op het loopvlak van de wielbanden (vierkante wielen) zijn goed te
+herkennen aan een hinderlijk stotend geluid, vooral bij langzaam rijden. Wanneer een
+machinist dit geluid hoort, moet hij dit direct melden aan de treindienstleider en zijn
+spoorwegonderneming.
+
+Op ongeveer veertig plaatsen in het Nederlandse spoorwegnet liggen installaties die vlakke
+plekken in de wielen van passerende treinen signaleren: het Gotcha-systeem (gotcha =
+Engels voor `hebbes'). Hoe eerder een afvlakking geconstateerd wordt, hoe beter.
+
+Aspotten en Hotbox-melding
+
+Aan de aspotten kunnen de volgende defecten/onregelmatigheden voorkomen:
+- defecte stofdop van aspot
+- verkleuring door oververhitting
+- uitlekkend smeermiddel (zeer vette aspot)
+- gekantelde aspot
+- scheuren, breuken, beschadigingen in/aan het pothuis
+- manco bevestigingsbouten.
+
+Om grote schade of ontsporing door een warmlopende aspot of vaste rem te voorkomen zijn
+er langs hoofdspoorwegen detectiesystemen (hotbox) aangebracht, die een melding geven
+aan de treindienstleider als er een warme of hete as is waargenomen. De treindienstleider
+informeert de machinist.
+
+VVRV cluster Materieel  23/30
+Bij een heetmelding stopt de machinist onmiddellijk en controleert hij of sprake is van
+verkleuring en/of beschadiging aan de as zelf en de twee voor- en na gelegen assen:
+- bij verkleuring en/of beschadiging rijdt de machinist niet verder
+- zonder verkleuring en/of beschadiging rijdt de machinist in overleg met de
+
+     treindienstleider met 10 km/u door naar de eerste gelegenheid waar hij opzij genomen
+     kan worden.
+
+Bij een warmmelding controleert de machinist eveneens de betreffende as en de twee voor-
+en na gelegen assen; daarna rijdt hij in overleg met de treindienstleider door naar de
+eindbestemming.
+
+Vering
+Aan de (af)veringkunnen de volgende defecten/onregelmatigheden voorkomen:
+- schroefveren: gebroken of verschoven
+- voluutveer: gebroken
+- bladveren: gebroken of verschoven
+- luchtveren: lek
+- schokdempers: lek (olielekkage).
+
+Draaistel
+Aan een draaistel kunnen de volgende defecten/onregelmatigheden voorkomen:
+- losse of kapotte litzen
+- beschadigd frame (bijvoorbeeld scheuren).
+
+1.26 Wat doet de machinist bij storingen aan het stoot- en trekwerk?
+
+Het stoot- en trekwerk zorgt er mede voor dat een trein veilig kan rijden.
+
+Er mogen beslist geen defecten/onregelmatigheden aan voorkomen; een aantal
+voorbeelden:
+- buffers: bevestigingsbouten ontbreken; scheuren in de huls; spie niet aanwezig; gebroken
+
+     veren; defecte bouten bufferschijf; defecte bufferschijf
+- trekhaak: uitgesleten; scheuren of breuken
+- schroefkoppeling: defecte sluitringen; versleten bevestigingsbout; defecte splitpennen;
+
+     breuken of scheuren; defecte schroefspindel
+- trekstang: gebroken of verbogen; breuken of scheuren; defecte veerpakketten.
+
+VVRV cluster Materieel  24/30
+Aan de automatische koppeling kunnen de volgende defecten/onregelmatigheden
+voorkomen:
+- geleidehoorn verbogen
+- defecte manchetten luchtmonturen
+- defecte rubberringen
+- defecte opvangkabel
+- scheef hangen
+- beschadigd
+- defecte kreukelbus
+- defecte luchtslangen
+- elektrische koppeling beschadigd
+- lekken luchtcilinders
+- defecte of los zittende litzen.
+
+Bij het constateren van defecten/onregelmatigheden aan het stoot- en trekwerk (inclusief
+automatische koppeling) moeten er maatregelen getroffen worden om verdere schade te
+voorkomen. In overleg zal worden bepaald of de trein verder kan rijden.
+
+1.27 Wat doet de machinist bij storingen aan het remsysteem?
+
+Remmen
+
+Aan de remmen kunnen allerlei defecten/onregelmatigheden voorkomen; met als mogelijk
+risico `vaste remmen'.
+
+Voorbeelden:
+- defecte remverstellers
+- defecte of verschoven remdriehoek (triangel)
+- defecte tripleklep
+- versleten of gescheurde remblokken.
+
+Een defect aan de remmen kan, naast andere oorzaken, ook ontstaan door een verkeerde
+bediening van de remkraan.
+
+Als de machinist tijdens de rit één of meer draaistellen, assen of triplekleppen moet afsluiten,
+bepaalt hij in overleg met zijn spoorwegonderneming de nieuwe maximumsnelheid en
+informeert de treindienstleider.
+
+Het afsluiten van remmen houdt in dat het rempercentage van de trein mogelijk te laag
+wordt. Is dit het geval, dan moet de snelheid worden aangepast; de machinist dient de
+treindienstleider en zijn spoorwegonderneming hierover direct in te lichten.
+
+VVRV cluster Materieel  25/30
+Hij meldt:
+- aard defect
+- materieelnummer
+- treinsamenstelling
+- plaats defecte materieel in de trein
+- aantal afgesloten draaistellen en/of triplekleppen.
+
+Luchtvoorziening
+Aan de luchtvoorziening kunnen de volgende defecten/onregelmatigheden voorkomen:
+- defecte compressor
+- luchtslangen: gescheurd; defecte rubberringen
+- luchtleidingen: lek; gescheurd; beschadigd; verbogen.
+
+Defecten aan de luchtslang moeten direct worden gemeld om te laten vervangen. Bij
+andere defecten aan de luchtvoorziening wordt in overleg met de technische ondersteuning
+het verdere vervolg bepaald.
+
+1.28 Wat doet de machinist bij storingen aan de tractie?
+
+Bij een defect/onregelmatigheid aan de tractie is rijden met het betreffende krachtvoertuig
+soms onmogelijk of alleen met lage snelheid.
+
+Voorbeelden van defecten/onregelmatigheden aan de tractie:
+- hydraulische aandrijving: olielekkage (machinist stopt de motoren direct omdat het
+
+     hydraulisch systeem onder hoge druk staat)
+- elektrisch systeem: kortsluiting in de tractiemotoren.
+
+De machinist licht zijn spoorwegonderneming in en in overleg met de technische
+ondersteuning wordt het vervolg bepaald.
+
+1.29 Wat doet de machinist bij storingen aan de stroomvoorziening?
+
+Hoogspanningssysteem
+Mogelijke defecten aan het hoogspanningssysteem:
+- defecte HS-veiligheden (HS is hoogspanning)
+- defecte snelschakelaar
+- lijnschakelaars die niet in komen
+- kortsluiting in de tractiemotoren.
+
+VVRV cluster Materieel  26/30
+Bij kortsluitingsgevaar moet de machinist de stroomafnemers laten zakken en de
+hoogspanningsinstallatie isoleren (voorkomen dat er spanning bij de HS-installatie komt).
+
+Stroomafnemer
+De stroomafnemer heeft een aantal onderdelen die defect kunnen raken:
+- de litzen: het ontbreken van een litz kan tot gevolg hebben dat er schade door
+
+     inbranden ontstaat in de scharnieren van de stroomafnemer
+- het stangenstelsel: verbogen
+- de dempers: is er een defect dan zit het schuitje dikwijls scheef op de stroomafnemer
+- het schuitje en de koolstrip: verbogen of beschadigd; de koolstrip mag niet uitgebrokkeld
+
+     zijn; een defect schuitje en/of koolstrip kan/kunnen de rijdraad beschadigen.
+
+De machinist licht bij een defect/onregelmatigheid aan de stroomafnemer zijn spoorweg -
+onderneming direct in; de betreffende stroomafnemer stelt hij buiten dienst. In overleg met
+de technische ondersteuning wordt het vervolg bepaald.
+
+Laagspanningssysteem
+Wanneer het laagspanningssysteem (ten dele) uitvalt, heeft dit nadelige gevolgen voor het
+primaire net. Verbruikers (bijvoorbeeld verlichting in het spoorvoertuig) preventief
+uitschakelen om stranding van de trein te voorkomen.
+
+Bij een storing:
+- vraagt de machinist de treindienstleider de trein zo snel mogelijk aan de kant te mogen
+
+     zetten (door uitrollen van de trein)
+- licht de machinist zijn spoorwegonderneming in.
+
+In overleg met de technische ondersteuning wordt het vervolg bepaald.
+
+1.30 Wat doet de machinist bij storingen aan deuren?
+
+Bij een melding defecte deur tijdens een stationnement kan de trein niet verder rijden.
+De deur wordt afgesloten.
+
+Bij een defect aan een deur tijdens de rit:
+- moet de betreffende deur afgesloten worden
+- moeten zo snel mogelijk herstelmaatregelen worden uitgevoerd, in overleg met de
+
+     technische ondersteuning.
+
+Om de dienstuitvoering niet teveel te hinderen, is het mogelijk een defecte deur buiten
+dienst te stellen. De afgesloten deur wordt beplakt met een sticker `Defect' en -bij
+goederenmaterieel- onwrikbaar vastgezet.
+
+VVRV cluster Materieel  27/30
+1.31 Wat doet de machinist bij onleesbare opschriften?
+
+Opschriften zijn soms niet goed leesbaar, bijvoorbeeld door graffiti. Als opschriften aan beide
+zijden van het materieel niet leesbaar zijn, mag de machinist niet rijden. Hij licht zijn
+spoorwegonderneming in en in overleg wordt het vervolg bepaald.
+
+1.32 Wat doet de machinist bij een beschadigde ruit, ruitenwisser of
+       snelheidsmeter?
+
+Een beschadigde ruit, ruitenwisser of snelheidsmeter zijn veiligheidsstoringen.
+
+De machinist licht zijn spoorwegonderneming in en in overleg met de technische
+ondersteuning wordt het vervolg bepaald.
+
+1.33 Wat doet de machinist bij een defecte dodeman?
+
+Blijkt tijdens het gereedmaken de dodeman defect te zijn, dan mag het materieel niet in
+dienst worden genomen.
+
+Raakt de dodeman defect tijdens de dienst, dan mag de trein verder rijden tot het
+eerstvolgende punt waar het voertuig hersteld of uitgewisseld kan worden. De machinist licht
+zijn spoorwegonderneming in.
+
+Na een dodemanremming gaat de machinist bij zichzelf na of bij deze ingreep zijn fysieke of
+mentale gesteldheid een rol heeft gespeeld. Als dit het geval is neemt hij direct contact op
+met zijn spoorwegonderneming en vervolgens handelt hij volgens de afspraken met zijn
+spoorwegonderneming.
+
+1.34 Wat doet de machinist bij een defecte GSM-R?
+
+Bij vertrek dient de GSM-R te functioneren. Zo niet, dan mag de trein niet vertrekken.
+
+Raakt de GSM-R apparatuur defect tijdens de rit, dan moet deze zo snel mogelijk worden
+vervangen. De machinist licht de treindienstleider in en geeft zijn mobiele nummer;
+vervolgens mag hij doorrijden tot het eindstation/eindpunt of tot het eerstvolgende punt
+waar de GSM-R hersteld of vervangen kan worden.
+
+VVRV cluster Materieel  28/30
+1.35 Wat doet de machinist bij een defecte tyfoon?
+
+De tyfoon is er om gevaar af te wenden. De trein mag bij een storing van de
+tyfoon de maximaal toegestane snelheid niet overschrijden en moet naar de
+dichtstbijzijnde locatie rijden waar de tyfoon kan worden hersteld of waar het
+defecte voertuig kan worden vervangen.
+
+De machinist moet de trein tot stilstand kunnen brengen vóór een overweg waar de
+tyfoon in werking moet worden gesteld, en mag de overweg alleen passeren wanneer dit
+veilig kan gebeuren. Als een meertonige tyfoon defect is, maar minstens één
+waarschuwingstoon nog werkt, kan de trein gewoon doorrijden
+
+Zie TSI.
+
+Sluit de machinist de tyfoon af, dan meldt hij dit direct aan zijn spoorwegonderneming.
+
+1.36 Wat doet de machinist bij een defect frontsein?
+
+Met een onvolledig frontsein mag de trein niet vertrekken vanaf het beginstation.
+
+Als een onvolledig frontsein wordt opgemerkt tijdens de rit, handelt de machinist als volgt:
+- treindienstleider informeren
+- doorrijden tot het eindpunt van de rit tenzij de treindienstleider anders bepaalt.
+
+Als volledig defecte frontseinen worden opgemerkt tijdens de rit, handelt de machinist bij
+goed zicht als volgt:
+- treindienstleider informeren
+- maximaal toegestane snelheid rijden tot de eerstvolgende locatie waar het frontsein
+
+     hersteld of vervangen kan worden of waar het defecte voertuig vervangen kan worden
+- tijdens het doorrijden geluidssignalen afgeven als dat nodig is of als de treindienstleider
+
+     dat opdraagt (in ieder geval bij nadering van een spoorwegovergang)
+- de spoorwegonderneming informeren als deze dit zo heeft bepaald.
+
+Bij slecht zicht of duisternis handelt de machinist als volgt:
+- treindienstleider informeren
+- als de trein aan de voorzijde is uitgerust met een draagbaar frontsein dat wit licht
+
+     geeft: maximaal toegestane snelheid rijden tot de eerstvolgende locatie waar het
+     frontsein hersteld of vervangen kan worden of waar het defecte voertuig vervangen kan
+     worden
+- als er geen draagbaar frontsein beschikbaar is: niet doorrijden tenzij de
+     treindienstleider instructie geeft om verder te rijden naar de dichtstbijzijnde geschikte
+     locatie waar de trein kan uitwijken
+- tijdens het doorrijden geluidssignalen afgeven als dat nodig is of als de treindienstleider
+     dat opdraagt (in ieder geval bij nadering van een spoorwegovergang).
+
+VVRV cluster Materieel  29/30
+- de spoorwegonderneming informeren als deze dit zo heeft bepaald.
+
+Zie TSI aanhangsel B.
+
+1.37 Wat doet de machinist bij een defect sluitsein?
+
+Met een defect sluitsein mag de trein niet vertrekken van het beginstation.
+Als de treindienstleider een defect sluitsein vaststelt, informeert hij de machinist en geeft
+verdere instructies.
+Zie TSI aanhangsel B.
+
+VVRV cluster Materieel  30/30
+

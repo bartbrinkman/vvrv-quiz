@@ -1,0 +1,754 @@
+VVRV cluster Treinincidenten
+
+                                                                                                                                                             1/18
+1  Treininci denten
+
+                     Treinincidenten                                                      2
+
+                     1.1 Voorwoord                                                        3
+
+                     1.2 Wat is een treinincident en wat is een calamiteit?               3
+
+                     1.3 Wat is ProRail incidentenregie?                                  4
+
+                     1.4 Wat doet de machinist bij een treinincident?                     5
+
+                     1.5 Waar moet de machinist proberen niet te stoppen bij een
+
+                     treinincident?                                                       7
+
+                     1.6 Wat is de rol van de treindienstleider bij een treinincident?    7
+
+                     1.7 Wat doet de machinist bij evacuatie van reizigers?               8
+
+                     1.8 Wat is de rol van de machinist bij eventueel justitieel
+
+                     onderzoek?                                                           9
+
+                     1.9 Hoe is de gezagsverhouding bij treinincidenten?                  10
+
+                     1.10 Wat doet de machinist bij onverklaarbare
+
+                     treinleidingdrukverlaging?                                           10
+
+                     1.11 Wat doet de machinist bij een gestrande trein?                  11
+
+                     1.12 Wat doet de machinist bij brand en/of rookontwikkeling buiten
+
+                     de trein?                                                            11
+
+                     1.13 Wat doet de machinist bij brand en/of rookontwikkeling in of
+
+                     voor een tunnel?                                                     11
+
+                     1.14 Wat doet de machinist bij brand en/of rookontwikkeling in de
+
+                     trein?                                                               12
+
+                     1.15 Wat gebeurt er bij een onterechte passage van een
+
+                     stoptonend sein?                                                     13
+
+                     1.16 Hoe herkent de machinist een onregelmatigheid met
+
+                     gevaarlijke stoffen?                                                 14
+
+                     1.17 Wat doet de machinist bij een onregelmatigheid met
+
+                     gevaarlijke stoffen?                                                 14
+
+                     1.18 Wat doet de machinist bij verdacht gedrag en/of een
+
+                     verdacht voorwerp in de trein?                                       17
+
+                     1.19 Wat doet de machinist bij een bommelding?                       17
+
+                     1.20 Wat doet de machinist bij een aanslag op het openbaar
+
+                     vervoer?                                                             17
+
+                     1.21 Wat doet de machinist als een reiziger onwel is geworden in de
+
+                     trein?                                                               18
+
+VVRV cluster Treinincidenten
+
+                                                                                              2/18
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan
+verbreding worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld.
+Toch kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet
+aansprakelijk voor schade als gevolg daarvan.
+
+Versie augustus 2025
+
+1.2 Wat is een treinincident en wat is een calamiteit?
+
+ProRail hanteert onderstaande definities van treinincident en calamiteit. Omdat ProRail de
+regie heeft bij het afhandelen van treinincidenten/calamiteiten zijn deze definities relevant
+voor de vervoerders /spoorwegondernemingen.
+
+Treincident
+- Een ongewenste gebeurtenis waarbij sprake is van verstorende effecten op het
+
+     railverkeerssysteem en/of op diensten van deelnemers aan het railverkeerssysteem,
+     zodanig dat continuering in gevaar komt of reeds belemmerd is. Deze gebeurtenissen
+     hebben direct dreigende of al opgetreden letsel/schade voor mens, dier, goederen
+     en/of milieu tot gevolg.
+- Alsmede ieder voorval dat past in de omschrijving van één van de twintig omschreven
+     treinincidentscenario's (TIS).
+
+Calamiteit
+De term calamiteit en treinincident worden door elkaar gebruikt, waarbij calamiteit met
+name gebruikt wordt waar (dreigend) gevaar voor mens, dier, goederen en/of milieu
+plaatsheeft en treinincident een overkoepelende term is waarbij ook de bedrijfscontinuïteit
+een rol speelt.
+
+VVRV cluster Treinincidenten  3/18
+1.3 Wat is ProRail incidentenregie?
+
+ProRail en de gebruikers van de hoofdinfrastructuur van Nederland doen er alles aan om
+treinincidenten te voorkomen.
+
+Wanneer een treinincident zich toch voordoet
+Treinincidenten zijn echter niet geheel uit te sluiten. Is er sprake is van een treinincident, dan
+heeft ProRail samen met de betrokken spoorpartijen en (overheids)hulpdiensten
+treinincidentscenario's (TIS) klaarliggen waarin staat wat er bij specifieke
+onregelmatigheden/incidenten/calamiteiten door wie, hoe en met welke middelen moet
+gebeuren.
+
+Tijdens het afhandelen van treinincidenten is ProRail verantwoordelijk voor het garanderen
+van een veilige werkplek voor alle betrokkenen.
+
+ProRail heeft haar verantwoordelijkheden en die van de vervoerders omschreven in het
+Handboek Incidentmanagement Rail (voorheen: `Calamiteitenplan Rail);
+
+Overall-coördinatie en operationele leiding
+Bij een treinincident is/zijn niet de betrokken spoorwegonderneming(en) verantwoordelijk
+voor de overall-coördinatie van én operationele leiding bij het beperken en afhandelen van
+het incident, maar ProRail: afdeling Incidentenregie.
+
+Functionarissen Incidentenregie
+Regisseur Incidentenregie
+De Regisseur Incidentenregie van ProRail is tijdens zijn dienst procesverantwoordelijke voor
+het afhandelen van treinincidenten én voor het aansturen van het operationele proces
+binnen de afdeling Incidentenregie.
+
+Bij `opschalen' naar een hoger niveau voor de afhandeling van een treinincident neemt de
+Regisseur Incidentenregie de taken en verantwoordelijkheden over van de Officier van
+Dienst Rail.
+
+Officier van Dienst Rail
+De Officier van Dienst Rail is het aanspreekpunt bij de afhandeling van het treinincident. Hij
+begeeft zich ter plekke en is herkenbaar aan kleding met de opdruk `OvD-R'.
+
+De Officier van Dienst Rail is verantwoordelijk voor:
+- operationele leiding en coördinatie bij de afhandeling
+- afstemming met (overheids)hulpdiensten
+- borgen van een veilige afhandeling
+
+VVRV cluster Treinincidenten  4/18
+- afhandeling binnen de afgesproken prognosetijden
+- operationeel `opschalen' naar Regisseur Incidentenregie
+- beleidsmatig `opschalen' naar de Voorzitter RBI (Regionaal Beleidsteam
+
+     Incidentmanagement).
+
+Meldkamer spoor/Backoffice
+Bij de Meldkamer spoor/Backoffice komen alle treinincidentmeldingen binnen.
+
+De Backoffice werkt 24/7 en heeft als taken:
+- kiezen van een treinincidentscenario (TIS) en daarop volgend alarmeren van de
+
+     (overheids)hulpdiensten en spoorpartijen
+- verzamelen, vastleggen, coördineren en distribueren van informatie tijdens een
+
+     treinincident
+- ondersteunen OvD-R en namens deze een aantal processen bewaken.
+
+Incidentenbestrijding
+Incidentenbestrijding is de operationele organisatie die uitrukt met voorrangsvoertuigen
+(blauw zwaailicht).
+
+Incidentenbestrijding is verantwoordelijk voor:
+- hersporen en vrijbaan maken
+- assistentie verlenen aan (overheidshulp)diensten bij redding en bij bron- en
+
+     effectbestrijding (oorzaken en gevolgen van het incident minimaliseren)
+- assistentie verlenen bij het evacueren van reizigers uit gestrande treinen.
+
+Operationeel Controle Centrum Rail
+Het Operationeel Controle Centrum Rail (OCCR) is de alarmcentrale van ProRail waar alle
+meldingen van treinincidenten binnenkomen. Verschillende partijen uit de spoorbranche
+werken hier op landelijk niveau samen om bij een treinincident snel te kunnen bijsturen. De
+meldkamer spoor en het OBI zijn onderdeel van het OCCR.
+
+1.4 Wat doet de machinist bij een treinincident?
+
+Veiligheidsmaatregelen nemen
+
+Bij een treinincident neemt de machinist de eerste veiligheidsmaatregelen:
+- alarmoproep plaatsen via GSM-R
+- snelremming inzetten
+- gevaarsein ontsteken
+- kortsluitkabel plaatsen (bij gevaar of versperring nevenspoor)
+- eventueel controleren tegensein (indien mogelijk)
+- eventueel tegentrein tegemoet lopen.
+
+VVRV cluster Treinincidenten  5/18
+De kortsluitkabel is ervoor bedoeld om spoorbezetting te creëren in het nevenspoor. De
+spoorwegonderneming bepaalt hoe om te gaan met de kortsluitkabel.
+
+Aandachtspunten plaatsen kortsluitkabel:
+- er zijn steeds minder baanvakken waar een kortsluitkabel mogelijk is
+- de kortsluitkabel is niet altijd betrouwbaar; werkt bijvoorbeeld niet bij ATB-NG of op
+
+     baanvakken met alleen maar assentellers voor het bezetmelden van de sporen
+- op een aantal ERTMS baanvakken werkt de kortsluitkabel wel, op andere niet
+- is in een tunnel het nevenspoor vrij, dan geen kortsluitkabel plaatsen (andere treinen
+
+     hoeven dan niet onnodig te stoppen)
+- op een gecombineerd baanvak ATB-ERTMS moet, indien nodig, ook een kortsluitkabel
+
+     worden geplaatst.
+
+Treinincident melden aan treindienstleider
+
+De machinist geeft bij een treinincident de treindienstleider informatie over:
+- de aard en ernst van het incident
+- locatie van de trein.
+
+Plaatsbepaling van een locatie kan worden aangegeven door:
+- treinnummer
+- stationsnaam of baanvak en kilometrering
+- spoornummer
+- wisselnummer
+- seinnummer.
+
+Is de treindienstleider om de één of andere reden niet te bereiken is, dan neemt de machinist
+contact op met het landelijke alarmnummer 112 en vraagt naar de Meldkamer Spoor.
+
+Na het nemen van de eerste veiligheidsmaatregelen informeert de machinist de
+treindienstleider over de toestand van:
+- personeel en overige betrokkenen
+- materieel
+- eigen- en nevenspoor
+- bovenleiding.
+
+Heeft de machinist contact met de treindienstleider dan:
+- past hij de regels voor veiligheidscommunicatie toe
+- handelt hij volgens de instructie van de treindienstleider.
+
+VVRV cluster Treinincidenten  6/18
+1.5 Waar moet de machinist proberen niet te stoppen bij een treinincident?
+
+De machinist brengt de trein in geval van een onveilige situatie, bij voorkeur niet tot stilstand:
+- in tunnels
+- op (lange) bruggen
+- bij brand in/aan de trein onder een perronoverkapping.
+
+Indien van toepassing kan de machinist gebruik maken van een noodremoverbrugging
+(indien aanwezig), wanneer de trein tot stilstand dreigt te komen op een plaats die niet voor
+hulpverleners bereikbaar is of wanneer er sprake is van direct gevaar.
+
+1.6 Wat is de rol van de treindienstleider bij een treinincident?
+
+Alarmering
+Alarmering start op het moment waarop de treindienstleider (afdeling Verkeersleiding)
+vaststelt dat er een treinincident is en eindigt op het moment dat alle betrokken partijen zijn
+gealarmeerd.
+
+De treindienstleider start de alarmering, de Meldkamer Spoor/Backoffice kiest het passende
+treinincidentscenario.
+
+Geen infracapaciteit beschikbaar stellen
+Bij de melding van een treinincident neemt de treindienstleider veiligheidsmaatregelen om
+uitbreiding te voorkomen. Eén van de eerste maatregelen is het buiten gebruik nemen van
+het incidentspoor of meerdere sporen. De omvang van de buiten gebruik genomen infra
+hangt af van de aard en ernst van het incident.
+
+Spanning uitschakelen
+Het kan nodig zijn de spanning op snelle en beheerste wijze van de bovenleiding te halen
+om zodoende voor de hulpdiensten een elektrocutieveilige werkplek te garanderen.
+
+De treindienstleider geeft ­ afhankelijk van de situatie ­ opdracht tot:
+- ruim uitschakelen (1500V gelijkspanning)
+- complete lijn uitschakeling (25kV wisselspanning).
+
+Bij een aantal treinincidentscenario's wordt de procedure `Uitschakelen' automatisch
+opgestart; los daarvan kunnen de hulpdiensten erom vragen.
+
+Afstemmen veiligheidsmaatregelen
+De treindienstleider stemt de veiligheidsmaatregelen af met de OvD-R.
+
+VVRV cluster Treinincidenten  7/18
+Meldkamer spoor/Backoffice maakt ze vervolgens bekend aan:
+- de hulpdiensten
+- de spoorwegonderneming(en)
+- afhankelijk van de aard/ernst van het incident: de Inspectie Leefomgeving en Transport
+
+     en de Onderzoeksraad
+- de dienstdoende manager Wachtdienst of vergelijkbare functionaris van de betrokken
+
+     spoorwegonderneming (deze functionaris heeft als belangrijkste taak het treinpersoneel
+     bij te staan).
+
+Afschalen veiligheidsmaatregelen
+
+Een treindienstleider mag de veiligheidsmaatregelen pas afschalen na toestemming van de
+OvD-R en nadat hij via de Meldkamer politie te horen heeft gekregen dat alle hulpdiensten
+het spoor hebben verlaten.
+
+1.7 Wat doet de machinist bij evacuatie van reizigers?
+
+Het treinpersoneel beslist over het wel of niet evacueren. Is er geen ander personeel op de
+trein aanwezig, dan is de machinist chef van de trein en handelt hij naar de regels van zijn
+spoorwegonderneming.
+
+In situaties waarin geëvacueerd moet worden, handelt de machinist als volgt:
+- wachten tot de treindienstleider toestemming geeft waarop reizigers de trein kunnen
+
+     verlaten
+- bekijken aan welke kant ontgrendeld moet worden (de veilige kant; rekening houdend
+
+     met het gevaar bij een derde rail of nevenspoor)
+- afspraken maken met eventueel treinpersoneel over de te nemen maatregelen en
+
+     toestemming geven tot evacuatie
+- treinpersoneel assisteren bij evacuatie.
+De machinist/treinpersoneel roept om aan welke zijde de reizigers uit moeten stappen.
+
+De machinist:
+- helpt reizigers met uitstappen (bij brand zo ver mogelijk van de brand af)
+- vraagt reizigers om hun medereizigers te helpen bij het uitstappen
+- zorgt dat de reizigers naar een veilige plek worden gebracht.
+
+Buiten de trein geeft de machinist de reizigers instructie:
+- gebruik het voetpad
+- loop niet tussen de sporen
+- in welke richting of naar welke bestemming (ander treindeel of naar het station)
+- over de plaats van eventuele vluchtdeuren in tunnels of geluidsschermen.
+
+VVRV cluster Treinincidenten  8/18
+Evacuatie op een baanvak met meer sporen
+
+De machinist:
+- vraagt aan de treindienstleider de sporen buiten gebruik te nemen aan de zijde van het
+
+     dichtstbijzijnde looppad
+- plaatst een kortsluitkabel op sporen waar reizigers moeten oversteken
+- vertelt aan het treinpersoneel wat de stand van zaken is, geeft toestemming om de
+
+     reizigers te evacueren en helpt hierbij
+- controleert of alle reizigers zich buiten het profiel van vrije ruimte bevinden en geeft dit
+
+     door aan de treindienstleider.
+
+Evacuatie uit een tunnel
+
+Bij het evacueren uit een tunnel handelt de machinist als volgt, hij:
+- vraagt aan de treindienstleider geen treinen toe te laten op het nevenspoor, de
+
+     machinist dekt zo nodig het nevenspoor af met een kortsluitkabel (als in tunnels het
+     nevenspoor vrij en onbelemmerd is, plaatst de machinist geen kortsluitkabel om onnodige
+     stilstand van treinverkeer te voorkomen)
+- vertelt het treinpersoneel wat de stand van zaken is, geeft toestemming om de reizigers te
+     evacueren en helpt hierbij
+- controleert of alle reizigers zich buiten het profiel van vrije ruimte bevinden en geeft dit
+     door aan de treindienstleider.
+
+Evacuatie na bovenleidingbreuk
+De machinist:
+- vraagt aan de treindienstleider of hij de spanning van de bovenleiding haalt
+
+     (uitschakelen)
+- geeft de treindienstleider voor zover mogelijk gegevens over locatie en treinnummer door
+- houdt afstand van de bovenleiding
+- geeft indien van toepassing het treinpersoneel toestemming om reizigers te evacueren.
+
+1.8 Wat is de rol van de machinist bij eventueel justitieel onderzoek?
+
+De trein mag niet langer stilstaan dan voor de zorg van de slachtoffers en het strafrechtelijk
+onderzoek nodig is. Dit sluit niet uit dat de machinist ­ op gepaste wijze ­ eventuele bezwaren
+en gevaren onder de aandacht van justitie mag brengen. Wordt geen overeenstemming
+bereikt, dan handelt de machinist naar de wens van justitie; hij meldt dit direct aan de
+treindienstleider.
+
+Wil justitie de machinist ondervragen, dan kan de politie en/of de officier van justitie
+eventueel meerijden op de trein. Wel moet er bevoegd personeel op de plaats van het
+incident achterblijven.
+
+VVRV cluster Treinincidenten  9/18
+Bij bepaalde treinincidenten (aanrijding, botsing, brand) kan de politie de betrokken
+machinist meenemen voor nader verhoor. Daarbij moet de politie aangeven of zij de
+machinist wil spreken omdat hij getuige is of verdachte (bij onduidelijkheid is het raadzaam
+dat de machinist (opnieuw) naar zijn rol vraagt).
+
+Is de machinist verdachte dan:
+- regelt de wachtdienstfunctionaris of andere vertegenwoordiger van zijn eigen
+
+     spoorwegonderneming dit vervolgens
+- kan hij in afwachting van het afleggen van een verklaring in verzekerde bewaring
+
+     worden gesteld.
+
+Tijdens de verklaring (als verdachte of als getuige) moet de machinist:
+- de politie antwoord geven op vragen over de toedracht van het voorval
+- geen uitspraken doen over de schuldvraag
+- geen verklaringen afleggen die voor hemzelf of zijn collega's belastend kunnen zijn
+- meewerken aan een ademtest.
+Antwoord op de schuldvraag kan pas na het officiële onderzoek worden gegeven.
+
+1.9 Hoe is de gezagsverhouding bij treinincidenten?
+
+Is er een wachtdienstfunctionaris of leidinggevende van de eigen organisatie bij het incident
+aanwezig, dan is deze functionaris verantwoordelijk voor de spoorwegveiligheid. Hij overlegt
+wel altijd eerst met de machinist over mogelijke risico's.
+
+Zolang er bij een treinincident geen leidinggevende aanwezig is, ligt de verantwoordelijkheid
+voor de spoorwegveiligheid bij de machinist en de treindienstleider. Soms vraagt de politie
+de machinist van de regels af te wijken. Dit mag alleen als de spoorwegveiligheid niet in
+gevaar komt.
+
+Als er een OvD-R is, is deze verantwoordelijk.
+
+1.10 Wat doet de machinist bij onverklaarbare treinleidingdrukverlaging?
+
+Een onverwachte daling van de treinleidingdruk kan het gevolg zijn van een ontsporing. Als
+de machinist geen andere melding krijg in de cabine, dan gaat hij uit van een ontsporing
+
+De machinist neemt de volgende veiligheidsmaatregelen:
+- snelremming uitvoeren en
+- stroomafnemers neer laten of dieselmotor uitzetten.
+
+VVRV cluster Treinincidenten  10/18
+Indien er geen zicht is op de lengte van de trein, neemt de machinist daarnaast
+onderstaande maatregelen:
+- alarmoproep plaatsen via GSM-R
+- gevaarsein ontsteken
+- indien nodig nevenspoor met de kortsluitkabel afdekken
+- eventueel tegentrein tegemoet lopen
+- na onderzoek de treindienstleider de nodige informatie geven
+- de eigen spoorwegonderneming informeren.
+
+1.11 Wat doet de machinist bij een gestrande trein?
+
+Een `gestrande' trein, is een trein die niet meer in staat is om op eigen kracht verder te rijden.
+Of een gestrande trein ook een defecte trein is moet uit nader onderzoek blijken. Een
+gestrande of defecte trein kan de treindienst ernstig verstoren. Het materieel moet worden
+weggesleept door ander materieel.
+
+De machinist neemt onderstaande (veiligheids)maatregelen:
+- gestrande trein direct melden aan de treindienstleider (juiste plaats/kilometrering), type
+
+     materieel en toestand materieel)
+- afdekken van gevaarpunt met een rode lamp of vlag
+- het voorval melden aan de eigen spoorwegonderneming.
+
+Als de machinist om hulp heeft gevraagd mag hij de trein niet zonder meer in beweging
+zetten ook al is het defect verholpen. Het inzetten van een hulptrein is aan voorwaarden
+gebonden, zie TSI OPE aanhangsel B.
+
+Voor stranding in een tunnel zijn bedrijfsspecifieke tunnelinstructies.
+
+1.12 Wat doet de machinist bij brand en/of rookontwikkeling buiten de trein?
+
+Brand/rookontwikkeling buiten de trein meldt de machinist direct aan de treindienstleider. De
+treindienstleider roept vervolgens de hulp in van de hulpdiensten.
+
+1.13 Wat doet de machinist bij brand en/of rookontwikkeling in of voor een
+       tunnel?
+
+Rookontwikkeling in een tunnel kan onder meer ontstaan door kortsluiting, een smeulende
+kabel of vastgelopen remmen. Tunnels hebben rookdetectoren en blusinstallaties
+(bijvoorbeeld Sprinkler).
+
+Bij een alarmoproep brengt de machinist de trein zo mogelijk vóór de tunnel tot stilstand.
+
+VVRV cluster Treinincidenten  11/18
+Constateert of vermoedt de machinist dat de trein anders dan door seingeving, in een tunnel
+tot stilstand gaat komen, dan meldt hij dit direct aan de treindienstleider (Alarmoproep).
+
+Als de machinist brand en/of rook ziet voordat hij de tunnel inrijdt, probeert hij zoveel mogelijk
+te voorkomen dat een trein de tunnel in rijdt of dat de trein in de tunnel tot stilstand komt
+
+Wanneer de trein al in de tunnel is, probeert hij te voorkomen dat naar de brand toegereden
+wordt.
+
+Is bij brand in een tunnel evacuatie noodzakelijk, dan moet dit zo snel mogelijk gebeuren via
+de dichtstbijzijnde vluchtdeuren of nooduitgangen.
+
+De machinist geeft bij brand in of voor de tunnel aan de treindienstleider de noodzakelijke
+informatie door:
+- de (mogelijke) oorzaak, de ernst en de acties die hij als machinist gaat ondernemen
+- functie (dienstnummer)
+- treinnummer
+- plaatsbepaling ((nummer) tunnelbuis)
+- schatting aantal reizigers (indien mogelijk).
+
+1.14 Wat doet de machinist bij brand en/of rookontwikkeling in de trein?
+
+De machinist plaatst een alarmoproep via GSM-R en meldt brand direct aan de
+treindienstleider. Deze schakelt de hulpdiensten in.
+
+Bij ontdekking van brand of rookontwikkeling in de trein bepaalt de machinist of er gestopt of
+doorgereden wordt.
+
+Hij probeert te voorkomen dat de trein:
+- op een (lange) brug stopt
+- onder de perronoverkapping tot stilstand komt
+- in een tunnel tot stilstand komt en hij probeert indien mogelijk al vóór een tunnel te
+
+     stoppen.
+
+Wanneer de machinist geen rekening hoeft te houden met een tunnel, brug, of
+perronoverkapping stopt hij zo snel mogelijk bij gevaar voor:
+- personen
+- omgeving (milieu en spoorwegomgeving)
+- ontsporing
+- ernstige uitbreiding van de brand.
+
+VVRV cluster Treinincidenten  12/18
+Als de machinist gaat stoppen, meldt hij dit aan de treindienstleider. Bij reizigerstreinen ook
+aan het treinpersoneel en de reizigers. Hij stopt zo mogelijk op een plek waar de hulpdiensten
+kunnen komen, bijvoorbeeld in een open veld, dichtbij een overweg.
+
+Elektrisch materieel
+Bij brand in elektrisch materieel moet de machinist de hoogspanningsinstallatie afschakelen
+door het neerlaten van de stroomafnemers.
+
+Dieselmaterieel
+Bij brand in dieselmaterieel moet de machinist de dieselmotoren stoppen.
+
+Ontkoppelen materieel
+De machinist probeert het brandende deel los te koppelen van het niet brandende deel (in
+geval van automatische koppeling of loc-eerste wagen/rijtuig). Dit in overleg met zijn
+spoorwegonderneming en afhankelijk van de situatie.
+
+Deuren ontgrendelen
+Wanneer een reizigerstrein tot stilstand is gekomen ontgrendelt de machinist de deuren aan
+de veilige kant.
+
+Brandblusapparaat
+Op elk spoorvoertuig zijn brandblusapparaten aanwezig. Deze apparaten moeten verzegeld
+zijn.
+
+Heeft de machinist een brand zelf weten te blussen dan meldt hij dit:
+- aan de treindienstleider
+- bij het beëindigen van zijn dienst op de manier die de spoorwegonderneming voorschrijft.
+
+Gezagsverhouding bij blussen
+Wanneer de brandweer het blussen ter hand neemt, heeft hun bevelvoerder de leiding over
+de bluswerkzaamheden.
+
+1.15 Wat gebeurt er bij een onterechte passage van een stoptonend sein?
+
+Een trein kan door diverse oorzaken ten onrechte voorbij een stoptonend sein rijden (in
+Europese termen: `het einde van de rijtoestemming passeren') en zodoende op infra terecht
+komen die niet voor de betreffende trein is vrijgegeven; aanrijdgevaar met een ander
+
+VVRV cluster Treinincidenten  13/18
+spoorvoertuig is vervolgens een reëel risico.
+Er vindt altijd onderzoek plaats naar de oorzaken.
+
+Als de machinist vaststelt dat de trein een stoptonend sein heeft gepasseerd:
+- stopt hij de trein onmiddellijk
+- neemt contact op met de treindienstleider
+- neemt de nodige veiligheidsmaatregelen.
+Zie ook TSI OPE aanhangsel B.
+
+1.16 Hoe herkent de machinist een onregelmatigheid met gevaarlijke
+       stoffen?
+
+Onregelmatigheden waarbij gevaarlijke stoffen vrijkomen, zijn te herkennen aan:
+- zichtbare of hoorbare lekkage
+- ongewoon merkbare stank bij een wagen
+- sissen of blazen van vrijkomende gassen (niet te verwarren met een kleine lekkage van
+
+     de treinleiding of het ontluchten van remcilinders na lossing)
+- zwaar beschadigde vaten, containers en reservoirs met gevaarlijke stoffen
+- ontsporing van een wagen
+- brand, rook- of nevelvorming
+- explosie
+- rook- of nevelvorming bij het vrijkomen van koude vloeibaar gemaakte gassen
+- ijsvorming aan afsluiters en flenzen van gasreservoirs met vloeibaar gemaakte gassen
+- zwaar beschadigde verpakking.
+
+Let op:
+- IJsvorming aan de afsluiters en flenzen van een gasreservoir is een onregelmatigheid,
+
+     maar ijs-/condensvorming op de ketelwand bij het vervoer van sterk gekoelde gassen
+     (bijvoorbeeld chloor) niet. Dit laatste is normaal tijdens zomerdagen.
+- Lege ketelwagens/tankcontainers waarin gevaarlijke stoffen hebben gezeten, zijn even
+     gevaarlijk als volle(restlading). Ze vallen dus ook onder de regeling `gevaarlijke stoffen',
+     behalve wanneer aangegeven is dat de ketel(s)/container(s) gereinigd is/zijn. Bij een
+     gereinigde ketel/container zijn de opschriften op de schilden van de wagen verwijderd.
+
+1.17 Wat doet de machinist bij een onregelmatigheid met gevaarlijke stoffen?
+
+Op onderzoek uitgaan
+
+Bij een incident waarbij een wagen met gevaarlijke stoffen is betrokken, gaat de machinist
+alléén op onderzoek uit als hij denkt dat dit veilig kan.
+
+VVRV cluster Treinincidenten  14/18
+Hij:
+- neemt daarbij altijd het vluchtmasker mee (machinist goederentrein)
+- trekt signalerende kleding aan
+- loopt zoveel mogelijk met de wind in de rug naar de wagen toe
+- gaat bij windstil weer niet naar de wagen toe
+- loopt bij het zien/horen van lekkages zoveel mogelijk haaks op de windrichting weg (niet
+
+     rennen)
+- ontsteekt geen vuur, dooft vuur en rookt niet
+- vermijdt elk contact met de gevaarlijke stof(fen)/damp(en).
+
+Voor het bepalen van de windrichting kan de machinist gebruik maken van een windzak,
+rookpluimen of vlaggen.
+
+Tijdens de rit
+Passeert een machinist op de vrije baan een goederentrein en vermoedt hij dat er sprake is
+van een incident met gevaarlijke stoffen, dan:
+- plaatst hij een alarmoproep via GSM-R
+- in geval van een reizigerstrein stopt hij niet in verband met gevaar voor de reizigers
+- zet hij indien mogelijk de luchtventilatie voor een bepaalde tijd uit.
+
+Ontdekt de machinist van een goederentrein tijdens de rit een onregelmatigheid met
+gevaarlijke stoffen, dan overweegt hij de trein tot stilstand te brengen. Indien mogelijk op een
+gunstige plaats voor hulpverlening.
+
+Vanuit stilstaande trein op station/emplacement
+Constateert de machinist op een station/emplacement een onregelmatigheid met
+gevaarlijke stoffen aan een stilstaande goederentrein, dan:
+- plaatst hij een alarmoproep
+- meldt hij de treindienstleider zoveel mogelijk gegevens
+- houdt hij altijd zijn eigen veiligheid in acht
+- loopt hij haaks op de windrichting weg van de trein
+- waarschuwt hij personen in de directe omgeving
+- dekt hij, indien mogelijk, het nevenspoor af met de kortsluitkabel
+- laat hij, indien mogelijk, stroomafnemers zakken of dieselmotoren uitzetten van materieel
+
+     dat in de buurt staat
+- ontsteekt hij geen vuur of licht en dooft vuur (niet roken).
+
+Stilstand in een tunnel
+Als een trein met gevaarlijke stoffen tot stilstand komt in een tunnel, neemt de machinist de
+hierboven beschreven veiligheidsmaatregelen; vervolgens loopt hij zover mogelijk van de
+trein af en gebruikt hij de nooduitgangen.
+
+VVRV cluster Treinincidenten  15/18
+Melding aan de treindienstleider en overige maatregelen
+
+Direct nadat de machinist een incident met gevaarlijke stoffen heeft ontdekt, neemt hij een
+aantal maatregelen, hij:
+- plaatst hij een alarmoproep (bij geen gehoor Alarmlijn, zie telefoonnummer op zakkaartje
+
+     gevaarlijke stoffen of 112).
+- dekt eventueel het nevenspoor af
+- waarschuwt tegemoetkomende treinen met rode lamp en/of rode vlag
+- houdt onbevoegde personen op afstand.
+
+Bij een onregelmatigheid met gevaarlijke stoffen, meldt de machinist zo mogelijk
+onderstaande gegevens aan de treindienstleider (of aan Alarmlaan of 112 indien de
+treindienstleider niet te bereiken is):
+- aard van de onregelmatigheid
+- plaats van de onregelmatigheid
+- plaats van de wagen(s) in de trein
+- wagenkenmerk, wagen- en treinnummers
+- gegevens op het Kemlerbord (GEVI-code; UN-nummer)
+- informatie/nummers gevaarsetiketten
+- stofnaam of verzamelnaam op ketelwagens of containers (indien vermeld op de wagen).
+
+Wat de machinist van een goederentrein exact moet doorgeven aan de treindienstleider en
+welke procedure hij moet volgen staat beschreven op het `zakkaartje gevaarlijke stoffen'.
+
+Bij incidenten met gevaarlijke stoffen:
+- plaatst de machinist (eventueel treindienstleider op emplacement) een alarmoproep via
+
+     GSM-R
+- wordt het trein- en rangeerverkeer in het betreffende gebied gestaakt
+- wordt het gebied buiten gebruik genomen
+- geeft de treindienstleider opdracht de wisselverwarming en ander open vuur te doven
+- vraagt de machinist aan de treindienstleider om de bovenleiding spanningsloos te stellen.
+
+OVGS/WLIS
+
+Wagenlijsten moeten uiterlijk vijf minuten voor vertrek worden geleverd aan het systeem
+Online Vervoer Gevaarlijke Stoffen (OVGS). In het OVGS staat zodoende voor iedere
+goederentrein welke gevaarlijke stoffen waar vervoerd worden. In het geval van een
+calamiteit kunnen hulpdiensten hierdoor slagvaardiger en sneller te werk gaan.
+
+(WLIS is de naam van de applicatie waarin de applicaties W-LIS (voorheen IGS) en OVGS zijn
+samengevoegd.)
+
+VVRV cluster Treinincidenten  16/18
+1.18 Wat doet de machinist bij verdacht gedrag en/of een verdacht
+       voorwerp in de trein?
+
+Identificeert ander personeel dan de machinist verdacht gedrag en/of een verdacht
+voorwerp in een rijdende trein, dan:
+- krijgt de machinist te horen dat er een verdenking `verdacht gedrag/voorwerp' is
+- krijgt de machinist vervolgens te horen dat er sprake was van vals alarm of hij krijgt een
+
+     bevestiging.
+
+Krijgt de machinist een bevestiging of heeft hij zelf verdacht gedrag en/of een verdacht
+voorwerp geïdentificeerd, dan:
+- licht hij de treindienstleider in en rijdt hij naar het volgende station (is het volgende station
+
+     een station met meerdere aankomstsporen dan rijdt de machinist zo langzaam mogelijk
+     om de treindienstleider tijd te geven een geschikte stoplocatie te zoeken)
+- meldt hij de stopplaats aan de treindienstleider (bij een station met meer dan één
+     aankomstspoor vraagt hij de treindienstleider op welk perron de trein stil gezet kan
+     worden)
+- rijdt hij zo snel en veilig mogelijk naar het betreffende perron
+- meldt hij de stopplaats en het perron aan ander treinpersoneel (indien aanwezig)
+- stopt hij de trein langs het perron (is de trein te lang dan verplaatst hij de trein om reizigers
+     zo veilig mogelijk te laten uitstappen; hierbij informeert hij tijdig het andere treinpersoneel
+     en de reizigers)
+- verlaat hij de trein en blijft beschikbaar voor de politie.
+
+De spoorwegonderneming kan aanvullende regels hebben.
+
+1.19 Wat doet de machinist bij een bommelding?
+
+Krijgt een machinist tijdens de rit een bommelding van bijvoorbeeld ander treinpersoneel of
+de politie, dan brengt hij in overleg met de treindienstleider de trein op een gunstige plaats
+tot stilstand. De machinist vraagt vervolgens aan de treindienstleider de alarmering te
+verzorgen.
+
+De spoorwegonderneming kan aanvullende regels hebben.
+
+1.20 Wat doet de machinist bij een aanslag op het openbaar vervoer?
+
+Is er een aanslag gepleegd op het openbaar vervoer(of is er sprake van een reële dreiging)
+dan wordt het treinverkeer volledig stilgelegd.
+
+VVRV cluster Treinincidenten  17/18
+Dit betekent voor de machinist dat hij (indien van toepassing):
+- stopt langs het eerstvolgende perron zodat de reizigers veilig kunnen uitstappen
+- het treinpersoneel informeert
+- de reizigers laat uitstappen
+- overlegt met de treindienstleider of de trein afgerangeerd moet worden
+- naar het voorplein van het station gaat en wacht op verdere instructies.
+
+De spoorwegonderneming kan aanvullende regels hebben.
+
+1.21 Wat doet de machinist als een reiziger onwel is geworden in de trein?
+
+Als een reiziger in de trein onwel is geworden en medische hulp nodig heeft, licht de
+machinist de treindienstleider in en handelt volgens diens instructies.
+
+VVRV cluster Treinincidenten  18/18
+

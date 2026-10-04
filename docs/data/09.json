@@ -1,0 +1,657 @@
+{
+ "id": "09",
+ "titel": "Materieel",
+ "bron": "09-aug-25-luster-materieel.pdf",
+ "vragen": [
+  {
+   "id": "09-001",
+   "vraag": "Wat onderscheidt een treinstel van een stuurstandrijtuig?",
+   "opties": [
+    "Een treinstel heeft eigen tractie en aan één uiteinde een stuurstand; een stuurstandrijtuig heeft geen eigen tractie en aan beide uiteinden een stuurstand",
+    "Een treinstel heeft eigen tractie en aan beide uiteinden een stuurstand; een stuurstandrijtuig heeft geen eigen tractie en één stuurstand",
+    "Een treinstel is een veranderlijke combinatie van rijtuigen met eigen tractie; een stuurstandrijtuig is een rijtuig met eigen tractie en één stuurstand",
+    "Een treinstel heeft geen eigen tractie maar wel twee stuurstanden; een stuurstandrijtuig heeft eigen tractie en aan één uiteinde een stuurstand"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een treinstel is een krachtvoertuig met een onveranderlijke combinatie van rijtuigen en aan beide uiteinden een stuurstand. Een stuurstandrijtuig is een rijtuig (zonder eigen tractie) met aan één uiteinde een stuurstand.",
+   "bron": "1.3 Wat zijn krachtvoertuigen? / 1.4 Wat zijn voertuigen?"
+  },
+  {
+   "id": "09-002",
+   "vraag": "Bij een incident meldt een machinist het voertuignummer. Waarom moet hij het volledige Europees voertuignummer melden?",
+   "opties": [
+    "Omdat er meer voertuigen rijden met dezelfde laatste vier cijfers",
+    "Omdat alleen het controlecijfer aangeeft in welk land het voertuig rijdt",
+    "Omdat het eigen nummer van de spoorwegonderneming niet uniek is binnen één dag",
+    "Omdat de eerste vier cijfers het serienummer van het voertuig vormen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Het EVN bestaat uit 12 cijfers. Het gehele nummer is van belang omdat er meer voertuigen rijden met dezelfde laatste vier cijfers.",
+   "bron": "1.6 Wat is het Europees voertuignummer?"
+  },
+  {
+   "id": "09-003",
+   "vraag": "Wie bepaalt het treinnummer en hoe uniek is dit nummer in Nederland?",
+   "opties": [
+    "De spoorwegonderneming, bij het samenstellen van de trein; uniek binnen één dienstregelingsjaar",
+    "De infrastructuurbeheerder, bij het toewijzen van een treinpad; uniek binnen één treinserie",
+    "De infrastructuurbeheerder, bij het toewijzen van een treinpad; uniek binnen één dag",
+    "De treindienstleider, bij vertrek van de trein; uniek binnen één verkeersleidingspost"
+   ],
+   "antwoord": 2,
+   "uitleg": "De infrastructuurbeheerder bepaalt het treinnummer bij het toewijzen van een treinpad. Elke trein in Nederland rijdt onder een treinnummer dat binnen één dag uniek is.",
+   "bron": "1.5 Wat is een treinnummer?"
+  },
+  {
+   "id": "09-004",
+   "vraag": "Wat is volgens de vakkennis de maximale treinlengte inclusief locomotief?",
+   "opties": [
+    "750 meter voor goederentreinen en 400 meter voor hogesnelheidstreinen",
+    "740 meter voor goederentreinen en 420 meter voor hogesnelheidstreinen",
+    "740 meter voor goederentreinen en 400 meter voor hogesnelheidstreinen",
+    "700 meter voor goederentreinen en 350 meter voor hogesnelheidstreinen"
+   ],
+   "antwoord": 2,
+   "uitleg": "De maximale treinlengte inclusief locomotief is 740 meter voor goederentreinen en 400 meter voor hogesnelheidstreinen; internationaal gelden soms ook route-specifieke beperkingen.",
+   "bron": "1.8 Waaruit bestaat een samengestelde trein?"
+  },
+  {
+   "id": "09-005",
+   "vraag": "Een trein rijdt in voorspan. Hoe is de bediening verdeeld?",
+   "opties": [
+    "Beide machinisten bedienen hun eigen remkraan; de machinist op de voorspanloc geeft desgevraagd alleen tractie",
+    "De machinist op de voorspanloc bedient de remkraan; de machinist op de voorste loc geeft desgevraagd alleen tractie",
+    "De machinist op de voorste loc bedient de remkraan; de machinist op de voorspanloc geeft desgevraagd alleen tractie",
+    "Eén machinist bedient beide locomotieven vanaf de voorste loc in multiple-bedrijf; de voorspanloc is onbemand"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij rijden in voorspan gaat het altijd om twee typen locomotief en twee machinisten: de machinist op de voorste loc bedient de remkraan, zijn collega op de voorspanloc geeft desgevraagd alleen tractie.",
+   "bron": "1.8 Waaruit bestaat een samengestelde trein? (Dubbeltractie)"
+  },
+  {
+   "id": "09-006",
+   "vraag": "Bij rijden in tussenspan staat een locomotief tussen de treinlocomotief en de trein. Wat doet de machinist van de tussenspanlocomotief met zijn treinremkraan?",
+   "opties": [
+    "Hij bedient de treinrem; de machinist in de voorste locomotief schakelt zijn treinremkraan uit",
+    "Hij schakelt zijn treinremkraan uit; de machinist in de voorste locomotief bedient de treinrem",
+    "Hij houdt zijn treinremkraan in dienst als tweede remkraan voor noodgevallen",
+    "Hij zet zijn treinremkraan in de rijstand zodat beide remkranen de treinleiding vullen"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij tussenspan bedient de machinist in de voorste locomotief de treinrem; de machinist van elk ander tractievoertuig schakelt zijn treinremkraan uit. In de trein is maar één remkraan in dienst.",
+   "bron": "1.8 Waaruit bestaat een samengestelde trein? (Dubbeltractie)"
+  },
+  {
+   "id": "09-007",
+   "vraag": "Wat wordt bij dubbeltractie verstaan onder 'opdrukken'?",
+   "opties": [
+    "Een extra locomotief direct achter de voorste loc die desgevraagd alleen tractie geeft",
+    "Meerdere gekoppelde locomotieven vooraan de trein die door één machinist vanaf één plek worden bediend",
+    "Een locomotief achteraan de trein die de trein duwt en vanuit een stuurstand in de rijrichting wordt bediend",
+    "Een extra locomotief achteraan de trein die ter plaatse door een machinist wordt bediend"
+   ],
+   "antwoord": 3,
+   "uitleg": "Opdrukken is een extra geplaatste locomotief achteraan de trein, die ter plaatse door een machinist bediend wordt. Bij trek-/duwbedrijf wordt de loc vanuit een stuurstand in de rijrichting bediend.",
+   "bron": "1.8 Waaruit bestaat een samengestelde trein? (Dubbeltractie)"
+  },
+  {
+   "id": "09-008",
+   "vraag": "Een trein vervoert voetbalsupporters als risicotrein. In welke categorie buitengewoon vervoer valt deze trein?",
+   "opties": [
+    "Bijzonder Vervoer (BV), omdat de lading uitzonderlijk is",
+    "Buiten Profiel (BP), omdat de afmetingen afwijken",
+    "Bijzonder Vervoer (BV), omdat het gewicht te hoog is",
+    "Krachtvoertuig in opzending, omdat er geen goederen worden vervoerd"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij Bijzonder Vervoer (BV) is de lading uitzonderlijk, bijvoorbeeld een risicotrein met voetbalsupporters of een Koninklijke trein. Bij Buiten Profiel is de lading groter dan de voorgeschreven afmeting.",
+   "bron": "1.8 Waaruit bestaat een samengestelde trein? (Buitengewoon vervoer)"
+  },
+  {
+   "id": "09-009",
+   "vraag": "Welk onderdeel van het onderstel vangt de horizontale stoot- en trekkrachten van de bufferbalken op?",
+   "opties": [
+    "De dwarsbalken, die zo dicht mogelijk bij de trekhaak en de schroefkoppeling liggen",
+    "De veerhanden, die aan de onderzijde van de bufferbalk het veerpakket dragen",
+    "De asbalansen, die aan de binnenzijde van de stelbalken zijn bevestigd",
+    "De stelbalken, die zo dicht mogelijk bij het hart van de buffers liggen"
+   ],
+   "antwoord": 3,
+   "uitleg": "De stelbalken zijn het belangrijkste onderdeel van het onderstel en vangen de horizontale stoot- en trekkrachten van de bufferbalken op. Om de stootkrachten goed te verdelen liggen ze zo dicht mogelijk bij het hart van de buffers.",
+   "bron": "1.9 Hoe is het onderstel opgebouwd?"
+  },
+  {
+   "id": "09-010",
+   "vraag": "Bij welke spoorvoertuigen maken asbalansen deel uit van het onderstel en wat is hun functie?",
+   "opties": [
+    "Bij voertuigen met draaistellen; ze verbinden de draaikom met de lummelbout en dragen zo de bak",
+    "Bij voertuigen zonder draaistel; ze dragen de bak via de secundaire vering",
+    "Bij voertuigen zonder draaistel; ze brengen trek- en remkrachten over tussen onderstel en wielen",
+    "Bij alle voertuigen; ze vangen de horizontale stoot- en trekkrachten van de bufferbalken op"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij spoorvoertuigen met vaste assen zijn aan de binnenzijde van de stelbalken asbalansen bevestigd om trek- en remkrachten over te brengen tussen onderstel en wielen; ook geven ze de aspot ruimte voor oneffenheden van het spoor.",
+   "bron": "1.9 Hoe is het onderstel opgebouwd?"
+  },
+  {
+   "id": "09-011",
+   "vraag": "Wat is in Nederland de maximale asdruk en welke uitzondering geldt?",
+   "opties": [
+    "25 ton (D-last), met als uitzondering de Betuweroute: 22,5 ton (E-last)",
+    "22,5 ton (D-last), met als uitzondering de Betuweroute: 25 ton (E-last)",
+    "22,5 ton (E-last), met als uitzondering de Betuweroute: 25 ton (D-last)",
+    "20 ton (C-last), met als uitzondering de Betuweroute: 22,5 ton (D-last)"
+   ],
+   "antwoord": 1,
+   "uitleg": "De maximale asdruk in Nederland is 22,5 ton (D-last), met als uitzondering de Betuweroute: 25 ton (E-last).",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd? (Vaste assen of draaistel)"
+  },
+  {
+   "id": "09-012",
+   "vraag": "Via welke onderdelen rust een spoorvoertuig op het draaistel?",
+   "opties": [
+    "Via de asbalansen en de veerhanden aan de binnenzijde van de stelbalken",
+    "Via de primaire vering, die direct op de wielassen en aspotten rust",
+    "Via de aspotten en het veerpakket van het trekwerk",
+    "Via een draaikom met lummelbout of via secundaire vering"
+   ],
+   "antwoord": 3,
+   "uitleg": "Het spoorvoertuig rust op het draaistel met tussenkomst van een draaikom met lummelbout of via secundaire vering, in verband met de overbrenging van de krachten van as tot bak.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd? (Vaste assen of draaistel)"
+  },
+  {
+   "id": "09-013",
+   "vraag": "Wat is het verschil tussen een loopdraaistel en een motordraaistel?",
+   "opties": [
+    "Een loopdraaistel heeft geen aangedreven assen; een motordraaistel één of meer",
+    "Een loopdraaistel heeft vaste assen; een motordraaistel heeft altijd ten minste drie assen",
+    "Een loopdraaistel bevat het remwerk; een motordraaistel bevat alleen de tractiemotor",
+    "Een loopdraaistel heeft één aangedreven as; een motordraaistel heeft alle assen aangedreven"
+   ],
+   "antwoord": 0,
+   "uitleg": "Loopdraaistellen hebben geen aangedreven assen; motordraaistellen hebben één of meer aangedreven assen, waarbij de tractiemotor of (bij diesel-hydraulisch) de tandwielkast in het draaistel is ingebouwd.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd? (Draaistellen)"
+  },
+  {
+   "id": "09-014",
+   "vraag": "Hoe kan worden vastgesteld of een volwiel nog aan de toegestane maat voldoet?",
+   "opties": [
+    "Aan markeringen tussen wielband en binnenwiel",
+    "Aan het rode vlak in het remvenster",
+    "Aan een groef aan de buitenzijde van het wiel",
+    "Aan een slijtgroef in de wielas"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een volwiel is aan de buitenzijde een groef aangebracht om te bepalen of het wiel nog aan de toegestane maat voldoet. Bij een gebandageerd wiel zijn markeringen aangebracht om te zien of de wielband los of verschoven is.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd? (Wielstel)"
+  },
+  {
+   "id": "09-015",
+   "vraag": "Welke apparatuur kan, afhankelijk van de positie, op de aspotten zijn aangebracht?",
+   "opties": [
+    "Snelheidsgevers voor ATB en ABI en retourstroom-/aardingsborstels",
+    "ATB-spoelen, zandstrooiers en retourstroom-/aardingsborstels voor de stroomafvoer",
+    "Snelheidsgevers voor ATB, de hoogteregelklep en de remversteller",
+    "Snelheidsgevers voor ABI, de remcilinders en de tripleklep van het remstation"
+   ],
+   "antwoord": 0,
+   "uitleg": "Op de aspotten kunnen snelheidsgevers voor de ATB-installatie en snelheidsmeter, snelheidsgevers voor de ABI en retourstroom-/aardingsborstels zijn aangebracht. ATB-spoelen en zandstrooiers zitten in het draaistel.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd? (Aspotten)"
+  },
+  {
+   "id": "09-016",
+   "vraag": "Waartegen beschermen litzen de draaiende en rollende delen van een aspot?",
+   "opties": [
+    "Tegen oververhitting door een vaste rem tijdens het rijden",
+    "Tegen het binnendringen van vocht en vuil in het smeermiddel",
+    "Tegen inbranding door de stroom, veelal bij stilstand",
+    "Tegen niet afgeveerde schokken en stoten van het wielstel"
+   ],
+   "antwoord": 2,
+   "uitleg": "Litzen zijn koperen kabels of banden die stroom goed afvoeren naar de spoorstaven en worden ook gebruikt om de draaiende en rollende delen van een aspot te beschermen tegen inbranding door de stroom, veelal bij stilstand.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd? (Litzen)"
+  },
+  {
+   "id": "09-017",
+   "vraag": "Wat is het verschil tussen primaire en secundaire vering?",
+   "opties": [
+    "Primaire vering zit tussen draaistel en wagenbak; secundaire vering zit direct op de wielassen",
+    "Primaire vering zit direct op de wielassen; secundaire vering zit tussen wielstel en wagenbak en kan luchtvering bevatten",
+    "Primaire vering bestaat altijd uit luchtveren tussen bak en draaistel; secundaire vering uit bladveren op de wielassen",
+    "Primaire vering zit in de buffers; secundaire vering zit in het veerpakket van het trekwerk"
+   ],
+   "antwoord": 1,
+   "uitleg": "De primaire vering zit direct op de wielassen (blad- of schroefveren). De secundaire vering zit tussen het wielstel en de wagenbak, meestal schroef- of bladveren, eventueel aangevuld met luchtvering.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd? ((Af)vering)"
+  },
+  {
+   "id": "09-018",
+   "vraag": "Wat wordt verstaan onder 'strak koppelen'?",
+   "opties": [
+    "Wanneer de buffers elkaar raken, wordt de schroefkoppeling nog één slag aangedraaid",
+    "De schroefkoppeling wordt uitgedraaid in verband met krappe bogen",
+    "De schroefkoppeling wordt aangedraaid tot er een ruimte van één slag tussen de buffers is",
+    "De automatische koppeling wordt vergrendeld zodat de buffers niet meer bewegen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Strak koppelen: wanneer de buffers elkaar raken wordt de schroefkoppeling nog één slag aangedraaid. Lang draaien is het uitdraaien van de schroefkoppeling in verband met krappe bogen.",
+   "bron": "1.12 Hoe is het stoot- en trekwerk opgebouwd? (Buffers)"
+  },
+  {
+   "id": "09-019",
+   "vraag": "Wat maakt doorgaand trekwerk (in tegenstelling tot kort trekwerk) mogelijk?",
+   "opties": [
+    "Een grotere, diepe laadvloer bij goederenwagens en dubbeldeks reizigersmaterieel",
+    "Het strak koppelen van reizigerstreinen zonder schokken bij het aanzetten",
+    "Het weglaten van het veerpakket, omdat de trekstang door de hele bak doorloopt",
+    "Het doorlopen van krappe bogen zonder de schroefkoppeling lang te hoeven draaien"
+   ],
+   "antwoord": 0,
+   "uitleg": "Volgens de vakkennis maakt deze constructie het mogelijk om bij goederenwagens een grotere, diepe laadvloer te construeren en reizigersmaterieel dubbeldeks uit te voeren. Bij doorgaand trekwerk zit het veerpakket halverwege de trekstang.",
+   "bron": "1.12 Hoe is het stoot- en trekwerk opgebouwd? (Trekhaak, schroefkoppeling en luchtslangen)"
+  },
+  {
+   "id": "09-020",
+   "vraag": "Een machinist koppelt de luchtslangen. Hoe herkent hij de slang van de hoofdreservoirleiding?",
+   "opties": [
+    "Aan de punt op de monturen",
+    "Aan de rode kleur van de koppelkop",
+    "Aan het kruis op de monturen",
+    "Aan het cirkelteken op de monturen"
+   ],
+   "antwoord": 2,
+   "uitleg": "De luchtslang van de hoofdreservoirleiding is herkenbaar aan het kruis op de monturen, die van de treinleiding aan de punt. Degene die koppelt is verantwoordelijk dat dezelfde slangen aan elkaar worden gekoppeld.",
+   "bron": "1.12 Hoe is het stoot- en trekwerk opgebouwd?"
+  },
+  {
+   "id": "09-021",
+   "vraag": "Welke uitspraak over de hoofdreservoirleiding is juist?",
+   "opties": [
+    "De hoofdreservoirleiding is bij alle voertuigen de commandoleiding van het remsysteem",
+    "De hoofdreservoirleiding staat op een werkdruk van 5 bar, gelijk aan de treinleiding",
+    "Goederenwagens zijn meestal niet voorzien van een hoofdreservoirleiding",
+    "De hoofdreservoirleiding wordt bij een snelremming direct ontlucht"
+   ],
+   "antwoord": 2,
+   "uitleg": "De hoofdreservoirleiding transporteert de hogere druk naar onder meer het remsysteem, tyfoons en stroomafnemers. Goederenwagens zijn meestal niet voorzien van een hoofdreservoirleiding; de treinleiding is de commandoleiding.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd? (Hoofdreservoirleiding en treinleiding)"
+  },
+  {
+   "id": "09-022",
+   "vraag": "Waar bevindt zich de reduceerinrichting die de treinleidingdruk bepaalt?",
+   "opties": [
+    "Tussen hoofdreservoirleiding en treinleiding; bij sommige materieelsoorten ingebouwd in de remkraan",
+    "Tussen de compressor en het hoofdreservoir; bij sommige materieelsoorten in de compressor",
+    "Tussen de treinleiding en de remcilinders; bij sommige materieelsoorten ingebouwd in de tripleklep",
+    "Tussen het hulpreservoir en de tripleklep; bij sommige materieelsoorten ingebouwd in het remstation"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een reduceerinrichting zit tussen de hoofdreservoirleiding en de treinleiding en brengt bijvoorbeeld 10 bar terug tot 5 bar. Bij sommige materieelsoorten is deze in de remkraan ingebouwd.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd? (Hoofdreservoirleiding en treinleiding)"
+  },
+  {
+   "id": "09-023",
+   "vraag": "Wat gebeurt er bij een lagedrukoverlading (LDO)?",
+   "opties": [
+    "De treinleidingdruk wordt gecontroleerd verhoogd naar 5,4 bar, boven de stuurreservoirdruk, om het loskomen van de tripleklep te garanderen",
+    "De treinleidingdruk wordt gecontroleerd verlaagd naar 4,5 bar, onder de stuurreservoirdruk, zodat de tripleklep gegarandeerd in de remstand komt",
+    "De hoofdreservoirleidingdruk wordt tijdelijk verhoogd naar 10 bar, zodat de remcilinders sneller vullen en de remmen sneller aanslaan",
+    "De treinleidingdruk wordt verhoogd naar 5,4 bar en blijft daarop staan tot de machinist de volgende remming inzet, zodat de tripleklep niet ongewild remt"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij een LDO wordt de treinleidingdruk gecontroleerd verhoogd naar 5,4 bar, hoger dan de stuurreservoirdruk. De tijdelijke overdruk wordt door de remkraan gecontroleerd teruggebracht naar 5 bar.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd?"
+  },
+  {
+   "id": "09-024",
+   "vraag": "Bij welke treinleidingdruk is volgens de vakkennis een volremming bereikt en wanneer spreekt men van een snelremming?",
+   "opties": [
+    "Volremming bij 4,5 bar; snelremming bij directe verlaging naar 3,5 bar via de snelremstand",
+    "Volremming bij 0 bar; snelremming bij directe verlaging naar 3,5 bar via de snelremstand",
+    "Volremming bij 3,5 bar; snelremming bij geleidelijke verlaging naar 1,5 bar via de remstand",
+    "Volremming bij 3,5 bar; snelremming bij directe verlaging naar 0 bar via de snelremstand"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij 3,5 bar treinleidingdruk is de maximale remkracht bereikt: een volremming. Bij directe verlaging naar 0 bar door de remkraan in de snelremstand te zetten: snelremming.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd? (Remkraan)"
+  },
+  {
+   "id": "09-025",
+   "vraag": "Welke eigenschap hoort bij een driedrukkentripleklep?",
+   "opties": [
+    "Trapsgewijs rembaar maar niet trapsgewijs losbaar en het remsysteem uitputtelijk",
+    "Trapsgewijs rembaar en trapsgewijs losbaar en het remsysteem onuitputtelijk",
+    "Alleen volledig rembaar en volledig losbaar en het remsysteem onuitputtelijk",
+    "Trapsgewijs losbaar en het remsysteem uitputtelijk"
+   ],
+   "antwoord": 1,
+   "uitleg": "Driedrukkentriplekleppen zijn trapsgewijs rembaar en trapsgewijs losbaar en maken het remsysteem onuitputtelijk. Tweedrukkentriplekleppen maken het systeem uitputtelijk.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd?"
+  },
+  {
+   "id": "09-026",
+   "vraag": "Welke voordelen van schijfremmen noemt de vakkennis?",
+   "opties": [
+    "Kortere remweg en automatische aanpassing van de remkracht aan de belading",
+    "Gelijktijdig aanslaan en lossen van de remmen over de gehele treinlengte",
+    "Geen remverstellers meer nodig en minder slijtage van de remblokken",
+    "Minder slijtage van het loopvlak van de wielen en minder snel blokkeren"
+   ],
+   "antwoord": 3,
+   "uitleg": "Het gebruik van schijfremmen heeft als voordeel dat er minder slijtage is van het loopvlak van de wielen en de remmen minder snel blokkeren.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd? (Schijfrem)"
+  },
+  {
+   "id": "09-027",
+   "vraag": "Hoe werkt automatische lastafremming?",
+   "opties": [
+    "De treinleidingdruk wordt aangepast aan de lengte van de trein, zodat een lange trein trager remt",
+    "De remcilinders worden bij een beladen trein langzamer gevuld, zodat schokken worden voorkomen",
+    "De remcilinderdruk wordt boven een bepaalde snelheid verhoogd en daaronder verlaagd, ongeacht de belading",
+    "De luchtdruk in de remcilinders wordt aangepast aan het totale gewicht: leeg remt minder hard, beladen harder"
+   ],
+   "antwoord": 3,
+   "uitleg": "Automatische lastafremming verandert de luchtdruk in de remcilinders afhankelijk van het totale gewicht (wagen plus lading): leeg minder hard, beladen harder remmen, voor optimale remvertraging.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd? (Automatische lastafremming)"
+  },
+  {
+   "id": "09-028",
+   "vraag": "Hoe werkt de directe rem (locrem)?",
+   "opties": [
+    "De remkraan bedient via de treinleiding de remstations van alle voertuigen, zodat loc en wagens tegelijk worden afgeremd",
+    "De remkraan vult de remmen van loc of treinstel direct vanuit de hoofdreservoirleiding; de treinleiding wordt niet gebruikt",
+    "De tripleklep van loc of treinstel vult de remcilinders vanuit het hulpreservoir zodra de remkraan de treinleidingdruk verlaagt",
+    "De remstations van loc of treinstel worden elektrisch bediend, waarbij de tripleklep wordt onderdrukt en de treinleiding gevuld blijft"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij de directe rem worden de remmen van de loc of het treinstel direct door de remkraan vanuit de hoofdreservoirleiding gevuld; de treinleiding wordt niet gebruikt.",
+   "bron": "1.14 Welke soorten remsystemen worden onderscheiden? (Directe rem)"
+  },
+  {
+   "id": "09-029",
+   "vraag": "Welk apparaat maakt de doorgaande luchtdrukrem 'zelfwerkend'?",
+   "opties": [
+    "De remkraan",
+    "De tripleklep",
+    "De reduceerinrichting",
+    "De noodremklep"
+   ],
+   "antwoord": 1,
+   "uitleg": "Zelfwerkend betekent dat het remsysteem door welke oorzaak ook in werking kan worden gesteld, ook zonder ingreep van de machinist (bijv. breken koppeling). Het apparaat dat het remsysteem zelfwerkend maakt, is de tripleklep.",
+   "bron": "1.14 Welke soorten remsystemen worden onderscheiden? (Zelfwerkend doorgaand luchtdruksysteem)"
+  },
+  {
+   "id": "09-030",
+   "vraag": "Wat is het voordeel van de EP-rem ten opzichte van de pneumatische rem?",
+   "opties": [
+    "Het terugvoeren van remenergie naar de bovenleiding via de tractiemotoren",
+    "Het onuitputtelijk maken van het remsysteem via een driedrukkentripleklep",
+    "Het automatisch aanpassen van de remkracht aan de belading",
+    "Het gelijktijdig aanslaan en lossen van de remmen in de gehele trein"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij de EP-rem worden de remstations elektrisch bediend; de tripleklep reageert niet en er stroomt direct lucht naar de remcilinders. Voordeel is het gelijktijdig aanslaan en lossen in de gehele trein.",
+   "bron": "1.14 Welke soorten remsystemen worden onderscheiden? (EP-rem)"
+  },
+  {
+   "id": "09-031",
+   "vraag": "Welke rem zet kinetische energie via een vloeistof, meestal olie, om in warmte?",
+   "opties": [
+    "De elektrodynamische rem (ED-rem)",
+    "De elektropneumatische rem (EP-rem)",
+    "De hydrodynamische rem (HD-rem)",
+    "De elektromagnetische rem (EMg)"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij de HD-rem (hydrodynamische rem) gebruikt de hydraulische transmissie vloeistof, meestal olie, en wordt kinetische energie omgezet in warmte. De ED-rem zet bewegingsenergie om in elektrische energie.",
+   "bron": "1.14 Welke soorten remsystemen worden onderscheiden? (HD-rem)"
+  },
+  {
+   "id": "09-032",
+   "vraag": "Wat gebeurt er bij bediening van de noodrem door een reiziger?",
+   "opties": [
+    "De noodremklep in de treinleiding opent, de druk daalt naar 0 bar en de trein stopt met maximale remkracht",
+    "De noodremklep laat de treinleidingdruk dalen naar 3,5 bar, waarna een volremming volgt",
+    "De machinist krijgt een melding in de cabine en beslist zelf of en waar hij een remming inzet",
+    "De hoofdreservoirleiding wordt via de noodremklep ontlucht, waardoor de directe rem van de loc aanslaat"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bediening van de noodrem opent de noodremklep in de treinleiding: de treinleidingdruk daalt naar 0 bar en de trein komt met maximale remkracht tot stilstand. Noodremoverbrugging kan stilstand op een ongunstige plaats voorkomen.",
+   "bron": "1.15 Wat zijn noodrem en noodremoverbrugging?"
+  },
+  {
+   "id": "09-033",
+   "vraag": "Waarom moet bij bepaalde goederentreinen de P/G-kraan in de stand G staan?",
+   "opties": [
+    "De G-stand geeft korte remcilindervul- en lostijden, zodat de remweg van de zware trein zo kort mogelijk blijft",
+    "De G-stand verhoogt de remcilinderdruk boven een bepaalde snelheid, zodat de zware trein sneller tot stilstand komt",
+    "De G-stand geeft lange remcilindervul- en lostijden, zodat schokken, duwen en daarmee treinbreuk worden voorkomen",
+    "De G-stand past de remkracht automatisch aan de belading aan, zodat lege wagens niet blokkeren en vlakke plaatsen krijgen"
+   ],
+   "antwoord": 2,
+   "uitleg": "De G-stand zorgt voor lange remcilindervul- en lostijden zodat schokken en duwen, en daarmee treinbreuk, worden voorkomen, omdat schroefkoppelingen een beperkte maximale belasting hebben.",
+   "bron": "1.16 Wat is de functie van de P/G-kraan?"
+  },
+  {
+   "id": "09-034",
+   "vraag": "Een spoorwegonderneming laat een goederentrein rijden onder het remregime 'lange loc'. Hoe staan de P/G-kranen?",
+   "opties": [
+    "De loc('s) en de eerste 5 tot 7 wagens in G, de rest van de trein in P",
+    "De loc('s) en de eerste 5 tot 7 wagens in P, de rest van de trein in G",
+    "De hele trein in G, behalve de loc('s) die in P staan",
+    "De loc('s) in G en alle wagens in P"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij 'lange loc' staat de hele trein in de P-stand, behalve de loc('s) en de eerste (5-7) wagens, die in de G-stand staan. Een trein volledig in G heeft een langere remweg.",
+   "bron": "1.16 Wat is de functie van de P/G-kraan?"
+  },
+  {
+   "id": "09-035",
+   "vraag": "Hoe werkt de aandrijving bij een dieselhydraulische locomotief?",
+   "opties": [
+    "De dieselmotor drijft een generator aan die via een wisselrichter de elektrische tractiemotoren in de draaistellen voedt",
+    "De dieselmotor drijft via een hydrodynamische rem en een tandwielkast direct de wielassen in het draaistel aan",
+    "De dieselmotor drijft een pomp aan die vloeistof onder hoge druk naar een hydromotor met schoepenrad voert",
+    "De dieselmotor drijft een compressor aan die lucht onder hoge druk naar een luchtmotor met schoepenrad voert"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een dieselhydraulische locomotief drijft de dieselmotor een hydraulische pomp aan waardoor vloeistof onder hoge druk naar een hydromotor gaat; die heeft een schoepenrad dat door de vloeistof in beweging wordt gezet.",
+   "bron": "1.17 Hoe werken de verschillende soorten tractie? (Dieselmotor)"
+  },
+  {
+   "id": "09-036",
+   "vraag": "Waarom is de koolstrip van de stroomafnemer gemaakt van materiaal dat zachter is dan de rijdraad?",
+   "opties": [
+    "Omdat zacht materiaal de stroom beter geleidt dan hard materiaal",
+    "Omdat de dempers dan de kleine bewegingen van de rijdraad beter volgen",
+    "Omdat de koolstrip dan niet kan uitbrokkelen bij hoge snelheid",
+    "Omdat de koolstrip makkelijker te vervangen is dan de bovenleiding"
+   ],
+   "antwoord": 3,
+   "uitleg": "De koolstrip is van koolstof, zachter dan de rijdraad, omdat de koolstrip makkelijker te vervangen is dan de bovenleiding. Het is het enige contactoppervlak met de rijdraad.",
+   "bron": "1.18 Wat is de functie van de stroomafnemer?"
+  },
+  {
+   "id": "09-037",
+   "vraag": "Vanaf waar kunnen de reizigersdeuren centraal worden ontgrendeld?",
+   "opties": [
+    "Bij elke deurpartij en vanuit de bediende cabine",
+    "Alleen vanuit de bediende cabine",
+    "Alleen bij de deurpartij die het dichtst bij de cabine ligt",
+    "Vanuit beide cabines, ook de onbediende"
+   ],
+   "antwoord": 1,
+   "uitleg": "Centraal sluiten is mogelijk bij elke deurpartij én vanuit de bediende cabine; ontgrendelen kan alleen vanuit de bediende cabine.",
+   "bron": "1.19 Hoe is de bediening van deuren van een trein geregeld?"
+  },
+  {
+   "id": "09-038",
+   "vraag": "Wat geeft het eerste cijfer van de GEVI-code op een oranje kenmerkingsbord aan?",
+   "opties": [
+    "Het bijkomende gevaar van de stof",
+    "De gevarenklasse waartoe de stof behoort",
+    "Het eerste cijfer van het UN-nummer",
+    "Of de stof met water gevaarlijk reageert"
+   ],
+   "antwoord": 1,
+   "uitleg": "De GEVI-code is het bovenste getal; het eerste cijfer komt overeen met de gevarenklasse (bijv. 3 brandbare vloeistoffen), het tweede en soms derde cijfer wijst op bijkomende gevaren. Het UN-nummer onderaan bestaat altijd uit vier cijfers.",
+   "bron": "1.21 Hoe zijn wagens met gevaarlijke stoffen te herkennen? (Oranje kenmerking)"
+  },
+  {
+   "id": "09-039",
+   "vraag": "Welke uitspraak over automatische ritregistratie is juist?",
+   "opties": [
+    "Ze is verplicht bij voertuigen die sneller dan 60 km/u kunnen rijden en eindigt bij stilstand",
+    "Ze start bij het opnemen van de stroomafnemer en kan door de machinist worden uitgelezen",
+    "Ze is verplicht bij voertuigen die sneller dan 40 km/u kunnen rijden en eindigt 30 seconden na stilstand",
+    "Ze is verplicht bij voertuigen die sneller dan 40 km/u kunnen rijden en eindigt 60 seconden na stilstand"
+   ],
+   "antwoord": 2,
+   "uitleg": "Spoorvoertuigen die sneller dan 40 km/u kunnen rijden hebben automatische ritregistratie. De registratie start bij het in beweging zetten en eindigt 30 seconden na stilstand. De machinist kan de gegevens niet uitlezen.",
+   "bron": "1.22 Wat is ritregistratie?"
+  },
+  {
+   "id": "09-040",
+   "vraag": "Een machinist krijgt een heetmelding van de treindienstleider. Bij controle vindt hij geen verkleuring of beschadiging. Wat doet hij?",
+   "opties": [
+    "In overleg met de treindienstleider met normale snelheid doorrijden naar de eindbestemming",
+    "In overleg met de treindienstleider met 10 km/u doorrijden naar de eerste gelegenheid om opzij genomen te worden",
+    "Niet verder rijden, de twee voor- en nagelegen assen opnieuw controleren en wachten op technische ondersteuning",
+    "In overleg met de treindienstleider met 40 km/u doorrijden naar het eerstvolgende station met een werkplaats"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij een heetmelding stopt de machinist en controleert de as en de twee voor- en nagelegen assen. Zonder verkleuring/beschadiging rijdt hij in overleg met de treindienstleider met 10 km/u naar de eerste gelegenheid om opzij te gaan. Bij een warmmelding mag hij door naar de eindbestemming.",
+   "bron": "1.25 Wat doet de machinist bij storingen aan het loopwerk? (Aspotten en Hotbox-melding)"
+  },
+  {
+   "id": "09-041",
+   "vraag": "Een machinist hoort tijdens langzaam rijden een hinderlijk stotend geluid uit het loopwerk. Wat is de waarschijnlijke oorzaak en wat moet hij doen?",
+   "opties": [
+    "Vlakke plaatsen op de wielbanden; direct melden aan treindienstleider en spoorwegonderneming",
+    "Een warmlopende aspot; direct stoppen en de as en de twee voor- en nagelegen assen controleren",
+    "Vlakke plaatsen op de wielbanden; doorrijden tot de eindbestemming en daar een aantekening in de materieelagenda maken",
+    "Een gebroken schroefveer van de primaire vering; direct melden aan zijn spoorwegonderneming"
+   ],
+   "antwoord": 0,
+   "uitleg": "Vlakke plaatsen (vierkante wielen) zijn te herkennen aan een hinderlijk stotend geluid, vooral bij langzaam rijden. De machinist moet dit direct melden aan de treindienstleider en zijn spoorwegonderneming.",
+   "bron": "1.25 Wat doet de machinist bij storingen aan het loopwerk? (Vlakke plaatsen)"
+  },
+  {
+   "id": "09-042",
+   "vraag": "Een machinist moet tijdens de rit twee draaistellen afsluiten. Hoe wordt de nieuwe maximumsnelheid bepaald?",
+   "opties": [
+    "De treindienstleider bepaalt deze aan de hand van de remgegevens en informeert de spoorwegonderneming",
+    "De machinist bepaalt deze in overleg met zijn spoorwegonderneming en informeert de treindienstleider",
+    "De machinist bepaalt deze zelf aan de hand van het nieuwe rempercentage, zonder verdere melding",
+    "De technische ondersteuning van de spoorwegonderneming bepaalt deze en geeft dit door aan de treindienstleider"
+   ],
+   "antwoord": 1,
+   "uitleg": "Als de machinist tijdens de rit draaistellen, assen of triplekleppen moet afsluiten, bepaalt hij in overleg met zijn spoorwegonderneming de nieuwe maximumsnelheid en informeert de treindienstleider.",
+   "bron": "1.27 Wat doet de machinist bij storingen aan het remsysteem?"
+  },
+  {
+   "id": "09-043",
+   "vraag": "Een machinist constateert olielekkage aan de hydraulische aandrijving. Wat doet hij als eerste en waarom?",
+   "opties": [
+    "Hij stopt de motoren direct, omdat het hydraulisch systeem onder hoge druk staat",
+    "Hij rijdt met lage snelheid door naar een werkplaats, omdat de hydraulische rem nog werkt",
+    "Hij laat de stroomafnemers zakken, omdat de lekkende olie kortsluiting kan veroorzaken",
+    "Hij sluit de tripleklep af, omdat de remmen door olieverlies kunnen vastlopen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij olielekkage aan de hydraulische aandrijving stopt de machinist de motoren direct omdat het hydraulisch systeem onder hoge druk staat. Daarna licht hij zijn spoorwegonderneming in.",
+   "bron": "1.28 Wat doet de machinist bij storingen aan de tractie?"
+  },
+  {
+   "id": "09-044",
+   "vraag": "Het laagspanningssysteem van een trein valt tijdens de rit gedeeltelijk uit. Wat doet de machinist?",
+   "opties": [
+    "De stroomafnemers laten zakken, de hoogspanningsinstallatie isoleren en om technische ondersteuning vragen",
+    "Alle verbruikers ingeschakeld laten en doorrijden naar de eindbestemming, waar hij de storing in de materieelagenda noteert",
+    "Direct een snelremming geven, de batterijen afschakelen en op de plaats van stilstand wachten op technische ondersteuning",
+    "Verbruikers preventief uitschakelen en de treindienstleider vragen de trein zo snel mogelijk uitrollend aan de kant te zetten"
+   ],
+   "antwoord": 3,
+   "uitleg": "Uitval van het laagspanningssysteem heeft nadelige gevolgen; verbruikers worden preventief uitgeschakeld om stranding te voorkomen. De machinist vraagt de treindienstleider de trein zo snel mogelijk aan de kant te zetten (door uitrollen) en licht zijn spoorwegonderneming in.",
+   "bron": "1.29 Wat doet de machinist bij storingen aan de stroomvoorziening? (Laagspanningssysteem)"
+  },
+  {
+   "id": "09-045",
+   "vraag": "Wat kan het gevolg zijn van een ontbrekende litz aan een stroomafnemer?",
+   "opties": [
+    "Een scheef schuitje doordat de stroom via de dempers wordt afgevoerd",
+    "Een verbogen stangenstelsel doordat de stroomafnemer te hard tegen de rijdraad drukt",
+    "Een uitgebrokkelde koolstrip die bij hoge snelheid de rijdraad beschadigt",
+    "Schade door inbranden in de scharnieren van de stroomafnemer"
+   ],
+   "antwoord": 3,
+   "uitleg": "Het ontbreken van een litz kan tot gevolg hebben dat er schade door inbranden ontstaat in de scharnieren van de stroomafnemer. Een scheef schuitje wijst dikwijls op defecte dempers.",
+   "bron": "1.29 Wat doet de machinist bij storingen aan de stroomvoorziening? (Stroomafnemer)"
+  },
+  {
+   "id": "09-046",
+   "vraag": "Tijdens de dienst raakt de dodeman defect. Wat is toegestaan?",
+   "opties": [
+    "Doorrijden tot het eerstvolgende punt waar het voertuig hersteld of uitgewisseld kan worden en de spoorwegonderneming inlichten",
+    "Direct stoppen en de spoorwegonderneming inlichten; het materieel mag pas weer rijden als de dodeman hersteld of het voertuig uitgewisseld is",
+    "Doorrijden tot het eindpunt van de dienst en de storing daar zonder verdere melding in de materieelagenda noteren",
+    "Met maximaal 40 km/u verder rijden tot het eindstation en de treindienstleider en spoorwegonderneming inlichten"
+   ],
+   "antwoord": 0,
+   "uitleg": "Raakt de dodeman defect tijdens de dienst, dan mag de trein verder rijden tot het eerstvolgende punt waar het voertuig hersteld of uitgewisseld kan worden; de machinist licht zijn spoorwegonderneming in. Bij gereedmaken mag het materieel niet in dienst.",
+   "bron": "1.33 Wat doet de machinist bij een defecte dodeman?"
+  },
+  {
+   "id": "09-047",
+   "vraag": "De GSM-R raakt tijdens de rit defect. Wat moet de machinist doen?",
+   "opties": [
+    "Direct stoppen en de treindienstleider via een mobiele telefoon inlichten, omdat een trein zonder werkende GSM-R niet verder mag rijden",
+    "De treindienstleider inlichten en zijn mobiele nummer geven; daarna doorrijden tot het eindpunt of het eerste punt van herstel of vervanging",
+    "Zijn spoorwegonderneming inlichten en zijn mobiele nummer geven; daarna met maximaal 40 km/u doorrijden tot het eerste punt van herstel",
+    "Doorrijden tot het eindpunt zonder de treindienstleider in te lichten en de storing daar in de materieelagenda melden"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij vertrek moet de GSM-R werken. Raakt hij tijdens de rit defect, dan licht de machinist de treindienstleider in, geeft zijn mobiele nummer en mag doorrijden tot het eindstation/eindpunt of het eerstvolgende punt van herstel of vervanging.",
+   "bron": "1.34 Wat doet de machinist bij een defecte GSM-R?"
+  },
+  {
+   "id": "09-048",
+   "vraag": "Van een meertonige tyfoon werkt nog één waarschuwingstoon. Wat betekent dit voor de rit?",
+   "opties": [
+    "De trein moet voor elke overweg tot stilstand kunnen komen",
+    "De trein moet naar de dichtstbijzijnde hersteldlocatie rijden",
+    "De trein mag niet verder rijden tot de tyfoon is hersteld",
+    "De trein kan gewoon doorrijden"
+   ],
+   "antwoord": 3,
+   "uitleg": "Als een meertonige tyfoon defect is maar minstens één waarschuwingstoon nog werkt, kan de trein gewoon doorrijden. Bij een volledige storing moet hij voor overwegen kunnen stoppen en naar de dichtstbijzijnde herstellocatie.",
+   "bron": "1.35 Wat doet de machinist bij een defecte tyfoon?"
+  },
+  {
+   "id": "09-049",
+   "vraag": "Tijdens de rit in het donker vallen alle frontseinen uit; er is geen draagbaar frontsein beschikbaar. Wat doet de machinist?",
+   "opties": [
+    "Treindienstleider informeren en met maximaal 40 km/u en herhaalde geluidssignalen doorrijden naar de dichtstbijzijnde herstellocatie",
+    "Treindienstleider informeren en doorrijden tot het eindpunt van de rit, tenzij de treindienstleider bepaalt dat hij eerder bij een geschikte uitwijklocatie moet stoppen",
+    "Alleen de spoorwegonderneming informeren en met geluidssignalen bij elke overweg doorrijden naar het eindpunt van de rit",
+    "Treindienstleider informeren en niet doorrijden, tenzij die instructie geeft door te rijden naar de dichtstbijzijnde geschikte uitwijklocatie"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij slecht zicht of duisternis zonder draagbaar frontsein rijdt de machinist niet door, tenzij de treindienstleider instructie geeft verder te rijden naar de dichtstbijzijnde geschikte locatie om uit te wijken.",
+   "bron": "1.36 Wat doet de machinist bij een defect frontsein?"
+  },
+  {
+   "id": "09-050",
+   "vraag": "Bij vertrek blijken de opschriften op beide zijden van een wagen door graffiti onleesbaar. Wat doet de machinist?",
+   "opties": [
+    "Hij mag rijden tot het eindpunt van de rit en meldt de onleesbare opschriften daar aan de wagencontroleur",
+    "Hij mag niet rijden, licht zijn spoorwegonderneming in en in overleg wordt het vervolg bepaald",
+    "Hij mag rijden na overleg met de treindienstleider, mits de wagen in de samenstellingsgegevens correct is vermeld",
+    "Hij informeert alleen de treindienstleider en rijdt met beperkte snelheid naar de eerstvolgende werkplaats"
+   ],
+   "antwoord": 1,
+   "uitleg": "Als opschriften aan beide zijden van het materieel niet leesbaar zijn, mag de machinist niet rijden. Hij licht zijn spoorwegonderneming in en in overleg wordt het vervolg bepaald.",
+   "bron": "1.31 Wat doet de machinist bij onleesbare opschriften?"
+  }
+ ]
+}

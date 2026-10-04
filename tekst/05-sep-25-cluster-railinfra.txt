@@ -1,0 +1,1237 @@
+VVRV cluster Railinfra
+
+                                                                                                                                                             1/30
+Railinfra                                                                   3
+
+1.1 Voorwoord                                                               3
+
+1.2 Wat is railinfrastructuur?                                              3
+
+1.3 Wat doet de railinfrastructuurbeheerder?                                3
+
+1.4 Wat is het verschil tussen hoofdspoorwegen, lokale spoorwegen en
+
+bijzondere spoorwegen?                                                      4
+
+1.5 Hoe is het spoorwegnet opgebouwd?                                       5
+
+1.6 Waaruit bestaat de hoofdspoorweg?                                       8
+
+1.7 Welke aansluitingen op het hoofdspoorwegnet zijn te
+
+onderscheiden?                                                              9
+
+1.8 Hoe is de spoorbaan opgebouwd?                                          10
+
+1.9 Wat is elektriciteit?                                                   15
+
+1.10 Hoe is de energievoorziening geregeld?                                 16
+
+1.11 Welke soorten kunstwerken zijn er?                                     21
+
+1.12 Wat zijn beveiligde en onbeveiligde overwegen?                         22
+
+1.13 Wat is een anti-icing installatie?                                     23
+
+1.14 Wat doet de machinist bij gladde sporen?                               24
+
+1.15 Wat doet de machinist bij ijzel- of rijpafzetting op de bovenleiding?  24
+
+1.16 Wanneer is een infrastoring een veiligheidsstoring?                    25
+
+1.17 Wat doet de machinist bij het wegvallen van de
+
+bovenleidingspanning?                                                       25
+
+1.18 Wat doet de machinist bij een defecte bovenleiding?                    25
+
+1.19 Wat doet de machinist bij een wisselstoring?                           26
+
+1.20 Wat doet de machinist bij een overwegstoring?                          26
+
+1.21 Wat doet de machinist bij spoorspatting of spoorverzakking?            28
+
+1.22 Wat betekenen werkzaamheden aan de infra voor de machinist?            29
+
+1.23 Hoe komt de machinist aan informatie over werkzaamheden aan
+
+de infra?                                                                   30
+
+VVRV cluster Railinfra
+
+                                                                                2/30
+1  Railinfra
+
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan verbreding
+worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun te worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld. Toch
+kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet
+aansprakelijk voor schade als gevolg daarvan.
+
+Versie september 2025
+
+1.2 Wat is railinfrastructuur?
+
+Railinfrastructuur (kortweg `Railinfra' of `Infra') is de verzameling van installaties, systemen,
+objecten, bouwwerken en constructies die noodzakelijk zijn voor (of een functie hebben bij
+het afwikkelen van):
+- treinverkeer
+- direct uit het treinverkeer voortvloeiende processen.
+
+Anders gezegd: de railinfrastructuur is het totaal van onroerende voorzieningen bedoeld voor
+het mogelijk maken van railgeleide bewegingen. Denk aan bovenleiding, spoor, seinen,
+wissels, beveiligings- en bedieningssystemen.
+
+1.3 Wat doet de railinfrastructuurbeheerder?
+
+Een railinfrastructuurbeheerder (of infrabeheerder) is in Europa een onderneming die
+verantwoordelijk is voor het beheer van de spoorwegen in een bepaald land. In Nederland is
+dat ProRail voor het hoofdrailnet, de HSL-Zuid en de Betuweroute.
+
+VVRV cluster
+Railinfra
+
+              3/30
+De infrabeheerder is verantwoordelijk voor:
+- de aanleg van nieuwe spoorinfrastructuur
+- het onderhouden en vernieuwen van bestaande spoorinfrastructuur
+- het ontwerpen en plannen van de dienstregeling (overzicht van alle vertrek-, doorkomst-
+
+     en aankomsttijden van treinen op dienstregelingpunten)
+- het verdelen van de beschikbare spoorcapaciteit in de vorm van treinpaden (ook wel
+
+     `dienstregelingpaden' of `paden' genoemd; het recht om de tijd en ruimte op het
+     spoorwegnet te benutten die een spoorwegonderneming nodig heeft om een trein van A
+     naar B te laten rijden). De term `treinpad' wordt gebruikt voor het rijden van treinen; voor
+     rangeren wordt o.a. de term `tijd-ruimteslot`(TRS) gebruikt
+- het instellen van een zone voor veilige rijwegen (bedienen van (systemen voor) wissels en
+     seinen (verkeersleiding)).
+
+De infrabeheerder publiceert jaarlijks de Netverklaring, zoals beschreven in de Spoorwegwet.
+De Netverklaring bevat informatie over het spoorwegnet voor spoorwegondernemingen die
+hiervan gebruik (willen) maken.
+
+In de Netverklaring staan verschillende overzichten, bijvoorbeeld een overzicht maximum
+toegestane snelheid per baanvak, zoals bepaald door het ministerie van Infrastructuur en
+Waterstaat.
+
+De infrabeheerder stelt sporen ter beschikking voor exploitatie door de
+spoorwegondernemingen.
+
+Voorbeelden van exploitatiemethoden zijn:
+- openbaar personenvervoer (ook hogesnelheidsreizigersvervoer)
+- goederenvervoer (ook werktreinen)
+- rangeren.
+
+Iedere spoorwegonderneming (vervoerder) betaalt de infrabeheerder een
+gebruiksvergoeding (infraheffing) voor het gebruik van het spoor.
+
+1.4 Wat is het verschil tussen hoofdspoorwegen, lokale spoorwegen en
+       bijzondere spoorwegen?
+
+Er wordt onderscheid gemaakt tussen hoofdspoorwegen, lokale spoorwegen en bijzondere
+spoorwegen. Hoofdspoorwegen en lokale spoorwegen worden aangewezen bij Koninklijk
+Besluit.
+
+VVRV cluster Railinfra  4/30
+Hoofdspoorwegen
+Wat de hoofdspoorwegen zijn, is in het Besluit tot aanwijzing van hoofdspoorwegen
+vastgelegd (2020). Een hoofdspoorweg is volgens de Spoorwegwet (artikel 2, lid 2) een
+"spoorweg die uitsluitend of overwegend bestemd is voor het verrichten van openbaar
+personenvervoer of goederenvervoer ten behoeve van internationale, nationale of regionale
+verbindingen" en waarvan "de Staat rechthebbende is". In Nederland worden alle
+hoofdspoorwegen beheerd door ProRail.
+
+Lokale spoorwegen
+Wat de lokale spoorwegen (of lokaalspoorwegen) zijn, is in het Besluit tot aanwijzing van
+lokale spoorwegen in vastgelegd (2020). Het zijn vaak spoorwegen van secundair, regionaal
+belang, waaraan minder beveiligingstechnische eisen worden gesteld. ProRail kan het
+beheer hebben, maar het hoeft niet.
+
+Bijzondere spoorwegen
+Bijzondere spoorwegen vormen een restcategorie: alle spoorwegen die niet als
+hoofdspoorweg of lokale spoorweg zijn aangewezen. Op bijzondere spoorwegen kan zowel
+personenvervoer als goederenvervoer plaatsvinden. Het personenvervoer betreft
+museumspoorlijnen, spoorvervoer in attractieparken en diverse soorten van ander toeristisch
+spoorvervoer. Goederenvervoer vindt plaats op particuliere spoorwegen van bedrijven, die
+al dan niet aansluiten op het hoofdspoor en op lokale spoorwegen, en doorlopen tot
+bedrijfssporen op bedrijfs- en industrieterreinen.
+
+1.5 Hoe is het spoorwegnet opgebouwd?
+
+Baanvak
+Een baanvak is een opeenvolging van aaneengesloten dienstregelingpunten en vrije banen,
+beginnend en eindigend in een dienstregelingpunt.
+
+Grensbaanvak
+Een grensbaanvak is een baanvak met aan ieder einde een grensstation (voor Nederland
+dus: één in Nederland en één in Duitsland of België).
+
+VVRV cluster Railinfra  5/30
+Dienstregelingpunt (dienstregelpunt)
+
+Een dienstregelingpunt is een punt dat benoemd is in de dienstregeling én een rol speelt bij
+de processen van de treindienst, zoals:
+- stations
+- haltes
+- aansluitingen
+- beweegbare bruggen
+- locaties voor materieelbehandeling en personeelsdiensten.
+
+Knooppunt
+
+Een knooppunt is een dienstregelingpunt dat een rol speelt of een verzameling (naburige)
+dienstregelingpunten die een rol spelen bij de processen van de treindienst.
+
+Er zijn drie soorten knooppunten:
+- infraknooppunt voor planning, verdeling en vrijgeven van infra
+- materieelknooppunt voor planning en uitvoering van materieelbehandelingen en
+
+     rangeren
+- personeelknooppunt voor planning en besturing van de personeelsdiensten.
+
+Een infraknooppunt is een dienstregelingpunt met meer dan twee aansluitende vrije banen.
+Alternatieve definitie: `halteringsplaats' waar meerdere treinstromen samenkomen en waar
+vrijwel alle passerende treinen stoppen (halteren). Treinstroom: treinen die langs dezelfde
+route onderweg zijn van hetzelfde vertrekpunt naar dezelfde bestemming.
+
+Vrije baan
+De vrije baan is een gebied dat twee dienstregelingpunten met elkaar verbindt. Op de vrije
+baan is voor een treinbeweging geen afslagmogelijkheid (er bevinden zich geen door de
+treindienstleider bedienbare wissels).
+
+Een vrije baan bestaat uit één of meer vrije baansporen.
+
+De vrije baan is verdeeld in blokken van ongeveer 1800 meter lang; een blok kan beveiligd
+worden door P-seinen.
+
+In zeer beperkte mate komen op de vrije baan wissels voor die toegang geven tot een
+spooraansluiting.
+
+Aansluiting
+
+Aansluiting is een vast onderdeel van de naamgeving van een locatie waar sporen uit
+verschillende richtingen bij elkaar komen, bijvoorbeeld `HSL-aansluiting Breda'. Niet te
+verwarren met spooraansluiting.
+
+VVRV cluster Railinfra                                                                    6/30
+Station
+Een station is een dienstregelingpunt dat is ingericht om treinen te laten stoppen, eindigen,
+vertrekken, inhalen of kruisen. Een station is voorzien van ten minste één wissel en een
+inrichting om reizigers te laten in- of uitstappen en/of goederen aan te nemen en/of af te
+leveren. In de Spoorwegwet en Netverklaring ProRail wordt het begrip station gedefinieerd als
+stationsgebouw: een gebouw of werk dat blijkens zijn constructie en inrichting geheel of
+gedeeltelijk is bestemd voor aankomst en vertrek van spoorvoertuigen met het oog op het in,
+uit- of overstappen van reizigers.
+
+Grensstation
+Een grensstation is het laatste station voor de landsgrens.
+
+Halte
+Een halte is het gedeelte van de vrije baan dat hoewel het geen station is, toch is voorzien
+van een inrichting waar reizigers kunnen in- en uitstappen en/of goederen kunnen worden
+aangenomen en afgeleverd. Bij haltes op de vrije baan liggen géén wissels.
+
+Emplacement
+Een emplacement is een station, een opstelterrein, een werkplaatsterrein of een
+rangeerterrein.
+
+Het is een gebied van de railinfrastructuur dat:
+- bestemd en ingericht is om treinen te doen stoppen, beginnen, eindigen, inhalen, kruisen,
+
+     opstellen of rangeren
+- voorzien is van ten minste één wissel.
+
+De Regeling spoorverkeer vermeldt in artikel 39 het volgende: Tot een
+spoorwegemplacement behoren:
+- alle sporen, aangeduid met een cijfer
+- de spoorgedeeltes van het wisselcomplex
+- alle sporen die grenzen aan de sporen als hierboven bedoeld tot een maximale afstand
+
+     van 200 m voor het toeleidende sein van het bedoelde emplacement of tot de maximale
+     afstand voor het toeleidende sein zoals aangegeven in de netverklaring.
+
+Op sommige emplacementen kan/kunnen:
+- het materieel schoongemaakt worden (wasinstallatie)
+- diesellocomotieven bijgetankt worden (tankspoor/tankplaat)
+- onderhoud gepleegd worden aan het materieel (werkplaatsterrein).
+
+VVRV cluster Railinfra  7/30
+Het gebruik van emplacementen moet aan de lokale/plaatselijke regelgeving voldoen,
+onder andere met betrekking tot de beperking van geluid. Deze regels staan in de
+omgevingsvergunning van het emplacement die de gemeente of provincie heeft verleend.
+De lokale overheid ziet erop toe dat de infrabeheerder zich aan de regels houdt.
+
+Opstelterrein
+Een opstelterrein is een emplacement of deel van een emplacement dat bestaat uit één of
+meer opstelsporen voor `opgesteld materieel' (materieel dat geparkeerd staat zonder dat er
+reizigers in- of uitstappen of goederen geladen of gelost worden).
+
+Rangeerterrein
+Een rangeerterrein is een spoorwegemplacement voor het rangeren (splitsen en
+samenstellen) van treinen.
+
+1.6 Waaruit bestaat de hoofdspoorweg?
+
+Hoofdrailnet
+Het hoofdrailnet is het spoornet waarop ProRail de besturing heeft.
+
+Regionale spoorlijnen
+Regionale spoorlijnen zijn spoorlijnen waarbij de provincies en stadsregio's bepalen welke
+spoorwegonderneming het treinvervoer in de regio mag verzorgen. Via een
+aanbestedingsprocedure krijgt één spoorwegonderneming een vervoersconcessie voor een
+bepaald gebied. Deze onderneming heeft dan voor een aantal jaren het alleenrecht om in
+die regio het regionale treinvervoer te verzorgen.
+
+Gedecentraliseerde treindienst
+Een gedecentraliseerde treindienst wordt uitgevoerd in opdracht van een regionale overheid
+in plaats van de landelijke overheid.
+
+Hogesnelheidslijn-Zuid
+De Hogesnelheidslijn Schiphol - Antwerpen ­ Brussel bestaande uit de HSL-Zuid in Nederland
+en de HSL 4 (HSL-Noord) in België ­ is de voor hoge snelheden geschikte spoorlijn die Schiphol
+met Antwerpen verbindt via Rotterdam.
+
+VVRV cluster Railinfra  8/30
+Het HSL-Zuid tracé heeft een totale lengte van 125 kilometer. 85 kilometer van het tracé is
+hogesnelheidsspoor waarop snelheden van 300 kilometer per uur mogelijk zijn.
+
+Er zijn vijf aansluitingen op bestaand spoor: Hoofddorp; Rotterdam West; Rotterdam
+Lombardijen; Zevenbergschen Hoek en Breda.
+
+HSL-Zuid en de Betuweroute zijn beide aangelegd met het Europese
+treinbeïnvloedingssysteem ETCS/ERTMS.
+
+Betuweroute: Havenspoorlijn en A15-tracé
+De Rotterdamse Havenspoorlijn is onderdeel van de Betuweroute. Het is een ruim 40 km
+lange goederenspoorlijn tussen de emplacementen IJsselmonde/Kijfhoek en de Maasvlakte,
+inclusief de aangesloten emplacementen en spooraansluitingen.
+
+In de Havenspoorlijn liggen de Botlekbrug, Calandbrug, Dintelhavenbrug en Suurhoffbrug. In
+tegenstelling tot de rest van het land heeft hier de scheepvaart voorrang.
+
+Het A15-tracé is onderdeel van de Betuweroute (vaak wordt het A15 tracé de Betuweroute
+genoemd, en de Havenspoorlijn apart). Het is een 160 kilometer lange goederenspoorlijn van
+de Maasvlakte bij Rotterdam naar de grens met Duitsland (enkele kilometers voorbij
+Zevenaar).
+
+1.7 Welke aansluitingen op het hoofdspoorwegnet zijn te onderscheiden?
+
+Spooraansluiting
+Een spooraansluiting is een stuk spoor waarmee een bedrijfsspoorweg gekoppeld is aan de
+hoofdspoorweg.
+
+Stamlijn
+Een stamlijn is het spoor en de wissels waarop spooraansluitingen zijn aangesloten om
+ontsluiting van een bedrijvenpark aan de hoofdspoorweg mogelijk te maken. Stamlijnen
+behoren juridisch tot de hoofdspoorweg.
+
+Na het intrekken van het Reglement op de Raccordementen in december 2016 zijn de
+meeste stamlijnen aangewezen als hoofdspoorweg.
+
+Voorheen werd de combinatie stamlijn en één of meer spooraansluitingen raccordement
+genoemd.
+
+VVRV cluster Railinfra  9/30
+Wil een bedrijf een nog niet bestaande spooraansluiting op de hoofdbaan, dan moet het zelf
+het aansluitend wissel bekostigen. Het wissel komt nadat het is aangelegd in eigendom van
+de overheid; de infrabeheerder voert het onderhoud uit.
+
+Bedrijfsterrein
+Een bedrijfsterrein is niet-openbare railinfrastructuur en behoort niet tot de hoofdspoorweg.
+Het bedrijf is eigenaar van zijn eigen railinfra; alleen die vervoerder mag er rijden waarmee
+het bedrijf een vervoerscontract heeft.
+
+Straatspoor
+Straatspoor is een spoor dat is gelegen in een voor het openbaar verkeer openstaande weg.
+De spoorstaven ­ soms voorzien van een extra flens ­ zijn verzonken in de weg, waarbij de
+zijden en het middengedeelte voorzien zijn van opvulling (bijvoorbeeld asfalt, klinkers).
+Spoorvoertuigen en wegverkeer kunnen hierdoor beide gebruik maken van dezelfde weg
+(net als bij de tram).
+
+Straatspoor komt voornamelijk voor op stamlijnen, spooraansluitingen en bedrijventerreinen.
+
+Het aantal meters straatspoor is met de sluiting van veel spooraansluitingen op
+industrieterreinen sterk verminderd.
+
+1.8 Hoe is de spoorbaan opgebouwd?
+
+Een spoorbaan is het geheel van dwarsliggers, ballast, spoorstaven en het baanlichaam
+waarover de spoorvoertuigen rijden.
+
+Onderbouw
+De onderbouw is het geheel van aardenbaan (baanlichaam) en kunstwerken (civiele
+bouwwerken als: tunnels; bruggen; fly overs). De onderbouw is de dragende constructie voor
+de bovenbouw.
+
+Een talud is een helling/glooiing, schuinte van het zijvlak van de aardenbaan.
+
+Bovenbouw
+De bovenbouw is de constructie die het dragen en geleiden van spoorvoertuigen verzorgt
+en gelegen is op de onderbouw.
+
+VVRV cluster Railinfra  10/30
+Er zijn twee soorten bovenbouwconstructies:
+- ballastconstructie: bestaat uit ballast, dwarsliggers, spoorstaven, inclusief
+
+     bevestigingsmateriaal
+- ballastloze constructie: bestaat uit een doorlopende plaat beton, spoorstaven en een
+
+     rubber/kunststof gietmassa (genaamd ingegoten spoor) of een doorlopende plaat beton
+     waar de spoorstaaf door middel van een bevestigingsplaat op wordt vastgezet
+     (genaamd indirecte bevestiging op beton).
+
+Wissels kunnen in de ballast of op een betonplaat gelegd worden.
+
+Een overgangsconstructie: een constructie die de overgang van spoor in ballast naar
+ballastloosspoor verzorgt.
+
+Spoorstaven
+Spoorstaven zorgen voor:
+- het geleiden van de spoorwielen
+- een vlakke rijbaan voor de trein
+- het opnemen en overbrengen van de belasting aan de onderliggende delen van het
+
+     spoor
+- het geleiden van de retourstroom van de bovenleiding
+- het geleiden van de zwakstromen van de treinbeveiliging (treindetectie en
+
+     treinbeïnvloeding).
+
+Voegloos spoor
+Spoorstaven die over grote lengtes met de kopse zijde aan elkaar zijn gelast, worden
+`voegloos spoor' of `langgelast spoor' genoemd. Over het algemeen leidt dit tot minder
+geluid, minder trillingen en minder onderhoud.
+
+Verkanting
+Verkanting is het bewust aangebracht hoogteverschil in de dwarsrichting tussen de
+spoorstaven van één spoor. Verkanting wordt toegepast in bogen om het effect van de
+middelpuntvliedende kracht te compenseren. Zonder verkanting zouden de rails en wielen
+extra slijten en het reizigerscomfort aangetast worden; ook het risico op ontsporing is zonder
+verkanting groter.
+
+Wissels
+Een wissel is een constructie in een spoorbaan om een trein naar een ander spoor te leiden;
+een wissel realiseert een fysieke vertakking in het spoorwegnet.
+
+VVRV cluster Railinfra  11/30
+Een wisselcomplex is een samenhangende verzameling wissels; samen vervullen ze de
+verbinding tussen verschillende sporen.
+
+Er bestaan verschillende soorten wissels:
+- enkel wissel: splitst een spoor in twee sporen of leidt twee sporen naar één spoor
+- gekoppeld wissel: een combinatie van twee wissels die bij bediening altijd simultaan
+
+     omlopen
+- overloopwissel: een gekoppeld wissel waarmee tussen twee parallelle sporen van spoor
+
+     kan worden gewisseld
+- kruiswissel: bestaat uit een combinatie van vier enkele wissels (of twee gekoppelde
+
+     wissels) en een kruis (vier rijrichtingen; kan tegelijkertijd bereden worden door twee
+     spoorvoertuigen die beide rechtuit rijden)
+- Engels wissel: : is een combinatie van twee wissels (tevens kruising) en wordt toegepast
+     waar weinig ruimte beschikbaar is.
+- half Engels wissel: kan aan één zijde aftakken naar het andere spoor.
+
+Een wissel bestaat uit:
+- wisseltongen: de bewegende onderdelen die de trein van het ene naar het andere spoor
+
+     leiden
+- puntstuk: ligt op de plaats waar twee spoorstaven elkaar kruisen; het puntstuk is de
+
+     driehoek van het wissel
+- strijkregel: tegenover het puntstuk is het spoor voorzien van een strijkregel om ontsporing
+
+     te voorkomen
+- wisselstangen: zorgen ervoor dat beide wisseltongen gelijktijdig verplaatst worden
+- wisselsteller: elektrische motor of hydraulische cilinder die het wissel laat omlopen
+- wisselverwarming: om te voorkomen dat de wisseltongen vastvriezen aan de
+
+     aanslagspoorstaven worden de wissels verwarmd wanneer de temperatuur onder een
+     bepaalde waarde daalt.
+
+Enkeldelige wissels kennen alleen een beweegbare wisseltong; meerdelige wissels hebben
+ook een beweegbaar puntstuk dat ervoor zorgt dat het wissel met hogere snelheid
+afbuigend bereden kan worden.
+
+Wisselstanden: een wissel kan rechtsleidend of linksleidend liggen.
+
+De stand van de wisseltongen bepaalt naar welk spoor het materieel wordt geleid:
+- linksleidend; ruimte tussen de linkertong en linkerspoorstaaf (vanaf voorkant wissel gezien):
+
+     de trein buigt af naar links
+- rechtsleidend: ruimte tussen de rechtertong en rechterspoorstaaf (vanaf voorkant wissel
+
+     gezien): de trein buigt af naar rechts.
+
+VVRV cluster Railinfra  12/30
+Een wissel mag in de afbuigende stand bereden worden met een bepaalde maximum
+snelheid (afhankelijk van de hoekverhouding/mate van afbuiging van het wissel: hoe kleiner
+de hoek, hoe hoger de snelheid). De machinist ziet aan snelheidsborden en lichtseinen wat
+de toegestane maximum snelheid is bij het berijden van het wissel.
+
+Bij handbediende wissels of bij een European Instruction van de treindienstleider stopt de
+machinist voor het wissel en controleert hij of het wissel in de eindstand ligt én in de juiste
+stand (overeenkomstig de gewenste rijweg).
+
+Qua wisselbediening zijn er verschillende mogelijkheden:
+- centraal bediende wissels (met behulp van een gemotoriseerde wisselsteller)
+- handbediend met omstelgewicht/contragewicht
+- handbediend met behulp van drukknop(pen), bijvoorbeeld EHO-wissel (bromwissel)
+- voetbediend hydraulisch (pompwissel).
+
+Centraal bediende wissels worden:
+- vanuit één punt door de treindienstleider aangestuurd
+- beveiligd met seinen.
+
+Hand- en voetbediende wissels zijn soms voorzien van een voorkeurstand; het
+omstelgewicht/contragewicht is dan bijvoorbeeld gemarkeerd met een wit- en een zwart
+gedeelte. Dergelijke wissels moeten altijd teruggebracht worden in de voorkeurstand: het
+witte gedeelte van het omstelgewicht boven, het zwarte onder.
+
+Een grendel bij een handbediend wissel voorkomt dat een trein onbedoeld naar een
+bepaald spoor rijdt of dat een onbevoegd persoon het wissel bedient. De treindienstleider
+kan het grendel op afstand vrijgeven. Als het grendel ontgrendeld is, kan de machinist het
+wissel omleggen.
+
+Spoorkruisingen
+Een spoorkruising is een constructie waarbij sporen elkaar snijden.
+
+`Kruisen' als activiteit is iets anders: het gebruik maken van een emplacement om elkaar te
+passeren.
+
+Stootjuk
+Een stootjuk, ook wel spoorbeëindigingsconstructie genoemd, is een constructie die als
+blokkade het fysieke einde van een kopspoor markeert.
+
+VVRV cluster Railinfra  13/30
+Flankbeveiliging
+Flankbeveiliging is een voorziening in sporen of het beveiligingssysteem met als doel het
+voorkomen van ongewenst en ongecontroleerd toetreden van een trein op een ander
+spoor. Korter gezegd: een voorziening om zijdelingse aanrijding van treinen te voorkomen.
+
+Flankbeveiliging kan door:
+- het instellen van een rijweg die ervoor zorgt dat een ten onrechte vertrekkende trein niet
+
+     in het hoofdspoor terecht komt, maar er juist van wordt afgeleid richting een
+     veiligheidskopspoor
+- een stop-ontsporingsinrichting (ontsporingstongen en stop-ontspoorblokken) die de trein
+     bij een beperkte snelheid tijdig stopt en bij een te grote snelheid een ontsporing
+     veroorzaakt die de trein wegleidt van het te beveiligen spoor/object. Ontsporingstongen
+     en stop-ontspoorblokken kunnen afhankelijk van de uitvoering met de hand of op afstand
+     worden bediend.
+
+Ontsporingstong
+Zolang de treindienstleider geen toestemming geeft over een bepaald spoor te rijden, wijkt
+één van de rails af naar buiten. Rijdt materieel toch over de ontsporingstong dan volgt
+ontsporing (de ruimte tussen de spoorstaven is groter dan de afstand tussen de wielen).
+
+Stop-ontspoorblokken
+Deze worden veelal geplaatst op sporen die leiden in de richting van een werkplaats, een
+hek, of een ander kwetsbaar object. Als materieel met een lage snelheid tegen een
+ontspoorblok rijdt, kan het al ontsporen. Stop-ontspoorblokken worden op plaatsen neergezet
+waar het beter is om materieel te laten ontsporen dan dat er persoonlijk letsel of grote
+schade aan kostbare objecten ontstaat.
+
+Vrijbalk
+Een vrijbalk (vrije ruimte merk) is meestal een `wit' gemarkeerde betonnen balk die zich
+tussen twee samenlopende of elkaar kruisende sporen bevindt; de vrijbalk is de uiterste grens
+waar spoorvoertuigen mogen worden geplaatst zonder de beweging van spoorvoertuigen
+op het andere spoor te hinderen.
+
+Inspectiepad (looppad)
+Een inspectiepad is een looppad direct naast het spoor ten behoeve van
+inspectiewerkzaamheden terwijl het spoor zonder snelheidsbeperkingen in gebruik is.
+Een inspectiepad ligt buiten het profiel van vrije ruimte van het betreffende spoor.
+
+VVRV cluster Railinfra  14/30
+1.9 Wat is elektriciteit?
+
+Elektriciteit is een stroom van elektronen, onzichtbaar kleine deeltjes met een negatieve
+elektrische lading. Elektronen stromen altijd van een plaats met veel elektronen naar een
+plaats met weinig elektronen. Ze bewegen in een stroomkring. De stroomkring moet gesloten
+zijn; in een onderbroken stroomkring kunnen de elektronen niet rondgaan.
+
+Spanning en stroom zijn de basisbeginselen van elektriciteit.
+Elektrische spanning is de druk die op een elektriciteitsdraad staat.
+Stroomsterkte is de hoeveelheid verplaatste elektronen per tijdseenheid.
+De spanning, stroom en weerstand samen bepalen hoeveel elektriciteit door de draad loopt.
+Elektrische weerstand is de eigenschap van materialen die de doorgang van de elektrische
+stroom belemmeren.
+
+Het verband tussen spanning, stroomsterkte en weerstand wordt beschreven in de `wet van
+Ohm': spanning U = stroomsterkte I x weerstand R.
+
+Spanning wordt uitgedrukt in Volt, stroom in Ampère en weerstand in Ohm.
+Vermogen wordt uitgedrukt in Watt.
+
+Elektrificatie
+Met elektrificatie wordt bedoeld dat niet-elektrische apparaten en systemen vervangen
+worden door elektrische varianten. Hiermee kan het gebruik van fossiele brandstoffen en de
+uitstoot van schadelijke stoffen verminderen. Een voorbeeld is dieselmaterieel vervangen
+door elektrisch materieel. Het spoorvoertuig wordt dan voorzien van elektrische voeding door
+middel van een bovenleiding of derde rail.
+
+Een geëlektrificeerd baanvak is een baanvak dat is voorzien van een bovenleidingsysteem.
+In Nederland wordt een derde rail (langs de zijkant van het spoor) overigens alleen gebruikt
+bij metro's.
+
+Gelijk- en wisselspanning
+Om de elektromotoren van een krachtvoertuig te voorzien van stroom kan gelijk- of
+wisselspanning toegepast worden.
+
+Gelijkspanning ­ kort aangeduid als DC (Direct Current) ­ is een elektrische stroom met
+constante stroomrichting; ook de spanning is (binnen zekere grenzen) constant. Dit in
+tegenstelling tot wisselspanning (AC/Alternating Current).
+
+Wisselspanning is een periodieke elektrische spanning die met een bepaalde frequentie
+wisselt tussen positieve en negatieve waarden (polariteit). Bijvoorbeeld op het Europese 230
+
+VVRV cluster Railinfra  15/30
+V-net wisselt de spanning 50x per seconde tussen positieve en negatieve waarden (ofwel 50
+Herz).
+
+Bovenleidingspanning
+Een elektrisch(e) locomotief/treinstel `krijgt' op het Nederlandse spoor van de bovenleiding:
+- 1500-1800 Volt gelijkspanning*
+- 25 kV wisselspanning (Betuweroute en HSL).
+* Uitgangspunt voor het systeem is 1500 Volt, met daaromheen een variatie.
+
+De meeste elektrische treinen in Nederland zijn geschikt voor een bovenleidingspanning van
+1500 Volt DC. Vanwege intensief treinverkeer wordt de spanning vaak verhoogd tot 1800
+Volt.
+
+Om sneller te kunnen rijden, zijn grotere vermogens nodig. Door van een hogere
+bovenleidingspanning gebruik te maken, kunnen die vermogens worden geleverd; in
+internationaal verband is afgesproken 25 kV AC (50 Hz) te gebruiken.
+
+De HSL-Zuid en Betuweroute hebben beide een bovenleidingspanning van 25 kV. De HSL-Zuid
+wordt zodoende aangesloten op het Europese netwerk van hogesnelheidslijnen.
+
+Voor de Betuweroute is eveneens gekozen voor 25 kV-systeem omdat:
+- deze goederenlijn deel uitmaakt van het Europese railtransportnetwerk
+- er zware tot zeer ware goederentreinen rijden met een redelijk hoge frequentie (een 1800
+
+     V DC systeem kan daarvoor niet voldoende energie leveren).
+
+De openbare energiebedrijven leveren de spanning voor de bovenleiding. Via grondkabels
+komt bij een onderstation elektriciteit binnen met een driefasen wisselspanning (draaistroom)
+van 10.000 Volt (10 kV) of 25.000 Volt (25 kV).
+
+In Europa komen ook andere bovenleidingspanningen voor.
+
+1.10 Hoe is de energievoorziening geregeld?
+
+Ondergrondse infra
+Ondergrondse infra: de kabels in de grond of in een kabelkoker. Ze liggen overal waar het
+spoor ligt; ze verbinden hoogspannings- en relaiskasten inclusief alles wat is aangesloten op
+deze kasten: overwegen; seinen; wissels; bovenleiding, reisinformatiepanelen, enzovoort.
+
+Een kabel is een geleidende ader van koper of aluminium (of glasvezel) die een elektrische
+(of optische) verbinding maakt tussen installatiedelen van het spoorsysteem.
+Meerdere kabels vormen samen een kabelbed.
+
+VVRV cluster Railinfra  16/30
+Voor ieder van de volgende techniekvelden zijn er bijzondere typen kabels:
+- seinwezen: onder andere bekabeling voor wissels; seinen; treindetectie; overwegen
+- energievoorziening: onder andere voedingskabels (10 kV of 25 kV) van de
+
+     energiebedrijven; de 3 kV-seinwezenvoeding; de 1800 Volt bovenleidingspanning
+- telecom: signalen van de verkeersleidingsposten naar de relaishuizen voor het instellen
+
+     van de rijwegen, aansturing van de reisinformatiepanelen en de omroep; bij telecom
+     wordt behalve van koper (informatieoverdracht via stroom) gebruik gemaakt van
+     glasvezelkabel (informatieoverdracht via licht).
+
+Depotvoeding
+Depotvoeding is: een elektrische aansluitkast op een opstelterrein waarmee
+spoorwegmaterieel door middel van een kabel op het vaste elektriciteitsnet kan worden
+aangesloten.
+
+Depotvoeding kan stroom leveren aan de elektrische systemen in de trein waardoor het niet
+nodig is om de dieselmotor te laten draaien/de stroomafnemer op te zetten.
+
+Een variant op de depotvoeding is de werkplaatsvoeding in een onderhoudswerkplaats.
+
+Onderstation
+Om 1500-1800 Volt DC naar de trein te transporteren zorgt het onderstation ervoor dat de
+aangeleverde spanning (10 kV) wordt:
+- getransformeerd
+- gelijkgericht
+- doorgezet naar het spoorwegnet.
+
+Onderstations voor treinen op 25 kV AC:
+- zijn aangesloten op het hoogspanningsnet
+- hebben geen gelijkrichter.
+
+Schakelstation
+Een schakelstation:
+- reduceert het spanningsverlies over de bovenleiding
+- verdeelt een baanvak in meerdere stukken zodat eventuele kortsluiting relatief eenvoudig
+
+     geïsoleerd kan worden
+- functioneert bij spooraftakkingen en emplacementen als distributiestation dat meerdere
+
+     sporen voorziet van elektriciteit.
+
+VVRV cluster Railinfra  17/30
+Spoorstroomloop
+
+Een spoorstroomloop is een elektrische stroomkring op een spoorweg in de vorm van een
+spanningsverschil tussen de spoorstaven. Het spanningsverschil tussen de spoorstaven kan
+worden kortgesloten met de assen en wielen van een trein of een kortsluitlans.
+
+Op deze wijze:
+- kan worden gedetecteerd dat een spoor bezet is door een trein, of
+- kunnen signalen naar de trein worden verzonden, bijvoorbeeld ATB-code of
+
+     sturingsinformatie voor de overwegen.
+
+Een dun laagje roest kan de spoorstroomloop onderbreken en zo de spoordetectie
+onbetrouwbaar maken. Daarom moeten alle geïsoleerde wissels en sporen op gezette tijden
+bereden worden. `Roestrijden' wil zeggen dat een trein speciaal hiervoor een afwijkende
+route over een emplacement rijdt.
+
+Retourstroom
+
+Retourstroom is stroom die via de wielen van de trein en de bereden spoorstaven teruggaat
+naar het onderstation; er is een gesloten systeem nodig om een stroom te laten lopen. Soms
+neemt een deel van de retourstroom een andere weg dan de gewenste (zwerfstroom),
+hetgeen ongewenst is omdat het corrosie van de ondergrondse leidingen veroorzaakt. Om
+zwerfstroom te minimaliseren, worden de spoorstaven zo veel mogelijk geïsoleerd.
+
+Bovenleidingsysteem
+
+Een bovenleidingsysteem is de constructie voor het overbrengen van elektrisch vermogen
+van één of verschillende voedingspunten langs de spoorbaan naar de stroomafnemer van
+een trein.
+
+Dit systeem bevat:
+- bovenleiding: alle draden en leidingen opgehangen boven het spoor inclusief de
+
+     beweegbare bovenleidingarm (rijdraad, versterkingsleiding, leidingonderbreker,
+     hangdraden, draagkabel)
+- draagconstructie: de funderingen, constructies en overige onderdelen die bedoeld zijn
+     om de draden en leidingen te ondersteunen, op hun plaats te houden, af te spannen of
+     te isoleren (exclusief de beweegbare bovenleidingarm)
+- overige componenten: op de draagconstructie bevestigde apparatuur om te kunnen
+     schakelen, detecteren en beschermen.
+
+VVRV cluster Railinfra  18/30
+Rijdraad
+De rijdraad is het contactvlak van de stroomafnemer (pantograaf). De rijdraad bestaat uit
+één, soms twee parallel lopende draden van koper die door klemmen op afstand worden
+gehouden, zodat er een breder contactvlak voor de stroomafnemer ontstaat.
+
+De rijdraad hangt met hangdraden aan de draagkabel. De gemiddelde hoogte van de
+rijdraad boven de spoorbaan is 5.50 meter.
+
+Een machinist mag geen stroomafnemers opzetten in wissels en onder kruisingen van de
+rijdraad, omdat de stroomafnemer dan mogelijk achter de rijdraad haakt en deze
+beschadigt/los trekt.
+
+Versterkingsleiding
+Op druk bereden baanvakken wordt een versterkingsleiding toegepast om een grotere
+stroomafname mogelijk te maken.
+
+Leidingonderbreker
+De leidingonderbreker is een elektrische scheiding in de bovenleiding.
+
+De bovenleiding is verdeeld in verschillende groepen om:
+- in geval van storing of werkzaamheden een zo klein mogelijk gebied spanningsloos te
+
+     kunnen maken
+- voldoende selectiviteit te hebben in de bovenleiding, zodat het in geval van kortsluiting
+
+     of overbelasting zeker is dat de bovenleidingspanning wordt uitgeschakeld.
+
+Een scheiding in bovenleiding is behalve door een leidingonderbreker ook te maken met
+open afspaninrichting (de laatste heeft de voorkeur, maar er moet wel plaats voor zijn).
+
+Afspaninrichting
+Een afspaninrichting zorgt ervoor dat de lengte van de rijdraad constant blijft. Door
+temperatuurverschillen zal de lengte van de rijdraad veranderen (de lengte van een `sectie'
+is maximaal 1500 meter; op zo'n lengte kan een aanzienlijk verschil ontstaan). Afspannen kan
+met behulp van gewichten of met gasdruk.
+
+Een open afspaninrichting is een afspaninrichting met zowel een mechanische als elektrisch
+functie voor het scheiden van twee groepen (zowel bij gelijk- als wisselspanning) of het
+scheiden van twee fasen (bij wisselspanning).
+
+VVRV cluster Railinfra  19/30
+Portalen
+De portalen zijn de draagconstructie van de bovenleiding; ze bestaan uit stalen profielbalken
+of uit voorgespannen betonpalen. De portalen staan ongeveer 2.75 meter uit het hart van
+het spoor; op emplacementen staan ze (door ruimtegebrek) dichter bij het hart van het
+spoor. De lengte-afstand tussen de portalen is ongeveer 70 meter.
+
+De draagkabel van koper wordt met behulp van isolatoren aan de portalen bevestigd.
+
+Bovenleidingsschakelaaar
+Op sommige plaatsen zijn op de portalen bovenleidingsschakelaars geplaatst. De op afstand
+bediende voedingsschakelaars schakelen bepaalde `secties' in of uit. Een uitgeschakelde
+schakelaar geeft geen garantie dat de bovenleiding veilig benaderd kan worden; daarvoor
+moet de bovenleiding ook nog geaard worden. De bovenleiding aarden is het verbinden
+van de bovenleiding met de aarde (spoorstaven). Alleen speciaal opgeleide personen
+mogen dit doen (niet te verwarren met het aarden van de trein dat ­ indien nodig ­ door de
+machinist gebeurt).
+
+Spanningsluis
+Een spanningsluis is: het geheel van infravoorzieningen dat nodig is om bovenleidingsystemen
+elektrisch van elkaar te scheiden zodat treinen rijdend van het ene naar het andere
+spanningssysteem over kunnen gaan.
+
+De machinist moet bij het passeren van een spanningssluis:
+- de elektrische tractie onderbreken
+- de stroomafnemer(s) laten zakken.
+Het spreekt vanzelf dat de locomotief/het treinstel voor beide spanningen geschikt moet zijn.
+
+Doordat een spanningsluis niet voorziet in spanningsvoerende bovenleiding, kan een trein
+hier onbedoeld tot stilstand komen. Mede hierdoor worden deze sluizen op de vrije baan
+geplaatst, en niet in de buurt van stations. Als een trein onbedoeld tot stilstand komt in een
+spanningssluis en er is geen spanningsvoerende bovenleiding ter beschikking, neemt de
+machinist contact op met de treindienstleider en volgt diens instructies op.
+
+Fasescheiding
+Een fasescheiding realiseert de scheiding tussen twee 25 kV-voedingssecties. Fasescheiding
+voorkomt kortsluiting tussen de twee fases van de wisselspanning wanneer de stroomafnemer
+de sectiegrens passeert.
+
+VVRV cluster Railinfra  20/30
+1.11 Welke soorten kunstwerken zijn er?
+
+Een kunstwerk is een begrip uit de civiele techniek, bouwkunde, en de spoor-, weg- en
+waterbouw en is een door mensen gemaakt bouwwerk. Onder kunstwerken vallen de
+constructies die noodzakelijk zijn om het eigenlijke doel te realiseren. Een spoorverbinding
+over een rivier is alleen te realiseren door het leggen van een spoorbrug of het bouwen van
+een tunnel.
+
+De complexiteit van kunstwerken kan sterk verschillen; een eenvoudig viaduct is een
+kunstwerk, maar een lange tunnel ook.
+
+Spoorbrug
+Een spoorbrug is een brug waarover een spoorweg loopt.
+
+Sommige spoorbruggen zijn beweegbaar: ze kunnen open om het scheepvaartverkeer door
+te laten.
+
+Spoorviaduct
+Een spoorviaduct is een verkeersbrug die ­ wanneer hij niet al te kort is ­ uit meerdere
+overspanningen bestaat.
+
+Een spoorviaduct kan gaan over een verkeersweg, water, of ander spoor (in het laatste
+geval is sprake van een fly over).
+
+Spoortunnel
+Een spoortunnel is een tunnel voor het treinverkeer; het is een kunstmatig aangelegde,
+kokervormige gang ­ van minimaal 250 meter ­ onder iets door.
+
+Tunneltechnische installaties (TTI) zijn onder andere:
+- verlichting (ook vluchtroute en toegang vluchtdeuren/-luiken)
+- afzuiging met ventilatoren
+- treinstilstanddetectie
+- brandmeld- en branddetectiesystemen
+- blusinstallaties
+- automatisch openende vluchtdeuren/-luiken
+- afwateringsystemen.
+
+Het normale treinbeveiligingssyteem (treindetectie, ATB, ETCS) valt buiten de tunnelinstallaties.
+
+VVRV cluster Railinfra  21/30
+Tunnelbak
+Een tunnelbak is een betonnen bak, die onder het maaiveld wordt aangelegd. Het spoor
+komt zodoende verdiept te liggen, maar is niet overdekt.
+
+Vrije spoorkruising (dive under en fly over)
+Een vrije kruising is een kunstwerk dat het mogelijk maak treinen ongelijkvloers te laten kruisen.
+
+Er zijn twee varianten:
+- dive under
+- fly over.
+
+Een dive under is een vrije kruising waarbij het onderste spoor/de onderste sporen verdiept
+(onder maaiveld) is/zijn aangelegd.
+
+Een fly over is een vrije kruising waarbij het bovenste spoor/de bovenste sporen verhoogd
+(boven maaiveld) is/zijn aangelegd.
+
+In tegenstelling tot een 'gewone' korte tunnel maakt een dive under ­ net als een fly over ­
+deel uit van een knooppunt van spoorwegen.
+
+Bij een dive under is de lengte van de gesloten doorsnede maximaal 250 meter; daarboven
+gelden specifieke veiligheidseisen voor bijvoorbeeld vluchtwegen en ventilatie.
+
+1.12 Wat zijn beveiligde en onbeveiligde overwegen?
+
+Een overweg is een gelijkvloerse kruising van een spoorlijn met een weg. Bij overwegen kan
+het wegverkeer de spoorlijn oversteken. Voor de weggebruiker zijn er regels opgesteld om de
+overweg veilig te kunnen oversteken, waarbij de trein in de regel voorrang heeft.
+
+In vrijwel alle landen zijn openbare overwegen te herkennen aan het Andreaskruis (in
+Nederland dubbel uitgevoerd bij overwegen over twee of meer sporen).
+
+Een beveiligde overweg is een overweg waarbij een aankondiging van een naderende trein
+aan het wegverkeer plaatsvindt met lichten, een belsignaal en/of slagbomen. Het signaal
+om de aankondiging in werking te stellen komt uit het bezette spoor (aankondigingssectie).
+De aankondigingssectie begint bij het overwegaankondigingsbord.
+
+De aankondigingszone van een beveiligde overweg bestaat uit drie delen:
+- een lange spoorstroomloop; de lengte garandeert dat de trein die met de
+
+     maximumsnelheid (referentiesnelheid) altijd een volledig gesloten overweg passeert
+
+VVRV cluster Railinfra  22/30
+- de middensectie: een korte spoorstroomloop van enkele meters vóór tot enkele meters
+     voorbij de overweg
+
+- opnieuw een lange spoorstroomloop voorbij de overweg (alleen ingeschakeld bij het
+     veranderen van rijrichting; de andere lange spoorstroomkring wordt dan uitgeschakeld).
+
+Een onbeveiligde (of onbewaakte) overweg is een spoorwegovergang die niet is beveiligd
+door lichten, een belsignaal en/of slagbomen, maar waar verkeersdeelnemers zelf moeten
+uitkijken of er een trein aankomt.
+
+Een klein aantal overwegen is onbeveiligd. ProRail onderzoekt steeds of deze overwegen
+opgeheven kunnen worden of een betere beveiliging nodig hebben. Ook onbeveiligde
+particuliere overpaden (niet voor het publiek toegankelijk; ze liggen op bedrijventerreinen of
+landerijen) probeert ProRail in overleg met de betrokkenen op te heffen.
+
+Overweg beveiligd met overwegboom
+
+- AHOB: automatische halve overwegbomen die één weghelft afsluiten
+- ADOB: automatische dubbele overwegbomen die beide weghelften afsluiten
+- EBO: elektrisch bediende overwegbomen; wordt niet automatisch bediend maar door
+
+     personeel op afstand (met camera's); toegepast bij overwegen met meer dan vier
+     sporen
+- AOB: automatische overpadbomen, alleen perronoverpaden.
+
+Overweg beveiligd zonder overwegboom
+- AKI: automatische knipperlichtinstallatie
+- (H)ALI: (half)automatische lichtinstallatie (was (H)AVIO).
+
+WIDO en WILO
+
+- WIDO: Waarschuwings Installatie voor Dienst Overpaden. Ze staan bij overpaden die
+     worden gebruikt door personeel dat zich met toestemming in het spoor bevindt. Een
+     WIDO is te herkennen aan twee witte lampen op een paal. Als er een trein komt,
+     knipperen de lampen, als er geen trein komt, branden de lampen continu.
+
+- WILO: Waarschuwings Installatie Landelijke Overwegen. Ze staan bij particuliere
+     overwegen die bijvoorbeeld leiden naar een boerderij. Het is een soort vereenvoudigde
+     AKI, met maar twee lampen en geen bel. Als er een trein komt, knippert de rode lamp, als
+     er geen trein komt, knippert de witte lamp.
+
+1.13 Wat is een anti-icing installatie?
+
+Om te voorkomen dat ijs zich hecht aan de treinen zetten spoorwegondernemingen en
+ProRail anti-icing in op verschillende plekken in Nederland. Door treinen te behandelen met
+
+VVRV cluster Railinfra  23/30
+glycol (anti-icing) wordt ervoor gezorgd dat sneeuw en ijs minder blijven plakken onder de
+trein. Op die manier wordt voorkomen dat sneeuw- en ijsbrokken tussen wissels vallen of de
+leidingen onder de trein beschadigen.
+
+Daar glycol een chemische stof is, wordt deze opgevangen in een bak ter bescherming van
+het milieu. De opgevangen glycol kan vervolgens opnieuw worden gebruikt.
+
+1.14 Wat doet de machinist bij gladde sporen?
+
+Weersomstandigheden, chemische neerslag en bladval kunnen de sporen (extreem) glad
+maken. Werkplaatssporen kunnen glad zijn door olieresten. Gladde sporen verlengen de
+remweg en leiden tot een verhoogde kans op doorglijden.
+
+Bij gladde sporen handelt de machinist als volgt:
+- direct de treindienstleider inlichten
+- rijgedrag aanpassen (gematigd opschakelen en ervoor zorgen dat de wielen constant
+
+     grip houden op de spoorstaven)
+- voor de kortste remweg een snelremming inzetten.
+
+Een aantal spoorvoertuigen heeft een tank met zand. Een machinist kan de trein zand laten
+strooien om de wrijving tussen wielen en spoorstaven te verhogen.
+
+Zandstrooien is alleen toegestaan om het spoorvoertuig in beweging te stellen of op tijd tot
+stilstand te brengen en kan dus toegepast worden bij gladde sporen.
+
+Zandstrooien is verboden in de buurt van wissels en kruisingen, bij het remmen bij snelheden
+van minder dan 20 km/u en bij stilstand (behalve voor het testen van de zandstrooi-
+installatie).
+
+1.15 Wat doet de machinist bij ijzel- of rijpafzetting op de bovenleiding?
+
+Een laagje ijs op de bovenleiding vermindert het contact tussen de stroomafnemer en de
+bovenleiding. De weerstand en vlambogen die bij ijzel- of rijpafzetting ontstaan, kosten veel
+energie en kunnen schade toebrengen aan de bovenleiding en stroomafnemer(s).
+
+Bij ijzel/rijp op de bovenleiding handelt de machinist als volgt:
+- hij neemt contact op met de treindienstleider en volgt diens instructies op
+- hij controleert de stroomafnemers en beweegt ze als het kan een paar keer op en neer
+
+     (gangbaarheid).
+
+VVRV cluster Railinfra  24/30
+1.16 Wanneer is een infrastoring een veiligheidsstoring?
+
+Een veiligheidsstoring is een storing aan de infra die direct gevaar kan opleveren voor de
+spoorwegveiligheid.
+
+Het constateren en afhandelen van veiligheidsstoringen moet zodanig zijn dat wordt voldaan
+aan de primaire eis die gesteld wordt aan railvervoer: veiligheid.
+
+1.17 Wat doet de machinist bij het wegvallen van de bovenleidingspanning?
+
+Het kan voorkomen dat de spanning op de bovenleiding ineens wegvalt.
+
+Als de bovenleidingspanning wegvalt, handelt de machinist als volgt:
+- hij laat de stroomafnemer(s) neer
+- hij neemt contact op met de treindienstleider en volgt diens instructies op.
+
+Als het probleem gevolgen heeft voor de reizigers kan in overleg met de treindienstleider en
+de eigen spoorwegonderneming evacuatie van de reizigers plaatsvinden.
+
+1.18 Wat doet de machinist bij een defecte bovenleiding?
+
+De bovenleiding kan defect raken of een breuk vertonen. Het afhangend deel kan zich op
+de trein/het rangeerdeel bevinden.
+
+Bij een defect of breuk aan de bovenleiding handelt de machinist als volgt:
+- hij laat de stroomafnemer(s) neer bij gevaar voor de spoorwegveiligheid
+- hij meldt dit direct daarna aan de treindienstleider
+- hij blijft op veilige afstand: tenminste 1,5 meter van de spanningsvoerende delen van de
+
+     bovenleiding.
+
+Bevindt een afhangend deel van de bovenleiding zich op de trein/het rangeerdeel, dan:
+- vraagt de machinist de treindienstleider om de bovenleiding uit te schakelen
+
+     (afschakelen en aarden, wachten op bevestiging), voordat personen de trein verlaten.
+
+Als het probleem gevolgen heeft voor de reizigers kan in overleg met de treindienstleider en
+de eigen spoorwegonderneming evacuatie van de reizigers plaats vinden.
+
+VVRV cluster Railinfra  25/30
+1.19 Wat doet de machinist bij een wisselstoring?
+
+Er is sprake van een wisselstoring als het wissel niet in de goede stand ligt, de wisseltongen niet
+goed aansluiten/afliggen, er beschadigingen zijn aan het wissel, de stangen of de stellerkast.
+
+Als een spoorvoertuig vanaf het puntstuk naar de wisseltongen rijdt waarvan het puntstuk
+gesloten ligt, is er sprake van `openrijden' van het wissel. Het wissel kan bij dit openrijden
+ernstig beschadigen.
+
+Een opengereden wissel meldt de machinist direct aan de treindienstleider. Over het
+opengereden wissel mogen geen trein- of rangeerbewegingen meer plaatsvinden.
+
+Bij een wisselstoring handelt de machinist als volgt:
+- niet centraal bediend gebied
+
+     staat een wissel tijdens het rangeren niet in de eindstand, dan stopt de
+     rangeerder/machinist voor het wissel en rijdt hij pas verder als hij zeker weet dat het wissel
+     veilig kan worden bereden
+- centraal bediend gebied
+     nadat de machinist European Instruction 1 en European Instruction 6 met aanvullende
+     instructie X.95 van de treindienstleider heeft ontvangen, kan hij rijden tot of over het wissel
+     dat in storing ligt.
+
+Bij een storing aan een wissel controleert de machinist in opdracht van de treindienstleider:
+- of de wisseltongen goed aansluiten/afliggen
+- in welke stand het wissel ligt
+- of er beschadigingen zijn aan het wissel, de stangen of de stellerkast.
+
+De machinist geeft vervolgens zijn bevindingen door aan de treindienstleider.
+Na toestemming van de treindienstleider mag de machinist verder rijden op zicht.
+
+1.20 Wat doet de machinist bij een overwegstoring?
+
+AHOB/AOB
+Er is sprake van een storing bij een overweg die is beveiligd met automatische halve
+overwegbomen of automatische overpadbomen (AHOB of AOB) als de bomen niet of
+slechts gedeeltelijk sluiten, als de bomen gesloten blijven na passeren of als het aanrijden van
+de middensectie niet werkt.
+
+Als de overweg niet goed functioneert, geeft de treindienstleider European Instruction 8 en
+handelt de mcn als volgt:
+- snelheid verminderen naar 10 km/u
+- attentiesein (fluitsignaal) geven
+
+VVRV cluster Railinfra  26/30
+- stoppen als dit nodig is voor de veiligheid van het wegverkeer.
+
+Als de overweginstallatie niet werkt:
+- stoppen voor de overweg
+- wachten dot de bomen sluiten
+- snelheid hernemen als de eerste as over de overweg is.
+
+Als de overweginstallatie nog steeds niet functioneert (aanrijden middensectie werkt niet):
+Bij dag:
+- overweg beveiligen met rode vlag tot de eerste as over de overweg is
+- snelheid hernemen als eerste as over de overweg is
+Bij nacht en slecht zicht:
+- overweg beveiligen met een rood licht (liefst knipperend) tot de trein geheel over de
+
+     overweg is
+- snelheid hernemen als eerste as over de overweg is
+
+AKI
+
+Er is sprake van een storing bij een overweg die is beveiligd met een automatische
+knipperlichtinstallatie (AKI) als het automatische knipperlicht of de geluidsinstallatie niet goed
+werken.
+
+Bij een overwegstoring AKI handelt de machinist na het ontvangen van een European
+Instruction 8 als volgt:
+- snelheid verminderen naar 10 km/u
+- attentiesein (fluitsignaal) geven
+- stoppen als dit nodig is voor de veiligheid van het wegverkeer.
+
+Als de overweginstallatie niet werkt:
+- de middensectie aanrijden en stoppen
+- pas verdergaan nadat de AKI twintig seconden werkt
+- normale snelheid rijden nadat de eerste as van het spoorvoertuig de overweg is
+
+     gepasseerd.
+
+HALI/ALI
+Er is sprake van een storing bij een overweg die is beveiligd met een (half)automatische
+lichtinstallatie ((HALI of ALI) als sein 226c wordt getoond.
+
+Bij een overwegstoring (H)ALI handelt de machinist als volgt:
+- stoppen voor de overweg(en)
+- verder rijden als sein 226b wordt getoond (in werking).
+
+VVRV cluster Railinfra  27/30
+Als dit sein niet wordt getoond, dan melden bij de treindienstleider en behandelen als
+wegkruising.
+
+Er wordt geen European Instruction gegeven.
+
+1.21 Wat doet de machinist bij spoorspatting of spoorverzakking?
+
+Spoorstaven hebben de neiging onder invloed van temperatuursveranderingen uit te zetten
+of te krimpen. Doordat de constructie dit verhindert, ontstaan er bij lage temperaturen
+trekkrachten en bij hoge temperaturen drukkrachten. Onder invloed van drukkrachten `wil'
+het spoor in zijdelingse richting uitbuigen; is de spoorconstructie onvoldoende sterk om dit
+tegen te houden, dan geeft het spoor plotseling mee en is spoorspatting is een feit. Er
+ontstaat ontsporingsgevaar.
+
+Spoorverzakkingen zijn het gevolg van het wegzakken van de ondergrond of het ballastbed.
+Bodemgesteldheid, kwaliteit van de ballast (afname door veroudering), maar ook
+weersinvloeden zijn de belangrijkste oorzaken (langdurige regen). Spoorverzakkingen doen
+afbreuk aan het comfort van het reizigers- en goederenvervoer. De trein zal bij het passeren
+van een spoorverzakking gaan `stuiteren' en in de directe omgeving nog meer schade aan
+de railinfra toebrengen als gevolg van de grote krachten die hierbij vrij komen op de
+spoorstaven, ballastbed en ondergrond. Er ontstaat ontsporingsgevaar.
+
+Bij het vermoeden van spoorspatting of spoorverzakking in het eigen spoor handelt de
+machinist als volgt:
+- de trein zo snel mogelijk tot stilstand brengen
+- alarmoproep geven via GSM-R
+- gevaarsein ontsteken
+- indien nodig nevenspoor met de kortsluitkabel afdekken
+- eventueel tegentrein tegemoet lopen
+- na onderzoek de treindienstleider de nodige informatie geven
+- de eigen spoorwegonderneming informeren.
+
+Afhankelijk van de ernst van de spoorverzakking wordt eerst European Instruction 6 gegeven.
+Als de snelheid bekend is, wordt European Instruction 5 gegeven. Zijn er L-, A- en E-borden
+geplaatst, dan worden de borden en snelheid opgenomen in de TSB week-/dagpublicatie.
+
+VVRV cluster Railinfra  28/30
+1.22 Wat betekenen werkzaamheden aan de infra voor de machinist?
+
+Altijd wordt er in Nederland, door aannemers onder eindverantwoordelijkheid van ProRail,
+wel ergens gewerkt aan de infra:
+- onderhoud
+
+     o dagelijks onderhoud (functiehandhaving en functieherstel)
+     o grootschalig onderhoud
+     o grootschalige vernieuwing
+- nieuwbouw-/uitbreidingsprojecten.
+
+De onderhoudswerkzaamheden omvatten de disciplines: ondergrondse infra, baan (spoor en
+wissels), treinbeveiliging, energievoorziening, kunstwerken, telecom- en
+computernetwerkservices (ICT).
+
+Buitendienststelling en indienststelling
+
+Om veilig aan de infra te kunnen werken, stelt de treindienstleider het betreffende spoor
+buiten dienst (BD). Dit kan op alle spoorlijnen en emplacementen. Op buitendienstgesteld
+spoor is geen normale exploitatie toegestaan; het wordt zelfs onmogelijk gemaakt.
+
+Spoor wordt buiten dienst gesteld (niet beschikbaar gesteld) bij:
+- een veiligheidsrisico (treinincidenten en evacuaties)
+- een spoedreparatie
+- onderhoud en vernieuwing
+- nieuwbouw/uitbreiding.
+
+Bij buitendienstgesteld spoor zijn onder meer betrokken:
+- de treindienstleider
+- de leider werkplekbeveiliging (LWB)
+- de gereedschapsmachinist (GMcn) voor zelfrijdend gereedschap
+- de machinist voor werktreinen
+- de begeleider buitendienstgesteld spoor (BBD).
+
+Aan het begin van de buitendienststelling vraagt de LWB aan de treindienstleider om de
+sporen buitendienst te stellen. De treindienstleider neemt vervolgens maatregelen om het
+treinverkeer naar het betreffende spoor uit te sluiten. Er wordt dan gesproken over een
+`treinvrije periode'.
+
+Bij werkzaamheden op buitendienst gestelde sporen wordt altijd gewerkt onder de NVW-
+normen (Normenkader Veilig Werken).
+
+De LWB is verplicht veiligheidsmaatregelen te treffen, zoals bijvoorbeeld het plaatsen van een
+kortsluitlans of het klemmen van een wissel. De te nemen veiligheidsmaatregelen staan
+beschreven in de werkplekbeveiligingsinstructie (WBI).
+
+VVRV cluster Railinfra  29/30
+Alle treinbewegingen die plaatsvinden op buitendienstgesteld spoor ten behoeve van
+werkzaamheden worden verricht door één of meer werktreinen. Er zijn meerdere
+werktreinbewegingen mogelijk in de buitendienststelling. De werktrein wordt begeleid door
+een begeleider buitendienstgesteld spoor (BBD).
+
+Tijdens de periode dat het spoor tijdens werkzaamheden buitendienstgesteld is, stelt de
+treindienstleider geen infracapaciteit beschikbaar. De LWB is verantwoordelijk.
+
+Nadat de LWB de werkzaamheden gereed heeft gemeld, stelt de treindienstleider weer
+infracapaciteit beschikbaar; er is weer normaal treinverkeer mogelijk.
+
+OBI (voorheen SMC)
+Het Operationeel Besturingscentrum Infra (voorheen Schakel- en Meldcentrum SMC, nu OBI)
+van ProRail wordt ingeschakeld voor het schakelen en verhelpen van storingen aan de
+bovenleiding, storingen aan tunneltechnische installaties (TTI) en calamiteiten in tunnels.
+
+Bij problemen aan de infra communiceert de machinist met de treindienstleider en deze
+communiceert met het OBI of met de meldkamer spoor/Backoffice.
+
+1.23 Hoe komt de machinist aan informatie over werkzaamheden aan de
+       infra?
+
+Machinisten worden door middel van de IAM/TSB (infra-informatie aan machinisten/met
+daarin tijdelijke snelheidsbeperkingen) geïnformeerd over de geplande werkzaamheden. De
+IAM/TSB vermeldt de consequenties voor de uit te voeren dienst.
+
+Voorbeelden zijn:
+- de plaatsing van L-, A- en E-borden
+- de richting van de werkzaamheden
+- het tijdelijk buiten gebruik zijn van seinen.
+
+Ongeplande werkzaamheden ten gevolge van treinincidenten zijn niet opgenomen in de
+IAM; de machinist wordt dan geïnformeerd door middel van een European Instruction:
+- 5 (om rekening te houden met de toestand van de infra)
+- 6 (om rekening te houden met werkzaamheden langs de baan en/of hulpverleners).
+
+VVRV cluster Railinfra  30/30
+

@@ -1,0 +1,38 @@
+{
+ "clusters": [
+  "01.json",
+  "02.json",
+  "03.json",
+  "04.json",
+  "05.json",
+  "06.json",
+  "07.json",
+  "08.json",
+  "09.json",
+  "10.json",
+  "11.json",
+  "12.json"
+ ],
+ "extra": [
+  {
+   "titel": "ORE v2.1 (vorige versie)",
+   "href": "bronnen/ertms-operationele-regels-versie-2-1.pdf"
+  },
+  {
+   "titel": "Cluster ERTMS/ETCS nov 2025 (vorige versie)",
+   "href": "bronnen/11-nov-25-cluster-ertms-etcs.pdf"
+  },
+  {
+   "titel": "Wijzigingsdocument vakkennis mei 2026",
+   "href": "bronnen/exam-vak-20260501-wijzigingsdocument-vakkennis.pdf"
+  },
+  {
+   "titel": "Wijzigingsdocument ERTMS/ETCS per 1 okt 2026",
+   "href": "bronnen/exam-vak-20260612-wijzigingsdocument-vakkennis-ertms.pdf"
+  },
+  {
+   "titel": "Alle clusters gecombineerd mei 2026 (vvrv.nl)",
+   "href": "https://vvrv.nl/uploads/files/page/mei-26-alle-clusters-gecombineerd.pdf"
+  }
+ ]
+}

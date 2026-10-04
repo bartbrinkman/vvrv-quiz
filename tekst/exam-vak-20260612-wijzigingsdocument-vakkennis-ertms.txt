@@ -1,0 +1,176 @@
+Wijzigingsdocument vakkennis ERTMS/ETCS juni 2026
+Bronmateriaal examen machinist vergunning bijlage IV machinistenrichtlijn
+
+Let op: de hieronder opgenomen wijzigingen zijn een deel van de tekst in het betreffende
+
+cluster. Als je opmerkingen hebt, deze dan graag bekijken in samenhang met het cluster.
+
+                                                 ERTMS/ETCS
+
+                      Versie november 2025                                      Versie juni 2026
+
+1.1 Voorwoord                                                Gewijzigd
+
+Waar verwezen wordt naar Operationele Regels ERMS Waar verwezen wordt naar Operationele Regels
+
+Nederland, wordt bedoeld versie 21 mei 2025.                 ERMS Nederland, wordt bedoeld versie 2.2 mei 2026.
+
+1.11 Wat is een SOM?                                         Toegevoegd
+
+                                                             Kan het juiste Level niet worden gekozen, dan moet
+
+                                                             de machinist de On-board zodanig resetten dat de
+
+                                                             treinpositie onbekend wordt en er een Level kan
+
+                                                             worden gekozen,
+
+1.29 Hoe werkt de Mode Staff Responsible?                    Toegevoegd
+
+1.30 Hoe werkt de Mode On Sight?                             Symbool
+                                                             Toegevoegd
+
+                                                             Symbool
+
+1.41 Hoer werkt Start en vertrek in Level 2/tekstmelding     Gewijzigd
+
+`Wacht'                                                      Trein positie bekend
+
+Trein positie bekend                                         .....
+
+...                                                          Na het bevestigen van de mode On Sight,
+
+Na het bevestigen van de mode On Sight,                      moet de machinist de toegelaten snelheid
+
+moet de machinist de toegelaten snelheid                     oproepen.
+
+oproepen (toggle).                                           De machinist kan nu vertrekken.
+
+De machinist kan nu vertrekken.
+
+Mode On Sight                                                Gewijzigd
+
+Na het bedienen van de knop "Start", wordt                   Mode On Sight
+
+de mode On Sight aangeboden. De                              Na het bedienen van de knop "Start", wordt de
+
+machinist bevestigt de mode On Sight.                        mode On Sight aangeboden als er een rijweg is
+
+                                                             ingesteld. De machinist bevestigt de mode On Sight.
+
+1.43 Hoe zet de machinist de trein weg?                      Toegevoegd:
+
+                                                             LET OP: Als in Level 2 gebied de mode Shunting wordt
+
+                                                             aangeboden en de treinbeweging eindigt op de
+
+                                                             grens van CBG naar NCBG, dan bevestigt de
+
+                                                             machinist deze niet.
+
+1.54 Hoe werkt rangeren in Shunting in een CBG?              Gewijzigd
+
+De toestemming kan worden gegeven door middel van De toestemming kan worden gegeven door middel
+
+een:                                                         van een:
+
+- lamp op/onder het SMB                                      - rangeerrijwegsein op/onder het SMB
+
+- mobiel Shunting apparaat                                   - European Instruction 7 met vak 7.11 en 7.20 met
+
+- European Instruction 7 met vak 7.11 en 7.20 met het               het opgegeven SMB nummer.
+
+      opgegeven SMB nummer.
+
+                                                             Toegevoegd
+
+                                                             Als er wordt gereden zonder rangeerrijwegseinen of
+
+                                                             hoofdseinen, dan moet de machinist stoppen voor
+
+                                                             iedere overweg met een LX bord zoals beschreven in
+
+                                                             5.4.3 van ORE 2.2
+
+1.55 Hoe werkt het gebruik van de Override EOA met           Toegevoegd
+
+European Instruction 1?                                      Voor het passeren van een hoofdsein bij een
+
+                                                             transitielocatie naar ETCS-Level 1 of 2
+
+                                                             Om een stoptonend hoofdsein bij een transitielocatie
+
+                                                             van Level NTC-ATB naar Level 1 of 2 te mogen
+
+                                                             passeren, moet de machinist van de treindienstleider
+
+                                                             een European Instruction 1 krijgen.
+
+                                                             De machinist moet de procedure "Override EOA" en
+
+                                                             de "ATB-Vv" procedure toepassen.
+
+                                                             Deze functies kunnen gecombineerd zijn in het
+
+                                                             materieel.
+
+1.58 Wat doet de machinist als een balisefout optreedt?      Toegevoegd
+
+Balisefout in de Mode Shunting                               Als de balisefout op een balise van het buitendienst
+
+                                                             gesteld spoor optreedt, dan moet de machinist dit
+
+                                                             aan de LWB melden.
+
+                                                                                                            1
+1.59 Wat doet de machinist na een alarmoproep via GSM-R Gewijzigd
+
+Als de machinist een alarmoproep ontvangt          Als de machinist een alarmoproep
+
+via de GSM-R gaat de machinist over naar           ontvangt via de GSM-R gaat de machinist
+
+'rijden op zicht.                                  direct rijden op zicht.
+
+Bij het naderen van een Non Stopping Area          Gewijzigd
+
+Als er een alarm oproep wordt ontvangen bij        Bij het naderen van een tunnel of Non Stopping Area
+
+het naderen van een Non Stopping Area en           Als er een alarm oproep wordt ontvangen
+
+de machinist niet meer kan stoppen voor het        bij het naderen van een tunnel of Non
+
+bereiken van de Non Stopping Area dan rijdt        Stopping Area en de machinist niet meer
+
+de machinist met `rijden op zicht', tenzij het     kan stoppen voor het bereiken van de
+
+in de calamiteitenplannen van de                   tunnel of Non Stopping Area dan rijdt de
+
+infrabeheerder anders is bepaald. Bij gevaar       machinist met `rijden op zicht', Machinisten
+
+moet de machinist direct stoppen.                  van goederentreinen kiezen een veilige
+
+                                                   snelheid waarmee de tunnel of Non
+
+Zodra het Non Stopping Area symbool dooft          Stopping Area nog uitgereden kan worden.
+gaat de machinist over naar `rijden op zicht'.     Bij gevaar moet de machinist direct
+                                                   stoppen.
+
+Rijdend in een Non Stopping Area                   Zodra de tunnel is verlaten of het Non
+Als er een alarm oproep wordt ontvangen in         Stopping Area symbool dooft gaat de
+een Non Stopping Area, dan rijdt de                machinist direct `rijden op zicht'.
+machinist met `rijden op zicht., tenzij het in de  Gewijzigd
+calamiteitenplannen van de infrabeheerder          Rijdend in een tunnel of Non Stopping Area
+anders is bepaald.                                 Als er een alarm oproep wordt ontvangen in een
+                                                   tunnel of Non Stopping Area, dan gaat de machinist
+Zodra het Non Stopping Area symbool dooft gaat de  direct `rijden op zicht. Machinisten van
+machinist over naar `rijden op zicht'.             goederentreinen kiezen een veilige snelheid
+                                                   waarmee de tunnel of Non Stopping Area nog
+                                                   uitgereden kan worden.
+                                                   Bij gevaar moet de machinist direct stoppen.
+
+                                                   Zodra de tunnel is verlaten of het Non Stopping Area
+                                                   symbool dooft, gaat de machinist direct `rijden op
+                                                   zicht'.
+
+                                                                                                 2
+

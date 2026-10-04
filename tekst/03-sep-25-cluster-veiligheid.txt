@@ -1,0 +1,561 @@
+VVRV cluster Veiligheid
+
+                                                                                                                                                             1/14
+Veiligheid                                                               3
+
+1.1 Voorwoord                                                            3
+
+1.2 Waarom aandacht voor veiligheid?                                     3
+
+1.3 Wat zegt de machinistenrichtlijn over veiligheid?                    4
+
+1.4 Wat zegt de Spoorwegwet over veiligheid?                             5
+
+1.5 Wat zegt de Arbeidsomstandighedenwet over veiligheid?                5
+
+1.6 Wat is er geregeld over toegang tot het spoor?                       6
+
+1.7 Wat wordt bedoeld met veiligheidscultuur?                            6
+
+1.8 Wat is de rol van de machinist bij het bevorderen van veiligheid?    7
+
+1.9 Wat zijn risico's op of nabij de railinfra?                          9
+
+1.10 Wat heeft de machinist om zichzelf te beschermen?                   9
+
+1.11 Wat doet de machinist om risico's op verwondingen te
+
+              verminderen?                                               10
+
+1.12 Wat doet de machinist om risico's op aanrijding te verminderen?     12
+
+1.13 Wat doet de machinist om risico's op elektrocutie/elektrisering te
+
+              verminderen?                                               13
+
+1.14 Welke veiligheidsmiddelen moeten altijd aanwezig zijn?              13
+
+1.15 Welke seinen zijn van belang voor de veiligheid?                    14
+
+VVRV cluster
+Veiligheid
+
+                                                                             2/14
+1  Veiligheid
+
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan verbreding
+worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld. Toch
+kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet
+aansprakelijk voor schade als gevolg daarvan.
+
+Versie september 2025
+
+1.2 Waarom aandacht voor veiligheid?
+
+Het beleid van de overheid is erop gericht het huidige hoge veiligheidsniveau duurzaam te
+bestendigen door te streven naar permanente verbetering van de veiligheid van het
+railvervoer.
+
+Alle betrokkenen in het railvervoer gaan voor een veilig spoor zonder incidenten en
+ongevallen. Óók voor de mensen die op en rond het spoor werken. In samenwerking tussen
+alle partijen wordt ervoor gezorgd dat niemand onnodig risico loopt. Zo heeft de
+spoorbranche gezamenlijk regelgeving gemaakt voor veilig werken. Er wordt zorgvuldig
+gekeken of het treinverkeer tijdens werkzaamheden moet worden aangepast. En iedereen
+die op spoorwegterrein komt, moet daarvoor een geldig toegangsbewijs hebben.
+
+Veiligheidsfunctie
+De functie van machinist is aangemerkt als veiligheidsfunctie, dat is een functie binnen het
+spoorwegverkeerssysteem die van grote invloed is op de veiligheid van het spoorverkeer.
+Iemand met een veiligheidsfunctie is bevoegd om zich onder voorwaarden
+(onder andere identificatieplicht) op spoorwegterrein te begeven.
+
+Werkzaamheden van de machinist waarvoor hij zich in of nabij de railinfra bevindt, zijn
+bijvoorbeeld:
+- gereedmaken en controles uitvoeren
+
+VVRV cluster
+Veiligheid
+
+               3/14
+- materieelstoringen diagnosticeren en waar mogelijk beperken/verhelpen
+- treinincidenten waar mogelijk voorkomen/beperken.
+
+Ook voor opleidingsdoelen en rangeerwerkzaamheden kan hij zich in de directe nabijheid
+van railinfra bevinden, en dus op door de infrastructuurbeheerder (ProRail) beheerd
+spoorterrein met (ProRail) regelgeving.
+
+Het is daarom van belang veel aandacht te besteden aan (persoonlijke) veiligheid.
+
+Veiligheid
+Veiligheid is de mate van afwezigheid van potentiële oorzaken van een gevaarlijke situatie of
+de mate van aanwezigheid van beschermende maatregelen tegen deze potentiële
+oorzaken. Veiligheid is een relatief begrip, aangezien niets onder alle omstandigheden
+volledig zonder gevaar is.
+
+Uit (internationale) evaluaties blijkt dat het spoor in Nederland al jaren een hoog
+veiligheidsniveau kent, ook internationaal gezien. Dit terwijl de omvang van het spoorvervoer
+in de afgelopen jaren is toegenomen en het Nederlandse spoornet in vergelijking met
+andere landen een zeer intensieve benutting heeft. Dit hoge niveau is mede te danken aan
+de ingezette maatregelen.
+
+Tegelijkertijd moet worden geconstateerd dat absolute veiligheid niet bestaat en dat het niet
+realistisch is te verwachten dat er nooit incidenten of ongevallen zullen plaatsvinden. Van
+belang is risico's zo goed mogelijk in kaart te brengen en de juiste maatregelen te treffen om
+deze risico's te beheersen. Alertheid van alle partijen blijft dus onverminderd nodig.
+
+Persoonlijke veiligheid
+Onder persoonlijke veiligheid wordt verstaan: de bescherming of het zich beschermd voelen
+tegen gevaar dat veroorzaakt wordt door of dreigt van de kant van menselijk handelen in de
+'eigen ruimte' (woning of werk).
+
+1.3 Wat zegt de machinistenrichtlijn over veiligheid?
+
+In artikel 18 lid 2 van de EU Richtlijn 2007/59 (machinistenrichtlijn) staat het volgende: als de
+machinist meent dat zijn gezondheidstoestand reden geeft tot twijfels over zijn
+arbeidsgeschiktheid, dan stelt hij de spoorwegonderneming of de infrastructuurbeheerder
+daarvan onmiddellijk in kennis.
+
+Ook bijlage IV van de Richtlijn bevat verwijzingen naar veiligheid, onder meer dat de
+machinist in staat is veiligheidsvoorschriften toe te passen en dat de machinist gedrag
+vertoont dat in overeenstemming is met voor de veiligheid cruciale verantwoordelijkheden.
+
+VVRV cluster Veiligheid  4/14
+1.4 Wat zegt de Spoorwegwet over veiligheid?
+
+De Spoorwegwet geeft aan wie zich om welke reden in of nabij de spoorweg mag bevinden.
+
+Artikel 3, stelt: "Het is een ieder verboden zich zodanig te gedragen dat gevaar op de
+spoorweg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de spoorweg
+wordt gehinderd of kan worden gehinderd."
+
+In artikel 4 staat: "Het is een ieder verboden een veiligheidsfunctie uit te oefenen dan wel op
+de uitoefening van zodanige functie toezicht te houden terwijl hij verkeert onder zodanige
+invloed van een stof waarvan hij weet of redelijkerwijs moet vermoeden dat het gebruik
+daarvan, al dan niet in combinatie met een andere stof, de vaardigheid tot het uitoefenen
+van die functie of tot het houden van toezicht op de uitoefening van die functie kan
+verminderen, dat hij niet tot het behoorlijk uitoefenen van die functie of tot het behoorlijk
+uitoefenen van toezicht op de uitoefening van die functie in staat moet worden geacht."
+
+Een alcoholpercentage van maximaal 0.5 promille is wettelijk toegestaan. Dit betekent
+maximaal een halve milligram alcohol per milliliter (1cc) bloed of 220 microgram per liter
+uitgeademde lucht. Dit is na onderzoek vast te stellen.
+De spoorwegonderneming kan aanvullende regels stellen; deze mogen strenger zijn dan wat
+wettelijk is toegestaan.
+
+Personen die een veiligheidsfunctie uitoefenen dan wel op de uitoefening van zodanige
+functie toezicht houden, of daartoe aanstalten maken, zijn verplicht hun medewerking te
+verlenen aan een voorlopig onderzoek van uitgeademde lucht en daartoe volgens door die
+ambtenaar te geven aanwijzingen ademlucht te blazen in een door die ambtenaar
+aangewezen apparaat (artikel 4).
+
+1.5 Wat zegt de Arbeidsomstandighedenwet over veiligheid?
+
+De Arbeidsomstandighedenwet (Arbowet) vormt de basis van de arbowetgeving. Hierin
+staan de algemene bepalingen die gelden voor alle plekken waar arbeid wordt verricht. De
+Arbowet is een kaderwet. Dat betekent dat er geen concrete regels in staan. Die zijn verder
+uitgewerkt in het Arbobesluit en de Arboregeling.
+
+In het Arbobesluit staan de regels waar zowel werkgever als werknemer zich aan moeten
+houden om arbeidsrisico's tegen te gaan. Deze regels zijn verplicht.
+
+De Arboregeling is een verdere uitwerking van het Arbobesluit. Het gaat hierbij om concrete
+voorschriften. Bijvoorbeeld de eisen waar arbeidsmiddelen aan moeten voldoen of hoe een
+arbodienst zijn wettelijke taken exact moet uitvoeren. Ook deze regels zijn verplicht voor
+werkgever en werknemer.
+
+VVRV cluster Veiligheid  5/14
+Arbowetgeving dwingt de werkgever en de werknemer te voldoen aan voorschriften waaruit
+de verplichting voortvloeit om risico's in kaart te brengen en maatregelen te nemen,
+bijvoorbeeld bij de bediening van machines, het gebruik van persoonlijke
+beschermingsmiddelen en voorlichting en instructie.
+
+1.6 Wat is er geregeld over toegang tot het spoor?
+
+De veilige toegang tot spoorwegterrein is geregeld in artikel 22 van de Spoorwegwet en de
+Gedragsregels op spoorwegterreinen van ProRail.
+
+Personen die geen veiligheidsfunctie volgens de Spoorwegwet bekleden en in of nabij het
+spoor moeten zijn, moeten:
+- een opdracht hebben
+- een instructie volgen.
+
+De spoorwegonderneming vult dit zelf in.
+
+Iedereen die rond het spoor of op bouwplaatsen van ProRail werkzaamheden uitvoert
+(gevarenzone A of B), moet in het bezit zijn van een geldig Digitaal Veiligheidspaspoort
+(DVP). Als bezoeker of voor incidenteel werk is een dagpas nodig om bouwplaatsen en het
+gebied rond het spoor te kunnen betreden. Daarbuiten is er geen pas vereist, maar gelden
+voor iedereen de richtlijnen voor veilig werken (zie Arbowet en Toegangsvoorwaarden in
+Netverklaring ProRail). Voordat de dagpas wordt geactiveerd, krijgt de bezoeker of
+werknemer eerst ter plekke een veiligheidsinstructie.
+
+Iedere machinist moet naast een geldig identiteitsbewijs (paspoort, ID-kaart, rijbewijs) zijn
+machinistenvergunning en aanvullend bevoegdheidsbewijs kunnen tonen aan
+gezagsdragers zoals politie en ILT.
+
+Er kunnen extra bepalingen gelden. Bijvoorbeeld voor toegang tot het
+goederenemplacement Kijfhoek is ook voor machinisten een afzonderlijke toegangspas
+verplicht. Bij werkzaamheden op de Kijfhoek is de machinist verplicht:
+- een portofoon of alarmeringssemafoon te dragen (zodat bij het constateren van een
+
+     calamiteit de treindienstleider onmiddellijk kan worden bereikt)
+- alleen op daartoe aangewezen plaatsen te roken (in verband met de aanwezigheid van
+
+     gevaarlijke stoffen).
+
+1.7 Wat wordt bedoeld met veiligheidscultuur?
+
+Veiligheidscultuur gaat over hoe mensen met elkaar omgaan in het kader van veiligheid in
+een organisatie, op alle niveaus. Het gaat om handelen, houding en gedrag gericht op
+veiligheid van jezelf en anderen.
+
+VVRV cluster Veiligheid  6/14
+Het opstellen van regels is één ding, het na (willen) leven ervan is iets anders. Veiligheid heeft
+vooral ook te maken met mentaliteit, houding en gedrag. Veilig werken is niet iets van één
+persoon, de gehele organisatie moet ervan doordrongen zijn.
+
+Binnen de spoorbranche (railvervoer en railinfra) is er sprake van een veiligheidscultuur
+wanneer:
+- het veiligheidsbewustzijn bij al het personeel hoog is
+- onveilig werken niet wordt getolereerd.
+
+Onveilige situaties zijn meestal het gevolg van menselijke factoren (human factors) en komen
+voor door de drie O's:
+- onverschilligheid
+- onvoorzichtigheid (onoplettendheid/onachtzaamheid)
+- onwetendheid.
+
+Ook routine/verwachtingspatroon kan leiden tot onveilige situaties.
+
+Elkaar op onveilig gedrag, onveilige communicatie en onveilige situaties aanspreken, is iets
+wat iedereen binnen de spoorbranche altijd moet doen. Het is de overkoepelende
+veiligheidsregel.
+
+Iedereen respecteert het recht van de ander om hem/haar aan te spreken.
+
+Elkaar aanspreken is niet alleen van belang voor de veiligheid van de aanspreker, maar
+behoedt de aangesprokene voor letselschade of erger.
+
+In een veiligheidscultuur past ook dat de machinist ervoor zorgt dat hij tijdens zijn werk
+psychisch en lichamelijk uitgerust is.
+
+De machinist stemt zijn handelen altijd af op de veiligheid van zichzelf en van zijn collega's.
+
+1.8 Wat is de rol van de machinist bij het bevorderen van veiligheid?
+
+Begeleiden van een personeelslid in opleiding
+Wordt aan een bevoegd machinist een personeelslid in opleiding toegevoegd, dan mag de
+laatste onder begeleiding werkzaamheden uitvoeren die betrekking hebben op de functie
+waarvoor hij in opleiding is. Degene die in opleiding is mag met andere woorden: zelfstandig
+zonder begeleiding géén handelingen uitvoeren.
+
+De begeleidende machinist is verantwoordelijk voor elke fout of nalatigheid die hij tijdens het
+begeleiden van de persoon in opleiding had kunnen voorkomen of herstellen.
+
+VVRV cluster Veiligheid  7/14
+Onregelmatigheden melden aan de treindienstleider
+
+Ziet een machinist onregelmatigheden en/of defecten aan de infrastructuur die mogelijk
+gevolgen hebben voor de veiligheid, dan meldt hij dit aan de treindienstleider. (Als de
+treindienstleider niet te bereiken is, en alleen in noodgeval, melden via alarmnummer 112).
+Denk bijvoorbeeld aan:
+- kuilen en gaten in het loop-/schouwpad
+- achtergelaten gereedschap of bouwmateriaal
+- openstaande deuren/hekken
+- verdachte personen
+- plas olie/diesel, lekkende olie/diesel
+- vloeistof-/gaslek goederenwagen; machinist loopt haaks op de windrichting weg van het
+
+     incident.
+
+Onbevoegde personen langs en in het spoor
+
+De machinist houdt er rekening mee dat er naast de sporen personen aanwezig kunnen zijn.
+Van personen die geen signalerende kleding dragen moet worden uitgegaan dat deze zich
+niet in- of langs de hoofdspoorweg mogen bevinden. De machinist brengt de
+treindienstleider hiervan direct op de hoogte.
+
+Vluchtroute vrijhouden
+
+Bij dreigend gevaar moet een machinist zijn cabine onbelemmerd kunnen verlaten, wanneer
+de trein stil staat, maar ook wanneer er een noodremming is ingezet. Het treinpersoneel moet
+er daarom op letten dat de binnendeur naar de bediende cabine vrij blijft van reizigers en
+goederen. Ook de tussendeuren, deurloze overgangen tussen de compartimenten, en
+gangpaden moeten vrij worden gehouden.
+
+Maatregelen om erger te voorkomen
+
+Constateert een machinist een onveilige situatie dan neemt hij in eerste instantie
+maatregelen die erger voorkomen voor:
+- zichzelf
+- overige personen (treinpersoneel; reizigers; omstanders)
+- het milieu (de natuurlijke omgeving)
+- de spoorwegomgeving
+- het materieel en andere objecten.
+
+VVRV cluster Veiligheid  8/14
+1.9 Wat zijn risico's op of nabij de railinfra?
+
+Als de machinist zich in of nabij de railinfra bevindt, heeft hij te maken met grote risico's:
+- aanrijdgevaar
+- elektrocutiegevaar (zonder dodelijke afloop heet het elektrisering)
+- struikel- en beklemmingsgevaar
+- verblindingsgevaar
+- enzovoort.
+
+Aanrijdingen en elektrocutie hebben de grootste impact.
+
+Een onaanvaardbaar risico voor het veilig kunnen besturen van een trein ontstaat wanneer
+een machinist tijdens zijn werk onder invloed verkeerd van:
+- alcohol
+- drugs
+- medicijnen die de reactiesnelheid beïnvloeden.
+
+Aandachts- en concentratieproblemen kunnen ernstig gevaar opleveren voor de machinist
+en anderen.
+
+Vanzelfsprekend geldt dit ook voor andere veiligheidsfuncties en baanwerkers, dan wel
+iedereen die zich met toestemming bevindt op spoorterrein dat niet toegankelijk is voor
+publiek.
+
+1.10 Wat heeft de machinist om zichzelf te beschermen?
+
+Persoonlijke beschermingsmiddelen (PBM) verkleinen het risico op verwondingen.
+Waarschuwingskleding (signalerende kleding) is altijd verplicht.
+De werkgever bepaalt de overige PBM afhankelijk van de risico's die de medewerker loopt,
+bijvoorbeeld:
+- veiligheidsschoenen
+- veiligheidshelm (geel of wit)
+- werkhandschoenen
+- vluchtmasker.
+
+De machinist is er zelf verantwoordelijkheid voor dat hij beschikt over de juiste PBM.
+
+Verder heeft de machinist bij zich:
+- bril/lenzen en/of goed functionerend gehoorapparaat als dat vanuit de medische
+
+     keuring is voorgeschreven (De spoorwegonderneming kan aanvullende regels opstellen.
+- andere door de werkgever aangewezen hulp- en beschermingsmiddelen.
+
+VVRV cluster Veiligheid  9/14
+Veiligheidsschoenen
+Op een harde, vlakke ondergrond lopen is het veiligst. Spoorwegterrein is echter niet overal
+vlak. Risico's bij het lopen op spoorwegterrein zijn:
+- struikelen
+- uitglijden
+- zich ergens aan stoten
+- voet verzwikken
+- beklemd raken.
+
+Stevig schoeisel met een goed profiel (veiligheidsschoenen) helpen bij het stabiel lopen. De
+machinist draagt het schoeisel dat zijn werkgever hem voorschrijft.
+
+Signalerende kleding
+Bevindt een machinist zich in of nabij de spoorbaan dan is hij verplicht geel of oranje
+fluorescerende veiligheidskleding (jas, eventueel alleen een vest) met reflecterende strepen
+te dragen. Signalerende kleding moet voldoen aan de eisen in de Gedragsregels op
+spoorwegterreinen van ProRail.
+
+Voor signalerende kleding geldt onder meer het volgende:
+- kruisvormige reflecterende strepen zijn niet toegestaan
+- de kleding moet gesloten worden gedragen
+- de kleding moet zichtbaar zijn
+- de kleding mag niet oud of vuil zijn.
+
+Signalerende kleding die op de bovenzijde van het lichaam gedragen wordt moet voorzien
+zijn van een bedrijfsnaam- of logo van de werkgever.
+
+1.11 Wat doet de machinist om risico's op verwondingen te verminderen?
+
+Op- en afstappen materieel
+De machinist:
+- houdt zijn gezicht naar het materieel
+- is bedacht op olieresten onder zijn schoenen
+- zoekt steun bij de handgrepen en opstap (twee handen en één voet of één hand en
+
+     twee voeten)
+- let bij het uitstappen op het nevenspoor
+- kijkt bij het uitstappen eerst waar zijn voeten terecht komen.
+
+Staat de trein niet naast het perron, dan is ook bij het in- en uitstappen via reizigersdeuren
+extra voorzichtigheid geboden.
+
+VVRV cluster Veiligheid  10/14
+ Het op- of afstappen van voertuigen mag alleen als de voertuigen niet in beweging zijn!
+
+Langs en over het spoor lopen
+
+De machinist:
+- houdt bij lopen minimaal 1,5 meter afstand van de dichtstbijzijnde spoorstaaf
+- loopt waar dit kan over looppaden/schouwpaden
+- gebruikt hij looproutes zoals deze in de lokale/plaatselijke regelgeving zijn vastgelegd
+- maakt, als hij naar een ander spoor moet, gebruik van tunnels, bruggen of overpaden
+
+     waar ook reizigers mogen komen. Zijn dergelijke voorzieningen afwezig, dan gebruikt hij
+     bevloeringen die speciaal zijn aangelegd voor het oversteken van sporen. Als dit allemaal
+     niet kan, dan gebruikt hij de ballast
+- loopt wanneer het om een groep gaat, achter/voor zijn collega(`s) (in een rij)
+- kijkt geregeld om zich heen
+- steekt nooit over in een wissel/wisselstraat (vanwege mogelijk bewegende delen en
+     eventuele onoverzichtelijkheid)
+- gaat nooit op een spoorstaaf, dwarsligger, kabelgoot (gladheid) of losse tegel staan
+- staat bij bellen stil op een veilige plek
+- springt niet vanaf een perron in het spoor
+- minimaliseert het oversteken van perronsporen (bij uitzondering toegestaan, gebruik
+     afstapjes is verplicht).
+- kijkt bij oversteken spoor altijd twee keer naar beide kanten (er kan van beide kanten een
+     trein aankomen)
+- is op een rangeerterrein altijd extra op zijn hoede, mede doordat er sprake kan zijn van
+     een groot aantal onoverzichtelijk naast elkaar gelegen sporen.
+
+Oversteken van sporen bij opgestelde spoorvoertuigen
+
+De machinist:
+- klimt nooit over buffers en koppelingen
+- steekt niet over tussen voertuigen bij minder dan 4 meter tussenruimte
+- houdt minimaal 2 meter afstand van de voor- en achterzijde van een voertuig
+- kijkt bij het oversteken in de cabine (in verband met dode hoek collega in cabine)
+- let op mogelijke verplaatsingen van de stilstaande/opgestelde voertuigen
+- gebruikt zo nodig het bordes of de cabine van één van de opgestelde voertuigen.
+
+VVRV cluster Veiligheid  11/14
+1.12 Wat doet de machinist om risico's op aanrijding te verminderen?
+
+Naderen van een trein
+Bij het naderen van een trein:
+- staat de machinist langs het spoor stil buiten het profiel van vrije ruimte (PVR)
+- steekt de stilstaande machinist zijn hand op (niet zwaaien in verband met het ten
+
+     onrechte aanzien van de armbeweging voor een gevaarsein).
+
+Doordat de stilstaande machinist zijn hand opsteekt, weet de rijdende machinist dat zijn
+collega zijn trein heeft gezien.
+
+Ziet de rijdende machinist iemand een ronddraaiende beweging met één arm maken
+(gevaarsein), dan brengt hij de trein zo snel mogelijk tot stilstand.
+
+Aanrijding voorkomen bij storingen
+Is er gevaar voor aanrijding tijdens het diagnosticeren/opheffen van materieelstoringen, dan
+brengt de machinist dit materieel eerst over naar een veilige plaats. Is dit niet mogelijk dan
+moet de werkplek eerst beveiligd worden tegen:
+- het in beweging komen van het materieel terwijl eraan gewerkt wordt
+- gevaar voor aanrijding op het werkspoor
+- gevaar voor aanrijding op het nevenspoor.
+
+Profiel van vrije ruimte
+Het profiel van vrije ruimte (PVR) is de ruimte rondom de trein die bij een bepaalde maximum
+toegelaten snelheid nodig is om de trein ongehinderd te laten passeren. Binnen het PVR
+mogen zich geen personen en objecten (perrons, seinen, bovenleidingpalen,
+gereedschappen, enzovoort) bevinden. Het PVR loopt tot 1,5 meter vanaf de dichtstbijzijnde
+spoorstaaf (2,25 meter uit het hart van het spoor). Iedereen die binnen het PVR komt, loopt
+gevaar aangereden te worden.
+
+Een machinist mag binnen het PVR komen als dit noodzakelijk is. Hij is daarbij verplicht:
+- na te gaan of het werk veilig is uit te voeren
+- handelingen die tot een ongeval kunnen leiden na te laten
+- anderen te wijzen op mogelijke risico's
+- onveilige situaties onmiddellijk te melden aan de treindienstleider en/of zijn eigen
+
+     spoorwegonderneming.
+
+VVRV cluster Veiligheid  12/14
+1.13 Wat doet de machinist om risico's op elektrocutie/elektrisering te
+       verminderen?
+
+Bovenleiding
+Het aanraken van de bovenleiding is levensgevaarlijk. In Nederland staat op de bovenleiding
+een spanning van:
+- 1500-1800 Volt gelijkspanning
+- 25k Volt wisselspanning (HSL, Betuweroute).
+
+De machinist:
+- houdt minimaal 1,5 meter afstand van de bovenleiding en spanningvoerende delen
+- raakt de rijdraad na draadbreuk niet aan (er kan nog spanning op staan)
+- laat - als een draad van de bovenleiding contact maakt met de trein - de bovenleiding
+
+     eerst afschakelen en aarden voordat personen de trein verlaten (via de treindienstleider)
+- laat de stroomafnemers zakken bij kortsluitingsgevaar.
+
+Werken aan elektrische installaties
+Controleren van elektrische installaties en eventueel verhelpen van gebreken, mag alleen bij
+voldoende deskundigheid en bij:
+- wisselspanning lager dan 50 Volt
+- gelijkspanning lager dan 110 Volt.
+
+1.14 Welke veiligheidsmiddelen moeten altijd aanwezig zijn?
+
+Minimale veiligheidsmiddelen zijn:
+- rode vlag/noodseinlantaarn
+- voor goederentreinen: vluchtmasker.
+
+Rode vlag en noodseinlantaarn zijn nodig om een gevaarsein te kunnen geven aaneen
+naderende trein en een stopteken aan het wegverkeer bij een spoorwegovergang.
+
+Degene die een gevaarsein met de rode vlag en/of de noodseinlantaarn ziet, stopt zijn trein
+in verband met gevaar.
+
+Een vluchtmasker is vereist voor wie mogelijk in aanraking komt met gevaarlijke stoffen. De
+spoorwegonderneming bepaalt in welke situaties dit geldt.
+
+Deze middelen moeten eventueel samen met de kortsluitkabel en stopblokken opgeborgen
+zijn in de daarvoor bestemde ruimte.
+
+VVRV cluster Veiligheid  13/14
+De kortsluitkabel zorgt ervoor dat een blok bezet wordt gemeld. (De kabel werkt niet op alle
+baanvakken en emplacementen.)
+
+Verbandtrommel, afdekfolie en handschoenen zijn aanwezig, eventueel in de
+conducteursruimte. Brandblusser ook in tussenruimtes.
+
+De spoorwegonderneming bepaalt wat aanwezig moet zijn en zorgt ervoor dat zonodig
+wordt aangevuld.
+
+1.15 Welke seinen zijn van belang voor de veiligheid?
+
+Aan het sein kan de machinist zien dat hij al of niet toestemming heeft om veilig te kunnen
+vertrekken. Verschillende seinen zijn specifiek van belang voor de veiligheid. Ze staan met
+hun betekenis in de Regeling Spoorverkeer (seinbeeldenboek).
+
+Front- en sluitseinen
+In de TSI/OPE 2019/773 staat in artikel 4.2.2 de zichtbaarheid van treinen beschreven.
+In het seinreglement (bijlage 4 bij artikel 24 regeling spoorverkeer)) staan front- en sluitseinen
+beschreven.
+
+Frontseinen worden, indien mogelijk, gedimd:
+- bij het passeren van een tegenligger
+- tijdens werkzaamheden aan de railinfra
+- tijdens stationnementen
+- in door de spoorwegonderneming bepaalde situaties.
+
+Gevaarseinen
+1 met front-/sluitseinen (twee rode lichten met één, twee of drie witte lichten/twee
+
+     afwisselende gelijktijdig knipperende witte lichten aan de frontzijde)
+2 met geluid: tenminste 5 korte tonen
+3 met rode vlag/rood licht
+4 met hand/wit licht.
+
+Seinen voor de persoonlijke veiligheid
+1 vaste waarschuwingsinstallatie bij uitzichtbelemmerende objecten (WUBO)
+2 vaste waarschuwingsinstallatie op bruggen (WIBR)
+3 vaste waarschuwingsinstallatie voor dienstoverpaden (WIDO)
+4 vaste waarschuwingsinstallatie in tunnels (WIT)
+5 geluidsseinen bij werkzaamheden.
+
+In het seinreglement (bijlage 4 bij artikel 24 regeling spoorverkeer) zijn de seinen te vinden die
+waarschuwen voor gevaar.
+
+VVRV cluster Veiligheid  14/14
+

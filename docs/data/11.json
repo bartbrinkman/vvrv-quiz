@@ -1,0 +1,722 @@
+{
+ "id": "11",
+ "titel": "ERTMS/ETCS",
+ "bron": "11-jun-26-cluster-ertms-etcs.pdf",
+ "vragen": [
+  {
+   "id": "11-001",
+   "vraag": "Tijdens de Start of Mission blijkt dat de machinist het juiste Level niet kan kiezen. Wat moet hij volgens de vakkennis (versie juni 2026) doen?",
+   "opties": [
+    "Het dichtstbijzijnde Level kiezen en de treindienstleider om een European Instruction 7 vragen voor vertrek",
+    "De mode Isolation inschakelen en daarna met toestemming van de treindienstleider vertrekken",
+    "Wachten tot het RBC het juiste Level automatisch via een balise of de MA aan de EVC doorgeeft",
+    "De On-board zo resetten dat de treinpositie onbekend wordt en er een Level kan worden gekozen"
+   ],
+   "antwoord": 3,
+   "uitleg": "Nieuw toegevoegd in 1.11: kan het juiste Level niet worden gekozen, dan moet de machinist de On-board zodanig resetten dat de treinpositie onbekend wordt en er een Level kan worden gekozen.",
+   "bron": "1.11 Wat is een SOM?"
+  },
+  {
+   "id": "11-002",
+   "vraag": "Een machinist bedient in Level 2 de knop \"Start\". Onder welke voorwaarde wordt volgens de gewijzigde tekst direct de mode On Sight aangeboden?",
+   "opties": [
+    "Als er een EI7 is gegeven",
+    "Als de trein een CMD heeft",
+    "Als de oprijdlamp brandt",
+    "Als er een rijweg is ingesteld"
+   ],
+   "antwoord": 3,
+   "uitleg": "Volgens 1.41 (gewijzigd) wordt na het bedienen van \"Start\" de mode On Sight aangeboden als er een rijweg is ingesteld; de machinist bevestigt de mode en roept de toegelaten snelheid op.",
+   "bron": "1.41 Hoe werkt start en vertrek in Level 2?"
+  },
+  {
+   "id": "11-003",
+   "vraag": "Een machinist zet in Level 2-gebied een trein weg. De mode Shunting wordt aangeboden en de treinbeweging eindigt op de grens van CBG naar NCBG. Wat doet hij?",
+   "opties": [
+    "Hij bevestigt de mode Shunting en meldt dit aan de treindienstleider NCBG",
+    "Hij bevestigt de mode Shunting pas nadat de trein stilstaat",
+    "Hij bevestigt de aangeboden mode Shunting niet en zet de trein weg volgens de regels van de vervoerder",
+    "Hij vraagt een European Instruction 7 en bevestigt dan de mode Shunting"
+   ],
+   "antwoord": 2,
+   "uitleg": "Toegevoegd in 1.43: als in Level 2-gebied de mode Shunting wordt aangeboden en de treinbeweging eindigt op de grens van CBG naar NCBG, dan bevestigt de machinist deze niet.",
+   "bron": "1.43 Hoe zet de machinist de trein weg?"
+  },
+  {
+   "id": "11-004",
+   "vraag": "Bij rangeren in de mode Shunting in een CBG wil het rangeerdeel een SMB passeren. Op welke manier kan de treindienstleider hiervoor toestemming geven (versie juni 2026)?",
+   "opties": [
+    "Met een brandende witte oprijdlamp onder het SMB, een mobiel Shunting-apparaat of een European Instruction 7 met vak 7.20",
+    "Met een rangeerrijwegsein op/onder het SMB of een European Instruction 7 met vak 7.11 en 7.20 met het SMB-nummer",
+    "Met een European Instruction 1 in combinatie met de procedure Override EOA, waarna het rangeerdeel in Staff Responsible rijdt",
+    "Met een European Instruction 2 met vak 2.10 aangekruist en het opgegeven SMB-nummer, waarna 'Start' wordt gekozen"
+   ],
+   "antwoord": 1,
+   "uitleg": "In 1.54 is gewijzigd dat toestemming kan worden gegeven door een rangeerrijwegsein op/onder het SMB of een European Instruction 7 met vak 7.11 en 7.20 met het opgegeven SMB-nummer; de lamp en het mobiele Shunting-apparaat zijn vervallen.",
+   "bron": "1.54 Hoe werkt rangeren in Shunting in een CBG?"
+  },
+  {
+   "id": "11-005",
+   "vraag": "Een machinist rangeert in de mode Shunting in een CBG op een gedeelte zonder rangeerrijwegseinen en zonder hoofdseinen. Wat moet hij volgens de nieuwe tekst extra doen?",
+   "opties": [
+    "Stoppen voor ieder SMB met brandende witte oprijdlamp",
+    "De snelheid beperken tot de toegelaten Staff Responsible-snelheid",
+    "Stoppen voor iedere overweg met een LX-bord, zoals beschreven in de ORE",
+    "Bij iedere overweg de treindienstleider om een European Instruction 6 vragen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Toegevoegd in 1.54: als er wordt gereden zonder rangeerrijwegseinen of hoofdseinen, dan moet de machinist stoppen voor iedere overweg met een LX-bord (5.4.3 ORE).",
+   "bron": "1.54 Hoe werkt rangeren in Shunting in een CBG?"
+  },
+  {
+   "id": "11-006",
+   "vraag": "Een trein staat voor een stoptonend hoofdsein op een transitielocatie van Level NTC-ATB naar Level 2. De machinist moet dit sein passeren. Wat is nodig?",
+   "opties": [
+    "Een European Instruction 7, de mode Staff Responsible en daarna alleen de ATB-Vv-procedure",
+    "Een European Instruction 1 en alleen de procedure Override EOA, omdat het sein bij Level 2 hoort",
+    "Een mondelinge toestemming van de treindienstleider en de mode System National",
+    "Een European Instruction 1, de procedure Override EOA en de ATB-Vv-procedure"
+   ],
+   "antwoord": 3,
+   "uitleg": "Toegevoegd in 1.55: om een stoptonend hoofdsein bij een transitielocatie van Level NTC-ATB naar Level 1 of 2 te passeren is een European Instruction 1 nodig en moeten de procedures Override EOA en ATB-Vv worden toegepast (eventueel gecombineerd in het materieel).",
+   "bron": "1.55 Override EOA met European Instruction 1"
+  },
+  {
+   "id": "11-007",
+   "vraag": "Een trein in de mode Shunting krijgt een balisefout op een balise van een buitendienst gesteld spoor. Aan wie moet de machinist dit melden?",
+   "opties": [
+    "Aan de treindienstleider NCBG",
+    "Aan de gebiedsverantwoordelijke",
+    "Aan de vervoerder via de JRU",
+    "Aan de LWB (leider werkplekbeveiliging)"
+   ],
+   "antwoord": 3,
+   "uitleg": "Toegevoegd in 1.58: als de balisefout op een balise van het buitendienst gesteld spoor optreedt, moet de machinist dit aan de LWB melden.",
+   "bron": "1.58 Balisefout in de Mode Shunting"
+  },
+  {
+   "id": "11-008",
+   "vraag": "Een machinist ontvangt een alarmoproep via GSM-R tijdens een normale rit op de open baan. Wat doet hij volgens de gewijzigde tekst?",
+   "opties": [
+    "Hij brengt de trein direct tot stilstand en wacht op de treindienstleider",
+    "Hij gaat direct rijden op zicht",
+    "Hij rijdt door tot het eerstvolgende SMB en stopt daar",
+    "Hij gaat rijden op zicht zodra de treindienstleider dat bevestigt"
+   ],
+   "antwoord": 1,
+   "uitleg": "Volgens 1.59 (gewijzigd) gaat de machinist bij ontvangst van een alarmoproep via GSM-R direct rijden op zicht.",
+   "bron": "1.59 Alarmoproep via GSM-R"
+  },
+  {
+   "id": "11-009",
+   "vraag": "Een machinist van een goederentrein rijdt in een tunnel als hij een alarmoproep via GSM-R ontvangt. Wat doet hij?",
+   "opties": [
+    "Hij gaat direct rijden op zicht en kiest een veilige snelheid waarmee de tunnel nog uitgereden kan worden",
+    "Hij stopt direct in de tunnel, meldt zich bij de treindienstleider en wacht daar op verdere instructies",
+    "Hij rijdt met de toegelaten snelheid door tot buiten de tunnel, tenzij het calamiteitenplan anders bepaalt",
+    "Hij rijdt op zicht met maximaal 40 km/h tot de tunnel is verlaten en stopt daarna direct voor nadere instructies"
+   ],
+   "antwoord": 0,
+   "uitleg": "Volgens 1.59 (gewijzigd) gaat de machinist in een tunnel of Non Stopping Area direct rijden op zicht; machinisten van goederentreinen kiezen een veilige snelheid waarmee de tunnel of NSA nog uitgereden kan worden. Bij gevaar direct stoppen.",
+   "bron": "1.59 Rijdend in een tunnel of Non Stopping Area"
+  },
+  {
+   "id": "11-010",
+   "vraag": "Wanneer mag een machinist het rijden op zicht na een alarmoproep via GSM-R beëindigen?",
+   "opties": [
+    "Als de alarmoproep op de GSM-R is beëindigd óf de treindienstleider meldt dat de alarmoproep beëindigd is",
+    "Als de trein de tunnel of de Non Stopping Area heeft verlaten én het Non Stopping Area-symbool is gedoofd",
+    "Als de treindienstleider een nieuwe rijweg heeft ingesteld én er een MA volgt",
+    "Als de alarmoproep op de GSM-R is beëindigd én de treindienstleider meldt dat de alarmoproep beëindigd is"
+   ],
+   "antwoord": 3,
+   "uitleg": "Volgens 1.59 beëindigt de machinist het rijden op zicht als de alarmoproep op de GSM-R is beëindigd en de treindienstleider meldt dat de alarmoproep beëindigd is; beide voorwaarden gelden.",
+   "bron": "1.59 Beëindigen van ROZ na alarmoproep"
+  },
+  {
+   "id": "11-011",
+   "vraag": "Naar welke versie van de Operationele Regels ERTMS Nederland verwijst het cluster ERTMS/ETCS van juni 2026?",
+   "opties": [
+    "Versie 2.2 mei 2026",
+    "Versie 21 mei 2025",
+    "Versie 2.1 november 2025",
+    "Versie 2.0 juni 2026"
+   ],
+   "antwoord": 0,
+   "uitleg": "In het voorwoord (1.1) is gewijzigd dat met de Operationele Regels ERTMS Nederland versie 2.2 mei 2026 wordt bedoeld.",
+   "bron": "1.1 Voorwoord"
+  },
+  {
+   "id": "11-012",
+   "vraag": "Waar mag in Nederland volgens de Regeling Spoorverkeer onder Level 0 worden gereden?",
+   "opties": [
+    "Alleen op de HSL-Zuid onder speciale voorwaarden",
+    "Op alle baanvakken zonder ATB onder speciale voorwaarden",
+    "Alleen op overlay baanvakken met dual signalling",
+    "Op de Betuweroute en de HSL-Zuid bij RBC-uitval"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.4: rijden onder Level 0 mag in Nederland volgens de Regeling Spoorverkeer alleen op de HSL-Zuid onder speciale voorwaarden (daarnaast kan het voorkomen op Zevenaar Oost-Emmerich, vooral in Duitsland).",
+   "bron": "1.4 Wat zijn Levels?"
+  },
+  {
+   "id": "11-013",
+   "vraag": "Welke Leveltransitie vindt plaats zonder bevestiging door de machinist?",
+   "opties": [
+    "Van Level NTC naar Level 2 en vice versa",
+    "Van Level 1 naar Level 0 en vice versa",
+    "Van Level NTC naar een ander Level NTC",
+    "Van Level 1 naar Level 2 en vice versa"
+   ],
+   "antwoord": 3,
+   "uitleg": "1.9 en 1.45: alleen de transitie van Level 1 naar Level 2 en vice versa gebeurt zonder bevestiging van de machinist; de andere genoemde transities vragen bevestiging.",
+   "bron": "1.9 / 1.45"
+  },
+  {
+   "id": "11-014",
+   "vraag": "Hoe lang blijft de DMI-melding 'Entering to Full Supervision' na een transitie van Level NTC naar Level 2 zichtbaar?",
+   "opties": [
+    "Totdat de voorzijde van de trein de eerste gelinkte balisegroep heeft gepasseerd en de odometer is geijkt",
+    "Totdat de achterzijde van de trein het Level NTC-gebied heeft verlaten, berekend met de treinlengte uit de SOM",
+    "Totdat de machinist de Leveltransitie op de DMI heeft bevestigd, uiterlijk 5 seconden na de transitielocatie",
+    "Totdat het RBC een verlengde MA in de mode Full Supervision heeft verstuurd"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.10: de melding wordt getoond totdat de achterzijde van de trein het Level NTC-gebied verlaten heeft; de EVC gebruikt hiervoor de bij de SOM ingevoerde treinlengte.",
+   "bron": "1.10 DMI-melding 'Entering to ...'"
+  },
+  {
+   "id": "11-015",
+   "vraag": "Op de DMI staat 'Entering On Sight'. Aan welke opdrachten en snelheden moet de machinist zich op dat moment houden?",
+   "opties": [
+    "Aan die van de nieuwe MA, omdat ETCS deze direct bewaakt en mag worden opgevolgd",
+    "Aan de laagste snelheid van de MA en de Staff Responsible-snelheid uit de NV",
+    "Aan die van het nieuwe gebied, maar met maximaal 40 km/h zolang de tekst zichtbaar is",
+    "Aan die van het gebied dat wordt verlaten, zolang de tekst zichtbaar is"
+   ],
+   "antwoord": 3,
+   "uitleg": "1.10 en 1.30: ETCS staat toe de MA direct op te volgen, maar zolang 'Entering to ...' zichtbaar is houdt de machinist zich aan de opdrachten en snelheden van het gebied dat verlaten wordt.",
+   "bron": "1.10 / 1.30 Mode On Sight"
+  },
+  {
+   "id": "11-016",
+   "vraag": "In welke situatie hoeft de machinist na het in dienst nemen van een cabine géén Start of Mission uit te voeren?",
+   "opties": [
+    "Als hij vertrekt in de mode Staff Responsible met een European Instruction 7 van de treindienstleider",
+    "Als hij een trein overneemt waarvan de vorige machinist al een SOM heeft gedaan en de gegevens kloppen",
+    "Als hij de trein slechts enkele meters verplaatst, bijvoorbeeld voor splitsen en combineren in de mode SB",
+    "Als hij in Level 1 vertrekt bij een hoofdsein dat uit de stand stop is"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.11: een SOM is niet nodig als de machinist de trein slechts enkele meters wil verplaatsen (splitsen en combineren kan in de mode SB) of rangeert in de mode Shunting. Bij overname blijft de nieuwe machinist verantwoordelijk voor de ingevoerde gegevens.",
+   "bron": "1.11 Wat is een SOM?"
+  },
+  {
+   "id": "11-017",
+   "vraag": "Voor een trein geldt vanwege een treinbeperking een lagere snelheid dan de materieelsnelheid. Wanneer bewaakt de EVC deze lagere snelheid?",
+   "opties": [
+    "Altijd, omdat de EVC de treinbeperking uit de National Values haalt",
+    "Alleen op treinstellen, omdat bij locs de materieelsnelheid geldt",
+    "Alleen wanneer de machinist deze bij de SOM juist heeft ingevoerd",
+    "Alleen in Level 2, omdat het RBC de beperking doorgeeft"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.11: geldt er vanwege een treinbeperking een lagere snelheid, dan bewaakt de EVC deze alleen wanneer zij juist door de machinist is ingevoerd.",
+   "bron": "1.11 Wat is een SOM? (Max Speed)"
+  },
+  {
+   "id": "11-018",
+   "vraag": "Welk direct veiligheidsrisico noemt de vakkennis bij het invoeren van een te hoog rempercentage tijdens de SOM?",
+   "opties": [
+    "Risico op een onterechte TRIP bij het naderen van een LOA",
+    "Risico op wegrollen in de mode Stand By na de SOM",
+    "Risico op EOA-passage, omdat de berekende remcurve te kort is",
+    "Risico op een overspeed-ingreep bij inschakelen van Slippery Rail"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.11: hoe hoger het rempercentage, des te korter en steiler de remcurve; invoer van een te hoog rempercentage brengt direct een veiligheidsrisico met zich mee: risico EOA-passage.",
+   "bron": "1.11 Wat is een SOM? (Brake Percentage)"
+  },
+  {
+   "id": "11-019",
+   "vraag": "Welk gegeven maakt volgens de vakkennis altijd deel uit van een Movement Authority?",
+   "opties": [
+    "De Release Speed",
+    "Het rempercentage",
+    "De treinlengte uit de SOM",
+    "Het hellingpromillage"
+   ],
+   "antwoord": 3,
+   "uitleg": "1.12: een MA bevat altijd de doelafstand, de toegestane maximumsnelheid (permitted speed), de doelsnelheid en het hellingpromillage.",
+   "bron": "1.12 Wat is een MA?"
+  },
+  {
+   "id": "11-020",
+   "vraag": "Op een Level 1-baanvak wordt een rijweg herroepen. Wanneer ziet de machinist dit op de DMI?",
+   "opties": [
+    "Direct, omdat de LEU de gewijzigde MA via het GSM-R-datakanaal naar de EVC verstuurt",
+    "Pas wanneer de trein voor de nieuwe EOA tot stilstand is gekomen en de MA is ingekort",
+    "Pas wanneer een balise wordt gepasseerd die een update van de MA kan geven",
+    "Direct, maar alleen als de trein in de mode Full Supervision met een MA rijdt"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.13: als de rijweg op een Level 1-baanvak wordt herroepen, laat de DMI dit pas zien wanneer er een balise wordt gepasseerd die een update van de MA kan geven. In Level 2 verstuurt het RBC de gewijzigde MA direct.",
+   "bron": "1.13 Hoe kan een MA worden gewijzigd?"
+  },
+  {
+   "id": "11-021",
+   "vraag": "Wat is het verschil tussen een EOA en een LOA?",
+   "opties": [
+    "Bij een LOA is de doelsnelheid 0 km/u, bij een EOA hoger dan 0 km/u",
+    "Een EOA geldt alleen in Level 1, een LOA alleen in Level 2",
+    "Een EOA mag met Release Speed gepasseerd worden, een LOA nooit",
+    "Bij een EOA is de doelsnelheid 0 km/u, bij een LOA hoger dan 0 km/u"
+   ],
+   "antwoord": 3,
+   "uitleg": "1.14 en 1.18: kenmerk van een EOA is dat de doelsnelheid 0 km/u is; een LOA is het einde van een MA met een snelheid hoger dan 0 km/u.",
+   "bron": "1.14 / 1.18"
+  },
+  {
+   "id": "11-022",
+   "vraag": "Een trein nadert een LOA bij een transitie naar Level NTC. Wat gebeurt er als op de transitielocatie de transitie naar Level NTC niet plaatsvindt?",
+   "opties": [
+    "Er volgt na 5 seconden een bedrijfsremming",
+    "De EVC schakelt automatisch over naar de mode Unfitted",
+    "Er volgt een TRIP (onmiddellijke noodremming)",
+    "De MA wordt ingekort tot de voorkant van de trein"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.18: er volgt een TRIP wanneer op de transitielocatie de transitie naar de mode SH of het Level NTC niet plaatsvindt, zodat de trein niet zonder treinbeveiliging verder rijdt.",
+   "bron": "1.18 Wat is een LOA?"
+  },
+  {
+   "id": "11-023",
+   "vraag": "Een machinist past met European Instruction 1 de procedure Override EOA toe, maar passeert niet binnen de NV-waarden de balisegroep vóór het SMB. Wat moet hij doen?",
+   "opties": [
+    "Doorrijden in Staff Responsible tot het SMB en daar een nieuwe EI1 vragen",
+    "De mode Isolation inschakelen en het SMB op zicht passeren",
+    "Vanuit stilstand opnieuw de Override-procedure uitvoeren",
+    "Een nieuwe SOM uitvoeren en de mode On Sight afwachten"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.17: lukt het niet om binnen de NV-waarden (tijdsduur, afstand, snelheid) de balisegroep vóór het SMB te passeren, dan moet vanuit stilstand opnieuw de Override-procedure worden uitgevoerd.",
+   "bron": "1.17 Wat is Override EOA?"
+  },
+  {
+   "id": "11-024",
+   "vraag": "Zolang Override EOA actief is, volgt er geen TRIP bij het voorbijrijden van een balise met welke opdracht?",
+   "opties": [
+    "'Stop if in SR' of 'Danger for SH'",
+    "'Trackside malfunction' of 'Balise read error'",
+    "'Entering FS' of 'Entering OS'",
+    "'Communication error' of 'Track Ahead Free'"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.17: zolang Override EOA actief is, is de treinbeveiliging inactief; er volgt geen TRIP bij EOA-passage of bij het voorbijrijden van een balise met de opdracht 'Stop if in SR' of 'Danger for SH'.",
+   "bron": "1.17 Wat is Override EOA?"
+  },
+  {
+   "id": "11-025",
+   "vraag": "Waar op de DMI wordt een voorgeschreven Release Speed getoond, en wat bepaalt de hoogte ervan?",
+   "opties": [
+    "Linksonder de snelheidsmeter; hoe minder doorschietruimte tot het gevaarpunt, des te lager",
+    "Rechtsboven de snelheidsmeter; hoe hoger het ingevoerde rempercentage bij de SOM, des te hoger",
+    "Linksonder de snelheidsmeter; hoe langer de bij de SOM ingevoerde treinlengte, des te lager",
+    "In het tekstveld van de DMI; hoe groter de doelafstand tot de EOA, des te hoger"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.20: de Release Speed wordt linksonder de snelheidsmeter getoond; hoe minder doorschietruimte achter de blokgrens tot het gevaarpunt (Danger Point), des te lager de aangeboden Release Speed.",
+   "bron": "1.20 Wat is Release Speed?"
+  },
+  {
+   "id": "11-026",
+   "vraag": "In welke situatie kan het RBC een TAF-request naar de EVC sturen?",
+   "opties": [
+    "In Level 1, mode FS, bij nadering van een EOA die met Release Speed wordt genaderd",
+    "In Level 2, mode SR of OS, bij nadering van een SMB of hoofdsein waarachter een rijweg met FS of OS MA beschikbaar is",
+    "In Level 2, mode Shunting, bij nadering van de grens tussen NCBG en CBG als de wissels in NCBG goed liggen",
+    "In Level 2, mode Post Trip, nadat de treindienstleider een EI2 met vak 2.10 heeft gegeven en 'Start' is gekozen"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.21: in Level 2 in de mode SR of OS kan het RBC een TAF-request sturen als treinpositie en rijrichting bekend zijn, een SMB of hoofdsein met rijweg erachter wordt genaderd en een FS MA of OS MA vanaf dit SMB beschikbaar is.",
+   "bron": "1.21 Wat is een TAF-request?"
+  },
+  {
+   "id": "11-027",
+   "vraag": "Een ETCS-trein die niet in een rijmode staat, rolt weg en de treinapparatuur grijpt in. Wat geldt?",
+   "opties": [
+    "De remingreep wordt automatisch opgeheven zodra de trein stilstaat; de afstand staat in een National Value",
+    "De machinist moet de remingreep bevestigen; na hoeveel meter wordt ingegrepen staat in een National Value",
+    "De machinist moet een nieuwe SOM uitvoeren; de afstand is vastgesteld op 5 meter",
+    "De EVC schakelt naar de mode TRIP; de afstand wordt bepaald door de vervoerder"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.15: voert de treinapparatuur een remingreep uit vanwege wegrollen, dan moet de machinist deze bevestigen. In een National Value is bepaald na hoeveel meter de rolbeveiliging in werking treedt.",
+   "bron": "1.15 Wat is rolbeveiliging?"
+  },
+  {
+   "id": "11-028",
+   "vraag": "Wanneer vindt odometer-ijking plaats?",
+   "opties": [
+    "Bij elke RBC-RBC handover",
+    "Bij elke passage van een gelinkte balise",
+    "Bij elke Start of Mission na inschakelen van de EVC",
+    "Bij elke passage van een SMB met oprijdlamp"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.22: odometer-ijking vindt plaats bij elke passage van een gelinkte balise; de odometer begint de afstand dan weer vanaf 0 meter te meten.",
+   "bron": "1.22 ETCS-boordapparatuur (Odometer)"
+  },
+  {
+   "id": "11-029",
+   "vraag": "Een trein zonder Cold Movement Detector (CMD) wordt na een tijd uitgeschakeld te zijn weer ingeschakeld. Wat geldt voor de treinpositie?",
+   "opties": [
+    "Die is bekend als de trein niet heeft bewogen",
+    "Die is na het inschakelen van de EVC altijd onbekend",
+    "Die wordt hersteld uit de laatst opgeslagen positie in de JRU",
+    "Die is bekend zodra de odometer de wielslijtage heeft gecorrigeerd"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.22: voor een trein zonder CMD is de treinpositie na het inschakelen van de EVC (Mode NP of IS) altijd onbekend. Alleen een EVC met CMD kan de laatst opgeslagen positie weer als geldig zien.",
+   "bron": "1.22 ETCS-boordapparatuur (Odometer)"
+  },
+  {
+   "id": "11-030",
+   "vraag": "Op welke baanvakken wordt een LEU (Lineside Electronic Unit) toegepast?",
+   "opties": [
+    "Bij Level 1 of op een baanvak met een terugvallevel, zoals de HSL",
+    "Alleen bij Level 2, als aanvulling op het RBC bij het genereren van MA's",
+    "Alleen op overlay baanvakken waar ETCS en seinstelsel NS'54 samen werken",
+    "Bij Level NTC, als interface tussen ATB in de infrastructuur en de EVC"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.24: een LEU wordt toegepast bij Level 1 of op een baanvak met een terugvallevel, bijvoorbeeld de HSL, waar bij RBC-uitval in Level 2 naar Level 1 geschakeld kan worden.",
+   "bron": "1.24 ETCS-baanapparatuur"
+  },
+  {
+   "id": "11-031",
+   "vraag": "Waarvoor dient een infillbalise in Level 1?",
+   "opties": [
+    "Om de odometer te ijken bij het passeren van een SMB met oprijdlamp",
+    "Om de National Values bij een landsgrens of baanvakwissel aan te passen",
+    "Om de trein vooraf te laten inbellen op het volgende RBC bij een handover",
+    "Om vooraf het seinbeeld (MA) van een volgende balise door te geven"
+   ],
+   "antwoord": 3,
+   "uitleg": "1.24: een infillbalise geeft in Level 1 alvast het seinbeeld (MA) van een volgende balise door; dit waarborgt veiligheid bij intrekken van de MA en een vlotte doorstroming bij seinbeeldverbetering.",
+   "bron": "1.24 ETCS-baanapparatuur (Eurobalise)"
+  },
+  {
+   "id": "11-032",
+   "vraag": "De ETCS-boordapparatuur valt uit, de trein staat in System Failure en een reset helpt niet. De machinist schakelt over naar Isolation. Welke regels volgt hij op een baanvak met cabinesignalering?",
+   "opties": [
+    "De regelgeving die geldt voor rijden met seinstelsel NS'54 en ATB",
+    "De regelgeving die geldt voor rijden in de mode Staff Responsible",
+    "De regelgeving die geldt voor rijden in de mode On Sight",
+    "De regelgeving die geldt voor rijden in de mode Unfitted"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.23: in de mode IS rijdt de machinist zonder ETCS; bij baanvakken met cabinesignalering volgt hij de regelgeving voor de mode SR. Volgens 1.34 rijdt hij op baanvakken met SMB's maximaal de SR-snelheid.",
+   "bron": "1.23 / 1.34"
+  },
+  {
+   "id": "11-033",
+   "vraag": "Wanneer komt in Level 2 na het activeren van de cabine in de mode Stand-By de Start of Mission beschikbaar?",
+   "opties": [
+    "Direct na het opstarten van de EVC",
+    "Als er een verbinding met het RBC gemaakt is",
+    "Als de machinist een European Instruction 7 heeft ontvangen",
+    "Als de treinpositie via een Cold Movement Detector bekend is"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.27: de SOM komt beschikbaar als er geen communicatiesessie nodig is (Level 1/Level NTC), of als er een verbinding gemaakt is met het RBC (Level 2).",
+   "bron": "1.27 Hoe werkt de Mode Stand By?"
+  },
+  {
+   "id": "11-034",
+   "vraag": "Een machinist rijdt in Level 2 in de mode Staff Responsible op een overlay baanvak met seinstelsel NS'54 en ATB. Voor welke hoofdseinen moet hij stoppen?",
+   "opties": [
+    "Alleen voor stoptonende en gedoofde hoofdseinen zonder P",
+    "Alleen voor hoofdseinen zonder SMB",
+    "Alleen voor hoofdseinen die geel knipper tonen",
+    "Voor ieder hoofdsein, ongeacht het seinbeeld"
+   ],
+   "antwoord": 3,
+   "uitleg": "1.29 LET OP: op baanvakken met Level 2 en seinstelsel NS'54 met ATB (overlay/dual signalling en Rail Aansluit Seinen) stopt de machinist in SR voor ieder hoofdsein, ongeacht het seinbeeld.",
+   "bron": "1.29 Hoe werkt de Mode Staff Responsible?"
+  },
+  {
+   "id": "11-035",
+   "vraag": "Een machinist rijdt in Staff Responsible met een European Instruction 1. Waarvoor moet hij, naast de standaardgevallen, ook stoppen?",
+   "opties": [
+    "Voor iedere overweg met een LX-bord en ieder S-bord",
+    "Voor iedere balise met de opdracht 'Stop if in SR', zolang de procedure Override EOA nog actief is",
+    "Voor iedere belemmering die verder rijden verhindert en ieder niet veilig te berijden infra-onderdeel",
+    "Voor ieder SMB met brandende witte oprijdlamp en ieder hoofdsein dat uit de stand stop is"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.29: rijdt de machinist in SR met een European Instruction 1 of in een NCBG, dan stopt hij ook voor iedere belemmering die verder rijden verhindert en ieder niet veilig te berijden infra-onderdeel.",
+   "bron": "1.29 Hoe werkt de Mode Staff Responsible?"
+  },
+  {
+   "id": "11-036",
+   "vraag": "Een trein rijdt in Full Supervision en nadert een baangedeelte waar een rijweg in On Sight is ingesteld. Welke uitspraak is juist?",
+   "opties": [
+    "De overgang naar On Sight gebeurt automatisch, zonder bevestiging, zodra de snelheid onder 40 km/h komt",
+    "De overgang naar On Sight kan komen onder 40 km/h en is uiterlijk bij het passeren van de blokgrens",
+    "De overgang naar On Sight kan komen onder 160 km/h en is uiterlijk bij het bereiken van de EOA",
+    "De machinist kiest zelf de mode On Sight zodra de EOA voor het baangedeelte op de DMI verschijnt"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.30: in FS wordt een EOA getoond; bij een snelheid lager dan 40 km/h kan de overgang naar On Sight komen, uiterlijk bij het passeren van de blokgrens, en de machinist moet de modetransitie altijd bevestigen. OS kan niet door de machinist worden gekozen.",
+   "bron": "1.30 Hoe werkt de Mode On Sight?"
+  },
+  {
+   "id": "11-037",
+   "vraag": "Een machinist rijdt in de mode On Sight. Wat bewaakt de boordapparatuur in deze mode níet?",
+   "opties": [
+    "De maximale snelheid van de trein",
+    "Het stoppen voor een spoorbezetting",
+    "De track conditions (opdrachten naar de trein)",
+    "Het einde van de rijweg"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.30: de maximale snelheid, de track conditions en het einde van de rijweg worden bewaakt; het stoppen voor een spoorbezetting moet de machinist zelf doen, daar is geen bewaking op.",
+   "bron": "1.30 Hoe werkt de Mode On Sight?"
+  },
+  {
+   "id": "11-038",
+   "vraag": "Vanuit welke mode kan volgens de vakkennis géén overgang naar de mode TRIP plaatsvinden?",
+   "opties": [
+    "Staff Responsible",
+    "Unfitted",
+    "Isolation",
+    "Shunting"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.32: de overgang naar TRIP kan gebeuren vanuit FS, OS, SR, SB, SH, UN of SN. Isolation hoort daar niet bij; in IS is de ETCS-functie losgekoppeld (1.34).",
+   "bron": "1.32 Modes TRIP en Post-TRIP"
+  },
+  {
+   "id": "11-039",
+   "vraag": "Een trein staat in de mode Post Trip. Er dreigt direct gevaar en de machinist wil de trein achteruit verplaatsen. Wat geldt?",
+   "opties": [
+    "Zonder toestemming van de treindienstleider mag hij direct achteruit over de NV-afstand; hij is daarvoor zelf verantwoordelijk",
+    "Hij moet eerst een European Instruction 2 met vak 2.10 ontvangen en 'Start' kiezen voordat hij achteruit mag verplaatsen",
+    "Hij mag alleen achteruit na toestemming van de treindienstleider, ook bij direct gevaar; de afstand staat in een NV",
+    "Hij moet eerst de mode Isolation inschakelen om de snelremkleppen te sluiten, en mag dan vrij achteruit"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.32: bij een directe gevaarzetting mag de machinist zonder toestemming van de treindienstleider de trein direct achteruit verplaatsen in Post Trip; hij is daarvoor verantwoordelijk. Bij overschrijden van de NV-afstand volgt een remingreep.",
+   "bron": "1.32 / 1.56"
+  },
+  {
+   "id": "11-040",
+   "vraag": "Wat geldt voor het gebruik van de mode Isolation?",
+   "opties": [
+    "Voor het gebruik is toestemming van de vervoerder nodig, en om te gaan rijden toestemming van de treindienstleider",
+    "De mode wordt na een mislukte reset door de EVC opgelegd en vereist dan alleen toestemming van de treindienstleider",
+    "De mode mag alleen in stilstand na toestemming van de LWB worden ingeschakeld; daarna rijdt de machinist op zicht",
+    "Voor het gebruik is toestemming van de treindienstleider nodig, en om te gaan rijden toestemming van de vervoerder"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.34: de machinist is verantwoordelijk voor het inschakelen; om de mode Isolation te gebruiken moet er toestemming zijn van de vervoerder, en om te gaan rijden toestemming van de treindienstleider.",
+   "bron": "1.34 Hoe werkt de Mode Isolation?"
+  },
+  {
+   "id": "11-041",
+   "vraag": "Hoe wordt de mode Non-Leading uitgeschakeld, en naar welke mode schakelt de boordapparatuur dan?",
+   "opties": [
+    "De trein moet stilstaan en de machinist van het Non-Leading krachtvoertuig activeert de rem; daarna volgt Stand-By",
+    "De machinist van de leidende cabine kiest End of Mission terwijl de trein stilstaat; daarna volgt de mode Sleeping",
+    "De trein moet stilstaan en de cabine wordt uit dienst genomen; daarna volgt No Power",
+    "De treindienstleider geeft een EI7 aan de tweede machinist, die de rem activeert; daarna volgt Staff Responsible"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.37: om Non-Leading uit te schakelen moet de trein stilstaan en moet de machinist van het Non-Leading krachtvoertuig de rem activeren; de boordapparatuur schakelt dan naar Stand-By.",
+   "bron": "1.37 Hoe werkt de Mode Non-Leading?"
+  },
+  {
+   "id": "11-042",
+   "vraag": "Een machinist vertrekt in Level 1 met een European Instruction 1. Wat moet hij doen na het bevestigen van de mode Staff Responsible?",
+   "opties": [
+    "De procedure Override End of Authority uitvoeren",
+    "De toegelaten snelheid oproepen en vertrekken met maximaal 15 km/h",
+    "Wachten op een TAF-request en die bevestigen",
+    "De ATB-Vv-procedure toepassen voor het eerstvolgende SMB"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.40: als er wordt vertrokken met een European Instruction 1, moet de machinist na het bevestigen van de mode Staff Responsible de procedure Override End of Authority uitvoeren.",
+   "bron": "1.40 Start en vertrek in Level 1"
+  },
+  {
+   "id": "11-043",
+   "vraag": "Bij vertrek in Level 2 verschijnt 'Wacht'; de treinpositie is onbekend. Na ontvangst van European Instruction 7 bevestigt de machinist Staff Responsible. Wat geldt?",
+   "opties": [
+    "Hij vertrekt met maximaal 15 km/h; een in de EI7 genoemd SMB mag worden gepasseerd zonder Override EOA",
+    "Hij vertrekt met maximaal 40 km/h; een in de EI7 genoemd SMB passeert hij met de procedure Override EOA",
+    "Hij vertrekt met de SR-snelheid uit de NV; voor elk SMB vraagt hij de treindienstleider een nieuwe EI1",
+    "Hij vertrekt met maximaal 15 km/h; een in de EI7 genoemd SMB passeert hij met de procedure Override EOA"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.41: na ontvangst van EI7 mag de mode bevestigd worden en vertrekt de machinist met maximaal 15 km/h. Een in de EI7 (7.20/7.21) genoemd SMB mag worden gepasseerd, waarbij Override EOA niet mag worden gebruikt.",
+   "bron": "1.41 Tekstmelding 'Wacht'"
+  },
+  {
+   "id": "11-044",
+   "vraag": "Na het bedienen van \"Start\" in Level 2 verschijnt de melding \"Schakel om naar ATB\". Hoe schakelt de machinist om naar Level NTC-ATB?",
+   "opties": [
+    "Door de Leveltransitie naar Level NTC-ATB op de DMI binnen 5 seconden te bevestigen",
+    "Door de mode Isolation te kiezen en daarna de ATB handmatig in te schakelen en te testen",
+    "Door de cabine uit en weer in dienst te nemen en een SOM in Level NTC-ATB te maken",
+    "Door de treindienstleider om een European Instruction 7 te vragen en 'Start' te kiezen"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.41: de machinist schakelt om naar Level NTC-ATB; dit kan alleen door de cabine uit en weer in dienst te nemen. Daarna maakt hij een SOM in Level NTC-ATB en rijdt volgens NS'54.",
+   "bron": "1.41 Tekstmelding 'Schakel om naar ATB'"
+  },
+  {
+   "id": "11-045",
+   "vraag": "Wanneer wordt na het bedienen van \"Start\" in een NCBG de tekstmelding \"SR mode voor NCBG\" gegeven?",
+   "opties": [
+    "Als er een rijweg is ingesteld van NCBG naar CBG en de treinpositie bij het RBC bekend is",
+    "Als er geen planregel beschikbaar is om vanuit het NCBG een rijweg in te stellen",
+    "Als het treinnummer bekend is bij het RBC en het een geplande beweging vanuit NCBG is",
+    "Als de wissels in het NCBG in de juiste stand liggen en door de machinist gecontroleerd zijn"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.41: de tekstmelding \"SR mode voor NCBG\" wordt gegeven als het treinnummer bekend is bij het RBC en het een geplande beweging vanuit NCBG is. De andere voorwaarden horen bij het aanbieden van On Sight of bij 'Bel Treindienstleider'.",
+   "bron": "1.41 SR mode voor NCBG"
+  },
+  {
+   "id": "11-046",
+   "vraag": "Een machinist moet een trein binnen een blok verplaatsen; bij de blokgrens staat een hoofdsein. De mode System National wordt aangeboden. Welke toestemming heeft hij nodig?",
+   "opties": [
+    "Een European Instruction 7 van de treindienstleider",
+    "Een mondelinge toestemming van de treindienstleider",
+    "Een European Instruction 1 en de procedure Override EOA",
+    "Geen toestemming, omdat hij binnen het blok blijft"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.42: als bij de blokgrens een hoofdsein staat kunnen SR (met EI7), OS of System National (met mondelinge toestemming van de treindienstleider) worden aangeboden.",
+   "bron": "1.42 Oprijden tot de eerste blokgrens vanuit Stand By"
+  },
+  {
+   "id": "11-047",
+   "vraag": "Een trein rijdt van Level 1 naar Level 2, maar op de transitiegrens wordt geen RBC-verbinding gemaakt. Wat gebeurt er?",
+   "opties": [
+    "De machinist moet de transitie bevestigen; na 5 seconden volgt een remingreep",
+    "De trein blijft in Level 1 rijden totdat de verbinding is hersteld",
+    "Er volgt direct een TRIP omdat de LOA wordt gepasseerd",
+    "De transitie wordt op de grens gemaakt en na 35 seconden volgt een remingreep"
+   ],
+   "antwoord": 3,
+   "uitleg": "1.45: als er geen RBC-verbinding is wordt de transitie op de transitiegrens gemaakt; wordt de RBC-verbinding op de transitiegrens niet gemaakt, dan volgt na 35 seconden een remingreep.",
+   "bron": "1.45 Leveltransitie van 1 naar 2"
+  },
+  {
+   "id": "11-048",
+   "vraag": "Een trein rijdt van Level 2 naar Level NTC-ATB. Het hoofdsein op de transitielocatie toont geel knipper (sein 214). Wat moet de machinist doen?",
+   "opties": [
+    "Naast de Leveltransitie ook de modetransitie naar On Sight bevestigen",
+    "Alleen de Leveltransitie bevestigen en achter het sein op zicht rijden",
+    "De trein stoppen en een European Instruction 1 vragen",
+    "Het afwijkende seinbeeld aan de treindienstleider melden"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.45: wanneer het hoofdsein op de transitielocatie geel knipper toont (sein 214) moet naast het bevestigen van de Leveltransitie ook de modetransitie naar On Sight worden bevestigd.",
+   "bron": "1.45 Van Level 1 of 2 naar Level NTC-ATB"
+  },
+  {
+   "id": "11-049",
+   "vraag": "Bij het naderen van een Level NTC-ATB-gebied wordt Level NTC aangekondigd. Vanaf wanneer moet de machinist de buitenseingeving gaan waarnemen?",
+   "opties": [
+    "Op het moment van de aankondiging, als de treinsnelheid lager is dan 160 km/h",
+    "Pas wanneer de 'Entering to'-melding van de DMI is verdwenen na de transitie",
+    "Op het moment van de aankondiging, als de treinsnelheid lager is dan 40 km/h",
+    "Pas nadat de achterzijde van de trein de transitielocatie is gepasseerd"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.45: op het moment dat Level NTC wordt aangekondigd en de treinsnelheid lager is dan 160 km/h, moet de machinist de buitenseingeving gaan waarnemen.",
+   "bron": "1.45 Van Level 1 of 2 naar Level NTC-ATB"
+  },
+  {
+   "id": "11-050",
+   "vraag": "Een trein rijdt in een Non Stopping Area. In welke situatie moet de machinist daar toch stoppen?",
+   "opties": [
+    "Bij een alarmoproep via GSM-R",
+    "Bij het verschijnen van een TAF-request op de DMI",
+    "Bij het rijden zonder MA, voor ieder SMB",
+    "Bij het naderen van een EOA met Release Speed in Level 1"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.47: de machinist moet in een Non Stopping Area stoppen als dit door de MA wordt afgedwongen, bij rijden zonder MA voor ieder SMB, en als bij doorrijden de veiligheid direct in gevaar komt.",
+   "bron": "1.47 Wat is een Non Stopping Area?"
+  },
+  {
+   "id": "11-051",
+   "vraag": "Wat is het verschil tussen European Instruction 5 en European Instruction 6?",
+   "opties": [
+    "EI5 is een opdracht om op zicht te rijden, EI6 een opdracht om met verlaagde snelheid te rijden",
+    "EI5 geeft toestemming om een SMB te passeren, EI6 geeft toestemming na een TRIP",
+    "EI5 is een opdracht om met verlaagde snelheid te rijden, EI6 een opdracht om op zicht te rijden",
+    "EI5 is een opdracht om de infra te schouwen, EI6 een tijdelijke snelheidsbeperking"
+   ],
+   "antwoord": 2,
+   "uitleg": "1.48: European Instruction 5 (SB) is een opdracht om met verlaagde snelheid te rijden; European Instruction 6 (ROZ) is een opdracht om op zicht te rijden. Bij beide kan een opdracht om te schouwen worden bijgegeven.",
+   "bron": "1.48 Rijden met verlaagde snelheid"
+  },
+  {
+   "id": "11-052",
+   "vraag": "Wanneer worden bij een tijdelijke snelheidsbeperking (TSR) op een ETCS-baanvak ook L-, A- en E-borden geplaatst?",
+   "opties": [
+    "Als de tijdelijke snelheid lager is dan 40 km/h, ongeacht de SR-snelheid",
+    "Als de tijdelijke snelheid lager is dan de toegelaten SR-snelheid",
+    "Als de TSR niet in de MA kan worden verwerkt door het RBC of de LEU",
+    "Alleen op Level 2 only baanvakken zonder hoofdseinen en lichtseinen"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.48: een TSR wordt in de MA verwerkt; wanneer de tijdelijke snelheid lager is dan de toegelaten SR-snelheid zijn er ook L-A-E-borden geplaatst (ook bij ETCS met NS'54 en in transitiegebieden naar NTC-ATB).",
+   "bron": "1.48 Tijdelijke snelheidsbeperking"
+  },
+  {
+   "id": "11-053",
+   "vraag": "De treindienstleider herroept een rijweg. De boordapparatuur berekent dat de trein de nieuwe EOA niet meer haalt. Wat is het gevolg?",
+   "opties": [
+    "Er volgt een TRIP vanwege EOA-passage en de herroepen rijweg komt direct vrij",
+    "Er volgt geen ingreep; de oude MA blijft geldig tot de eerstvolgende blokgrens",
+    "De trein schakelt over naar On Sight en de herroepen rijweg komt direct vrij na stilstand",
+    "Er volgt een remingreep vanwege overspeed en de herroepen rijweg komt niet vrij"
+   ],
+   "antwoord": 3,
+   "uitleg": "1.50: bij onvoldoende remwegafstand volgt een remingreep vanwege overspeed. Als de trein berekent dat de EOA wordt gepasseerd, komt de herroepen rijweg niet vrij.",
+   "bron": "1.50 Herroepen van een rijweg"
+  },
+  {
+   "id": "11-054",
+   "vraag": "Een trein rijdt in een CBG richting een (niet-facultatief) S-bord. Wanneer wordt de mode Shunting aangeboden?",
+   "opties": [
+    "Zodra de trein stilstaat bij de EOA vlak voor het S-bord",
+    "Voor het bereiken van het bord, terwijl de trein met een MA rijdt",
+    "Na het passeren van het S-bord, met toestemming van de treindienstleider NCBG",
+    "Zodra hij een EI7 heeft ontvangen"
+   ],
+   "antwoord": 0,
+   "uitleg": "1.51: bij een S-bord krijgt de trein een EOA vlak voor het bord en wordt Shunting aangeboden zodra de trein stilstaat. Bij een facultatief S-bord of bord einde beveiliging krijgt de trein een MA en wordt Shunting voor het bereiken van het bord aangeboden.",
+   "bron": "1.51 Rijden van CBG naar NCBG"
+  },
+  {
+   "id": "11-055",
+   "vraag": "Een trein in Level 2 verliest de RBC-verbinding; na de bedrijfsremming wordt de verbinding niet hersteld. Het baanvak is Level 2 only. Hoe kan de trein verder?",
+   "opties": [
+    "Door om te schakelen naar Level NTC-ATB en verder te rijden volgens de regels voor seinstelsel NS'54 en ATB",
+    "Met een European Instruction 1 en Override EOA, in Staff Responsible zonder RBC-verbinding, stoppend voor ieder SMB",
+    "Met een European Instruction 2 met vak 2.10 en daarna 'Start' kiezen, waarna hij een eventuele MA opvolgt",
+    "Door de mode Isolation te kiezen en de snelheden van de hoofdseinen te volgen"
+   ],
+   "antwoord": 1,
+   "uitleg": "1.57: moet de trein verder op een Level 2 only baanvak, dan ontvangt de machinist een EI1, voert Override EOA uit en rijdt in SR zonder RBC-verbinding, stoppend voor ieder SMB. Omschakelen naar NTC-ATB geldt alleen als ook ATB aanwezig is.",
+   "bron": "1.57 RBC-verbindingsverlies"
+  }
+ ]
+}

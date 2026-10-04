@@ -1,0 +1,417 @@
+VVRV cluster Voorbereiden, gereedmaken en
+vertrekken
+
+                                                                                                                                                             1/11
+1  Voorberei den, gereedmaken en vertrekken
+
+   Voorbereiden, gereedmaken en vertrekken                                                             2
+
+   1.1 Voorwoord                                                                                       3
+
+   1.2 Hoe bereidt de machinist zich voor op de dienst?                                                3
+
+   1.3 Wat zegt de TSI OPE over het vertrek van een trein?                                             5
+
+   1.4 Welke controles zijn er voor het vertrek van een trein?                                         5
+
+   1.5 Welke soorten rembeproevingen worden onderscheiden?                                             7
+
+   1.6 Wanneer mag een machinist met de trein vertrekken?                                              8
+
+   1.7 Hoe vertrekt de machinist als de trein voorbij een hoofdsein staat?                             10
+
+   1.8 Hoe vertrekt de machinist door stoptonend sein?                                                 10
+
+   1.9 Hoe vertrekt de machinist na een ongeplande stop?                                               10
+
+   1.0 Hoe vertrekt de machinist als het volgende hoofdsein niet
+
+                                             waarneembaar is en het vorige hoofdsein is niet (zelf)
+
+                                             waargenomen?                                              10
+
+   1.11 Hoe vertrekt de machinist als het volgende hoofdsein wel
+
+                                             waarneembaar is maar het vorige hoofdsein is niet (zelf)
+
+                                             waargenomen?                                              10
+
+   1.12 Hoe vertrekt de machinist als het volgende hoofdsein niet
+
+                                             waarneembaar is maar het vorige hoofdsein is wel (zelf)
+
+                                             waargenomen?                                              11
+
+   1.13 Wat doet de machinist biji keren/kopmaken?                                                     11
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken                                                       2/11
+1.1 Voorwoord
+
+De vakkennis is bedoeld als bronmateriaal en niet als leerboek, vandaar ook het ontbreken
+van een didactische opbouw en afbeeldingen.
+
+De vakkennis bevat de uitwerking van de vakbekwaamheidseisen conform wet- en
+regelgeving in het examenprogramma machinist vergunning bijlage IV `machinistenrichtlijn'.
+Het examen is hierop gebaseerd. Zie het examenprogramma op de website van VVRV. In de
+opleidingen kan uiteraard dieper worden ingegaan op bepaalde thema's en kan
+verbreding worden aangebracht.
+
+Overal waar hij/zijn staat, kan ook zij/haar of hen/hun worden gelezen.
+
+De vakkennis is samen met deskundigen en naar beste weten en kunnen samengesteld.
+Toch kunnen er onjuistheden of onvolledigheden in de tekst geslopen zijn. VVRV is niet
+aansprakelijk voor schade als gevolg daarvan.
+
+Versie augustus 2025
+
+1.2 Hoe bereidt de machinist zich voor op de dienst?
+
+Per spoorwegonderneming kan het verschillen hoe de machinist aan de benodigde
+gegevens komt om zich ervan te overtuigen of hij een dienst kan verrichten.
+
+In dienst melden
+De dienst die een machinist toegewezen heeft gekregen, moet hij op het moment dat hij die
+gaat uitvoeren, bevestigen: hij moet zich `In dienst melden'.
+
+De informatie die de machinist bij het in dienst melden ontvangt gaat onder meer over het
+volgende:
+- de inhoud van de dienst en eventuele wijzigingen
+- werkzaamheden aan de infrastructuur
+- bijzondere verkeerssituaties of bijzondere verkeersmaatregelen die gelden voor de te
+
+     berijden baanvakken
+- eventuele ontheffing of vrijstelling voor de uit te voeren rit, met bijbehorende
+
+     voorschriften of beperkingen.
+
+Tijdtafel en dienstkaartje
+Voor het efficiënt vervoeren van mensen en goederen is een dienstregeling ontwikkeld. Deze
+is onder andere te vinden in de `Tijdtafel van de dienstregeling'. De tijdtafel is een document
+met daarop de vertrek-, aankomst- en doorrijdtijden. De machinist vervoert zijn trein
+overeenkomstig de gegevens uit deze tijdtafel.
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken  3/11
+Spoorwegondernemingen voorzien hun personeel meestal van een dienstkaartje. Het
+dienstkaartje voorziet de machinist van allerlei informatie om zijn dienst uit te kunnen voeren.
+
+De informatie die op het dienstkaartje staat, verschilt per spoorwegonderneming en kan
+onder andere zijn:
+- treinnummers
+- dienstregeling
+- rangeerwerkzaamheden
+- opstellocaties
+- tankstops
+- verwijzingen naar aanvullende documenten.
+
+Op het dienstkaartje kan de machinist ook te weten komen op welke tijd hij rangeerwerk
+moet verrichten.
+
+IAM /TSB
+
+Door middel van de IAM (ProRail-informatie aan machinisten) wordt de machinist op de
+hoogte gehouden van:
+- wijzigingen aan de infra
+- tijdelijke snelheidsbeperkingen (TSB)
+- nieuwe wegwijzertekeningen (`Wegwijzers')
+- overige informatie.
+
+Zonder IAM hebben spoorwegbedrijven geen toegang tot het hoofdspoornet. De
+spoorondernemingen zijn verantwoordelijk voor de verspreiding van deze informatie onder
+hun machinisten. De machinist blijft altijd zelf verantwoordelijk voor de kennisname van deze
+wijzigingen.
+
+Soms is het vanwege veiligheidsrisico's of ter voorkoming van overmatige slijtage nodig de
+geldende maximumsnelheid van treinen op een spoorgedeelte tijdelijk te verlagen; er is dan
+sprake van een tijdelijke snelheidsbeperking (TSB).
+
+De TSB wordt via de IAM aan machinisten kenbaar gemaakt. Daarnaast wordt op het spoor
+via borden volgens het seinreglement aangegeven dat op dat moment een TSB van kracht
+is.
+
+De treindienstleider gebruikt European Instruction 5 voor snelheidsbeperkingen die niet in de
+IAM staan of die nog niet in de TSB zijn opgenomen,
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken  4/11
+1.3 Wat zegt de TSI OPE over het vertrek van een trein?
+
+Overeenkomstig de TSI OPE bepaalt de spoorwegonderneming welke controles en testen,
+inclusief rembeproevingen, moeten worden uitgevoerd om ervoor te zorgen dat elk vertrek
+van een trein veilig verloopt.
+
+De machinist informeert de treindienstleider wanneer de trein klaar is voor vertrek.
+
+De machinist meldt voor vertrek aan de treindienstleider eventuele storingen die een
+nadelige invloed kunnen hebben op de trein of het rijgedrag van de trein.
+
+Zie artikelen 4.2.3.3.1 en 4.2.3.3.2.
+
+1.4 Welke controles zijn er voor het vertrek van een trein?
+
+Voordat een trein kan vertrekken vanaf het beginstation (beginpunt) van de rit moet hij in
+bedrijfsvaardige (dienstvaardige) staat worden gebracht volgens de richtlijnen van de
+spoorwegonderneming.
+
+De machinist (of iemand anders van de spoorwegonderneming) controleert de status van
+het materieel: mag het materieel wel vertrekken of zijn er defecten/manco's? De
+spoorwegonderneming bepaalt. Denk bijvoorbeeld aan:
+- controleren of de periodieke technische controle is uitgevoerd
+- controleren materieelagenda
+- controleren veiligheidsmiddelen en inventaris*
+- nemen van de vereiste rembeproevingen *)
+- werking dodemansinstallatie testen *)
+- controleren of treinbeveiligingsinstallatie in bedrijf is
+- controleren of de voorgeschreven telecommunicatiemiddelen goed functioneren
+- uitvoeren tractiecontrole
+- beproeven van eventuele zandstrooiers
+- beproeven van de tyfoon *)
+- controle of de P/G-kraan bij het rijden met een locomotief in de juiste stand staat
+- controleren verzegelingen *)
+- controleren van de voorgeschreven front- en sluitseinen*)
+Op zaken waarachter *) staat wordt hierna verder ingegaan.
+
+Is één van de controlepunten niet in orde, dan mag de trein niet vertrekken, tenzij er
+passende maatregelen zijn getroffen; dit ter beoordeling van de spoorwegonderneming.
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken  5/11
+Dodeman
+De spoorwegonderneming bepaalt de frequentie van het beproeven van de
+dodemansinstallatie.
+
+De machinist controleert en beproeft de dodeman in de bediende cabine. Als deze niet
+functioneert op het beginstation, mag de trein niet vertrekken.
+
+Verzegelingen schakelaars en kranen
+De machinist controleert de verzegelingen van de schakelaars (bijvoorbeeld SG-schakelaar)
+en kranen:
+- in de cabine
+- in de machineruimte (alleen bij een locomotief).
+
+Front- en sluitseinen
+De machinist controleert of alle lichten branden zoals vermeld in bijlage 4 bij artikel 24 van de
+Regeling Spoorverkeer (seinreglement).
+
+Frontseinen:
+- tijdens gebruik van de hoofdspoorweg: drie brandende witte of gele lichten aan de
+
+     voorzijde (in normaal bedrijf, TSI kent uitzonderingen)
+- bij een hogesnelheidstrein tijdens het gebruik van de hoofdspoorweg: drie brandende
+
+     witte lichten aan de voorzijde (bij gekoppelde HSL-treinstellen wordt de verlichting op de
+     plaats van de koppeling gedoofd)
+- een krachtvoertuig tijdens het gebruik van een hoofdspoorweg uitsluitend binnen een
+     spoorwegemplacement: aan de voor- en aan de achterzijde voorzien van een
+     brandend wit licht.
+
+Sluitseinen:
+- bij treinen: twee brandende, al dan niet knipperende, rode lichten aan de achterzijde of
+
+     twee schilden
+- bij een hogesnelheidstrein tijdens het gebruik van de hoofdspoorweg: twee brandende
+
+     rode lichten aan de achterzijde
+- bij treinen op een buiten dienst gesteld spoor: een brandend, al dan niet knipperend,
+
+     rood licht aan de achterzijde
+- bij treinen niet bestemd voor het vervoer van personen: aan de achterzijde voorzien van
+
+     een brandend, al dan niet knipperend, rood licht of twee schilden.
+
+Tyfoon
+De spoorwegonderneming bepaalt wie de tyfoon beproeft en de frequentie waarmee de
+beproeving plaatsvindt. Beproeven mag als de plaatselijke regelgeving dit toestaat.
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken  6/11
+Minimaal aanwezige veiligheidsmiddelen
+Minimaal aanwezige veiligheidsmiddelen zijn:
+- rode vlag/noodseinlantaarn
+- voor goederentreinen: vluchtmasker.
+
+De spoorwegonderneming bepaalt de overige middelen. Vaak is dat ook de kortsluitkabel.
+Zie ook cluster Veiligheid.
+
+1.5 Welke soorten rembeproevingen worden onderscheiden?
+
+Bevoegde remproefnemers zijn:
+- machinist
+- rangeerder
+- wagencontroleur.
+
+De spoorwegonderneming bepaalt welke controles en proeven moeten worden uitgevoerd
+om te waarborgen dat elk vertrek veilig verloopt; dit geldt ook voor de remmen. De
+volgende remproeven worden vaak onderscheiden.
+
+Kleine of verkorte remproef
+Aan het begin van de rit wordt de kleine remproef genomen wanneer bijvoorbeeld sprake is
+van één of meer van onderstaande situaties:
+- de trein heeft langer dan twee uur stilgestaan
+- de trein is gesplitst of gecombineerd
+- de trein is van rijrichting veranderd (kopmaken)
+- de treinleiding is verbroken geweest
+- waar dit voorgeschreven is door de spoorwegonderneming.
+
+Grote of volledige remproef
+- bij een goederentrein: station eerste vertrek
+- bij een reizigerstrein: eerste vertrek van de dag
+- als de trein langer dan 24 uur heeft stilgestaan
+- als de machinist niet schriftelijk of mondeling is ingelicht dat de grote remproef is
+
+     uitgevoerd
+- bij het bijplaatsen van voertuigen (grote remproef alleen op het toegevoegde
+
+     treingedeelte)
+- waar dit voorgeschreven is door de spoorwegonderneming.
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken  7/11
+Lekkageproef
+Remproef waarbij gecontroleerd wordt of de lekkage van de treinleiding van de
+zelfwerkende luchtdrukrem zich binnen de toelaatbare marge bevindt.
+
+De spoorwegonderneming bepaalt hoeveel bar het luchtverlies in de treinleiding maximaal
+mag zijn en houdt daarbij rekening met internationale afspraken.
+
+Verbindingsproef
+Deze proef geldt alleen voor goederenvervoer en wordt vaak gebruikt als er kopgemaakt is
+en als trein, loc en machinist binnen twee uur weer vertrekken. Dit om te controleren of het
+remsysteem van de loc en wagens goed aangesloten is.
+
+Vertrouwensovereenkomst
+(Goederen)treinen kunnen door een andere spoorwegonderneming zonder technische
+controle (voorheen vertrouwensonderzoek genoemd) worden overgenomen. De
+overnemende partij vertrouwt dan op de technische controle uitgevoerd door de
+wagencontroleur van de spoorwegonderneming die de vertrekcontrole heeft gedaan. Dit
+doen spoorwegondernemingen op basis van een vertrouwensovereenkomst.
+
+De vertrouwensovereenkomst zorgt ervoor dat bij het overdragen van treinen bij de grens
+minder tijd verloren gaat.
+
+Spoorwegondernemingen die op deze basis treinen rijden hebben daarvoor het GCU/AVV
+(General Contract of Use for Wagons/Algemeiner Vertrag für die Verwendung von
+Güterwagen = algemene overeenkomst voor het gebruik van goederenwagens)
+ondertekend. Door ondertekening van deze overeenkomst van het GCU/AVV hebben
+spoorwegondernemingen en houders van voertuigen zich verplicht om met goed
+onderhouden voertuigen treinen te rijden. De voorwaarden hiervoor zijn nader uitgewerkt in
+de regelgeving van het GCU/AVV.
+
+De machinist die met een overgenomen goederentrein de grens passeert hoeft geen
+specifieke remcontrole uit te voeren wanneer een vertrouwensovereenkomst is gesloten. De
+overeenkomst geldt voor getrokken treinen. Echter: als er een wisseling van locomotief
+plaatsvindt aan de grens, moet er een remproef worden gedaan.
+
+1.6 Wanneer mag een machinist met de trein vertrekken?
+
+De machinist mag met een trein vertrekken wanneer aan twee voorwaarden is voldaan:
+- de trein is gereed voor vertrek
+- de machinist heeft toestemming tot vertrek.
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken  8/11
+Gereed voor vertrek
+
+Vóór de vertrektijd moet de machinist zijn trein gereed hebben voor vertrek. De hoeveelheid
+tijd voor vertrek bepaalt de spoorwegonderneming.
+
+De spoorwegonderneming bepaalt welke aspecten de machinist voor vertrek moet
+controleren. Een trein is klaar voor vertrek als bijvoorbeeld:
+- technische beperkingen bekend zijn
+- lengte en samenstelling van de trein bekend is
+- de materieelsnelheid bekend is
+- de dienstregeling bekend is
+- veiligheidsmiddelen aanwezig zijn
+- de dodeman werkt
+- de remproef geslaagd is
+- het treinbeveiligingssysteem in orde is
+- GSM-R aangemeld is
+- front- en sluitseinen branden
+- relevante documenten aanwezig zijn (beremmingsstaat, wagenlijst, vervoersregeling).
+
+Als de trein niet vertrekgereed is, kan deze niet vertrekken en informeert de machinist de
+treindienstleider.
+
+Toestemming tot vertrek
+
+Nadat de machinist zijn trein gereed heeft voor vertrek, wacht hij op toestemming tot vertrek.
+Hij krijgt dit op één van de volgende manieren.
+
+Centraal bediend Gebied (CBG)
+- door het uit de stand `stop' komen van het voor de trein geldende hoofdsein
+- door het in ontvangst nemen van European Instruction 1 voor het betreffende sein
+- mondeling door de treindienstleider.
+
+Niet centraal bediend gebied (NCBG)
+- mondeling door de treindienstleider
+- op de lokaal voorgeschreven wijze.
+
+In de TSI wordt gesproken van vertrekbevel. Dit is een bericht aan de machinist dat het
+bevoegde personeel alle voorbereidende activiteiten op het station of depot heeft
+afgerond en dat de rijtoestemming is verleend.
+
+Als de machinist toestemming tot vertrek heeft gekregen, moet hij vertrekken.
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken  9/11
+Op deze regel zijn drie uitzonderingen:
+- een vast sein verbiedt het voorbijrijden
+- de machinist twijfelt of het vertrekbevel voor hem bestemd is
+- het is nog geen (dienstregelings)tijd voor vertrek.
+
+1.7 Hoe vertrekt de machinist als de trein voorbij een hoofdsein staat?
+
+Een bijzondere situatie in centraal bediend gebied (CBG) doet zich voor wanneer de trein
+gedeeltelijk voorbij het geldende hoofdsein staat én er tussen de voorkant van de trein en
+het volgende hoofdsein een wissel ligt. De machinist moet dan altijd contact opnemen met
+de treindienstleider en diens instructies opvolgen.
+
+1.8 Hoe vertrekt de machinist door stoptonend sein?
+
+Een stoptonend sein mag gepasseerd worden na toestemming van de treindienstleider. Voor
+het passeren van een stoptonend bediend sein moet de machinist een voor het sein
+geldende European Instruction 1 ontvangen hebben.
+Artikel 33 Regeling spoorverkeer.
+
+1.9 Hoe vertrekt de machinist na een ongeplande stop?
+
+Als de trein heeft stilgestaan, vertrekt de machinist na toestemming van de treindienstleider.
+
+1.10 Hoe vertrekt de machinist als het volgende hoofdsein niet
+       waarneembaar is en het vorige hoofdsein is niet (zelf) waargenomen?
+
+Als de machinist bij vertrek het volgende hoofdsein niet kan zien en het voorgaande
+seinbeeld is niet (door hemzelf) waargenomen, moet hij contact opnemen met de
+treindienstleider en handelen volgens zijn opdracht: maximaal 40 km/u en rekening houden
+met stop, tenzij de treindienstleider opdracht geeft om te vertrekken met rijden op zicht.
+
+1.11 Hoe vertrekt de machinist als het volgende hoofdsein wel
+       waarneembaar is maar het vorige hoofdsein is niet (zelf) waargenomen?
+
+Deze vraag heeft betrekking op de volgende situaties:
+- trein overgenomen van voorganger
+- na keren/kopmaken
+- bij vertrek van kopspoor.
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken  10/11
+Als de machinist bij vertrek het volgende hoofdsein kan zien en dat is hooggeplaatst groen
+dan vertrekt hij met plaatselijke snelheid, tenzij de spoorwegonderneming anders heeft
+bepaald. Is de plaatselijke snelheid niet bekend dan vertrekt hij met 40 km/u. Bij geel knipper
+vertrekt hij met rijden op zicht.
+
+1.12 Hoe vertrekt de machinist als het volgende hoofdsein niet
+       waarneembaar is maar het vorige hoofdsein is wel (zelf) waargenomen?
+
+Als het vorige sein geel toont, vertrekt de machinist met maximaal 40 km/uh en houdt
+rekening met stop.
+
+Als het vorige sein geel knipper toont, vertrekt de machinist met rijden op zicht.
+
+Als het vorige sein groenvarianten en geel met getalvarianten toont, vertrekt de machinist
+met plaatselijke snelheid of met een door het sein opgelegde snelheid.
+
+1.13 Wat doet de machinist biji keren/kopmaken?
+
+Keren/kopmaken is veranderen van rijrichting. Dit kan zowel op hoofdspoorwegen als op
+stationnementen.
+Bij het keren/kopmaken op de hoofdspoorweg is toestemming van de treindienstleider
+vereist. De machinist rijdt met maximaal 40 km/u tot het eerstvolgende hoofdsein en houdt
+rekening met het niet goed functioneren van overwegen.
+Keren met een trein die niet is uitgerust met een trek-duw systeem betekent dat de machinist
+de locomotief moet omrijden naar de andere kant van de trein.
+
+VVRV cluster Voorbereiden, gereedmaken en vertrekken  11/11
+
