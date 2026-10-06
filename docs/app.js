@@ -95,7 +95,7 @@
       cb.type = 'checkbox'; cb.value = c.id; cb.checked = sel.includes(c.id);
       cb.addEventListener('change', updateStartInfo);
       const name = el('span', 'cl-name', c.titel);
-      name.appendChild(el('small', null, `${c.id === '12' ? 'ORE' : 'Cluster ' + c.id} · ${c.vragen.length} vragen`));
+      name.appendChild(el('small', null, `${c.label || (c.id === '12' ? 'ORE' : 'Cluster ' + c.id)} ·${c.vragen.length} vragen`));
       const stat = el('span', 'cl-stat', `${answered.length ? Math.round((right / c.vragen.length) * 100) : 0}%`);
       const bar = el('div', 'mini-bar');
       const fill = el('i');
@@ -105,7 +105,7 @@
     }
     const src = $('#sources');
     src.innerHTML = '';
-    for (const c of clusters) {
+    for (const c of clusters.filter((c) => c.bron)) {
       const li = el('li');
       const a = el('a', null, c.titel);
       a.href = 'bronnen/' + c.bron; a.target = '_blank'; a.rel = 'noopener';
@@ -167,7 +167,7 @@
     const q = it.q;
     const total = session.items.length;
     $('#progress-bar').style.width = (session.i / total) * 100 + '%';
-    $('#q-cluster').textContent = q.eis ? `Eis ${q.eis} · ${q._cluster.titel}` : q._cluster.titel;
+    $('#q-cluster').textContent = q.eis ? `Eis ${q.eis} · ${q._srcTitel || q._cluster.titel}` : q._cluster.titel;
     $('#q-num').textContent = `${session.i + 1} / ${total}`;
     $('#q-text').textContent = q.vraag;
     const ol = $('#q-options');
@@ -219,7 +219,7 @@
       fb.innerHTML = '';
       fb.appendChild(el('strong', null, ok ? 'Goed!' : 'Fout'));
       fb.appendChild(el('div', null, q.uitleg));
-      if (q.bron) fb.appendChild(el('div', 'src', 'Bron: ' + q._cluster.titel + ' – ' + q.bron));
+      if (q.bron) fb.appendChild(el('div', 'src', 'Bron: ' + (q._srcTitel || q._cluster.titel) + ' – ' + q.bron));
       fb.hidden = false;
       record(q, ok);
     }
@@ -377,10 +377,15 @@
     try {
       const manifest = await (await fetch('data/manifest.json')).json();
       window.EXTRA_SOURCES = manifest.extra || [];
-      clusters = await Promise.all(manifest.clusters.map(async (f) => (await fetch('data/' + f)).json()));
-      for (const c of clusters) for (const q of c.vragen) { q._cluster = c; byId[q.id] = q; }
-      exams = await Promise.all((manifest.examens || []).map(async (f) => (await fetch('data/' + f)).json()));
+      const load = (files) => Promise.all((files || []).map(async (f) => (await fetch('data/' + f)).json()));
+      const sets = await load(manifest.oefensets);
+      clusters = await load(manifest.clusters);
       const clusterTitle = Object.fromEntries(clusters.map((c) => [c.id, c.titel]));
+      // oefensets staan bovenaan de clusterlijst; hun vragen verwijzen naar het broncluster
+      for (const c of sets) for (const q of c.vragen) q._srcTitel = clusterTitle[q.cluster];
+      clusters = sets.concat(clusters);
+      for (const c of clusters) for (const q of c.vragen) { q._cluster = c; byId[q.id] = q; }
+      exams = await load(manifest.examens);
       for (const ex of exams) for (const q of ex.vragen) {
         q._cluster = { id: q.cluster, titel: clusterTitle[q.cluster] || ex.titel };
         byId[q.id] = q;

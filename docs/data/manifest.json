@@ -1,4 +1,7 @@
 {
+ "oefensets": [
+  "oefensets/deel1.json"
+ ],
  "clusters": [
   "01.json",
   "02.json",
