@@ -13,6 +13,9 @@
   "11.json",
   "12.json"
  ],
+ "examens": [
+  "examens/deel1.json"
+ ],
  "extra": [
   {
    "titel": "ORE v2.1 (vorige versie)",

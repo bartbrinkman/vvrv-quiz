@@ -13,17 +13,18 @@
 
   // ---------- persistence (best-effort) ----------
   const store = (() => {
-    let data = { stats: {}, flags: {}, sel: null, mode: null, count: null };
+    let data = { stats: {}, flags: {}, exams: {}, sel: null, mode: null, count: null };
     try { Object.assign(data, JSON.parse(localStorage.getItem(STORE_KEY)) || {}); } catch (e) {}
     return {
       data,
       save() { try { localStorage.setItem(STORE_KEY, JSON.stringify(data)); } catch (e) {} },
-      reset() { data.stats = {}; data.flags = {}; this.save(); }
+      reset() { data.stats = {}; data.flags = {}; data.exams = {}; this.save(); }
     };
   })();
 
   // ---------- state ----------
   let clusters = [];          // [{id,titel,bron,vragen:[...]}]
+  let exams = [];             // proefexamens: [{id,titel,duur_min,norm_pct,eisen,vragen:[...]}]
   let byId = {};              // question id -> question (with cluster ref)
   let session = null;
   let timer = null;
@@ -63,7 +64,25 @@
     return qs.filter((q) => (store.data.stats[q.id] && store.data.stats[q.id].last === false) || store.data.flags[q.id]);
   }
 
+  function renderProef() {
+    const list = $('#proef-list');
+    list.innerHTML = '';
+    $('#proef-card').hidden = !exams.length;
+    for (const ex of exams) {
+      const b = el('button', 'primary proef-btn');
+      const txt = el('span', null, ex.titel);
+      txt.appendChild(el('small', null, `${ex.vragen.length} vragen · ${ex.duur_min} min · norm ${ex.norm_pct}%`));
+      const r = store.data.exams[ex.id];
+      b.append(txt, el('span', 'best', r ? `beste ${r.best}%` : 'Start'));
+      b.addEventListener('click', () => startSession(ex.vragen, 'proef', {
+        durationMs: ex.duur_min * 60000, pass: ex.norm_pct, title: ex.titel, exam: ex
+      }));
+      list.appendChild(b);
+    }
+  }
+
   function renderStart() {
+    renderProef();
     const ul = $('#clusters');
     ul.innerHTML = '';
     const sel = store.data.sel || clusters.map((c) => c.id);
@@ -116,19 +135,21 @@
   }
 
   // ---------- quiz ----------
-  function startSession(questions, mode) {
+  function startSession(questions, mode, opts = {}) {
     const items = shuffle(questions).map((q) => {
       const order = shuffle([0, 1, 2, 3]);
       return { q, order, chosen: null };
     });
-    session = { mode, items, i: 0, deadline: null };
+    const exam = mode === 'examen' || mode === 'proef';
+    session = { mode, exam, items, i: 0, deadline: null, pass: opts.pass || PASS_PCT, proef: opts.exam || null };
     clearInterval(timer);
-    if (mode === 'examen') {
-      session.deadline = Date.now() + items.length * 90 * 1000;
+    if (exam) {
+      session.deadline = Date.now() + (opts.durationMs || items.length * 90 * 1000);
       timer = setInterval(tick, 1000);
       tick();
     }
-    $('#top-title').textContent = mode === 'examen' ? 'Examen' : mode === 'fouten' ? 'Fouten oefenen' : 'Oefenen';
+    $('#btn-prev').hidden = !exam;
+    $('#top-title').textContent = opts.title || (mode === 'examen' ? 'Examen' : mode === 'fouten' ? 'Fouten oefenen' : 'Oefenen');
     show('quiz');
     renderQuestion();
   }
@@ -138,7 +159,7 @@
     const left = Math.max(0, session.deadline - Date.now());
     const m = Math.floor(left / 60000), s = Math.floor((left % 60000) / 1000);
     $('#top-meta').textContent = `⏱ ${m}:${String(s).padStart(2, '0')}`;
-    if (left <= 0) finish();
+    if (left <= 0) finish(true);
   }
 
   function renderQuestion() {
@@ -146,7 +167,7 @@
     const q = it.q;
     const total = session.items.length;
     $('#progress-bar').style.width = (session.i / total) * 100 + '%';
-    $('#q-cluster').textContent = q._cluster.titel;
+    $('#q-cluster').textContent = q.eis ? `Eis ${q.eis} · ${q._cluster.titel}` : q._cluster.titel;
     $('#q-num').textContent = `${session.i + 1} / ${total}`;
     $('#q-text').textContent = q.vraag;
     const ol = $('#q-options');
@@ -160,8 +181,9 @@
     });
     $('#q-feedback').hidden = true;
     const next = $('#btn-next');
-    next.disabled = true;
+    next.disabled = !session.exam;
     next.textContent = session.i === total - 1 ? 'Afronden' : 'Volgende';
+    $('#btn-prev').disabled = session.i === 0;
     const flagged = !!store.data.flags[q.id];
     $('#btn-flag').setAttribute('aria-pressed', flagged);
     $('#btn-flag').textContent = flagged ? '★ Gemarkeerd' : '☆ Markeer';
@@ -170,7 +192,7 @@
 
   function choose(orig) {
     const it = session.items[session.i];
-    if (session.mode !== 'examen' && it.chosen != null) return;
+    if (!session.exam && it.chosen != null) return;
     it.chosen = orig;
     paintChoice(it);
   }
@@ -178,7 +200,7 @@
   function paintChoice(it) {
     const q = it.q;
     const buttons = [...document.querySelectorAll('#q-options button')];
-    const exam = session.mode === 'examen';
+    const exam = session.exam;
     for (const b of buttons) {
       const o = +b.dataset.orig;
       b.classList.remove('selected', 'correct', 'wrong');
@@ -217,13 +239,51 @@
       session.i++;
       renderQuestion();
       window.scrollTo(0, 0);
-    } else finish();
+    } else {
+      const open = session.items.filter((it) => it.chosen == null).length;
+      if (session.exam && open && !confirm(`Je hebt ${open} ${open === 1 ? 'vraag' : 'vragen'} nog niet beantwoord. Toch afronden?`)) return;
+      finish();
+    }
   }
 
-  function finish() {
+  function prev() {
+    if (session && session.exam && session.i > 0) {
+      session.i--;
+      renderQuestion();
+      window.scrollTo(0, 0);
+    }
+  }
+
+  function renderBreakdown(s) {
+    const box = $('#eis-breakdown');
+    box.innerHTML = '';
+    box.hidden = !s.proef;
+    if (!s.proef) return;
+    const groups = {};
+    for (const it of s.items) {
+      const main = (it.q.eis || '?').split('.')[0];
+      const g = (groups[main] = groups[main] || { right: 0, total: 0 });
+      g.total++;
+      if (it.chosen === it.q.antwoord) g.right++;
+    }
+    box.appendChild(el('h2', null, 'Score per vakbekwaamheidseis'));
+    const table = el('table', 'eis-table');
+    for (const key of Object.keys(s.proef.eisen || {}).filter((k) => groups[k]).concat(Object.keys(groups).filter((k) => !(s.proef.eisen || {})[k]))) {
+      const g = groups[key];
+      const pct = Math.round((g.right / g.total) * 100);
+      const tr = el('tr');
+      const name = el('td', null, 'Eis ' + key);
+      if (s.proef.eisen && s.proef.eisen[key]) name.appendChild(el('small', null, s.proef.eisen[key]));
+      tr.append(name, el('td', 'n ' + (pct >= s.pass ? 'ok' : 'bad'), `${g.right}/${g.total} · ${pct}%`));
+      table.appendChild(tr);
+    }
+    box.appendChild(table);
+  }
+
+  function finish(timeUp) {
     clearInterval(timer);
     const s = session;
-    if (s.mode === 'examen') for (const it of s.items) record(it.q, it.chosen === it.q.antwoord);
+    if (s.exam) for (const it of s.items) record(it.q, it.chosen === it.q.antwoord);
     const total = s.items.length;
     const right = s.items.filter((it) => it.chosen === it.q.antwoord).length;
     const pct = Math.round((right / total) * 100);
@@ -231,8 +291,19 @@
     $('#score-pct').textContent = pct + '%';
     $('#score-txt').textContent = `${right} van ${total} goed`;
     const v = $('#score-verdict');
-    v.textContent = pct >= PASS_PCT ? 'Goed bezig! (indicatie: ≥ 70%)' : 'Nog even oefenen (indicatie: ≥ 70%)';
-    v.className = 'verdict ' + (pct >= PASS_PCT ? 'ok' : 'bad');
+    const passed = pct >= s.pass;
+    const prefix = timeUp ? 'Tijd is om. ' : '';
+    if (s.proef) {
+      const need = Math.ceil((s.pass / 100) * total);
+      v.textContent = prefix + `${passed ? 'Geslaagd' : 'Gezakt'} (norm ${s.pass}% = ${need} goed)`;
+      const before = store.data.exams[s.proef.id];
+      store.data.exams[s.proef.id] = { best: Math.max(pct, before ? before.best : 0), last: pct, date: new Date().toISOString().slice(0, 10) };
+      store.save();
+    } else {
+      v.textContent = prefix + (passed ? 'Goed bezig!' : 'Nog even oefenen') + ` (indicatie: ≥ ${s.pass}%)`;
+    }
+    v.className = 'verdict ' + (passed ? 'ok' : 'bad');
+    renderBreakdown(s);
     const wrong = s.items.filter((it) => it.chosen !== it.q.antwoord);
     $('#btn-retry-wrong').hidden = !wrong.length;
     $('#btn-retry-wrong').onclick = () => startSession(wrong.map((it) => it.q), 'oefen');
@@ -243,7 +314,7 @@
     for (const it of [...wrong, ...s.items.filter((it) => it.chosen === it.q.antwoord)]) {
       const ok = it.chosen === it.q.antwoord;
       const li = el('li', ok ? '' : 'bad');
-      li.appendChild(el('div', 'rq', it.q.vraag));
+      li.appendChild(el('div', 'rq', (it.q.eis ? `[Eis ${it.q.eis}] ` : '') + it.q.vraag));
       if (!ok) li.appendChild(el('div', 'ra your', '✗ ' + (it.chosen == null ? '(niet beantwoord)' : it.q.opties[it.chosen])));
       li.appendChild(el('div', 'ra right', '✓ ' + it.q.opties[it.q.antwoord]));
       li.appendChild(el('div', 'ru', it.q.uitleg + (it.q.bron ? ' — ' + it.q.bron : '')));
@@ -274,6 +345,7 @@
       startSession(shuffle(pool).slice(0, currentCount()), mode === 'fouten' ? 'oefen' : mode);
     });
     $('#btn-next').addEventListener('click', next);
+    $('#btn-prev').addEventListener('click', prev);
     $('#btn-flag').addEventListener('click', () => {
       const q = session.items[session.i].q;
       if (store.data.flags[q.id]) delete store.data.flags[q.id]; else store.data.flags[q.id] = 1;
@@ -297,6 +369,7 @@
         const b = document.querySelectorAll('#q-options button')[idx];
         if (b && !b.disabled) b.click();
       } else if (e.key === 'Enter' && !$('#btn-next').disabled) next();
+      else if (e.key === 'ArrowLeft') prev();
     });
   }
 
@@ -306,6 +379,12 @@
       window.EXTRA_SOURCES = manifest.extra || [];
       clusters = await Promise.all(manifest.clusters.map(async (f) => (await fetch('data/' + f)).json()));
       for (const c of clusters) for (const q of c.vragen) { q._cluster = c; byId[q.id] = q; }
+      exams = await Promise.all((manifest.examens || []).map(async (f) => (await fetch('data/' + f)).json()));
+      const clusterTitle = Object.fromEntries(clusters.map((c) => [c.id, c.titel]));
+      for (const ex of exams) for (const q of ex.vragen) {
+        q._cluster = { id: q.cluster, titel: clusterTitle[q.cluster] || ex.titel };
+        byId[q.id] = q;
+      }
     } catch (e) {
       $('#view-start').innerHTML = '<p class="card">Vragen konden niet geladen worden. Probeer de pagina te verversen.</p>';
       return;

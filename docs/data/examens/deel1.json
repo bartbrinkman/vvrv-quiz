@@ -1,0 +1,1214 @@
+{
+ "id": "D1",
+ "titel": "Proefexamen theorie deel 1",
+ "omschrijving": "Vakbekwaamheidseisen I t/m III; treinbeveiliging onder ATB en seinstelsel '54.",
+ "duur_min": 90,
+ "norm_pct": 80,
+ "eisen": {
+  "I": "Taken, rol en verantwoordelijkheid van de machinist",
+  "II": "Spoorwegtechnologie en veiligheidsregels exploitatie",
+  "III": "Basisbeginselen spoorweginfrastructuur"
+ },
+ "vragen": [
+  {
+   "id": "D1-001",
+   "eis": "I.a",
+   "cluster": "01",
+   "vraag": "Een collega doet drie uitspraken over de opbouw van regelgeving. Welke zijn juist?\n1) Lidstaten mogen EU-verordeningen, -richtlijnen en -besluiten in nationale wetgeving verder uitwerken, maar mogen er niet van afwijken.\n2) De regelgeving van de eigen spoorwegonderneming is een 'vertaling' van Europese en nationale wetgeving, aangevuld met bedrijfsspecifieke richtlijnen.\n3) Een Europees besluit is alleen bindend voor het te bereiken resultaat; vorm en middelen kiest de lidstaat zelf.",
+   "opties": [
+    "Alleen 2 en 3",
+    "Alleen 1 en 3",
+    "Alleen 2",
+    "Alleen 1 en 2"
+   ],
+   "antwoord": 3,
+   "uitleg": "1 en 2 zijn juist: EU-wetgeving gaat boven nationale wetgeving en mag worden uitgewerkt, niet afgeweken; bedrijfsregelgeving is een 'vertaling' die aan de strekking van de wet moet voldoen. 3 beschrijft een richtlijn; een besluit is bindend in al zijn onderdelen voor wie het uitdrukkelijk geldt.",
+   "bron": "1.8 Wat schrijft de NL-wetgeving voor op het gebied van spoorwegvervoer?"
+  },
+  {
+   "id": "D1-002",
+   "eis": "I.a",
+   "cluster": "01",
+   "vraag": "Na een ernstig spoorwegongeval wordt onderzoek gedaan naar de achterliggende oorzaken. Welke uitspraak over de Onderzoeksraad voor veiligheid is juist?",
+   "opties": [
+    "Hij heeft bij punitieve interventies de regie en stuurt het proces-verbaal naar de officier van justitie",
+    "Hij handhaaft als nationale veiligheidsinstantie de spoorregels en keurt het VBS van vervoerders",
+    "Hij legt na zijn onderzoek repressieve maatregelen op, zoals het intrekken van een vergunning",
+    "Hij is voorvalgebonden, trekt lessen uit onderzoek en werkt volgens een vastgelegd onderzoeksprotocol"
+   ],
+   "antwoord": 3,
+   "uitleg": "Rijkswet Onderzoeksraad voor veiligheid: de raad is voorvalgebonden, trekt lessen op basis van onderzoek naar voorvallen en de werkwijze is vastgelegd in een onderzoeksprotocol. Handhaving en VBS-audit horen bij de ILT; de regie bij punitieve interventies ligt bij het OM. Repressieve maatregelen (zoals intrekken van een vergunning) zijn interventies van de ILT, niet van de raad.",
+   "bron": "1.8 Wat schrijft de NL-wetgeving voor op het gebied van spoorwegvervoer?"
+  },
+  {
+   "id": "D1-003",
+   "eis": "I.a",
+   "cluster": "01",
+   "vraag": "Welke koppelingen tussen een ILT-interventie en de categorie van de interventieladder zijn juist?\n1) Stilleggen van het werk – correctief\n2) Verbod op het uitvoeren van bepaalde werkzaamheden – punitief\n3) Openbare waarschuwing geven – reputatief",
+   "opties": [
+    "Alleen 2 en 3",
+    "Alleen 1 en 3",
+    "Alleen 3",
+    "Alleen 1 en 2"
+   ],
+   "antwoord": 1,
+   "uitleg": "Stilleggen van het werk is correctief en een openbare waarschuwing is reputatief. Een verbod op het uitvoeren van bepaalde werkzaamheden valt onder repressief, niet punitief.",
+   "bron": "1.3 Hoe is de naleving van wet- en regelgeving geregeld?"
+  },
+  {
+   "id": "D1-004",
+   "eis": "I.a",
+   "cluster": "01",
+   "vraag": "Welke combinatie van regelgeving en toezichthouder is volledig juist?",
+   "opties": [
+    "Arbeidstijdenwet – inspectie SZW; Wet milieubeheer – gemeente/provincie; marktaspecten Spoorwegwet – ILT",
+    "Arbeidstijdenwet – inspectie SZW; Wet milieubeheer – ILT; marktaspecten Spoorwegwet – ACM",
+    "Arbeidstijdenwet – inspectie SZW; Wet milieubeheer – gemeente/provincie; marktaspecten Spoorwegwet – ACM",
+    "Arbeidstijdenwet – ILT; Wet milieubeheer – gemeente/provincie; marktaspecten Spoorwegwet – ACM"
+   ],
+   "antwoord": 2,
+   "uitleg": "Inspectie SZW houdt toezicht op Arbowet en ATW; bij de Wet milieubeheer zorgt de gemeente/provincie voor toezicht en handhaving; de ACM houdt toezicht op de marktaspecten (eerlijke concurrentie) van de Spoorwegwet. (ACM en Wet milieubeheer: 1.8; Arbowet/ATW en inspectie SZW: 1.9.)",
+   "bron": "1.8 Wat schrijft de NL-wetgeving voor op het gebied van spoorwegvervoer?"
+  },
+  {
+   "id": "D1-005",
+   "eis": "I.b",
+   "cluster": "02",
+   "vraag": "Een 19-jarige kandidaat heeft een geldige verklaring van medische en psychologische geschiktheid en een geldige beoordeling van de algemene vakkennis (bijlage IV). Zijn werkgever wil hem inzetten op treinen naar Duitsland. Wat geldt?",
+   "opties": [
+    "Hij voldoet aan de criteria voor de vergunning, maar internationaal rijden mag pas vanaf 20 jaar",
+    "Hij kan nog geen vergunning krijgen, omdat de minimumleeftijd voor de vergunning 20 jaar is",
+    "Hij mag internationaal rijden zodra de Duitse infra op zijn aanvullend bevoegdheidsbewijs staat",
+    "Hij mag direct internationaal rijden, omdat de vergunning vanaf 18 jaar in de hele EU geldt"
+   ],
+   "antwoord": 0,
+   "uitleg": "De vergunning vereist 18 jaar of ouder, een geldige medische/psychologische verklaring en een geldige beoordeling algemene vakkennis. Om internationaal te rijden moet de machinist ten minste 20 jaar zijn.",
+   "bron": "1.3 Wat zijn de bevoegdheidseisen van de machinist volgens de machinistenrichtlijn?"
+  },
+  {
+   "id": "D1-006",
+   "eis": "I.b",
+   "cluster": "02",
+   "vraag": "Welke uitspraken over vergunning en aanvullend bevoegdheidsbewijs (ABB) zijn juist?\n1) De machinistenvergunning kan uitsluitend door de werkgever via de website van de ILT worden aangevraagd.\n2) Werkt een machinist voor twee spoorwegondernemingen, dan heeft hij twee aparte ABB's, die eigendom blijven van die ondernemingen.\n3) Het ABB kan onbeperkt geldig zijn, maar de spoorwegonderneming kan ook een einddatum vaststellen.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 3",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3"
+   ],
+   "antwoord": 3,
+   "uitleg": "Machinisten óf hun werkgevers kunnen de vergunning via de ILT-website aanvragen, dus 1 is onjuist. Per werkgever is een apart ABB nodig dat eigendom van de spoorwegonderneming blijft; het ABB kan onbeperkt geldig zijn of een door de SO vastgestelde einddatum hebben.",
+   "bron": "1.3 Wat zijn de bevoegdheidseisen van de machinist volgens de machinistenrichtlijn?"
+  },
+  {
+   "id": "D1-007",
+   "eis": "I.b",
+   "cluster": "02",
+   "vraag": "Een anderstalige machinist komt terug na 13 maanden afwezigheid. Zijn laatste herinstructies taalkennis en kennis van het rollend materieel waren beide twee jaar geleden. Wat geldt volgens de minimumperioden van de machinistenrichtlijn?",
+   "opties": [
+    "Alleen rollend materieel moet opnieuw; taalkennis pas na twee jaar afwezigheid",
+    "Taalkennis moet opnieuw vanwege de afwezigheid; rollend materieel pas na drie jaar",
+    "Geen van beide hoeft opnieuw, omdat de termijn van drie jaar voor beide nog loopt",
+    "Beide moeten opnieuw, omdat afwezigheid van meer dan één jaar voor alle onderdelen geldt"
+   ],
+   "antwoord": 1,
+   "uitleg": "Taalkennis (alleen anderstaligen): om de drie jaar of na afwezigheid van meer dan één jaar. Rollend materieel: iedere drie jaar, zonder afwezigheidsclausule. (De afwezigheidsregel voor infrastructuur geldt per route.)",
+   "bron": "1.4 Hoe zijn examen, herinstructie en toezicht voor de machinist geregeld?"
+  },
+  {
+   "id": "D1-008",
+   "eis": "I.b",
+   "cluster": "02",
+   "vraag": "Een machinist draait onregelmatige diensten. Welke uitspraken zijn juist?\n1) De regels voor zijn arbeids- en rusttijden staan in de Arbeidstijdenwet; de inspectie SZW houdt hierop toezicht.\n2) Twijfelt hij aan zijn arbeidsgeschiktheid, dan meldt hij dit bij zijn eerstvolgende periodieke medische keuring.\n3) Hij blijft zelf verantwoordelijk voor het raadplegen van actuele regelgeving, ook al verspreidt zijn spoorwegonderneming die informatie.",
+   "opties": [
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "Alleen 1"
+   ],
+   "antwoord": 2,
+   "uitleg": "De ATW legt regels vast voor arbeids- en rusttijden; de inspectie SZW houdt toezicht (cluster 01, 1.9). De machinist is zelf verantwoordelijk voor het raadplegen van actuele regelgeving. Twijfel over zijn arbeidsgeschiktheid moet hij onmiddellijk melden aan de spoorwegonderneming of infrastructuurbeheerder, niet wachten op een keuring.",
+   "bron": "1.2 Wat zijn de taken en verantwoordelijkheden van de machinist volgens het Besluit Spoorwegpersoneel?"
+  },
+  {
+   "id": "D1-009",
+   "eis": "I.c",
+   "cluster": "03",
+   "vraag": "Over artikel 4 van de Spoorwegwet en de alcoholgrens worden drie stellingen gedaan:\n1. Het verbod om onder invloed te verkeren geldt ook voor wie toezicht houdt op de uitoefening van een veiligheidsfunctie.\n2. Wie aanstalten maakt een veiligheidsfunctie uit te oefenen, is verplicht mee te werken aan een voorlopig onderzoek van uitgeademde lucht.\n3. De wettelijke grens van 0,5 promille komt overeen met 220 microgram alcohol per milliliter bloed.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2"
+   ],
+   "antwoord": 2,
+   "uitleg": "Art. 4 geldt voor wie een veiligheidsfunctie uitoefent of daarop toezicht houdt; ook wie daartoe aanstalten maakt moet meewerken aan het voorlopig ademonderzoek. 0,5 promille = 0,5 mg per ml bloed of 220 microgram per liter uitgeademde lucht, niet per ml bloed.",
+   "bron": "1.4 Wat zegt de Spoorwegwet over veiligheid?"
+  },
+  {
+   "id": "D1-010",
+   "eis": "I.c",
+   "cluster": "03",
+   "vraag": "Een machinist neemt voor zijn dienst een medicijn tegen hooikoorts dat de reactiesnelheid kan beïnvloeden; zijn blaaswaarde is 0,3 promille. Welke stellingen zijn juist?\n1. Bepalend is of hij weet of redelijkerwijs moet vermoeden dat een stof, al dan niet in combinatie met een andere stof, zijn vaardigheid kan verminderen.\n2. Omdat 0,3 promille onder de wettelijke grens ligt, mag zijn spoorwegonderneming voor hem geen strengere alcoholnorm hanteren.\n3. Medicijnen die de reactiesnelheid beïnvloeden leveren een onaanvaardbaar risico op voor het veilig besturen van een trein.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "Art. 4 Spoorwegwet gaat over het weten of redelijkerwijs moeten vermoeden dat een stof, al dan niet in combinatie met een andere stof, de vaardigheid kan verminderen. Medicijnen die de reactiesnelheid beïnvloeden leveren een onaanvaardbaar risico op. Stelling 2 is onjuist: de spoorwegonderneming mag aanvullende regels stellen die strenger zijn dan de wettelijke 0,5 promille.",
+   "bron": "1.4 Wat zegt de Spoorwegwet over veiligheid? / 1.9 Wat zijn risico's op of nabij de railinfra?"
+  },
+  {
+   "id": "D1-011",
+   "eis": "I.d",
+   "cluster": "01",
+   "vraag": "Welke uitspraken over de Netverklaring en de Toegangsovereenkomst zijn juist?\n1) De Netverklaring bevat onder meer de voorwaarden voor toegang tot de hoofdspoorweginfrastructuur en de procedures voor de verdeling van capaciteit.\n2) De Netverklaring wordt om de vijf jaar door het Spoorwegbureau van de EU (ERA) vastgesteld.\n3) De Toegangsovereenkomst is het contract tussen spoorwegonderneming en infrastructuurbeheerder, met de afspraken en de vergoedingen voor de afgesproken diensten.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "Alleen 1"
+   ],
+   "antwoord": 0,
+   "uitleg": "ProRail geeft de Netverklaring elk jaar uit en vult die zo nodig tussentijds aan (niet ERA, niet om de vijf jaar). Inhoud: aard van de infra, voorwaarden voor toegang en gebruik, procedures voor capaciteitsverdeling. De Toegangsovereenkomst is het contract SO–IB met afspraken en vergoedingen.",
+   "bron": "1.10 Wat houdt de Netverklaring in?"
+  },
+  {
+   "id": "D1-012",
+   "eis": "I.d",
+   "cluster": "01",
+   "vraag": "Door een verstoring wijkt de treindienstleider af van de jaardienstregeling. Waarin staan de locatie- en situatiespecifieke eisen waarnaar hij bijstuurt?",
+   "opties": [
+    "In de Dagpublicatie van de IAM-dienst",
+    "In de Treinafhandelingsdocumenten (TAD's)",
+    "In het Handboek Incidentmanagement Rail",
+    "In de Netverklaring van ProRail"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij vertragingen en verstoringen sturen treindienstleiders bij volgens Treinafhandelingsdocumenten (TAD's), waarin locatie- en situatiespecifieke eisen voor de bijsturing staan.",
+   "bron": "1.14 Wat houdt de Dienstregeling in?"
+  },
+  {
+   "id": "D1-013",
+   "eis": "I.d",
+   "cluster": "01",
+   "vraag": "Welke uitspraak over het Handboek Incidentmanagement Rail is juist?",
+   "opties": [
+    "Iedere spoorwegonderneming stelt het zelf op, voor incidenten met haar eigen materieel en personeel",
+    "Het is een bijlage bij de Toegangsovereenkomst en regelt de vergoedingen bij treinincidenten",
+    "ProRail beschrijft er scenario's in: wat bij incidenten door wie, hoe en met welke middelen gebeurt",
+    "De Onderzoeksraad voor veiligheid stelt het op met lessen uit eerder onderzochte voorvallen"
+   ],
+   "antwoord": 2,
+   "uitleg": "ProRail heeft samen met de betrokken spoorpartijen en (overheids)hulpdiensten treinincidentscenario's opgesteld: wat bij specifieke incidenten door wie, hoe en met welke middelen moet gebeuren. ProRail beschrijft deze in het Handboek incidentmanagement rail.",
+   "bron": "1.16 Wat houdt het Handboek Incidentmanagement Rail in?"
+  },
+  {
+   "id": "D1-014",
+   "eis": "I.d",
+   "cluster": "01",
+   "vraag": "Een machinist bestudeert de TSB (Tijdelijke Snelheidsbeperkingen) in de IAM. Welke uitspraken zijn juist?\n1) Een 'i' in kolom 1 betekent dat het om wegwijzerinformatie gaat.\n2) Een gearceerd aanvangstijdstip in kolom 5 geeft nieuw geplaatste LAE-borden aan.\n3) Staat in kolom 6 niets vermeld, dan geldt de beperking voor de duur van de publicatie.",
+   "opties": [
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "In kolom 1 staat 'i' voor rayoninformatie en 'w' voor wegwijzerinformatie, dus 1 is onjuist. Nieuw geplaatste LAE-borden herken je aan het gearceerde aanvangstijdstip in kolom 5; staat in kolom 6 niets, dan geldt de beperking voor de duur van de publicatie.",
+   "bron": "1.15 Wat houdt de IAM (informatie aan machinisten) in?"
+  },
+  {
+   "id": "D1-015",
+   "eis": "I.d",
+   "cluster": "01",
+   "vraag": "Een machinist wil opzoeken welke vakken en velden in Nederland van toepassing zijn en in welke situaties welke European Instruction geldt. Waar vindt hij dit?",
+   "opties": [
+    "In bijlage 1 van Uitvoeringsverordening (EU) 2019/773",
+    "In deel 2 van het Boek van Europese en Nationale instructies",
+    "In de Regeling communicatieprocedures van ProRail",
+    "In deel 1 van het Boek van Europese en Nationale instructies"
+   ],
+   "antwoord": 3,
+   "uitleg": "Deel 1 van het Boek bevat het overzicht van de toepasselijke European/National Instructions en de wijze van overdracht, de vakken en velden, de lijst van situaties per Instruction en het NATO-alfabet. Deel 2 bevat de uitwerking van de European Instructions als voorbeeld en de National Instructions.",
+   "bron": "1.13 Wat houdt het Boek van Europese en Nationale instructies in?"
+  },
+  {
+   "id": "D1-016",
+   "eis": "I.e",
+   "cluster": "02",
+   "vraag": "Een trein staat door een calamiteit stil op de vrije baan; er is geen treinpersoneel aan boord. Welke uitspraak is juist?",
+   "opties": [
+    "De machinist begeleidt de reizigers alleen als de OVD-Rail daar opdracht toe heeft gegeven",
+    "De machinist blijft in de cabine; het begeleiden van reizigers hoort niet bij zijn taken",
+    "De machinist begeleidt de reizigers; de treindienstleider is zijn aanspreekpunt bij de calamiteit",
+    "De machinist begeleidt de reizigers; de verkeersleiding is zijn aanspreekpunt bij de calamiteit"
+   ],
+   "antwoord": 2,
+   "uitleg": "Begeleiden van treinreizigers bij een calamiteit is een taak van de machinist als er geen treinpersoneel is. De treindienstleider is het aanspreekpunt voor de machinist bij verstoringen en calamiteiten.",
+   "bron": "1.5 Met welke functies heeft de machinist te maken?"
+  },
+  {
+   "id": "D1-017",
+   "eis": "I.e",
+   "cluster": "02",
+   "vraag": "Welke koppeling van functie en taak is volledig juist?",
+   "opties": [
+    "Treindienstleider – veiligheidsmaatregelen bij werkzaamheden; rangeerder – samenstellen van treinen; wagencontroleur – controle laadprofielen",
+    "Treindienstleider – Europese en nationale instructies geven; rangeerder – koppelen en ontkoppelen; wagencontroleur – veilige rijwegen beschikbaar stellen",
+    "Treindienstleider – veiligheidsmaatregelen bij werkzaamheden; rangeerder – controle slijtagegevoelige onderdelen; wagencontroleur – controle belading",
+    "Treindienstleider – samenstellen van treinen; rangeerder – koppelen en ontkoppelen; wagencontroleur – controle laadprofielen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Treindienstleider: veilige rijwegen, veiligheidsmaatregelen bij storingen en werkzaamheden, instructies geven. Rangeerder: samenstellen en begeleiden van treinen, koppelen/ontkoppelen. Wagencontroleur: gebreken, slijtagegevoelige onderdelen, laadprofielen en belading.",
+   "bron": "1.5 Met welke functies heeft de machinist te maken?"
+  },
+  {
+   "id": "D1-018",
+   "eis": "I.e",
+   "cluster": "02",
+   "vraag": "Welke uitspraken over het opvolgen van opdrachten en aanwijzingen zijn juist?\n1) Krijgt de machinist tijdens zijn dienst opdrachten, dan voert hij die alleen uit als dat veilig kan.\n2) Aanwijzingen die de rangeerder geeft met rangeerseinen, mondeling of via ononderbroken radiocontact, moet de machinist opvolgen.\n3) Ontbreken de TSB-borden langs de baan, dan zijn de borden leidend en mag de machinist de baanvaksnelheid aanhouden.",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 1",
+    "Alleen 1 en 3",
+    "Alleen 2 en 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "De machinist voert opdrachten alleen uit als dat veilig kan (1.2) en moet aanwijzingen van de rangeerder opvolgen (1.5). Bij ontbrekende borden is de TSB leidend: handelen alsof de borden er staan en de treindienstleider informeren (cluster 01, 1.15).",
+   "bron": "1.2 Wat zijn de taken en verantwoordelijkheden van de machinist volgens het Besluit Spoorwegpersoneel?"
+  },
+  {
+   "id": "D1-019",
+   "eis": "I.e",
+   "cluster": "02",
+   "vraag": "Welke uitspraken over de treindienstleider zijn juist?\n1) Centraal bediend gebied (CBG) is gebied dat op een andere wijze dan technisch beveiligd is.\n2) Het treinverkeer regelt hij hoofdzakelijk door (beveiligings)systemen te bedienen die seinen, wissels en rijwegen instellen.\n3) Hij rapporteert vertragingen en vertragingsredenen aan de verkeersleiding.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "Alleen 2",
+    "Alleen 1 en 2"
+   ],
+   "antwoord": 1,
+   "uitleg": "CBG is technisch beveiligd gebied; 'op andere wijze beveiligd' is NCBG, dus 1 is onjuist. De treindienstleider regelt het verkeer hoofdzakelijk via (beveiligings)systemen en rapporteert vertragingen en vertragingsredenen aan de verkeersleiding.",
+   "bron": "1.5 Met welke functies heeft de machinist te maken?"
+  },
+  {
+   "id": "D1-020",
+   "eis": "I.f",
+   "cluster": "01",
+   "vraag": "Welke uitspraken over mondelinge en schriftelijke veiligheidscommunicatie zijn juist?\n1) ProRail is verantwoordelijk voor het vaststellen van de wijze van communiceren van mondelinge en schriftelijke veiligheidsberichten.\n2) De regels voor mondelinge veiligheidsberichten zijn vastgelegd in de Regeling communicatieprocedures.\n3) Of een European Instruction schriftelijk of mondeling wordt overgedragen, staat in deel 2 van het Boek van Europese en Nationale instructies.",
+   "opties": [
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 1,
+   "uitleg": "ProRail stelt de wijze van communiceren van mondelinge en schriftelijke veiligheidsberichten vast; de mondelinge regels staan in de Regeling communicatieprocedures. De manier van overdracht (schriftelijk of mondeling) staat in deel 1 van het Boek, niet in deel 2.",
+   "bron": "1.12 Wat houdt de Regeling communicatieprocedures in?"
+  },
+  {
+   "id": "D1-021",
+   "eis": "I.f",
+   "cluster": "01",
+   "vraag": "Welke combinatie van European Instruction-nummer en betekenis is volledig juist?",
+   "opties": [
+    "1 – passeren EOA/stoptonend sein; 3 – verplichting stil te blijven staan; 7 – passeren defecte overweg",
+    "1 – passeren EOA/stoptonend sein; 2 – verplichting stil te blijven staan; 8 – passeren defecte overweg",
+    "4 – passeren EOA/stoptonend sein; 3 – verplichting stil te blijven staan; 8 – passeren defecte overweg",
+    "1 – passeren EOA/stoptonend sein; 3 – verplichting stil te blijven staan; 8 – passeren defecte overweg"
+   ],
+   "antwoord": 3,
+   "uitleg": "EI 1: toestemming EOA/stoptonend sein te passeren; EI 2: doorrijden na TRIP; EI 3: verplichting stil te blijven staan; EI 4: intrekking; EI 7: toestemming om te vertrekken; EI 8: toestemming defecte overweg te passeren.",
+   "bron": "1.13 Wat houdt het Boek van Europese en Nationale instructies in?"
+  },
+  {
+   "id": "D1-022",
+   "eis": "I.f",
+   "cluster": "01",
+   "vraag": "Welke uitspraken over European en National Instructions zijn juist?\n1) Naast de acht formulieren voor European Instructions gebruikt Nederland voor een aantal baanvakken de Nationale Instructie Verkeerd Spoor.\n2) Een European Instruction 5 voor een snelheidsbeperking die nog niet in de IAM staat, wordt uitgereikt totdat de nieuwe Week-TSB uitkomt.\n3) Het Boek van Europese en Nationale instructies is door ProRail opgesteld als uitwerking van de TSI exploitatie en verkeersleiding.",
+   "opties": [
+    "Alleen 3",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3",
+    "Alleen 1 en 2"
+   ],
+   "antwoord": 2,
+   "uitleg": "1 en 3 staan zo in de bron. EI 5 wordt uitgereikt totdat de nieuwe Dag-TSB uitkomt, niet de Week-TSB.",
+   "bron": "1.13 Wat houdt het Boek van Europese en Nationale instructies in?"
+  },
+  {
+   "id": "D1-023",
+   "eis": "I.g",
+   "cluster": "03",
+   "vraag": "Op een emplacement moet een machinist naar een ander spoor. Tussen twee opgestelde rijtuigen zit 3,5 meter ruimte; een van de rijtuigen heeft een bordes. Wat is de juiste handelwijze?",
+   "opties": [
+    "Midden door de opening oversteken, zodat hij minstens 1,5 meter van beide rijtuigen blijft",
+    "Niet tussen de rijtuigen oversteken, maar zo nodig gebruikmaken van het bordes van een rijtuig",
+    "Eerst in de cabine kijken en daarna oversteken met minstens 2 meter afstand tot de kop",
+    "Over de buffers klimmen, nadat hij heeft vastgesteld dat de rijtuigen niet verplaatst worden"
+   ],
+   "antwoord": 1,
+   "uitleg": "De machinist steekt niet over tussen voertuigen bij minder dan 4 meter tussenruimte en klimt nooit over buffers en koppelingen; zo nodig gebruikt hij het bordes of de cabine van een van de opgestelde voertuigen.",
+   "bron": "1.11 Wat doet de machinist om risico's op verwondingen te verminderen? (Oversteken van sporen bij opgestelde spoorvoertuigen)"
+  },
+  {
+   "id": "D1-024",
+   "eis": "I.g",
+   "cluster": "03",
+   "vraag": "Welke stellingen over het profiel van vrije ruimte (PVR) en de bovenleiding zijn juist?\n1. Een machinist mag nooit binnen het PVR komen, ook niet als dat noodzakelijk is.\n2. Het PVR loopt tot 1,5 meter vanaf de dichtstbijzijnde spoorstaaf, ofwel 2,25 meter uit het hart van het spoor.\n3. De machinist houdt minimaal 1,5 meter afstand van de bovenleiding en spanningvoerende delen.",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "Alleen 2",
+    "Alleen 2 en 3"
+   ],
+   "antwoord": 3,
+   "uitleg": "Het PVR loopt tot 1,5 m vanaf de dichtstbijzijnde spoorstaaf (2,25 m uit het hart). Van de bovenleiding houdt de machinist minimaal 1,5 m afstand. Binnen het PVR mag hij wel komen als dat noodzakelijk is, mits hij aan de genoemde verplichtingen voldoet.",
+   "bron": "1.12 Wat doet de machinist om risico's op aanrijding te verminderen? / 1.13 Wat doet de machinist om risico's op elektrocutie/elektrisering te verminderen?"
+  },
+  {
+   "id": "D1-025",
+   "eis": "I.g",
+   "cluster": "03",
+   "vraag": "Drie machinisten lopen samen over het emplacement naar hun materieel. Welke stellingen kloppen met de regels voor lopen langs en over het spoor?\n1. Ze lopen naast elkaar, zodat ieder tegelijk overzicht heeft over het spoor.\n2. Wie onderweg moet bellen, staat daarvoor stil op een veilige plek.\n3. Een perronspoor oversteken mag bij uitzondering, en dan is het gebruik van afstapjes verplicht.",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3",
+    "Alleen 3"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij een groep loopt de machinist achter of voor zijn collega's (in een rij), niet naast elkaar. Bellen doet hij stilstaand op een veilige plek. Oversteken van perronsporen wordt geminimaliseerd; het mag bij uitzondering en dan zijn afstapjes verplicht.",
+   "bron": "1.11 Wat doet de machinist om risico's op verwondingen te verminderen? (Langs en over het spoor lopen)"
+  },
+  {
+   "id": "D1-026",
+   "eis": "I.g",
+   "cluster": "03",
+   "vraag": "Op een warme dag loopt een machinist langs zijn trein op de vrije baan. Hij draagt een schoon oranje fluorescerend vest met reflecterende strepen en het logo van zijn werkgever, maar heeft het vest opengelaten. Wat is juist?",
+   "opties": [
+    "Dit is toegestaan, omdat alleen een volledige jas gesloten gedragen hoeft te worden",
+    "Dit is niet toegestaan, omdat alleen geel fluorescerende kleding is toegestaan",
+    "Dit is niet toegestaan, omdat signalerende kleding gesloten moet worden gedragen",
+    "Dit is niet toegestaan, omdat nabij de spoorbaan altijd een jas moet worden gedragen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Signalerende kleding is geel of oranje fluorescerend (jas, eventueel alleen een vest) met reflecterende strepen, en moet onder meer gesloten worden gedragen.",
+   "bron": "1.10 Wat heeft de machinist om zichzelf te beschermen? (Signalerende kleding)"
+  },
+  {
+   "id": "D1-027",
+   "eis": "I.h",
+   "cluster": "03",
+   "vraag": "Tijdens zijn controleronde ziet een machinist een openstaand hek en een grote plas diesel naast het spoor. Wanneer is het volgens de vakkennis juist dit via alarmnummer 112 te melden in plaats van aan de treindienstleider?",
+   "opties": [
+    "Alleen als de treindienstleider niet te bereiken is én er sprake is van een noodgeval",
+    "Altijd als er gevaarlijke stoffen zoals olie of diesel bij betrokken zijn",
+    "Als de treindienstleider niet te bereiken is, ongeacht of er sprake is van een noodgeval",
+    "Als zowel de treindienstleider als de eigen spoorwegonderneming niet te bereiken zijn"
+   ],
+   "antwoord": 0,
+   "uitleg": "Onregelmatigheden en defecten aan de infrastructuur die gevolgen kunnen hebben voor de veiligheid meldt de machinist aan de treindienstleider. Alleen als die niet te bereiken is, en alleen in een noodgeval, meldt hij via 112.",
+   "bron": "1.8 Wat is de rol van de machinist bij het bevorderen van veiligheid? (Onregelmatigheden melden aan de treindienstleider)"
+  },
+  {
+   "id": "D1-028",
+   "eis": "I.h",
+   "cluster": "02",
+   "vraag": "Over periodieke herinstructie en keuring van de machinist worden drie stellingen gedaan:\n1. Voor kennis van rollend materieel schrijft de machinistenrichtlijn minimaal iedere drie jaar een herinstructie voor.\n2. Herinstructie in taalkennis is voor alle machinisten om de drie jaar verplicht.\n3. Om de vergunning te behouden wordt periodiek onderzocht of de machinist nog medisch en psychologisch geschikt is.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 3,
+   "uitleg": "Rollend materieel: iedere drie jaar. Taalkennis geldt uitsluitend voor anderstaligen (om de drie jaar of na meer dan een jaar afwezigheid). Voor behoud van de vergunning is periodiek onderzoek naar medische en psychologische geschiktheid nodig.",
+   "bron": "1.3 Medische en psychologische geschiktheidsverklaring / 1.4 Herinstructie/periodieke keuringen"
+  },
+  {
+   "id": "D1-029",
+   "eis": "I.i",
+   "cluster": "08",
+   "vraag": "Een machinist wil binnen de tijdsmarges van de dienstregeling zo energiezuinig mogelijk rijden. Welke werkwijze sluit het best aan bij de vakkennis?",
+   "opties": [
+    "Iets later vertrekken en de achterstand inlopen door langer tractie te houden",
+    "Over een lange afstand heel geleidelijk optrekken en daarna constant tractie houden",
+    "Op tijd vertrekken, snel op snelheid komen, tractie uitschakelen en laten uitrollen",
+    "Op tijd vertrekken, lang op lage snelheid rijden en pas kort voor de stop afremmen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Energie besparen doet de machinist door op tijd te vertrekken, de trein snel op de gewenste snelheid te brengen, de tractie uit te schakelen en te laten uitrollen (kinetische energie), binnen de tijdsmarges van de dienstregeling.",
+   "bron": "1.16 Wat houdt energiezuinig rijden in?"
+  },
+  {
+   "id": "D1-030",
+   "eis": "I.i",
+   "cluster": "08",
+   "vraag": "Welke stellingen over energiezuinig rijden en het milieu zijn juist?\n1. Een dieselmotor wordt minder belast bij een laag toerental; met een gematigde aanzet ontstaat een optimale verbranding met minder roetuitstoot.\n2. Bij sommige soorten elektrisch materieel wordt de warmte uit de weerstanden hergebruikt, waardoor dat materieel juist relatief energiezuinig is.\n3. Kennis van het baanvak helpt energie besparen, bijvoorbeeld door natuurlijke hellingen te benutten en te anticiperen op lichtseinen en snelheidsborden.",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "Alleen 3"
+   ],
+   "antwoord": 1,
+   "uitleg": "Diesel: laag toerental en gematigde aanzet geven een optimale verbranding met minder roet. Kennis van het baanvak (hellingen, kunstwerken, anticiperen op seinen en borden) bespaart energie. De warmte uit weerstanden wordt juist niet verder gebruikt; relatief zuinig is materieel met draaistroommotoren of chopperschakeling.",
+   "bron": "1.16 Wat houdt energiezuinig rijden in?"
+  },
+  {
+   "id": "D1-031",
+   "eis": "II.a",
+   "cluster": "07",
+   "vraag": "Over front- en sluitseinen worden drie stellingen gedaan:\n1. Een goederentrein (niet bestemd voor het vervoer van personen) mag als sluitsein twee schilden aan de achterzijde voeren.\n2. Een hogesnelheidstrein mag tijdens het gebruik van de hoofdspoorweg als sluitsein twee schilden aan de achterzijde voeren.\n3. Bij gekoppelde HSL-treinstellen wordt de frontverlichting op de plaats van de koppeling gedoofd.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3",
+    "Alleen 3"
+   ],
+   "antwoord": 2,
+   "uitleg": "Treinen niet bestemd voor personenvervoer: een rood licht of twee schilden aan de achterzijde. Een hogesnelheidstrein op de hoofdspoorweg moet twee brandende rode lichten voeren (geen schilden). Bij gekoppelde HSL-treinstellen wordt de verlichting op de plaats van de koppeling gedoofd.",
+   "bron": "1.4 Welke controles zijn er voor het vertrek van een trein? (Front- en sluitseinen)"
+  },
+  {
+   "id": "D1-032",
+   "eis": "II.a",
+   "cluster": "07",
+   "vraag": "Je maakt met een reizigerstrein kop. Het is niet het eerste vertrek van de dag en je bent ingelicht dat de grote remproef is uitgevoerd. Er is niets gesplitst of gecombineerd, de treinleiding is niet verbroken geweest en je vertrekt na 20 minuten weer. De spoorwegonderneming heeft niets aanvullends voorgeschreven. Welke remproef is volgens de vakkennis aan de orde?",
+   "opties": [
+    "De kleine of verkorte remproef, omdat de trein van rijrichting is veranderd",
+    "De verbindingsproef, omdat trein, loc en machinist binnen twee uur weer vertrekken",
+    "De grote of volledige remproef, omdat de trein van rijrichting is veranderd",
+    "Geen remproef, omdat de trein korter dan twee uur heeft stilgestaan"
+   ],
+   "antwoord": 0,
+   "uitleg": "Kopmaken (van rijrichting veranderen) is een situatie voor de kleine of verkorte remproef. De verbindingsproef geldt alleen voor goederenvervoer.",
+   "bron": "1.5 Welke soorten rembeproevingen worden onderscheiden?"
+  },
+  {
+   "id": "D1-033",
+   "eis": "II.a",
+   "cluster": "07",
+   "vraag": "Over rembeproevingen worden drie stellingen gedaan:\n1. Naast de machinist en de wagencontroleur is ook de rangeerder een bevoegde remproefnemer.\n2. Bij het bijplaatsen van voertuigen wordt de grote remproef alleen op het toegevoegde treingedeelte genomen.\n3. Bij een reizigerstrein wordt de grote remproef bij elk vertrek vanaf het beginstation van een rit genomen.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bevoegde remproefnemers zijn machinist, rangeerder en wagencontroleur. Bij bijplaatsen geldt de grote remproef alleen op het toegevoegde treingedeelte. Bij een reizigerstrein is de grote remproef bij het eerste vertrek van de dag, niet bij elk vertrek vanaf een beginstation.",
+   "bron": "1.5 Welke soorten rembeproevingen worden onderscheiden?"
+  },
+  {
+   "id": "D1-034",
+   "eis": "II.a",
+   "cluster": "07",
+   "vraag": "Over de IAM en tijdelijke snelheidsbeperkingen worden drie stellingen gedaan:\n1. De spoorwegonderneming is verantwoordelijk voor de verspreiding van de IAM onder haar machinisten.\n2. De machinist blijft altijd zelf verantwoordelijk voor de kennisname van de wijzigingen.\n3. Een snelheidsbeperking die nog niet in de TSB is opgenomen, maakt de treindienstleider kenbaar met European Instruction 6.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "Alleen 2"
+   ],
+   "antwoord": 0,
+   "uitleg": "De spoorondernemingen verspreiden de IAM; de machinist blijft altijd zelf verantwoordelijk voor kennisname. Voor snelheidsbeperkingen die niet in de IAM staan of nog niet in de TSB zijn opgenomen gebruikt de treindienstleider European Instruction 5 (EI 6 is rijden op zicht).",
+   "bron": "1.2 Hoe bereidt de machinist zich voor op de dienst? (IAM/TSB)"
+  },
+  {
+   "id": "D1-035",
+   "eis": "II.a",
+   "cluster": "07",
+   "vraag": "Welke uitspraak over het beproeven van de tyfoon en de dodemansinstallatie is juist?",
+   "opties": [
+    "De machinist beproeft de tyfoon bij elke dienstaanvang, ongeacht de plaatselijke regelgeving",
+    "ProRail bepaalt hoe vaak de dodeman wordt beproefd; de machinist test hem in elke cabine",
+    "De SO bepaalt wie de tyfoon beproeft en hoe vaak; beproeven mag als het plaatselijk mag",
+    "Werkt de dodeman op het beginstation niet, dan vertrek je met maximaal 40 km/u"
+   ],
+   "antwoord": 2,
+   "uitleg": "De spoorwegonderneming bepaalt wie de tyfoon beproeft en met welke frequentie; beproeven mag als de plaatselijke regelgeving dit toestaat. De SO bepaalt ook de frequentie van de dodemanbeproeving; de machinist beproeft de dodeman in de bediende cabine en werkt die niet op het beginstation, dan mag de trein niet vertrekken.",
+   "bron": "1.4 Welke controles zijn er voor het vertrek van een trein? (Tyfoon, Dodeman)"
+  },
+  {
+   "id": "D1-036",
+   "eis": "II.a",
+   "cluster": "07",
+   "vraag": "Bij het in bedrijfsvaardige staat brengen van je trein op het beginstation blijkt dat de zandstrooiers niet werken. Wat geldt volgens de vakkennis?",
+   "opties": [
+    "De trein mag vertrekken, omdat zandstrooiers geen minimaal aanwezig veiligheidsmiddel zijn",
+    "De trein mag vertrekken zodra je de treindienstleider over de storing hebt geïnformeerd",
+    "De trein mag niet vertrekken, tenzij de treindienstleider passende maatregelen toestaat",
+    "De trein mag niet vertrekken, tenzij passende maatregelen zijn getroffen, ter beoordeling van de SO"
+   ],
+   "antwoord": 3,
+   "uitleg": "Het beproeven van eventuele zandstrooiers is een controlepunt. Is één van de controlepunten niet in orde, dan mag de trein niet vertrekken, tenzij er passende maatregelen zijn getroffen; dit ter beoordeling van de spoorwegonderneming.",
+   "bron": "1.4 Welke controles zijn er voor het vertrek van een trein?"
+  },
+  {
+   "id": "D1-037",
+   "eis": "II.a",
+   "cluster": "07",
+   "vraag": "Je trein is gereed voor vertrek in centraal bediend gebied (CBG). Op welke van de volgende manieren kun je daar toestemming tot vertrek krijgen?\n1. Doordat het voor de trein geldende hoofdsein uit de stand 'stop' komt.\n2. Op de lokaal voorgeschreven wijze.\n3. Door het in ontvangst nemen van European Instruction 1 voor het betreffende sein.",
+   "opties": [
+    "Alleen 1",
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "Alleen 2 en 3"
+   ],
+   "antwoord": 2,
+   "uitleg": "In CBG: door het uit de stand 'stop' komen van het geldende hoofdsein, door ontvangst van EI 1 voor het betreffende sein, of mondeling door de treindienstleider. 'Op de lokaal voorgeschreven wijze' hoort bij NCBG.",
+   "bron": "1.6 Wanneer mag een machinist met de trein vertrekken?"
+  },
+  {
+   "id": "D1-038",
+   "eis": "II.a",
+   "cluster": "07",
+   "vraag": "Je neemt een trein over van je voorganger en hebt het vorige hoofdsein dus niet zelf waargenomen. Bij vertrek kun je het volgende hoofdsein zien; het toont geel knipperlicht. Hoe vertrek je?",
+   "opties": [
+    "Met maximaal 40 km/u en rekening houdend met stop",
+    "Met rijden op zicht",
+    "Met de plaatselijke snelheid, tenzij de SO anders heeft bepaald",
+    "Na contact met de treindienstleider met maximaal 40 km/u"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij een overgenomen trein (vorige sein niet zelf waargenomen) en een waarneembaar volgend hoofdsein: bij hooggeplaatst groen plaatselijke snelheid (onbekend: 40 km/u), bij geel knipper vertrekt de machinist met rijden op zicht.",
+   "bron": "1.11 Hoe vertrekt de machinist als het volgende hoofdsein wel waarneembaar is maar het vorige hoofdsein is niet (zelf) waargenomen?"
+  },
+  {
+   "id": "D1-039",
+   "eis": "II.a",
+   "cluster": "07",
+   "vraag": "Je gaat met een reizigerstrein met trek-duwsysteem op de hoofdspoorweg keren/kopmaken. Welke combinatie is volgens de vakkennis juist?",
+   "opties": [
+    "Geen toestemming nodig; kleine remproef; rijden op zicht tot het eerstvolgende hoofdsein",
+    "Toestemming treindienstleider; grote remproef; max. 40 km/u tot het eerstvolgende hoofdsein",
+    "Toestemming treindienstleider; kleine remproef; max. 40 km/u tot het eerstvolgende station",
+    "Toestemming treindienstleider; kleine remproef; max. 40 km/u tot het eerstvolgende hoofdsein"
+   ],
+   "antwoord": 3,
+   "uitleg": "Keren/kopmaken op de hoofdspoorweg vereist toestemming van de treindienstleider; de machinist rijdt met maximaal 40 km/u tot het eerstvolgende hoofdsein en houdt rekening met niet goed functionerende overwegen. Kopmaken is een situatie voor de kleine of verkorte remproef.",
+   "bron": "1.13 Wat doet de machinist bij keren/kopmaken?"
+  },
+  {
+   "id": "D1-040",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Je rijdt met een 600 meter lange goederentrein. Eerst passeer je een sein dat een snelheidsverlaging opdraagt, later een sein dat een snelheidsverhoging toestaat. Wanneer zet je de verlaging in en wanneer mag je de verhoging uitvoeren?",
+   "opties": [
+    "Verlaging: zodra het eerste voertuig het sein bereikt; verhoging: als het laatste voertuig het sein voorbij is",
+    "Verlaging: als het laatste voertuig het sein voorbij is; verhoging: zodra het eerste voertuig het sein bereikt",
+    "Verlaging: zodra het eerste voertuig het sein bereikt; verhoging: zodra het eerste voertuig het sein bereikt",
+    "Verlaging: als het laatste voertuig het sein voorbij is; verhoging: als het laatste voertuig het sein voorbij is"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een door een sein opgedragen snelheidsverlaging wordt ingezet zodra het eerste spoorvoertuig het sein heeft bereikt; een toegestane verhoging mag pas nadat het laatste spoorvoertuig het sein of het punt van toegestane snelheidsverhoging is gepasseerd (art. 30 Regeling spoorverkeer).",
+   "bron": "1.9 Wanneer mag de machinist de door een sein opgedragen snelheidsverlaging of snelheidsverhoging inzetten?"
+  },
+  {
+   "id": "D1-041",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Het zicht is ongeveer 250 meter. In welke van de volgende situaties moet je om de vijf seconden het attentiesein geven?\n1. Om 06.30 uur op een baangedeelte met overpaden met landhekken.\n2. Om 21.00 uur op een baangedeelte met onbeveiligde openbare overwegen.\n3. Om 21.00 uur op een baangedeelte met overpaden met landhekken.",
+   "opties": [
+    "Alleen 1",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 2"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij zicht minder dan 300 m: attentiesein om de vijf seconden bij onbeveiligde openbare overwegen (altijd), bij overpaden met landhekken alleen tussen 05.00 en 20.00 uur, en bij wisselcomplexen waar sneeuwruimers kunnen werken.",
+   "bron": "1.15 Wat doet de machinist bij slecht zicht?"
+  },
+  {
+   "id": "D1-042",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Over de cabine en de dodeman worden drie stellingen gedaan:\n1. Het aantal personen dat in de bediende cabine wordt toegelaten, wordt bepaald door de spoorwegonderneming.\n2. De dodeman moet tijdens de rit onafgebroken (continu) neergedrukt worden gehouden.\n3. Stopt het bedienen van de dodeman, dan volgt automatisch een snelremming.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 3,
+   "uitleg": "Het aantal toe te laten personen bepaalt de spoorwegonderneming. De dodeman wordt met tussenpauzen (intermitterend) bediend, niet continu. Stopt het bedienen, dan volgt automatisch een snelremming.",
+   "bron": "1.11 Hoeveel personen mogen tijdens het rijden in de bediende cabine? / 1.12 Wat doet de machinist met de dodeman?"
+  },
+  {
+   "id": "D1-043",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Tijdens de rit merk je dat het spoor waarop je zelf rijdt niet veilig te berijden is. Het nevenspoor lijkt in orde. Wat doe je volgens de vakkennis?",
+   "opties": [
+    "De trein zo snel mogelijk tot stilstand brengen en direct de treindienstleider informeren",
+    "De snelheid verlagen tot rijden op zicht en na de rit de treindienstleider informeren",
+    "De trein tot stilstand brengen en eerst je eigen SO informeren, die de treindienstleider inlicht",
+    "Doorrijden tot het eerstvolgende station en daar direct de treindienstleider informeren"
+   ],
+   "antwoord": 0,
+   "uitleg": "Is het spoor niet veilig te berijden, dan brengt de machinist de trein zo snel mogelijk tot stilstand en informeert hij direct de treindienstleider.",
+   "bron": "1.13 Wat doet de machinist als sporen niet veilig te berijden zijn?"
+  },
+  {
+   "id": "D1-044",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Je ziet tijdens de rit dat het nevenspoor niet veilig te berijden is. Je hebt de trein zo snel mogelijk tot stilstand gebracht. Welke van de volgende handelingen horen daarnaast bij wat je moet doen?\n1. Direct het gevaarsein op je trein ontsteken.\n2. Een alarmoproep uitzenden via de GSM-R.\n3. Altijd de kortsluitkabel plaatsen, ongeacht het soort baanvakbeveiliging.",
+   "opties": [
+    "Alleen 1",
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een onveilig nevenspoor: stilstand, direct gevaarsein ontsteken, alarmoproep via GSM-R, afhankelijk van het soort baanvakbeveiliging de kortsluitkabel plaatsen, en indien mogelijk de tegentrein tegemoet lopen met rode lamp of vlag. De kortsluitkabel dus niet 'altijd ongeacht de beveiliging'.",
+   "bron": "1.13 Wat doet de machinist als sporen niet veilig te berijden zijn?"
+  },
+  {
+   "id": "D1-045",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Je wilt als machinist met een rangeerbeweging beginnen. Welke van de volgende voorwaarden zijn juist geformuleerd?\n1. Je hebt een rangeeropdracht van de treindienstleider.\n2. Je hebt toestemming van de treindienstleider.\n3. Het rangeren kan veilig wat betreft personen nabij het rangeerdeel, het materieel, de lading en de infrastructuur.",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3",
+    "Alleen 2"
+   ],
+   "antwoord": 1,
+   "uitleg": "De machinist mag een rangeerbeweging beginnen als hij een rangeeropdracht van zijn bedrijf (niet van de treindienstleider) en toestemming van de treindienstleider heeft, en het rangeren veilig kan wat betreft personen, materieel, lading en infrastructuur.",
+   "bron": "1.21 Wat is nodig om als machinist met een rangeerbeweging te kunnen beginnen?"
+  },
+  {
+   "id": "D1-046",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Over de maximale snelheid van een rangeerbeweging worden drie stellingen gedaan:\n1. De machinist rangeert met maximaal 40 km/u; de spoorwegonderneming kan een lagere maximumsnelheid bepalen.\n2. De spoorwegonderneming kan een maximumsnelheid hoger dan 40 km/u bepalen als de infra dat toestaat.\n3. Onder meer het zicht, de beremming van het rangeerdeel en de seingeving bepalen mede de maximumsnelheid.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 3,
+   "uitleg": "Rangeren gebeurt met maximaal 40 km/u; de SO kan lager bepalen (niet hoger). De maximumsnelheid hangt o.a. af van een veilige werkplek, voertuigsnelheid, belasting, zicht en beremming, infra, TSB's, lokale bedrijfsregels en seingeving.",
+   "bron": "1.22 Wat bepaalt de maximale snelheid van een rangeerbeweging?"
+  },
+  {
+   "id": "D1-047",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Je rangeert op een emplacement met technische 'vrijgave rangeren'. Welke volgorde is juist?",
+   "opties": [
+    "Tdl legt toeleidende wissels vast - groen lampje in sleutelkast - knop bedienen - witte lamp aan, groene uit",
+    "Groen lampje in sleutelkast - knop bedienen - tdl legt toeleidende wissels vast - witte lamp aan, groene uit",
+    "Tdl legt toeleidende wissels vast - wit lampje in sleutelkast - knop bedienen - groene lamp aan, witte uit",
+    "Knop in sleutelkast bedienen - tdl legt toeleidende wissels vast - groen lampje aan - seinen tonen groen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Technische vrijgave: de treindienstleider legt de toeleidende wissels vast; de machinist of begeleider ziet een groen lampje in de sleutelkast en bedient de knop om de wissels 'op slot' te zetten (controle: witte lamp brandt, groene lamp uit). De seinen tonen daarna wit en geven geen beveiligingsgaranties.",
+   "bron": "1.23 Wat houdt 'vrijgave rangeren' in?"
+  },
+  {
+   "id": "D1-048",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Welke uitspraak over het verschil tussen rangeren in CBG en NCBG is juist?",
+   "opties": [
+    "In CBG bedient de machinist zelf de wissels; in NCBG stelt de treindienstleider de rijweg met lichtseinen in",
+    "In CBG rangeer je met lichtseinen langs de rijweg van de tdl; in NCBG zonder lichtseinen en altijd in overleg met de tdl",
+    "In CBG rangeer je zonder lichtseinen in overleg met de tdl; in NCBG met lichtseinen langs een ingestelde rijweg",
+    "In CBG rangeer je met lichtseinen; in NCBG zonder lichtseinen en meld je de bewegingen pas achteraf aan de tdl"
+   ],
+   "antwoord": 1,
+   "uitleg": "In CBG wordt gerangeerd met lichtseinen langs de rijweg die de treindienstleider heeft ingesteld. In NCBG gaat het zonder lichtseinen en daarom altijd in overleg met de treindienstleider, die van elke rangeerbeweging op de hoogte moet zijn.",
+   "bron": "1.24 Wat is het verschil tussen rangeren in centraal bediend gebied (CBG) en niet centraal bediend gebied (NCBG)?"
+  },
+  {
+   "id": "D1-049",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "In NCBG heb je toestemming per beweging gekregen voor een enkelvoudige rijweg van spoor 3 naar spoor 7. Na aankomst op spoor 7 moet je terug naar spoor 5. Wat doe je?",
+   "opties": [
+    "Terugrijden binnen dezelfde toestemming, omdat de rijweg via tussenliggende sporen mag lopen",
+    "Terugrijden met maximaal 40 km/u zodra je begeleider aangeeft dat het spoor vrij is",
+    "Je melden dat het gebruik beëindigd is en voor de nieuwe beweging eerst toestemming vragen",
+    "Je melden dat je op spoor 7 staat en daarna binnen 10 minuten zelfstandig terugrijden"
+   ],
+   "antwoord": 2,
+   "uitleg": "Een enkelvoudige rijweg wordt altijd in één richting uitgevoerd. Na de beweging meldt de machinist aan de treindienstleider dat het aangevraagde gebruik beëindigd is; een nieuwe beweging mag pas na (nieuwe) toestemming.",
+   "bron": "1.26 Wat houdt 'rangeren met toestemming per beweging' in niet centraal bediend gebied (NCBG) in?"
+  },
+  {
+   "id": "D1-050",
+   "eis": "II.a",
+   "cluster": "08",
+   "vraag": "Over een TijdRuimteSlot (TRS) in NCBG worden drie stellingen gedaan:\n1. Binnen een TRS mag maar één machinist tegelijk actief zijn.\n2. De fysieke grenzen van een TRS in NCBG worden aangegeven in de Netverklaring van ProRail.\n3. De ruimtelijke grenzen worden aangegeven door seinen en de tijdgrenzen via gewenste begin- en eindtijdstippen.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "Er mag maar één machinist tegelijk actief zijn; de ruimtelijke grenzen worden aangegeven door seinen, de tijdgrenzen via begin- en eindtijdstippen. De fysieke grenzen van een TRS in NCBG staan in de plaatselijke/lokale regelgeving, niet in de Netverklaring.",
+   "bron": "1.25 Hoe krijgt de machinist toestemming voor rangeren in niet centraal bediend gebied (NCBG)? / 1.27 Wat houdt een TijdRuimteSlot (TRS) in niet centraal bediend gebied (NCBG) in?"
+  },
+  {
+   "id": "D1-051",
+   "eis": "II.a",
+   "cluster": "06",
+   "vraag": "Bekijk de volgende stellingen over CBG en NCBG:\n1. In CBG wordt de samenhang van rijweginstelling en spoorbezetting vanuit één systeem bewaakt.\n2. In NCBG vindt de rijweginstelling lokaal plaats onder supervisie van de treindienstleider, die daarbij garandeert dat de sporen veilig berijdbaar zijn.\n3. In NCBG is de machinist zelf verantwoordelijk voor een veilige verplaatsing van het materieel.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "Alleen 3"
+   ],
+   "antwoord": 1,
+   "uitleg": "In NCBG ziet de treindienstleider geen infrabezetting en kan hij geen garanties geven voor het veilig berijdbaar zijn van sporen; de machinist is zelf verantwoordelijk. Stelling 2 is dus onjuist.",
+   "bron": "1.2 Wat is centraal bediend gebied en niet centraal bediend gebied?"
+  },
+  {
+   "id": "D1-052",
+   "eis": "II.a",
+   "cluster": "06",
+   "vraag": "Na een telfout blijft een assentellerblok bezet. De treindienstleider zet het assentellersysteem op nul, zonder dat er ter plaatse in de relaiskast wordt gereset. Een trein bevindt zich nog in het blok. Wanneer komt het blok vrij en hoe heet deze reset?",
+   "opties": [
+    "Direct; dit is een zachte reset en de trein hoeft het blok niet uit te rijden",
+    "Direct; dit is een harde reset die de treindienstleider zelf uitvoert",
+    "Pas als de trein het blok in zijn geheel verlaten heeft; een zachte reset",
+    "Pas als de trein het blok in zijn geheel verlaten heeft; een harde reset"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een zachte reset wordt het systeem op nul gezet en komt het blok pas vrij als de trein het blok in zijn geheel verlaten heeft. Bij een harde reset (ter plaatse in de relaiskast) wordt het blok direct vrijgegeven.",
+   "bron": "1.3 Wat is het blokstelsel op de vrije baan?"
+  },
+  {
+   "id": "D1-053",
+   "eis": "II.a",
+   "cluster": "06",
+   "vraag": "Bekijk de volgende stellingen over beveiligingssystemen op stations en emplacementen:\n1. Bij NX worden rijwegen ingesteld, waarbij de apparatuur de wissels in de gewenste stand stuurt en het sein uit de stand stop brengt.\n2. Bij EBP zijn de niet-veiligheidscircuits vervangen door elektronica, maar bestaan de veiligheidscircuits nog uit relais.\n3. Bij VPI verzorgen twee processoren samen alle beveiligingsfuncties, terwijl EBS de bediening en signalering verzorgt.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "1, 2 en 3",
+    "Alleen 1 en 2"
+   ],
+   "antwoord": 3,
+   "uitleg": "NX is een routesysteem; EBP = relaisbeveiliging NX met elektronische bediening. Bij VPI is er maar één enkele processor voor alle beveiligingsfuncties en werkt VPI samen met EBP (niet EBS) voor bediening en signalering.",
+   "bron": "1.6 Welke soorten beveiligingssystemen zijn er op stations en emplacementen?"
+  },
+  {
+   "id": "D1-054",
+   "eis": "II.a",
+   "cluster": "06",
+   "vraag": "Bekijk de volgende stellingen over bediende emplacementen, vrije baan en bediende baan:\n1. Op een emplacement komt het sein weer in de stand stop als de rijweg wordt afgereden; daarna komt de rijweg weer beschikbaar voor dezelfde of andere rijwegen.\n2. Op de vrije baan tonen alle tegenseinen geel, zodat een tegemoetkomende trein tijdig kan remmen.\n3. Bij een seinstoring op een bediende baan moet de treindienstleider voor iedere seinpassage European Instruction 1 afgeven.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 3",
+    "Alleen 2 en 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "Op de vrije baan staan alle tegenseinen op rood, niet op geel. Een nadeel van een bediende baan is dat bij een seinstoring alle seinen gestoord zijn en voor iedere seinpassage EI1 nodig is.",
+   "bron": "1.7 Wat is het verschil tussen bediende emplacementen en vrije baan/hoofdspoorweg?"
+  },
+  {
+   "id": "D1-055",
+   "eis": "II.b",
+   "cluster": "07",
+   "vraag": "Een goederentrein wordt op basis van een vertrouwensovereenkomst zonder technische controle door jouw spoorwegonderneming overgenomen. Op wiens technische controle vertrouwt jouw spoorwegonderneming dan?",
+   "opties": [
+    "Op die van de machinist van de overdragende spoorwegonderneming bij de grens",
+    "Op die van de houder van de wagens die het GCU/AVV heeft ondertekend",
+    "Op die van de treindienstleider die de trein bij de grens heeft overgedragen",
+    "Op die van de wagencontroleur van de onderneming die de vertrekcontrole deed"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een vertrouwensovereenkomst vertrouwt de overnemende partij op de technische controle die is uitgevoerd door de wagencontroleur van de spoorwegonderneming die de vertrekcontrole heeft gedaan.",
+   "bron": "1.5 Welke soorten rembeproevingen worden onderscheiden? (Vertrouwensovereenkomst)"
+  },
+  {
+   "id": "D1-056",
+   "eis": "II.b",
+   "cluster": "08",
+   "vraag": "Over de taakverdeling tussen rangeerder en machinist worden drie stellingen gedaan:\n1. De rangeerder mag de machinist op hoofdspoorwegen begeleiden met maximaal 40 km/u; de SO kan dit maximum lager stellen.\n2. Aanwijzingen van de rangeerder moeten door de machinist worden opgevolgd.\n3. De machinist mag fysiek buiten de cabine koppelen en ontkoppelen tussen alle voertuigen van zijn trein.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1",
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "Alleen 2 en 3"
+   ],
+   "antwoord": 1,
+   "uitleg": "De rangeerder mag de machinist op hoofdspoorwegen begeleiden met maximaal 40 km/u (SO kan lager stellen) en zijn aanwijzingen moeten worden opgevolgd. De machinist mag buiten de cabine alleen koppelen/ontkoppelen tussen loc en eerste wagen/rijtuig.",
+   "bron": "1.18 Wat is rangeren voor de machinist? / 1.19 Wat is rangeren voor de rangeerder?"
+  },
+  {
+   "id": "D1-057",
+   "eis": "III.a",
+   "cluster": "05",
+   "vraag": "Welke stellingen over de railinfrastructuurbeheerder zijn juist?\n1. De infrabeheerder ontwerpt en plant de dienstregeling en verdeelt de spoorcapaciteit in treinpaden.\n2. De infrabeheerder publiceert eens in de vijf jaar de Netverklaring, zoals beschreven in de Spoorwegwet.\n3. Iedere spoorwegonderneming betaalt de infrabeheerder een gebruiksvergoeding (infraheffing) voor het gebruik van het spoor.",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "1, 2 en 3",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 3,
+   "uitleg": "1 en 3 staan zo in de vakkennis. Stelling 2 is onjuist: de infrabeheerder publiceert de Netverklaring jaarlijks.",
+   "bron": "1.3 Wat doet de railinfrastructuurbeheerder?"
+  },
+  {
+   "id": "D1-058",
+   "eis": "III.a",
+   "cluster": "05",
+   "vraag": "Een goederentrein rijdt vanaf de hoofdbaan via een stamlijn met spooraansluitingen naar het eigen spoor op een bedrijfsterrein. Welke uitspraak is juist?",
+   "opties": [
+    "De stamlijn behoort juridisch tot de hoofdspoorweg; het bedrijfsterrein niet, daar mag alleen de vervoerder rijden met een vervoerscontract met het bedrijf",
+    "Stamlijn en bedrijfsterrein vormen samen een raccordement, dat sinds het intrekken van het reglement in 2016 als hoofdspoorweg is aangewezen",
+    "De stamlijn behoort juridisch tot de hoofdspoorweg; het bedrijfsterrein is openbare railinfra waarop de infrabeheerder het onderhoud uitvoert",
+    "De stamlijn behoort juridisch tot de bijzondere spoorwegen, omdat zij uitsluitend bedrijven ontsluit en niet door de Staat wordt beheerd"
+   ],
+   "antwoord": 0,
+   "uitleg": "Stamlijnen behoren juridisch tot de hoofdspoorweg. Een bedrijfsterrein is niet-openbare railinfra, behoort niet tot de hoofdspoorweg en alleen de vervoerder met een vervoerscontract mag er rijden. Een raccordement was vroeger de combinatie van stamlijn en spooraansluiting(en), zonder het bedrijfsterrein.",
+   "bron": "1.7 Welke aansluitingen op het hoofdspoorwegnet zijn te onderscheiden?"
+  },
+  {
+   "id": "D1-059",
+   "eis": "III.a",
+   "cluster": "05",
+   "vraag": "Welke stellingen over de HSL-Zuid en de Betuweroute zijn juist?\n1. De Rotterdamse Havenspoorlijn is een ruim 40 km lange goederenspoorlijn tussen de emplacementen IJsselmonde/Kijfhoek en de Maasvlakte.\n2. Het A15-tracé is een 160 km lange goederenspoorlijn van de Maasvlakte naar de grens met Duitsland, enkele kilometers voorbij Zevenaar.\n3. HSL-Zuid en Betuweroute zijn beide aangelegd met ATB als treinbeïnvloedingssysteem, aangevuld met ETCS.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 2"
+   ],
+   "antwoord": 1,
+   "uitleg": "1 en 2 staan zo in de vakkennis. Stelling 3 is onjuist: HSL-Zuid en Betuweroute zijn beide aangelegd met het Europese treinbeïnvloedingssysteem ETCS/ERTMS.",
+   "bron": "1.6 Waaruit bestaat de hoofdspoorweg?"
+  },
+  {
+   "id": "D1-060",
+   "eis": "III.b",
+   "cluster": "05",
+   "vraag": "Welke stellingen over de opbouw van het spoorwegnet zijn juist?\n1. Een beweegbare brug kan een dienstregelingpunt zijn.\n2. Een materieelknooppunt is bedoeld voor de planning en besturing van de personeelsdiensten.\n3. Een baanvak is een opeenvolging van aaneengesloten dienstregelingpunten en vrije banen, beginnend en eindigend in een dienstregelingpunt.",
+   "opties": [
+    "Alleen 1",
+    "Alleen 3",
+    "Alleen 1 en 3",
+    "1, 2 en 3"
+   ],
+   "antwoord": 2,
+   "uitleg": "Beweegbare bruggen worden genoemd als dienstregelingpunt en de baanvakdefinitie klopt. Stelling 2 is onjuist: een materieelknooppunt is voor materieelbehandelingen en rangeren. Planning en besturing van personeelsdiensten hoort bij het personeelknooppunt.",
+   "bron": "1.5 Hoe is het spoorwegnet opgebouwd?"
+  },
+  {
+   "id": "D1-061",
+   "eis": "III.b",
+   "cluster": "05",
+   "vraag": "Welke omschrijving is volgens de vakkennis juist?",
+   "opties": [
+    "Een rangeerterrein is een emplacement met opstelsporen voor materieel dat geparkeerd staat zonder dat reizigers in- of uitstappen",
+    "Een grensbaanvak is een baanvak dat begint in een grensstation en eindigt op de landsgrens met Duitsland of België",
+    "Een halte is een dienstregelingpunt dat is ingericht om treinen te laten kruisen en heeft ten minste één wissel",
+    "Een opstelterrein bestaat uit opstelsporen voor materieel dat geparkeerd staat zonder dat er reizigers of goederen worden behandeld"
+   ],
+   "antwoord": 3,
+   "uitleg": "Een opstelterrein bestaat uit opstelsporen voor opgesteld (geparkeerd) materieel. Een rangeerterrein is voor splitsen en samenstellen. Een grensbaanvak heeft aan ieder einde een grensstation. Bij een halte liggen geen wissels.",
+   "bron": "1.5 Hoe is het spoorwegnet opgebouwd?"
+  },
+  {
+   "id": "D1-062",
+   "eis": "III.c",
+   "cluster": "05",
+   "vraag": "Welke stellingen over de opbouw van de spoorbaan zijn juist?\n1. Tegenover het puntstuk is het spoor voorzien van een strijkregel om ontsporing te voorkomen.\n2. Een inspectiepad ligt direct naast het spoor binnen het profiel van vrije ruimte, zodat inspectie mogelijk is zonder snelheidsbeperking.\n3. Een stootjuk, ook wel spoorbeëindigingsconstructie genoemd, markeert als blokkade het fysieke einde van een kopspoor.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 3",
+    "1, 2 en 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "1 en 3 zijn juist. Stelling 2 is onjuist: een inspectiepad ligt juist buiten het profiel van vrije ruimte van het betreffende spoor.",
+   "bron": "1.8 Hoe is de spoorbaan opgebouwd?"
+  },
+  {
+   "id": "D1-063",
+   "eis": "III.c",
+   "cluster": "05",
+   "vraag": "Welke uitspraak over kunstwerken is juist?",
+   "opties": [
+    "Een fly over is een vrije kruising waarbij het onderste spoor verdiept, onder het maaiveld, is aangelegd",
+    "Bij een dive under is de gesloten doorsnede maximaal 250 meter; een spoortunnel is minimaal 250 meter lang",
+    "Een tunnelbak is een overdekte betonnen bak onder het maaiveld met een lengte van minimaal 250 meter",
+    "Een spoorviaduct over een verkeersweg of water wordt aangeduid als een fly over, omdat het spoor verhoogd ligt"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een dive under heeft een gesloten doorsnede van maximaal 250 m. Een spoortunnel is een kokervormige gang van minimaal 250 m. Bij een fly over ligt het bovenste spoor verhoogd. Een tunnelbak is niet overdekt. Een viaduct heet alleen fly over als het over ander spoor gaat.",
+   "bron": "1.11 Welke soorten kunstwerken zijn er?"
+  },
+  {
+   "id": "D1-064",
+   "eis": "III.c",
+   "cluster": "05",
+   "vraag": "Welke stellingen over overwegen en waarschuwingsinstallaties zijn juist?\n1. Een WIDO staat bij particuliere overwegen, bijvoorbeeld naar een boerderij, en heeft twee lampen en geen bel.\n2. Een EBO wordt niet automatisch bediend maar door personeel op afstand (met camera's) en wordt toegepast bij overwegen met meer dan vier sporen.\n3. AOB (automatische overpadbomen) wordt alleen toegepast bij perronoverpaden.",
+   "opties": [
+    "Alleen 2",
+    "Alleen 1 en 3",
+    "1, 2 en 3",
+    "Alleen 2 en 3"
+   ],
+   "antwoord": 3,
+   "uitleg": "2 en 3 zijn juist. Stelling 1 beschrijft een WILO. Een WIDO staat bij dienstoverpaden voor personeel en heeft twee witte lampen op een paal.",
+   "bron": "1.12 Wat zijn beveiligde en onbeveiligde overwegen?"
+  },
+  {
+   "id": "D1-065",
+   "eis": "III.c",
+   "cluster": "05",
+   "vraag": "Je hebt van de treindienstleider European Instruction 8 gekregen voor een AHOB. Je stopt voor de overweg, maar de bomen sluiten niet, omdat het aanrijden van de middensectie niet werkt. Het is overdag en het zicht is goed. Hoe handel je?",
+   "opties": [
+    "Overweg beveiligen met een rode vlag tot de trein geheel over de overweg is en dan pas de snelheid hernemen",
+    "Overweg beveiligen met een rood, liefst knipperend licht tot de eerste as over de overweg is en dan de snelheid hernemen",
+    "Overweg beveiligen met een rode vlag tot de eerste as over de overweg is en dan de snelheid hernemen",
+    "De middensectie opnieuw aanrijden en pas verdergaan nadat de installatie twintig seconden werkt"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij dag beveiligt de machinist de overweg met een rode vlag tot de eerste as over de overweg is, en hervat dan de snelheid. Een rood licht tot de trein geheel over de overweg is, geldt bij nacht of slecht zicht. Twintig seconden wachten hoort bij de AKI.",
+   "bron": "1.20 Wat doet de machinist bij een overwegstoring?"
+  },
+  {
+   "id": "D1-066",
+   "eis": "III.d",
+   "cluster": "06",
+   "vraag": "Welke van de volgende uitspraken over het berijden van het linkerspoor zijn juist?\n1. Bij dubbelspoor met linkerspoorbeveiliging kan zonder bijzondere maatregelen linkerspoor worden gereden.\n2. Een onbeveiligd linkerspoor bij dubbelspoorbeveiliging (bord 'VS') mag alleen worden bereden met een schriftelijke instructie.\n3. Rijd je bij linkerspoorbeveiliging tegen de ingestelde rijrichting in, dan werken beveiligde overwegen gegarandeerd normaal, omdat beide sporen gelijkwaardig zijn beveiligd.",
+   "opties": [
+    "Alleen 1",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "1, 2 en 3"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij beveiligd linkerspoor kan zonder bijzondere maatregelen linkerspoor gereden worden, en 'Verkeerd spoor' (VS) mag alleen met een schriftelijke instructie worden bereden. Stelling 3 is onjuist: rijd je tegen de ingestelde rijrichting, dan moet je rekening houden met een mogelijk niet juist functionerende beveiligde overweg.",
+   "bron": "1.4 Welke soorten beveiligingssystemen met automatisch blokstelsel zijn er op de vrije baan/hoofdspoorweg?"
+  },
+  {
+   "id": "D1-067",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Bekijk de volgende stellingen over voorseinen:\n1. Een voorsein kan geen stop tonen en toont groen, of geel al dan niet voorzien van een getal.\n2. Een voorsein staat op ten minste remwegafstand van het hoofdsein en wordt voorafgegaan door een wit baken.\n3. Een voorsein gaat uitsluitend vooraf aan een hoofdsein, nooit aan een bord met de betekenis 'stop'.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1",
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "1, 2 en 3"
+   ],
+   "antwoord": 2,
+   "uitleg": "Een voorsein is een lichtsein dat aan een hoofdsein óf bord met betekenis 'stop' voorafgaat en geen rood kan tonen; het staat op ten minste remwegafstand en wordt voorafgegaan door een wit baken. Stelling 3 is onjuist.",
+   "bron": "1.8 Wat is de opbouw van het seinstelsel langs de baan?"
+  },
+  {
+   "id": "D1-068",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Bekijk de volgende stellingen over hoofdseinen:\n1. Bediende seinen tonen in ruststand altijd rood en komen uit de stand stop wanneer de treindienstleider een rijweg instelt.\n2. P-seinen dekken een gevaarpunt af, zoals een beweegbare brug of een ontspoortong.\n3. Onafhankelijk van de automatische blokbeveiliging kan de treindienstleider een bediend hoofdsein altijd stop laten tonen.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 3,
+   "uitleg": "Het afdekken van gevaarpunten (wissel, overweg, beweegbare brug, stop-ontspoorblok/ontspoortong) hoort bij bediende seinen. P-seinen verdelen de vrije baan in blokken en tonen in ruststand meestal groen.",
+   "bron": "1.8 Wat is de opbouw van het seinstelsel langs de baan?"
+  },
+  {
+   "id": "D1-069",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Uit welke elementen bestaan volgens de vakkennis de ATB-baanseinen?",
+   "opties": [
+    "ATB-naderingsbord, -inschakelbord, -codebord, -uitschakelbord en het ATB-vv-baken",
+    "ATB-naderingsbord, -inschakelbord, -codebord, -uitschakelbord en het ATB-codewisselsein",
+    "ATB-inschakelbord, -codebord, -uitschakelbord, -eindbord en het ATB-codewisselsein",
+    "ATB-naderingsbord, -inschakelbord, -uitschakelbord, -vrijgavebord en het ATB-codewisselsein"
+   ],
+   "antwoord": 1,
+   "uitleg": "De ATB-baanseinen bestaan uit vier ATB-borden (naderings-, inschakel-, code- en uitschakelbord) en het ATB-codewisselsein.",
+   "bron": "1.8 Wat is de opbouw van het seinstelsel langs de baan?"
+  },
+  {
+   "id": "D1-070",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Op een baanvak staan L-, A- en E-borden met een tijdelijk snelheidsbord, maar in de IAM staat voor deze plek niets vermeld over een tijdelijke snelheid. Wat doe je?",
+   "opties": [
+    "Je volgt de borden op en meldt dit direct aan de treindienstleider",
+    "Je volgt de IAM, dus de borden niet, en meldt dit direct aan de treindienstleider",
+    "Je volgt de borden op en meldt dit na afloop van de rit aan je eigen bedrijf",
+    "Je rijdt de laagste van baanvak- en bordsnelheid en meldt niets, want borden gaan voor"
+   ],
+   "antwoord": 0,
+   "uitleg": "Staan de borden er (nog) wel maar staat er niets over in de IAM, dan volgt de machinist de borden op en meldt dit direct aan de treindienstleider.",
+   "bron": "1.8 Wat is de opbouw van het seinstelsel langs de baan?"
+  },
+  {
+   "id": "D1-071",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Je rijdt niet op zicht. Het voorafgaande hoofdsein toonde groen; daarna passeerde je nog een keperbaken. Je nadert nu een gedoofd bediend hoofdsein (zonder P-bord). Wat doe je?",
+   "opties": [
+    "Verder rijden op zicht, omdat het voorafgaande hoofdsein groen toonde",
+    "Direct stoppen voor het gedoofde sein, omdat het voorafgaande sein een keperbaken was",
+    "Verder rijden op zicht, omdat een keperbaken niet als hoofdsein telt",
+    "Doorrijden met maximaal 40 km/u en het gedoofde sein daarna melden"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij een gedoofd bediend hoofdsein stelt de machinist drie vragen: rij ik op zicht, toonde het voorafgaande hoofdsein geel, was het voorafgaande sein een keperbaken? Eén keer 'ja' betekent direct stoppen voor het sein.",
+   "bron": "1.10 Wat doet de machinist bij een gedoofd of onjuist hoofdsein?"
+  },
+  {
+   "id": "D1-072",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Bekijk de volgende stellingen over hoofdseinen die niet uit de stand stop komen:\n1. Na ontvangst van European Instruction 1 bij een bediend hoofdsein rijdt de machinist verder met maximaal 40 km/u, tenzij de treindienstleider anders bepaalt.\n2. Een P-sein dat stop blijft tonen mag met rijden op zicht voorbij worden gereden, ook als er geen spreekverbinding met de treindienstleider tot stand komt.\n3. Ook alle opeenvolgende P-seinen die stop blijven tonen mogen met rijden op zicht voorbij worden gereden.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3",
+    "1, 2 en 3"
+   ],
+   "antwoord": 1,
+   "uitleg": "Na EI1 bij een bediend hoofdsein gaat de machinist rijden op zicht (niet: maximaal 40 km/u), tenzij de treindienstleider anders bepaalt. Stellingen 2 en 3 staan zo in de vakkennis.",
+   "bron": "1.9 Wat doet de machinist bij een hoofdsein dat niet uit de stand stop komt?"
+  },
+  {
+   "id": "D1-073",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Je rijdt onder ATB-EG met 110 km/u; het cabinesein toont geel 13 (code 120). De ATB-code wisselt naar 220. Wat volgt er en tot welke snelheid moet je de trein terugbrengen?",
+   "opties": [
+    "Een gongslag en een continu belsignaal; tijdig remmen tot maximaal 40 km/u",
+    "Een gongslag en een continu belsignaal; tijdig remmen tot maximaal 80 km/u",
+    "Alleen een gongslag; afremmen tot maximaal 60 km/u, de bel klinkt pas bij snelremming",
+    "Een gongslag en een continu belsignaal; tijdig remmen tot maximaal 60 km/u"
+   ],
+   "antwoord": 3,
+   "uitleg": "Code 220 = geel 6 (40 t/m 60 km/u). Bij elke wijziging van snelheidstrap volgt een gongslag; moet de snelheid omlaag, dan klinkt de bel continu tot de remming tijdig is ingezet.",
+   "bron": "1.12 Welke soorten ATB zijn er?"
+  },
+  {
+   "id": "D1-074",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Bekijk de volgende stellingen over ATB-soorten:\n1. ATB-vv kent geen rembel onder de 40 km/u; bij hogere snelheden werkt de bel normaal.\n2. Bij ATB-E kan de machinist de toegestane snelheden aflezen; alleen de geluidssignalen zijn weggelaten.\n3. ATB-NG toont elke ter plaatse vereiste snelheid in stappen van 10 km/u en rekent zelf een remcurve uit.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij ATB-E is de signalering geminimaliseerd en kan de machinist géén toegestane snelheden aflezen. Stelling 1 (ATB-vv) en 3 (ATB-NG) staan zo in de vakkennis.",
+   "bron": "1.12 Welke soorten ATB zijn er?"
+  },
+  {
+   "id": "D1-075",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Onder ATB-EG laat het cabinesein ten onrechte een hogere snelheid toe dan de vaste seinen langs de baan. Om welke storing gaat het en wat doe je?",
+   "opties": [
+    "ATB-baanstoring; je meldt de plaats direct aan de treindienstleider",
+    "ATB-materieelstoring; je meldt het aan de treindienstleider en noteert het in de materieelagenda",
+    "ATB-veiligheidsstoring; je meldt het aan de treindienstleider en je bedrijf en noteert het in de materieelagenda",
+    "ATB-veiligheidsstoring; je meldt het aan de treindienstleider en zet de ATB direct buiten bedrijf"
+   ],
+   "antwoord": 2,
+   "uitleg": "Een ATB-EG-cabinesein dat ten onrechte een hogere snelheid toelaat is een ATB-veiligheidsstoring: melden aan treindienstleider en verantwoordelijke van het bedrijf, noteren in materieelagenda. ATB zo lang mogelijk in bedrijf houden.",
+   "bron": "1.13 Wat doet de machinist bij ATB-storingen?"
+  },
+  {
+   "id": "D1-076",
+   "eis": "III.e",
+   "cluster": "06",
+   "vraag": "Bekijk de volgende stellingen over de werking van ATB:\n1. De ATB-opneemspoelen zitten aan het achterste draaistel van de trein, circa 20 centimeter boven de rails.\n2. De ATB-remklep ontlucht de treinleiding wanneer de machinist de ATB-opdracht niet tijdig opvolgt.\n3. ATB-EG gebruikt het 75 Hz-signaal dat ook voor de bediening van de seinen wordt gebruikt.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "1, 2 en 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "De opneemspoelen zitten aan het voorste draaistel (circa 20 cm boven de rails). De remklep in de treinleiding en het gebruik van het 75 Hz-signaal bij ATB-EG kloppen.",
+   "bron": "1.11 Wat is automatische treinbeïnvloeding (ATB)?"
+  },
+  {
+   "id": "D1-077",
+   "eis": "III.f",
+   "cluster": "05",
+   "vraag": "Welke stellingen over anti-icing zijn juist?\n1. Treinen worden behandeld met glycol, zodat sneeuw en ijs minder blijven plakken onder de trein.\n2. Anti-icing wordt uitsluitend door ProRail ingezet, op de locaties van wisselcomplexen.\n3. De glycol wordt opgevangen in een bak ter bescherming van het milieu en kan opnieuw worden gebruikt.",
+   "opties": [
+    "Alleen 1",
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "1, 2 en 3"
+   ],
+   "antwoord": 1,
+   "uitleg": "1 en 3 zijn juist. Stelling 2 is onjuist: zowel spoorwegondernemingen als ProRail zetten anti-icing in, op verschillende plekken in Nederland.",
+   "bron": "1.13 Wat is een anti-icing installatie?"
+  },
+  {
+   "id": "D1-078",
+   "eis": "III.g",
+   "cluster": "05",
+   "vraag": "Welke stellingen over de energievoorziening zijn juist?\n1. Behalve bij metro's wordt in Nederland ook op enkele regionale spoorlijnen een derde rail langs het spoor gebruikt.\n2. Een onderstation voor 1500-1800 V DC transformeert de aangeleverde 10 kV, richt deze gelijk en zet haar door naar het spoorwegnet.\n3. Bij een onderstation komt via grondkabels driefasen wisselspanning (draaistroom) van 10 kV of 25 kV binnen.",
+   "opties": [
+    "Alleen 2",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "1, 2 en 3"
+   ],
+   "antwoord": 2,
+   "uitleg": "2 en 3 zijn juist. Stelling 1 is onjuist: in Nederland wordt een derde rail alleen bij metro's gebruikt.",
+   "bron": "1.10 Hoe is de energievoorziening geregeld?"
+  },
+  {
+   "id": "D1-079",
+   "eis": "III.g",
+   "cluster": "05",
+   "vraag": "Welke uitspraak over scheidingen in de bovenleiding is juist?",
+   "opties": [
+    "Een fasescheiding scheidt twee 25 kV-voedingssecties en voorkomt kortsluiting tussen de twee fases bij het passeren van de sectiegrens",
+    "Een spanningssluis wordt bij voorkeur bij stations geplaatst, zodat reizigers van een daar gestrande trein veilig kunnen uitstappen",
+    "Een leidingonderbreker heeft voor het scheiden van groepen de voorkeur boven een open afspaninrichting, mits daar plaats voor is",
+    "Een open afspaninrichting heeft alleen een mechanische functie: de lengte van de rijdraad constant houden bij temperatuurverschillen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een fasescheiding scheidt twee 25 kV-voedingssecties en voorkomt kortsluiting tussen de fases. Spanningssluizen liggen op de vrije baan, niet bij stations. De open afspaninrichting heeft de voorkeur boven een leidingonderbreker en heeft een mechanische én een elektrische functie.",
+   "bron": "1.10 Hoe is de energievoorziening geregeld?"
+  },
+  {
+   "id": "D1-080",
+   "eis": "III.g",
+   "cluster": "05",
+   "vraag": "Welke stellingen over het bovenleidingsysteem en de retourstroom zijn juist?\n1. Een machinist mag geen stroomafnemers opzetten in wissels en onder kruisingen van de rijdraad, omdat de stroomafnemer achter de rijdraad kan haken.\n2. De versterkingsleiding hoort bij de draagconstructie, net als de beweegbare bovenleidingarm.\n3. Zwerfstroom is ongewenst omdat het corrosie van ondergrondse leidingen veroorzaakt; daarom worden de spoorstaven zo veel mogelijk geïsoleerd.",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 3",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 3,
+   "uitleg": "1 en 3 zijn juist. Stelling 2 is onjuist: de versterkingsleiding en de beweegbare bovenleidingarm horen bij de bovenleiding. De draagconstructie omvat juist niet de beweegbare bovenleidingarm.",
+   "bron": "1.10 Hoe is de energievoorziening geregeld?"
+  }
+ ]
+}
