@@ -105,7 +105,7 @@ details.card summary { font-weight: 600; cursor: pointer; }
 #progress-bar { height: 100%; width: 0; background: var(--accent); transition: width .25s; }
 .q-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; color: var(--muted); font-size: .85rem; margin-bottom: 8px; }
 .chip { background: var(--surface); border: 1px solid var(--border); border-radius: 999px; padding: 2px 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.q-text { font-size: 1.15rem; line-height: 1.45; margin: 0 0 14px; font-weight: 650; }
+.q-text { font-size: 1.15rem; line-height: 1.45; margin: 0 0 14px; font-weight: 650; white-space: pre-line; }
 
 .options { list-style: none; padding: 0; margin: 0; counter-reset: opt; }
 .options li { margin-bottom: 10px; }
@@ -136,9 +136,10 @@ details.card summary { font-weight: 600; cursor: pointer; }
 .feedback .src { color: var(--muted); font-size: .82rem; margin-top: 6px; }
 
 .q-actions {
-  position: sticky; bottom: 0; display: grid; grid-template-columns: auto 1fr; gap: 10px;
+  position: sticky; bottom: 0; display: grid; grid-template-columns: auto auto 1fr; gap: 10px;
   padding: 12px 0 max(12px, env(safe-area-inset-bottom)); background: linear-gradient(transparent, var(--bg) 30%);
 }
+.q-actions #btn-prev[hidden] { display: none; }
 #btn-flag[aria-pressed="true"] { color: #b7791f; border-color: #b7791f; }
 
 /* Result */
@@ -151,11 +152,24 @@ details.card summary { font-weight: 600; cursor: pointer; }
 .review { padding: 0; list-style: none; }
 .review li { background: var(--surface); border: 1px solid var(--border); border-left: 4px solid var(--ok); border-radius: 10px; padding: 12px; margin-bottom: 10px; font-size: .93rem; }
 .review li.bad { border-left-color: var(--bad); }
-.review .rq { font-weight: 600; margin-bottom: 6px; }
+.review .rq { font-weight: 600; margin-bottom: 6px; white-space: pre-line; }
 .review .ra { margin: 2px 0; }
 .review .ra.your { color: var(--bad); }
 .review .ra.right { color: var(--ok); }
 .review .ru { color: var(--muted); margin-top: 6px; font-size: .85rem; }
+
+/* Proefexamen */
+.proef-list { display: grid; gap: 10px; margin-top: 12px; }
+.proef-btn { width: 100%; text-align: left; display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.proef-btn small { display: block; font-weight: 400; font-size: .82rem; opacity: .85; }
+.proef-btn .best { font-size: .85rem; font-weight: 600; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.eis-table { width: 100%; border-collapse: collapse; font-size: .92rem; }
+.eis-table td { padding: 6px 0; border-top: 1px solid var(--border); vertical-align: top; }
+.eis-table tr:first-child td { border-top: 0; }
+.eis-table td.n { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; padding-left: 12px; font-weight: 600; }
+.eis-table td.n.bad { color: var(--bad); }
+.eis-table td.n.ok { color: var(--ok); }
+.eis-table small { display: block; color: var(--muted); }
 
 @media (min-width: 560px) {
   .result-actions { grid-template-columns: 1fr 1fr; }

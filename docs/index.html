@@ -21,6 +21,12 @@
   <section id="view-start" class="view">
     <p class="lead">Moeilijke meerkeuzevragen gebaseerd op de officiële VVRV-vakkennis (clusters 01–11 en ORE v2.2).</p>
 
+    <div class="card" id="proef-card" hidden>
+      <h2>Proefexamen</h2>
+      <p class="hint">Opgezet als het echte theorie-examen: vaste set vragen, tijdslimiet en cesuur van 80%. Geen feedback tussendoor; je kunt terugbladeren en antwoorden wijzigen.</p>
+      <div id="proef-list" class="proef-list"></div>
+    </div>
+
     <div class="card">
       <h2>Modus</h2>
       <div class="seg" role="radiogroup" id="mode">
@@ -72,6 +78,7 @@
     <div id="q-feedback" class="feedback" hidden></div>
     <div class="q-actions">
       <button id="btn-flag" class="ghost" aria-pressed="false">☆ Markeer</button>
+      <button id="btn-prev" class="ghost" hidden>Vorige</button>
       <button id="btn-next" class="primary" disabled>Volgende</button>
     </div>
   </section>
@@ -83,6 +90,7 @@
       <div id="score-txt"></div>
       <div id="score-verdict" class="verdict"></div>
     </div>
+    <div id="eis-breakdown" class="card" hidden></div>
     <div class="result-actions">
       <button id="btn-retry-wrong" class="primary">Oefen foute vragen</button>
       <button id="btn-again" class="ghost">Terug naar start</button>

@@ -7,6 +7,7 @@ Moeilijke meerkeuzevragen (4 opties, Nederlands) om te oefenen voor het VVRV-exa
 
 ## Functies
 - Mobile first, werkt offline-vriendelijk als statische site (GitHub Pages).
+- **Proefexamen theorie deel 1**: vaste set van 80 vragen over vakbekwaamheidseisen I–III (ATB/seinstelsel '54), 90 minuten, cesuur 80%, terugbladeren mogelijk, uitslag per eis.
 - Modi: **Oefenen** (directe feedback + uitleg + bronverwijzing), **Examen** (tijdslimiet, uitslag aan het eind), **Fouten** (herhaal fout beantwoorde of gemarkeerde vragen).
 - Kies clusters en aantal vragen; antwoordvolgorde wordt elke keer geschud.
 - Voortgang wordt lokaal in je browser bewaard.
@@ -16,6 +17,7 @@ Moeilijke meerkeuzevragen (4 opties, Nederlands) om te oefenen voor het VVRV-exa
 |---|---|
 | `docs/` | De website (`index.html`, `app.js`, `style.css`) |
 | `docs/data/` | Vragen per cluster (JSON) + `manifest.json` |
+| `docs/data/examens/` | Proefexamens (vaste vragensets met tijd, norm en eis per vraag) |
 | `docs/bronnen/` | Gedownloade PDF's van vvrv.nl |
 | `tekst/` | Uit de PDF's geëxtraheerde tekst |
 
