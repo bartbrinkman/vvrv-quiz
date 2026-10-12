@@ -278,6 +278,22 @@
       table.appendChild(tr);
     }
     box.appendChild(table);
+    // zoals op de officiële uitslag: percentage goed per vraagcategorie (cluster)
+    const cats = {};
+    for (const it of s.items) {
+      const c = (cats[it.q._cluster.titel] = cats[it.q._cluster.titel] || { id: it.q._cluster.id, right: 0, total: 0 });
+      c.total++;
+      if (it.chosen === it.q.antwoord) c.right++;
+    }
+    box.appendChild(el('h2', null, 'Percentage goed per vraagcategorie'));
+    const ctable = el('table', 'eis-table');
+    for (const [titel, c] of Object.entries(cats).sort((a, b) => a[1].id.localeCompare(b[1].id))) {
+      const pct = Math.round((c.right / c.total) * 100);
+      const tr = el('tr');
+      tr.append(el('td', null, titel), el('td', 'n ' + (pct >= s.pass ? 'ok' : 'bad'), `${c.right}/${c.total} · ${pct}%`));
+      ctable.appendChild(tr);
+    }
+    box.appendChild(ctable);
   }
 
   function finish(timeUp) {

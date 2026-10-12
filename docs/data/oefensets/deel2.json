@@ -1,0 +1,608 @@
+{
+ "id": "O2",
+ "titel": "Oefenset theorie deel 2",
+ "label": "Oefenset · eisen IV–VII",
+ "omschrijving": "Losse vragen (één feit per vraag) over de stof van theorie deel 2.",
+ "vragen": [
+  {
+   "id": "O2-001",
+   "eis": "IV.a",
+   "cluster": "04",
+   "vraag": "Welke organisatie voert de examens 'Veiligheidscommunicatie' uit?",
+   "opties": [
+    "ProRail, als beheerder van de hoofdspoorweginfrastructuur",
+    "Stichting Veiligheid en Vakmanschap RailVervoer (VVRV)",
+    "De Inspectie Leefomgeving en Transport (ILT)",
+    "Het Ministerie van Infrastructuur en Waterstaat"
+   ],
+   "antwoord": 1,
+   "uitleg": "De examens 'Veiligheidscommunicatie' worden uitgevoerd door stichting Veiligheid en Vakmanschap RailVervoer (VVRV). De Minister van IenW schrijft het examen voor de machinist voor en ProRail doet dat voor de treindienstleider, maar zij voeren de examens niet zelf uit.",
+   "bron": "1.7 Waarom is er een examenverplichting voor veiligheidscommunicatie?"
+  },
+  {
+   "id": "O2-002",
+   "eis": "IV.b",
+   "cluster": "04",
+   "vraag": "Van wie krijgt de machinist European Instructions?",
+   "opties": [
+    "Van zijn eigen bijsturing",
+    "Van zijn leidinggevende",
+    "Van de nationale politie",
+    "Van de treindienstleider"
+   ],
+   "antwoord": 3,
+   "uitleg": "De machinist kan European Instructions krijgen van de treindienstleider. Het zijn gestandaardiseerde opdrachten die schriftelijk en per spreekverbinding worden gegeven; ze hebben altijd te maken met de spoorwegveiligheid en moeten worden opgevolgd. De bijsturing van de eigen spoorwegonderneming en de nationale politie zijn wel gesprekspartners via GSM-R, maar geven geen European Instructions.",
+   "bron": "1.6 Wat zijn European Instructions?"
+  },
+  {
+   "id": "O2-003",
+   "eis": "IV.c",
+   "cluster": "04",
+   "vraag": "Welke European Instruction geeft toestemming om een defecte overweg te passeren?",
+   "opties": [
+    "European Instruction 1",
+    "European Instruction 5",
+    "European Instruction 8",
+    "European Instruction 6"
+   ],
+   "antwoord": 2,
+   "uitleg": "European Instruction 8 is 'Toestemming om een defecte overweg te passeren'. EI 1 is toestemming een EOA/stoptonend sein te passeren, EI 5 de verplichting om de snelheid te beperken en EI 6 de verplichting om te rijden op zicht.",
+   "bron": "1.6 Wat zijn European Instructions?"
+  },
+  {
+   "id": "O2-004",
+   "eis": "IV.c",
+   "cluster": "10",
+   "vraag": "Een machinist wil een onregelmatigheid met gevaarlijke stoffen melden, maar krijgt geen gehoor bij de treindienstleider. Wie belt hij dan?",
+   "opties": [
+    "De wachtdienst van zijn eigen spoorwegonderneming",
+    "De Alarmlijn (nummer op het zakkaartje gevaarlijke stoffen) of 112",
+    "De afzender van de gevaarlijke stoffen",
+    "Het OCCR via een groepsoproep op GSM-R"
+   ],
+   "antwoord": 1,
+   "uitleg": "Krijgt de machinist bij een incident met gevaarlijke stoffen geen gehoor, dan belt hij de Alarmlijn (telefoonnummer op het zakkaartje gevaarlijke stoffen) of 112. De eigen spoorwegonderneming informeren is een aparte stap, geen vervanging van de alarmmelding.",
+   "bron": "1.17 Wat doet de machinist bij een onregelmatigheid met gevaarlijke stoffen?"
+  },
+  {
+   "id": "O2-005",
+   "eis": "IV.d",
+   "cluster": "04",
+   "vraag": "Waarvoor is het NATO-spelalfabet in veiligheidscommunicatie bedoeld?",
+   "opties": [
+    "Om berichten in te korten, zodat GSM-R-gesprekken minder lang duren",
+    "Om misverstanden in de uitspraak van letters of woorden te voorkomen",
+    "Om gesprekken achteraf terug te vinden in de gespreksopnamen",
+    "Om aan te geven dat de ontvanger mag terugpraten op de portofoon"
+   ],
+   "antwoord": 1,
+   "uitleg": "Het door de NATO (of NAVO) gehanteerde spelalfabet is bedoeld om misverstanden in de uitspraak van letters of woorden te voorkomen. Het wordt gebruikt bij het spellen van woorden en losse letters. Dat de ontvanger mag terugpraten, geeft de dienstuitdrukking 'over' aan.",
+   "bron": "1.5 Wat zegt de regelgeving van ProRail over veiligheidscommunicatie?"
+  },
+  {
+   "id": "O2-006",
+   "eis": "IV.d",
+   "cluster": "04",
+   "vraag": "Bij welke European Instructions is het generieke veld X.95 'aanvullende instructies' van toepassing?",
+   "opties": [
+    "Bij alle European Instructions",
+    "Bij European Instructions 1, 2, 5, 6 en 7",
+    "Alleen bij European Instructions 1, 5, 6 en 8",
+    "Alleen bij European Instruction 4 (intrekking)"
+   ],
+   "antwoord": 0,
+   "uitleg": "Het formulier heeft twee generieke velden. X.95 'aanvullende instructies' is van toepassing bij alle European Instructions. X.90 'controleren van de infrastructuur om de volgende redenen' geldt alleen bij European Instructions 1, 2, 5, 6 en 7. EI 1, 5, 6 en 8 zijn de instructies die schriftelijk worden gegeven.",
+   "bron": "1.6 Wat zijn European Instructions?"
+  },
+  {
+   "id": "O2-007",
+   "eis": "V.a",
+   "cluster": "09",
+   "vraag": "Welke eigenschappen heeft een rangeerlocomotief volgens de vakkennis?",
+   "opties": [
+    "Gering vermogen, hoge trekkracht en lage topsnelheid",
+    "Groot vermogen, lage trekkracht en hoge topsnelheid",
+    "Gering vermogen, lage trekkracht en hoge topsnelheid",
+    "Groot vermogen, hoge trekkracht en hoge topsnelheid"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij het samenstellen van een getrokken trein wordt meestal een rangeerlocomotief gebruikt: een loc met een gering vermogen, een hoge trekkracht en een lage topsnelheid.",
+   "bron": "1.3 Wat zijn krachtvoertuigen?"
+  },
+  {
+   "id": "O2-008",
+   "eis": "V.b",
+   "cluster": "09",
+   "vraag": "Wat houdt bij luchtvering de rijtuigbak bij het beladen en ontladen op de ingestelde hoogte?",
+   "opties": [
+    "De schokdempers van de primaire vering",
+    "De asbalansen aan de binnenzijde van de stelbalken",
+    "Een hoogteregelklep, via de luchtdruk in een veerbalg",
+    "De silentblocks tussen draaistel en bak"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij luchtvering zorgt een hoogteregelklep ervoor dat de rijtuigbak bij het beladen of ontladen door de luchtdruk in een veerbalg op de ingestelde hoogte blijft. Asbalansen brengen bij vaste assen trek- en remkrachten over; schokdempers en silentblocks zijn andere soorten vering.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd?"
+  },
+  {
+   "id": "O2-009",
+   "eis": "V.c",
+   "cluster": "09",
+   "vraag": "Tot welke categorie opschriften behoort het beladingsraster op een goederenwagen?",
+   "opties": [
+    "Identificatie",
+    "Onderhoud en herstel",
+    "Gebruik",
+    "Lading"
+   ],
+   "antwoord": 3,
+   "uitleg": "Opschriften in de categorie Lading geven een overzicht van de asbelasting in relatie tot baanvakken, zoals beladingsraster en gewicht. Onderhoud en herstel gaat bijvoorbeeld over de revisiedatum, Identificatie over voertuigsoort, type, eigenaar en land.",
+   "bron": "1.20 Wat is de betekenis van opschriften?"
+  },
+  {
+   "id": "O2-010",
+   "eis": "V.d",
+   "cluster": "09",
+   "vraag": "Wat is een treinstam?",
+   "opties": [
+    "Een reeks treindiensten die een route volgens een bepaald tijdspatroon afleggen",
+    "Een set rijtuigen die in een bepaalde samenstelling gekoppeld is en enige tijd zo wordt ingezet",
+    "Een onveranderlijke combinatie van rijtuigen met aan beide uiteinden een stuurstand",
+    "Een of een aantal gekoppelde spoorvoertuigen waarmee gerangeerd wordt"
+   ],
+   "antwoord": 1,
+   "uitleg": "Een treinstam is een set rijtuigen die in een bepaalde samenstelling gekoppeld zijn en gedurende enige tijd in deze samenstelling ingezet worden. De andere omschrijvingen horen bij de treinserie, het treinstel en het rangeerdeel.",
+   "bron": "1.8 Waaruit bestaat een samengestelde trein?"
+  },
+  {
+   "id": "O2-011",
+   "eis": "V.e",
+   "cluster": "09",
+   "vraag": "Waar is de noodrem in een trein wettelijk verplicht?",
+   "opties": [
+    "Alleen in de cabine en bij de toegangsdeuren",
+    "In iedere ruimte waar zich personen kunnen bevinden, behalve in de toiletten",
+    "Alleen in ruimten met zitplaatsen voor reizigers",
+    "In iedere ruimte waar zich personen kunnen bevinden, ook in de toiletten"
+   ],
+   "antwoord": 1,
+   "uitleg": "De noodrem is wettelijk verplicht in iedere ruimte waar zich personen kunnen bevinden, behalve in de toiletten.",
+   "bron": "1.15 Wat zijn noodrem en noodremoverbrugging?"
+  },
+  {
+   "id": "O2-012",
+   "eis": "V.e",
+   "cluster": "09",
+   "vraag": "Waaraan is te zien dat de remmen van een voertuig vastzitten?",
+   "opties": [
+    "Aan de punt op de monturen van de luchtslangen",
+    "Aan het rode vlak in het remvenster",
+    "Aan het kruis op de monturen van de luchtslangen",
+    "Aan de groef aan de buitenzijde van het wiel"
+   ],
+   "antwoord": 1,
+   "uitleg": "Aan het rode vlak in het remvenster is te zien dat de remmen vastzitten. De punt en het kruis op de monturen onderscheiden de slangen van treinleiding en hoofdreservoirleiding; de groef laat zien of een volwiel nog aan de toegestane maat voldoet.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd?"
+  },
+  {
+   "id": "O2-013",
+   "eis": "V.e",
+   "cluster": "12",
+   "vraag": "Hoe lang is een uitgevoerde ETCS-remtest (braketest) geldig?",
+   "opties": [
+    "Minimaal 24 uur",
+    "Tot het einde van de dienst",
+    "Tot de volgende SOM",
+    "Minimaal 72 uur"
+   ],
+   "antwoord": 0,
+   "uitleg": "Na het uitvoeren van de ETCS-remtest volgens het bedieningsvoorschrift kan de machinist rijden; de ETCS-remtest is minimaal 24 uur geldig.",
+   "bron": "8.8 ETCS remtest (braketest)"
+  },
+  {
+   "id": "O2-014",
+   "eis": "V.g",
+   "cluster": "09",
+   "vraag": "Wat wordt verstaan onder 'lang draaien' van de schroefkoppeling?",
+   "opties": [
+    "De schroefkoppeling nog één slag aandraaien wanneer de buffers elkaar raken",
+    "De luchtslangen verlengen zodat de trein bogen kan doorlopen",
+    "De trekhaak en de ophanghaak van plaats laten wisselen",
+    "De schroefkoppeling uitdraaien in verband met krappe bogen"
+   ],
+   "antwoord": 3,
+   "uitleg": "Lang draaien betekent dat de schroefkoppeling wordt uitgedraaid in verband met krappe bogen (korte bochten). Nog één slag aandraaien wanneer de buffers elkaar raken is strak koppelen.",
+   "bron": "1.12 Hoe is het stoot- en trekwerk opgebouwd?"
+  },
+  {
+   "id": "O2-015",
+   "eis": "VI.a",
+   "cluster": "03",
+   "vraag": "Wat wordt volgens de vakkennis verstaan onder persoonlijke veiligheid?",
+   "opties": [
+    "Bescherming tegen (of zich beschermd voelen tegen) gevaar door menselijk handelen in de eigen ruimte",
+    "De mate van afwezigheid van potentiële oorzaken van een gevaarlijke situatie op het spoor",
+    "Het dragen van de persoonlijke beschermingsmiddelen die de werkgever heeft voorgeschreven",
+    "Bescherming tegen gevaar door technische storingen aan het materieel en de infrastructuur"
+   ],
+   "antwoord": 0,
+   "uitleg": "Onder persoonlijke veiligheid wordt verstaan: de bescherming of het zich beschermd voelen tegen gevaar dat veroorzaakt wordt door of dreigt van de kant van menselijk handelen in de 'eigen ruimte' (woning of werk). 'De mate van afwezigheid van potentiële oorzaken van een gevaarlijke situatie' hoort bij de definitie van veiligheid in het algemeen.",
+   "bron": "1.2 Waarom aandacht voor veiligheid?"
+  },
+  {
+   "id": "O2-016",
+   "eis": "VI.b",
+   "cluster": "03",
+   "vraag": "Waarvoor zijn de rode vlag en de noodseinlantaarn nodig?",
+   "opties": [
+    "Om een blok bezet te laten melden wanneer de kortsluitkabel op het baanvak niet werkt",
+    "Om een opgestelde trein 's nachts te markeren voor collega's die op het emplacement lopen",
+    "Voor een gevaarsein aan een naderende trein en een stopteken aan het wegverkeer bij een overweg",
+    "Om bij rangeren vertrektoestemming te geven aan de machinist van de rangeerbeweging"
+   ],
+   "antwoord": 2,
+   "uitleg": "Rode vlag en noodseinlantaarn zijn nodig om een gevaarsein te kunnen geven aan een naderende trein en een stopteken aan het wegverkeer bij een spoorwegovergang. Wie een gevaarsein met de rode vlag en/of noodseinlantaarn ziet, stopt zijn trein. Het bezet melden van een blok is de functie van de kortsluitkabel.",
+   "bron": "1.14 Welke veiligheidsmiddelen moeten altijd aanwezig zijn?"
+  },
+  {
+   "id": "O2-017",
+   "eis": "VI.b",
+   "cluster": "03",
+   "vraag": "Wie bepaalt in welke situaties een vluchtmasker vereist is?",
+   "opties": [
+    "De infrastructuurbeheerder",
+    "De treindienstleider",
+    "De machinist zelf",
+    "De spoorwegonderneming"
+   ],
+   "antwoord": 3,
+   "uitleg": "Een vluchtmasker is vereist voor wie mogelijk in aanraking komt met gevaarlijke stoffen; de spoorwegonderneming bepaalt in welke situaties dit geldt. Voor goederentreinen hoort het vluchtmasker bij de minimale veiligheidsmiddelen.",
+   "bron": "1.14 Welke veiligheidsmiddelen moeten altijd aanwezig zijn?"
+  },
+  {
+   "id": "O2-018",
+   "eis": "VI.b",
+   "cluster": "10",
+   "vraag": "Waarvoor is de kortsluitkabel bedoeld?",
+   "opties": [
+    "Om de bovenleiding na uitschakelen te aarden",
+    "Om de spanning van een derde rail af te halen",
+    "Om het eigen spoor vrij te melden",
+    "Om spoorbezetting te creëren in het nevenspoor"
+   ],
+   "antwoord": 3,
+   "uitleg": "De kortsluitkabel is ervoor bedoeld om spoorbezetting te creëren in het nevenspoor, zodat daar geen trein wordt toegelaten. De spoorwegonderneming bepaalt hoe met de kortsluitkabel wordt omgegaan.",
+   "bron": "1.4 Wat doet de machinist bij een treinincident?"
+  },
+  {
+   "id": "O2-019",
+   "eis": "VI.b",
+   "cluster": "10",
+   "vraag": "Hoe wordt de procedure 'Uitschakelen' van de bovenleidingspanning bij een treinincident in gang gezet?",
+   "opties": [
+    "Bij een aantal TIS automatisch; los daarvan kunnen hulpdiensten erom vragen",
+    "Alleen op verzoek van de machinist van de betrokken trein",
+    "Uitsluitend door de OvD-R zodra hij ter plaatse is",
+    "Alleen op 25kV-baanvakken, door de Meldkamer spoor"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij een aantal treinincidentscenario's wordt de procedure 'Uitschakelen' automatisch opgestart; los daarvan kunnen de hulpdiensten erom vragen. Het doel is een elektrocutieveilige werkplek voor de hulpdiensten. De treindienstleider geeft de opdracht (ruim uitschakelen bij 1500V, complete lijn uitschakeling bij 25kV); het geldt dus niet alleen voor 25kV.",
+   "bron": "1.6 Wat is de rol van de treindienstleider bij een treinincident?"
+  },
+  {
+   "id": "O2-020",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Waaruit bestaat ERTMS bij Level 2?",
+   "opties": [
+    "Uit ATB en ETCS-baanapparatuur",
+    "Uit ETCS en GSM-R-datacommunicatie",
+    "Uit ETCS en de STM-interface",
+    "Uit GSM-R-spraak en de LEU"
+   ],
+   "antwoord": 1,
+   "uitleg": "ERTMS bestaat uit ETCS en – bij Level 2 – GSM-R-datacommunicatie (data, geen spraak). ATB is een nationaal systeem dat door ERTMS wordt vervangen; de STM is de interface naar het nationale systeem bij Level NTC; de LEU is baanapparatuur die de balises van informatie voorziet.",
+   "bron": "1.2 Wat is het verschil tussen ERTMS en ETCS?"
+  },
+  {
+   "id": "O2-021",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Wat betekent rijden op een overlay baanvak (Dual Signalling)?",
+   "opties": [
+    "Dat op het baanvak alleen treinen met ETCS-apparatuur mogen rijden",
+    "Dat de trein wisselend in Level 1 en Level 2 rijdt",
+    "Dat er twee RBC's tegelijk met de trein verbonden zijn",
+    "Dat ETCS en het seinstelsel met ATB gelijktijdig in werking zijn"
+   ],
+   "antwoord": 3,
+   "uitleg": "Op een overlay baanvak (Dual Signalling) zijn twee treinbeïnvloedingssystemen gelijktijdig in werking: ETCS en het seinstelsel met ATB. Daardoor kunnen treinen mét en treinen zónder ETCS-apparatuur er rijden.",
+   "bron": "1.7 Wat is een Overlay baanvak (Dual Signalling)?"
+  },
+  {
+   "id": "O2-022",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Na 'Start' in Level 2 bevestigt de machinist de aangeboden mode On Sight. Wat moet hij daarna doen voordat hij vertrekt?",
+   "opties": [
+    "De toegelaten snelheid oproepen",
+    "Een TAF-request bevestigen",
+    "Een European Instruction 7 vragen",
+    "Slippery Rail inschakelen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Na het bevestigen van de mode On Sight moet de machinist de toegelaten snelheid oproepen; daarna kan hij vertrekken. In de versie van juni 2026 is hierbij het woord '(toggle)' vervallen. Een European Instruction 7 is nodig bij Staff Responsible, niet bij On Sight.",
+   "bron": "1.41 Hoe werkt start en vertrek in Level 2?"
+  },
+  {
+   "id": "O2-023",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Hoe is de meting van de odometer dubbel uitgevoerd?",
+   "opties": [
+    "Met twee BTM's in de voorste en achterste cabine",
+    "Met de CAU en de JRU",
+    "Met een Doppler radar en een tachometer op een wielas",
+    "Met GSM-R-plaatsbepaling en de gelinkte balises"
+   ],
+   "antwoord": 2,
+   "uitleg": "Omdat informatie over snelheid en afgelegde afstand cruciaal is, is de meting van de odometer dubbel uitgevoerd: een Doppler radar onderaan de trein en een tachometer op een wielas. Balises worden gebruikt voor odometer-ijking, niet als tweede meting; BTM's verwerken balisetelegrammen.",
+   "bron": "1.22 Wat is ETCS-boordapparatuur?"
+  },
+  {
+   "id": "O2-024",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Hoe kan de machinist de bij de SOM ingevoerde gegevens controleren?",
+   "opties": [
+    "Via de JRU-uitlezing",
+    "Door de treindienstleider te bellen",
+    "Via de knop 'Override'",
+    "Met de 'Data View-knop' op de DMI"
+   ],
+   "antwoord": 3,
+   "uitleg": "Controle van de ingevoerde gegevens is mogelijk met de 'Data View-knop' op de DMI. De JRU slaat data op voor latere analyse; de knop 'Override' hoort bij de procedure Override EOA.",
+   "bron": "1.11 Wat is een SOM?"
+  },
+  {
+   "id": "O2-025",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Wat doet het ERTMS-walsysteem zolang de treinpositie onbekend is?",
+   "opties": [
+    "Het geeft een MA in de mode On Sight af",
+    "Het geeft geen MA af",
+    "Het geeft een MA met Release Speed af",
+    "Het geeft een MA tot de eerste balisegroep af"
+   ],
+   "antwoord": 1,
+   "uitleg": "Het walsysteem verstrekt MA's op basis van de door de trein gemelde positie (afstand ten opzichte van een gepasseerde referentiebalisegroep). Zolang de treinpositie onbekend is, geeft het walsysteem geen MA af.",
+   "bron": "1.12 Wat is een MA?"
+  },
+  {
+   "id": "O2-026",
+   "eis": "VI.b",
+   "cluster": "12",
+   "vraag": "Naar welke mode schakelt de boordapparatuur na het bedienen van 'Exit Shunting'?",
+   "opties": [
+    "Staff Responsible",
+    "Post Trip",
+    "Sleeping",
+    "Stand-By"
+   ],
+   "antwoord": 3,
+   "uitleg": "Om de mode Shunting te verlaten moet de trein stilstaan en kiest de machinist via het 'Main'-menu 'Exit Shunting'; de boordapparatuur schakelt dan over naar de mode Stand-By. Daarna moet een SOM worden uitgevoerd.",
+   "bron": "1.3.5 Exit Shunting"
+  },
+  {
+   "id": "O2-027",
+   "eis": "VI.c",
+   "cluster": "09",
+   "vraag": "Tijdens het gereedmaken blijkt de dodeman defect te zijn. Wat betekent dit?",
+   "opties": [
+    "Het materieel mag niet in dienst worden genomen",
+    "De trein mag rijden tot het eerstvolgende punt van herstel",
+    "De trein mag rijden nadat de treindienstleider is ingelicht",
+    "De trein mag rijden als er een tweede persoon in de cabine is"
+   ],
+   "antwoord": 0,
+   "uitleg": "Blijkt tijdens het gereedmaken de dodeman defect te zijn, dan mag het materieel niet in dienst worden genomen. Alleen als de dodeman tijdens de dienst defect raakt, mag de trein verder rijden tot het eerstvolgende punt waar het voertuig hersteld of uitgewisseld kan worden.",
+   "bron": "1.33 Wat doet de machinist bij een defecte dodeman?"
+  },
+  {
+   "id": "O2-028",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Wie heeft de leiding over de bluswerkzaamheden zodra de brandweer het blussen ter hand neemt?",
+   "opties": [
+    "De Officier van Dienst Rail",
+    "De machinist als chef van de trein",
+    "De bevelvoerder van de brandweer",
+    "De treindienstleider"
+   ],
+   "antwoord": 2,
+   "uitleg": "Wanneer de brandweer het blussen ter hand neemt, heeft hun bevelvoerder de leiding over de bluswerkzaamheden. De OvD-R heeft de operationele leiding bij de afhandeling van het incident als geheel, niet over het blussen zelf.",
+   "bron": "1.14 Wat doet de machinist bij brand en/of rookontwikkeling in de trein?"
+  },
+  {
+   "id": "O2-029",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Wat moet de machinist doen bij brand in dieselmaterieel?",
+   "opties": [
+    "De stroomafnemers neerlaten",
+    "De brandstoftoevoer van de verwarming afsluiten",
+    "De accu's loskoppelen",
+    "De dieselmotoren stoppen"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij brand in dieselmaterieel moet de machinist de dieselmotoren stoppen. Het neerlaten van de stroomafnemers (afschakelen van de hoogspanningsinstallatie) is de maatregel bij brand in elektrisch materieel.",
+   "bron": "1.14 Wat doet de machinist bij brand en/of rookontwikkeling in de trein?"
+  },
+  {
+   "id": "O2-030",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Waarmee kan de machinist volgens de vakkennis de windrichting bepalen bij een incident met gevaarlijke stoffen?",
+   "opties": [
+    "Een windzak, rookpluimen of vlaggen",
+    "Het weerbericht via de treindienstleider",
+    "De stand van de bovenleidingdraden",
+    "Het zakkaartje gevaarlijke stoffen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Voor het bepalen van de windrichting kan de machinist gebruikmaken van een windzak, rookpluimen of vlaggen. Het zakkaartje gevaarlijke stoffen beschrijft wat hij moet doorgeven en welke procedure hij volgt, niet de windrichting.",
+   "bron": "1.17 Wat doet de machinist bij een onregelmatigheid met gevaarlijke stoffen?"
+  },
+  {
+   "id": "O2-031",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Wat is de belangrijkste taak van de dienstdoende manager Wachtdienst van de betrokken spoorwegonderneming bij een treinincident?",
+   "opties": [
+    "Het kiezen van het passende treinincidentscenario",
+    "Het bijstaan van het treinpersoneel",
+    "De operationele leiding ter plaatse voeren",
+    "Het alarmeren van de hulpdiensten"
+   ],
+   "antwoord": 1,
+   "uitleg": "De dienstdoende manager Wachtdienst (of vergelijkbare functionaris) heeft als belangrijkste taak het treinpersoneel bij te staan. Het TIS kiezen en alarmeren doet de Meldkamer spoor/Backoffice; de operationele leiding ligt bij de OvD-R.",
+   "bron": "1.6 Wat is de rol van de treindienstleider bij een treinincident?"
+  },
+  {
+   "id": "O2-032",
+   "eis": "VI.c",
+   "cluster": "12",
+   "vraag": "De trein krijgt een dwangremming met de tekstmelding 'Runaway movement'. Wat is de eerste actie van de machinist?",
+   "opties": [
+    "Direct de mode Isolation inschakelen",
+    "Een European Instruction 2 vragen",
+    "Dwangremming bevestigen en de remmen vastzetten",
+    "Direct een SOM maken in Level NTC-ATB"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een dwangremming met 'Runaway movement' (trein rolt ongecontroleerd weg) bevestigt de machinist de dwangremming op de DMI en zet hij de remmen van de trein vast. Daarna handelt hij afhankelijk van de getoonde mode verder.",
+   "bron": "8.21 Melding rolbewaking"
+  },
+  {
+   "id": "O2-033",
+   "eis": "VI.c",
+   "cluster": "12",
+   "vraag": "Op het scherm verschijnt een melding over een ORD (JRU)-fout. Wat doet de machinist?",
+   "opties": [
+    "Stoppen en de ETCS in Isolation plaatsen",
+    "Melden volgens de vervoerder en zonder beperkingen verder rijden",
+    "Hij rijdt verder met maximaal de SR-snelheid",
+    "Hij reset de ETCS-boordapparatuur en maakt een nieuwe SOM"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij een melding over een ORD (JRU)-fout meldt de machinist de fout volgens de procedure van de vervoerder en rijdt hij verder zonder beperkingen.",
+   "bron": "8.25 Melding ORD (JRU) fout"
+  },
+  {
+   "id": "O2-034",
+   "eis": "VI.d",
+   "cluster": "03",
+   "vraag": "Welke middelen zijn volgens de vakkennis aanwezig, eventueel in de conducteursruimte?",
+   "opties": [
+    "Verbandtrommel, afdekfolie en handschoenen",
+    "Rode vlag, noodseinlantaarn en vluchtmasker",
+    "Kortsluitkabel, stopblokken en brandblusser",
+    "Veiligheidshelm, werkhandschoenen en vest"
+   ],
+   "antwoord": 0,
+   "uitleg": "Verbandtrommel, afdekfolie en handschoenen zijn aanwezig, eventueel in de conducteursruimte. Rode vlag/noodseinlantaarn en vluchtmasker worden, eventueel samen met kortsluitkabel en stopblokken, opgeborgen in de daarvoor bestemde ruimte; een brandblusser is ook in tussenruimtes aanwezig. De spoorwegonderneming bepaalt wat aanwezig moet zijn.",
+   "bron": "1.14 Welke veiligheidsmiddelen moeten altijd aanwezig zijn?"
+  },
+  {
+   "id": "O2-035",
+   "eis": "VI.d",
+   "cluster": "10",
+   "vraag": "Wat doet de machinist als een reiziger in de trein onwel is geworden en medische hulp nodig heeft?",
+   "opties": [
+    "Hij licht de treindienstleider in en handelt volgens diens instructies",
+    "Hij stopt bij de eerstvolgende overweg en belt zelf 112",
+    "Hij rijdt zonder melding door naar het eindstation van de trein",
+    "Hij plaatst een alarmoproep via GSM-R en zet een snelremming in"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij een onwel geworden reiziger die medische hulp nodig heeft, licht de machinist de treindienstleider in en handelt hij volgens diens instructies. Een alarmoproep met snelremming hoort bij de eerste veiligheidsmaatregelen bij een treinincident met gevaar, en 112 belt hij alleen als de treindienstleider niet te bereiken is.",
+   "bron": "1.21 Wat doet de machinist als een reiziger onwel is geworden in de trein?"
+  },
+  {
+   "id": "O2-036",
+   "eis": "VI.d",
+   "cluster": "10",
+   "vraag": "Justitie wil de machinist na een treinincident ondervragen, terwijl de trein verder moet rijden. Wat is volgens de vakkennis mogelijk?",
+   "opties": [
+    "De trein blijft altijd staan totdat het verhoor volledig is afgerond",
+    "De OvD-R neemt het verhoor namens justitie telefonisch af",
+    "Politie en/of officier van justitie rijdt mee; er blijft wel bevoegd personeel achter",
+    "De machinist wordt altijd direct afgelost en naar het bureau gebracht"
+   ],
+   "antwoord": 2,
+   "uitleg": "Wil justitie de machinist ondervragen, dan kan de politie en/of de officier van justitie eventueel meerijden op de trein. Wel moet er bevoegd personeel op de plaats van het incident achterblijven. De trein mag niet langer stilstaan dan voor de zorg van slachtoffers en het strafrechtelijk onderzoek nodig is.",
+   "bron": "1.8 Wat is de rol van de machinist bij eventueel justitieel onderzoek?"
+  },
+  {
+   "id": "O2-037",
+   "eis": "VII.b",
+   "cluster": "09",
+   "vraag": "Hoe remt een magneetrem de trein af?",
+   "opties": [
+    "Door de tractiemotor als generator te laten werken",
+    "Door de remschijven tussen kunststof remblokken te klemmen",
+    "Door wrijving van een magneetblok met de spoorstaaf",
+    "Door vloeistof in de hydraulische transmissie"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een magneetrem wordt een blok met permanente (PMg) of niet-permanente magneten (EMg) op de spoorstaaf neergelaten; door wrijving met de spoorstaaf remt de trein af. De andere opties beschrijven de ED-rem, de schijfrem en de hydrodynamische rem.",
+   "bron": "1.14 Welke soorten remsystemen worden onderscheiden?"
+  },
+  {
+   "id": "O2-038",
+   "eis": "VII.c",
+   "cluster": "03",
+   "vraag": "Welke spanning staat in Nederland op de bovenleiding, behalve op de HSL en de Betuweroute?",
+   "opties": [
+    "25 kilovolt wisselspanning",
+    "1500-1800 volt gelijkspanning",
+    "1500-1800 volt wisselspanning",
+    "25 kilovolt gelijkspanning"
+   ],
+   "antwoord": 1,
+   "uitleg": "Op de bovenleiding staat in Nederland 1500-1800 volt gelijkspanning; op de HSL en de Betuweroute is dat 25 kilovolt wisselspanning. Aanraken van de bovenleiding is in beide gevallen levensgevaarlijk.",
+   "bron": "1.13 Wat doet de machinist om risico's op elektrocutie/elektrisering te verminderen?"
+  },
+  {
+   "id": "O2-039",
+   "eis": "VII.c",
+   "cluster": "09",
+   "vraag": "Wat gebeurt er met de bewegingsenergie bij remmen met de ED-rem?",
+   "opties": [
+    "Ze wordt via een vloeistof, meestal olie, omgezet in warmte",
+    "Ze wordt als perslucht opgeslagen in het hoofdreservoir",
+    "Ze wordt omgezet in elektrische energie, die naar de bovenleiding of accu's kan gaan",
+    "Ze wordt via een magneetblok afgevoerd naar de spoorstaaf"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij de elektrodynamische rem wordt de motor als rem gebruikt en wordt de bewegingsenergie omgezet in elektrische energie; die wordt bij modern materieel teruggevoerd naar de bovenleiding of opgeslagen in accu's. Omzetting in warmte via een vloeistof hoort bij de hydrodynamische rem.",
+   "bron": "1.14 Welke soorten remsystemen worden onderscheiden?"
+  },
+  {
+   "id": "O2-040",
+   "eis": "VII.c",
+   "cluster": "09",
+   "vraag": "Waarvoor is het hoogspanningssysteem van een elektrische trein nodig?",
+   "opties": [
+    "Voor het voeden van de elektromotoren en het verwarmen van de trein",
+    "Alleen voor het opladen van de accu's van het laagspanningssysteem",
+    "Alleen voor het aandrijven van de compressor van het hoofdreservoir",
+    "Alleen voor de deurbediening en de verlichting in de rijtuigen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Het hoogspanningssysteem is nodig om de spanning van de bovenleiding te verwerken om de elektromotoren te voeden en de trein te verwarmen.",
+   "bron": "1.17 Hoe werken de verschillende soorten tractie?"
+  }
+ ]
+}

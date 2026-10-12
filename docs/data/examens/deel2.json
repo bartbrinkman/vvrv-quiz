@@ -1,0 +1,1215 @@
+{
+ "id": "D2",
+ "titel": "Proefexamen theorie deel 2",
+ "omschrijving": "Vakbekwaamheidseisen IV t/m VII; treinbeveiliging onder ERTMS en ATB.",
+ "duur_min": 90,
+ "norm_pct": 80,
+ "eisen": {
+  "IV": "Basisbeginselen operationele communicatie",
+  "V": "Treinen, samenstelling en technische vereisten van rollend materieel",
+  "VI": "Risico's in verband met spoorwegexploitatie",
+  "VII": "Basisbeginselen fysica"
+ },
+ "vragen": [
+  {
+   "id": "D2-001",
+   "eis": "IV.a",
+   "cluster": "04",
+   "vraag": "Twee machinisten stemmen via GSM-R af hoe een rangeerbeweging op een emplacement wordt uitgevoerd. Een collega stelt dat dit geen veiligheidscommunicatie is, omdat er geen treindienstleider bij betrokken is. Wat is juist?",
+   "opties": [
+    "De collega heeft gelijk: veiligheidscommunicatie vindt alleen plaats tussen verschillende typen functionarissen, zoals treindienstleider en machinist",
+    "De collega heeft gelijk: alleen gesprekken die worden opgenomen en minimaal zeven dagen bewaard, vallen onder veiligheidscommunicatie",
+    "De collega heeft ongelijk: veiligheidscommunicatie kan ook tussen hetzelfde type functionaris plaatsvinden en rangeerbewegingen zijn er een voorbeeld van",
+    "De collega heeft ongelijk, maar alleen omdat het gesprek via GSM-R wordt gevoerd; via de portofoon zou het geen veiligheidscommunicatie zijn"
+   ],
+   "antwoord": 2,
+   "uitleg": "Veiligheidscommunicatie is het uitwisselen van veiligheidskritische informatie, zowel tussen hetzelfde type functionaris (bijvoorbeeld machinist - machinist) als tussen verschillende typen functionarissen (bijvoorbeeld treindienstleider - machinist). Rangeerbewegingen worden uitdrukkelijk als voorbeeld genoemd. Of een gesprek wordt opgenomen, bepaalt niet of het veiligheidscommunicatie is. Ook het middel is niet bepalend: wordt de portofoon voor veiligheidsberichten gebruikt, dan gelden eveneens de regels voor veiligheidscommunicatie.",
+   "bron": "1.2 Wat is veiligheidscommunicatie voor de machinist?"
+  },
+  {
+   "id": "D2-002",
+   "eis": "IV.a",
+   "cluster": "04",
+   "vraag": "Over de taaleisen voor de machinist worden drie stellingen gedaan:\n1) Volgens artikel 5 van het Besluit spoorwegpersoneel moet een veiligheidsfunctionaris voldoende Nederlands kennen om de gebruikelijke procescommunicatie te kunnen voeren en begrijpen.\n2) Het minimaal benodigde taalniveau is Europees bepaald in de TSI Operations.\n3) Een machinist met een sterk accent voldoet aan de eis, zolang hij aantoonbaar op niveau B1 zit.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "Alleen 1"
+   ],
+   "antwoord": 0,
+   "uitleg": "1 en 2 zijn juist: artikel 5 van het BSP eist voldoende kennis van het Nederlands om de gebruikelijke procescommunicatie te kunnen voeren en begrijpen, en het minimumniveau (B1 Europees referentiekader / 2F Nederlands referentiekader) is Europees bepaald in de TSI OPE. 3 is onjuist: de machinist moet de taal duidelijk kunnen spreken, zonder dialect of accent dat de verstaanbaarheid negatief beïnvloedt. Alleen het taalniveau halen is dus niet genoeg.",
+   "bron": "1.3 Wat zegt het Besluit Spoorwegpersoneel (BSP) over veiligheidscommunicatie?"
+  },
+  {
+   "id": "D2-003",
+   "eis": "IV.a",
+   "cluster": "04",
+   "vraag": "In welk deel van de TSI Operations (TSI OPE) staan de eisen voor veiligheidscommunicatie, en waarvoor gelden die onder meer?",
+   "opties": [
+    "Aanhangsel C; onder meer voor de bewaartermijn van gespreksopnamen, de GSM-R-frequenties en het mobiel bellen",
+    "Aanhangsel A; onder meer voor de berichtenstructuur, de communicatiemethode en de inhoud van de berichten",
+    "Aanhangsel A; onder meer voor het NATO-spelalfabet, de dienstuitdrukkingen en de nationale instructies",
+    "Aanhangsel C; onder meer voor de berichtenstructuur, de communicatiemethode en de inhoud van de berichten"
+   ],
+   "antwoord": 3,
+   "uitleg": "De TSI OPE beschrijft in aanhangsel C de regels voor veiligheidsgerelateerde communicatie, onder meer voor de berichtenstructuur, de communicatiemethode en de inhoud van de berichten. Dienstuitdrukkingen, het NATO-spelalfabet en de nationale instructie Verkeerd Spoor horen bij de uitwerking van die regels door ProRail. De bewaartermijn van gespreksopnamen en de GSM-R-frequenties worden in de vakkennis niet aan aanhangsel C gekoppeld, en of de mobiele telefoon tijdens de rit mag worden gebruikt, bepaalt de spoorwegonderneming.",
+   "bron": "1.4 Wat zegt de TSI-OPE over veiligheidscommunicatie?"
+  },
+  {
+   "id": "D2-004",
+   "eis": "IV.b",
+   "cluster": "04",
+   "vraag": "Een machinist rijdt met een goederentrein van Nederland naar Duitsland en passeert het netwerkomschakelbord. Wat is juist?",
+   "opties": [
+    "Tot zijn eindbestemming blijft de Nederlandse treindienstleider verantwoordelijk; de GSM-R-cabineradio schakelt altijd automatisch om",
+    "Vanaf daar is de Duitse treindienstleider verantwoordelijk; zo nodig schakelt hij de GSM-R-cabineradio handmatig om naar het actuele netwerk",
+    "Vanaf daar is de Duitse treindienstleider verantwoordelijk; die bereikt hij voortaan via zijn eigen mobiele telefoon in plaats van GSM-R",
+    "Vanaf daar neemt de bijsturing van zijn eigen spoorwegonderneming de rol van de treindienstleider over tot de eerstvolgende stop"
+   ],
+   "antwoord": 1,
+   "uitleg": "Op de grens gaat het verantwoordelijkheidsgebied van de treindienstleider van land A naar land B over, op de plek waar het netwerkomschakelbord staat. Het kan nodig zijn de GSM-R-cabineradio handmatig naar het actuele netwerk om te schakelen (bijvoorbeeld GSM-R DB); dat gaat dus niet altijd automatisch. De eigen mobiele telefoon vervangt GSM-R niet (alleen bij defecte GSM-R geeft de machinist zijn mobiele nummer door), en de bijsturing van de spoorwegonderneming neemt de rol van de treindienstleider niet over.",
+   "bron": "1.8 Wat is GSM-R?"
+  },
+  {
+   "id": "D2-005",
+   "eis": "IV.b",
+   "cluster": "04",
+   "vraag": "Over GSM-R en de personen met wie de machinist communiceert, worden drie stellingen gedaan:\n1) ProRail is de wettelijke beheerder van het Nederlandse GSM-R-netwerk.\n2) Via GSM-R communiceert de machinist met alle machinisten op het Nederlandse spoornet, ongeacht hun verantwoordelijkheidsgebied.\n3) De machinist gebruikt GSM-R ook om te communiceren met de nationale politie.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3",
+    "Alleen 3"
+   ],
+   "antwoord": 2,
+   "uitleg": "1 en 3 zijn juist: ProRail is de wettelijke beheerder van het Nederlandse GSM-R-netwerk, en de machinist gebruikt GSM-R om te communiceren met de treindienstleider, andere machinisten in hetzelfde verantwoordelijkheidsgebied, collega's van zijn eigen spoorwegonderneming die verantwoordelijk zijn voor de bijsturing en de nationale politie. 2 is onjuist: het gaat om andere machinisten in hetzelfde verantwoordelijkheidsgebied, niet om alle machinisten op het spoornet.",
+   "bron": "1.8 Wat is GSM-R?"
+  },
+  {
+   "id": "D2-006",
+   "eis": "IV.b",
+   "cluster": "11",
+   "vraag": "Na een reset van de ETCS-boordapparatuur in Level 2-gebied blijken de RBC-gegevens verdwenen te zijn. Wat is juist?",
+   "opties": [
+    "De machinist ontvangt deze zo mogelijk van de vervoerder: het treinnummer, het RBC-ID en het rempercentage",
+    "De gegevens worden automatisch door de eerstvolgende balise aangeleverd, zodat contact met de treindienstleider niet nodig is",
+    "De machinist ontvangt deze zo mogelijk van de treindienstleider: Radio network-ID, RBC-ID en RBC-telefoonnummer",
+    "De machinist ontvangt deze zo mogelijk van de LWB: Radio network-ID, Driver ID en RBC-telefoonnummer"
+   ],
+   "antwoord": 2,
+   "uitleg": "Als na een reset RBC-gegevens zijn verdwenen, ontvangt de machinist deze zo mogelijk van de treindienstleider: Radio network-ID, RBC-ID en RBC-telefoonnummer. Treinnummer, rempercentage en Driver ID zijn geen RBC-gegevens. De vakkennis noemt de treindienstleider als degene van wie de machinist deze gegevens ontvangt, niet de vervoerder, de LWB of een balise.",
+   "bron": "1.25 Wat doet de machinist als de ETCS-baanapparatuur defect is?"
+  },
+  {
+   "id": "D2-007",
+   "eis": "IV.c",
+   "cluster": "04",
+   "vraag": "Een machinist rijdt onder ATB op een baanvak met seinstelsel '54 en staat voor een stoptonend sein. De treindienstleider geeft hem toestemming het sein te passeren en verplicht hem daarna op zicht te rijden. Wat is juist?",
+   "opties": [
+    "Het gaat om EI 1 en EI 6; beide worden schriftelijk gegeven en mogen op één formulier onder hetzelfde identificatienummer",
+    "Het gaat om EI 1 en EI 6; EI 1 wordt schriftelijk en EI 6 mondeling gegeven, elk onder een eigen identificatienummer",
+    "Het gaat om EI 2 en EI 6; beide worden mondeling gegeven, omdat de trein al stilstaat voor het stoptonende sein",
+    "European Instructions gelden alleen onder ERTMS; onder ATB/seinstelsel '54 krijgt hij hiervoor een nationale instructie"
+   ],
+   "antwoord": 0,
+   "uitleg": "De 8 European Instructions gelden voor rijden onder ATB/seinstelsel '54 én onder ERTMS. Toestemming om een EOA/stoptonend sein te passeren is EI 1; de verplichting om op zicht te rijden is EI 6. Beide worden schriftelijk gegeven. Het formulier mag voor meerdere soorten European Instructions tegelijk worden gebruikt, onder hetzelfde unieke identificatienummer. EI 2 is toestemming tot doorrijden na TRIP (mondeling). De enige nationale instructie in Nederland is Verkeerd Spoor.",
+   "bron": "1.6 Wat zijn European Instructions?"
+  },
+  {
+   "id": "D2-008",
+   "eis": "IV.c",
+   "cluster": "04",
+   "vraag": "Een machinist ziet op de vrije baan een calamiteit die ook andere treinen in de omgeving in gevaar kan brengen. Wat geldt voor het uitzenden van een alarmoproep via GSM-R?",
+   "opties": [
+    "Alleen de treindienstleider kan een alarmoproep uitzenden; de machinist vraagt hem daarom",
+    "De machinist mag pas een alarmoproep uitzenden na toestemming van de bijsturing van zijn spoorwegonderneming",
+    "Bij calamiteiten kan zowel de machinist als de treindienstleider een alarmoproep uitzenden",
+    "De machinist mag alleen een alarmoproep uitzenden als de treindienstleider onbereikbaar is"
+   ],
+   "antwoord": 2,
+   "uitleg": "Volgens de vakkennis kan bij calamiteiten zowel de machinist als de treindienstleider een alarmoproep uitzenden. Er geldt geen voorwaarde dat eerst toestemming nodig is of dat de treindienstleider onbereikbaar moet zijn. Machinisten die voor hun trein een alarmoproep ontvangen, gaan rijden op zicht, tenzij de treindienstleider anders opdraagt.",
+   "bron": "1.8 Wat is GSM-R?"
+  },
+  {
+   "id": "D2-009",
+   "eis": "IV.c",
+   "cluster": "04",
+   "vraag": "Bij welk van de volgende gesprekken is volgens de vakkennis sprake van veiligheidscommunicatie?",
+   "opties": [
+    "Een machinist informeert de reizigers via de omroep over een vertraging van tien minuten",
+    "Een machinist overlegt met de bijsturing van zijn onderneming over het tijdstip van zijn aflossing",
+    "Een machinist bespreekt met een collega-machinist het dienstrooster van de volgende week",
+    "Een machinist meldt de treindienstleider een beschadiging aan de infrastructuur die hij onderweg zag"
+   ],
+   "antwoord": 3,
+   "uitleg": "Veiligheidscommunicatie is het uitwisselen van veiligheidskritische informatie: informatie die bij onjuiste uitwisseling (niet, onvolledig, te vroeg of te laat) tot veiligheidsincidenten met slachtoffers en/of schade kan leiden. Voorbeelden zijn storingen of beschadigingen aan de infrastructuur of het seinstelsel, toestemming om door een stoptonend sein te rijden en rangeerbewegingen. Een vertragingsbericht, een aflostijd of een dienstrooster is geen veiligheidskritische informatie.",
+   "bron": "1.2 Wat is veiligheidscommunicatie voor de machinist?"
+  },
+  {
+   "id": "D2-010",
+   "eis": "IV.c",
+   "cluster": "10",
+   "vraag": "Tijdens de rit ziet een machinist een flinke bermbrand met rookontwikkeling naast het spoor. Zijn eigen trein is niet bij de brand betrokken. Wat doet hij volgens de vakkennis?",
+   "opties": [
+    "Hij meldt de brand direct aan de treindienstleider, die vervolgens de hulp van de hulpdiensten inroept",
+    "Hij belt zelf 112 en meldt het de treindienstleider pas nadat zijn trein de brand is gepasseerd",
+    "Hij brengt de trein tot stilstand en probeert de brand met het brandblusapparaat van de trein te blussen",
+    "Hij meldt de brand na afloop van zijn dienst op de manier die zijn spoorwegonderneming voorschrijft"
+   ],
+   "antwoord": 0,
+   "uitleg": "Brand/rookontwikkeling buiten de trein meldt de machinist direct aan de treindienstleider; die roept vervolgens de hulpdiensten in. 112 belt hij alleen als de treindienstleider niet te bereiken is. Melden bij het beëindigen van de dienst geldt voor een brand die hij zelf heeft geblust, en dat naast de melding aan de treindienstleider.",
+   "bron": "1.12 Wat doet de machinist bij brand en/of rookontwikkeling buiten de trein?"
+  },
+  {
+   "id": "D2-011",
+   "eis": "IV.c",
+   "cluster": "10",
+   "vraag": "Een machinist nadert met zijn trein een tunnel en ontvangt op dat moment een alarmoproep via GSM-R. Wat doet hij volgens de vakkennis?",
+   "opties": [
+    "Hij rijdt door de tunnel heen en stopt pas daarna, zodat hulpverleners de trein goed kunnen bereiken",
+    "Hij zet direct een snelremming in, ook als de trein daardoor in de tunnel tot stilstand komt",
+    "Hij brengt de trein zo mogelijk vóór de tunnel tot stilstand, zodat hij niet in de tunnel stilvalt",
+    "Hij rijdt de tunnel in en stopt bij de eerstvolgende vluchtdeur, zodat reizigers snel kunnen vluchten"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een alarmoproep brengt de machinist de trein zo mogelijk vóór de tunnel tot stilstand. Bij een onveilige situatie brengt hij de trein bij voorkeur niet tot stilstand in een tunnel; daarom is een snelremming die de trein in de tunnel laat stilvallen niet de bedoeling. Doorrijden door of de tunnel in rijden gaat tegen deze regel in.",
+   "bron": "1.13 Wat doet de machinist bij brand en/of rookontwikkeling in of voor een tunnel?"
+  },
+  {
+   "id": "D2-012",
+   "eis": "IV.c",
+   "cluster": "10",
+   "vraag": "Een machinist meldt een onregelmatigheid met gevaarlijke stoffen aan de treindienstleider. Welke combinatie bevat uitsluitend gegevens die hij volgens de vakkennis zo mogelijk doorgeeft?",
+   "opties": [
+    "Aard van de onregelmatigheid, brutogewicht van de wagen en naam van de afzender",
+    "Plaats van de wagen in de trein, remgewicht van de trein en bestemming van de lading",
+    "Wagen- en treinnummer, datum van de laatste reiniging en de windrichting ter plaatse",
+    "Plaats van de wagen in de trein, wagenkenmerk en nummers van de gevaarsetiketten"
+   ],
+   "antwoord": 3,
+   "uitleg": "De machinist meldt zo mogelijk: aard en plaats van de onregelmatigheid, plaats van de wagen(s) in de trein, wagenkenmerk, wagen- en treinnummers, gegevens op het Kemlerbord (GEVI-code, UN-nummer), informatie/nummers gevaarsetiketten en stofnaam of verzamelnaam. Brutogewicht, afzender, remgewicht, bestemming, reinigingsdatum en windrichting staan niet in deze opsomming. Wat de machinist van een goederentrein precies doorgeeft, staat op het 'zakkaartje gevaarlijke stoffen'.",
+   "bron": "1.17 Wat doet de machinist bij een onregelmatigheid met gevaarlijke stoffen?"
+  },
+  {
+   "id": "D2-013",
+   "eis": "IV.c",
+   "cluster": "12",
+   "vraag": "Twee machinisten maken in Level 2 een SOM en drukken op 'Start'. Bij machinist A verschijnt 'Bel treindienstleider', bij machinist B 'Wacht'. Wat is het verschil?",
+   "opties": [
+    "Bij A is de RBC-verbinding mislukt (Radio network registration failed); bij B is de treinpositie onbekend",
+    "Bij A moet worden omgeschakeld naar NTC-ATB; bij B moet de machinist eerst om een European Instruction 7 vragen",
+    "Bij A is de treinpositie onbekend en vraagt hij een European Instruction 7; bij B staat het treinnummer niet in het plan",
+    "Bij A staat het ingevulde treinnummer niet in het plan van de treindienstleider; bij B wel en wacht hij op een rijweg"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij 'Bel treindienstleider' komt het bij de SOM ingevulde treinnummer niet voor in het plan van de treindienstleider (er is geen planregel om een rijweg in te stellen); de machinist neemt contact op met de treindienstleider. Bij 'Wacht' komt het treinnummer wél voor in het plan en wacht de machinist tot er een rijweg beschikbaar komt. Bij onbekende positie volgt daarna Staff Responsible en vraagt hij een European Instruction 7. Omschakelen naar ATB hoort bij de melding 'Schakel om naar ATB'.",
+   "bron": "7.9 Tekstberichten die kunnen komen bij een Start Of Mission"
+  },
+  {
+   "id": "D2-014",
+   "eis": "IV.d",
+   "cluster": "04",
+   "vraag": "Een machinist meldt de treindienstleider een storing aan een sein waarvan het nummer uit losse letters en cijfers bestaat. Hij noemt daarbij ook het tijdstip waarop de storing optrad. Hoe spreekt hij deze gegevens volgens de gespreksregels uit?",
+   "opties": [
+    "De letters met het NATO-spelalfabet en de cijfers van het seinnummer cijfer voor cijfer; het tijdstip ook cijfer voor cijfer",
+    "De letters met het NATO-spelalfabet en de cijfers van het seinnummer cijfer voor cijfer; het tijdstip niet cijfer voor cijfer",
+    "De letters met het NATO-spelalfabet en de cijfers van het seinnummer als één getal; het tijdstip wel cijfer voor cijfer",
+    "De letters gewoon uitgesproken en de cijfers van het seinnummer cijfer voor cijfer; het tijdstip niet cijfer voor cijfer"
+   ],
+   "antwoord": 1,
+   "uitleg": "ProRail schrijft voor dat bij het spellen van woorden en losse letters het NATO-spelalfabet wordt gebruikt, om misverstanden in de uitspraak te voorkomen. Getallen worden cijfer voor cijfer uitgesproken, behalve snelheid, datum en tijd. De cijfers van het seinnummer gaan dus cijfer voor cijfer, het tijdstip niet. Letters gewoon uitspreken of het seinnummer als één getal noemen is in strijd met deze regels.",
+   "bron": "1.5 Wat zegt de regelgeving van ProRail over veiligheidscommunicatie?"
+  },
+  {
+   "id": "D2-015",
+   "eis": "IV.d",
+   "cluster": "04",
+   "vraag": "Een machinist wil via de portofoon een veiligheidsbericht doorgeven. Op zijn portofoon knippert een rood lampje. Wat doet hij?",
+   "opties": [
+    "Hij wacht met zijn oproep tot het kanaal vrij is, wat te zien is doordat het rode lampje niet meer knippert",
+    "Hij plaatst zijn oproep direct, omdat een veiligheidsbericht voorrang heeft op andere gesprekken op het kanaal",
+    "Hij begint direct met de dienstuitdrukking 'over', zodat andere gebruikers weten dat zij moeten stoppen met praten",
+    "Hij gebruikt GSM-R, omdat voor veiligheidsberichten de portofoon niet mag worden gebruikt"
+   ],
+   "antwoord": 0,
+   "uitleg": "Met de portofoon kan iedereen op hetzelfde kanaal praten; omdat het tot misverstanden leidt als meerdere personen tegelijk praten, wacht de gebruiker met zijn oproep tot het kanaal vrij is. Dat is te zien aan een indicatie op de portofoon, bijvoorbeeld het niet meer knipperen van een rood lampje. 'Over' gebruikt hij vóór het loslaten van de zendtoets, zodat de ontvanger weet dat hij kan terugpraten. De portofoon mag wel voor veiligheidsberichten worden gebruikt; dan gelden de regels voor veiligheidscommunicatie.",
+   "bron": "1.10 Wat houdt het gebruik van de portofoon in?"
+  },
+  {
+   "id": "D2-016",
+   "eis": "IV.d",
+   "cluster": "04",
+   "vraag": "Een nieuwe collega denkt dat hij met zijn gewone mobiele telefoon via het GSM-R-netwerk de treindienstleider kan bereiken, omdat GSM-R op GSM is gebaseerd. Wat is juist?",
+   "opties": [
+    "Ja; omdat GSM-R op GSM is gebaseerd, kan elke mobiele telefoon er zonder meer verbinding mee maken",
+    "Ja, maar alleen als zijn spoorwegonderneming het gebruik van de mobiele telefoon tijdens de rit toestaat",
+    "Nee; GSM-R is uitsluitend bedoeld voor communicatie tussen treinen onderling en niet met walposten",
+    "Nee; GSM-R gebruikt andere frequenties en is een gesloten netwerk dat niet zichtbaar of bruikbaar is voor GSM-gebruikers"
+   ],
+   "antwoord": 3,
+   "uitleg": "GSM-R is gebaseerd op GSM, maar maakt gebruik van andere frequenties en is niet zichtbaar voor of bruikbaar door GSM-gebruikers: het is een gesloten netwerk. Het is een internationale standaard voor communicatie tussen treinen en walposten én tussen treinen onderling. Dat de spoorwegonderneming bepaalt of de mobiele telefoon tijdens de rit mag worden gebruikt, maakt GSM-R niet toegankelijk voor gewone telefoons.",
+   "bron": "1.8 Wat is GSM-R?"
+  },
+  {
+   "id": "D2-017",
+   "eis": "IV.d",
+   "cluster": "11",
+   "vraag": "Bij rangeren in de mode Shunting in een CBG mag het rangeerdeel een SMB passeren na toestemming van de treindienstleider. Welke van de volgende is volgens de vakkennis (versie juni 2026) GEEN geldige vorm van die toestemming?",
+   "opties": [
+    "Een rangeerrijwegsein op/onder het SMB",
+    "Een European Instruction 7 met vak 7.11 en 7.20 met het opgegeven SMB-nummer",
+    "Een hoofdsein dat uit de stand stop is",
+    "Een mobiel Shunting-apparaat"
+   ],
+   "antwoord": 3,
+   "uitleg": "Volgens de versie van juni 2026 geeft de treindienstleider toestemming door een rangeerrijwegsein op/onder het SMB of met een European Instruction 7 met vak 7.11 en 7.20 met het SMB-nummer. Een hoofdsein mag het rangeerdeel in Shunting passeren als dat uit de stand stop is. Het mobiel Shunting-apparaat stond in de versie van november 2025 nog in het rijtje, maar is geschrapt.",
+   "bron": "1.54 Hoe werkt rangeren in Shunting in een CBG?"
+  },
+  {
+   "id": "D2-018",
+   "eis": "IV.d",
+   "cluster": "12",
+   "vraag": "Welke combinatie van standaardtekstbericht op de DMI en de betekenis ervan is juist?",
+   "opties": [
+    "'Trackside not compatible': baan- en boordsoftware kunnen niet samenwerken; met ETCS rijden kan hier niet",
+    "'Train is rejected': de aanvraag voor de mode Shunting is door het RBC afgewezen",
+    "'No MA received at level transition': geen MA ontvangen bij de transitie van Level 2 naar Level NTC",
+    "'Communication error': er is een fout vanuit de baan, bijvoorbeeld een defecte LEU"
+   ],
+   "antwoord": 0,
+   "uitleg": "'Trackside not compatible' betekent dat de softwareversies van baan- en boordapparatuur niet kunnen samenwerken en dat niet met ETCS op dit baangedeelte kan worden gereden. 'Train is rejected' betekent dat de trein door het RBC is afgewezen; afwijzing van Shunting is 'SH refused'. 'No MA received at level transition' geldt voor de transitie van Level 0 of Level NTC naar Level 1 of Level 2. 'Communication error' is een communicatiefout met het RBC; een fout vanuit de baan is 'Trackside malfunction'.",
+   "bron": "7.8 Standaard tekstberichten (E5-9)"
+  },
+  {
+   "id": "D2-019",
+   "eis": "V.a",
+   "cluster": "09",
+   "vraag": "Een zware goederentrein wordt getrokken door twee aan elkaar gekoppelde locomotieven. Eén machinist bedient beide locomotieven vanaf één plek. Hoe heet deze vorm van dubbeltractie?",
+   "opties": [
+    "Rijden in voorspan",
+    "Multiple-bedrijf",
+    "Rijden in tussenspan",
+    "Opdrukken"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij multiple-bedrijf bestaat de tractie uit meerdere aan elkaar gekoppelde locomotieven die alle door de machinist vanaf één plek worden bediend. Bij voorspan en tussenspan bedient elke locomotief een eigen machinist; bij opdrukken staat de extra locomotief achteraan de trein en wordt die ter plaatse door een machinist bediend.",
+   "bron": "1.8 Waaruit bestaat een samengestelde trein?"
+  },
+  {
+   "id": "D2-020",
+   "eis": "V.a",
+   "cluster": "09",
+   "vraag": "Een machinist rijdt met een dieselelektrische locomotief. Hoe wordt de aandrijving van de wielen verzorgd?",
+   "opties": [
+    "De dieselmotor drijft een hydraulische pomp aan die vloeistof onder hoge druk naar een hydromotor voert",
+    "De dieselmotor drijft via een tandwielkast rechtstreeks de wielas aan, zonder elektrische tussenstap",
+    "De dieselmotor laadt een batterij die via de stroomafnemer de hoogspanningsinstallatie voedt",
+    "De dieselmotor drijft een generator aan die direct of via een omweg de elektromotoren voedt"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een dieselelektrische locomotief drijft de dieselmotor een generator aan die direct of via een omweg (wisselrichter; batterij) de elektromotoren voedt die de wielen aandrijven. De pomp met hydromotor hoort bij de dieselhydraulische locomotief. De stroomafnemer hoort bij elektrische tractie: die haalt de hoogspanning van de bovenleiding.",
+   "bron": "1.17 Hoe werken de verschillende soorten tractie?"
+  },
+  {
+   "id": "D2-021",
+   "eis": "V.b",
+   "cluster": "09",
+   "vraag": "Een goederenwagen heeft geen draaistellen maar vaste assen. Welke uitspraak is juist?",
+   "opties": [
+    "Vaste assen komen alleen voor bij voertuigen met twee assen, bij (rangeer)locomotieven soms drie",
+    "Vaste assen worden toegepast om een grotere voertuiglengte en zwaardere lasten mogelijk te maken",
+    "Bij vaste assen rust de bak op de wielstellen via een draaikom met lummelbout",
+    "Bij vaste assen zijn de assen, het remwerk en de ATB-spoelen in één frame ondergebracht"
+   ],
+   "antwoord": 0,
+   "uitleg": "Vaste assen komen alleen voor bij voertuigen met twee assen (bij (rangeer)locomotieven soms drie); deze voertuigen zijn gebouwd voor ladingen met een gering gewicht en zijn meestal korter. Een grotere lengte en zwaardere lasten zijn juist redenen om een draaistel te gebruiken. De draaikom met lummelbout en het onderbrengen van assen, remwerk en ATB-spoelen horen bij het draaistel; bij vaste assen brengen asbalansen de krachten over.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd?"
+  },
+  {
+   "id": "D2-022",
+   "eis": "V.b",
+   "cluster": "09",
+   "vraag": "Bij een controle van een gebandageerd wiel ziet een machinist dat de controlestrepen op de wielband verschoven zijn. Wat kan dit betekenen?",
+   "opties": [
+    "Het wiel is versleten tot onder de toegestane maat en voldoet niet meer",
+    "Er zit een vlakke plaats op het loopvlak doordat het wiel heeft geblokkeerd",
+    "De aspot is oververhit geraakt doordat het smeermiddel is weggelekt",
+    "De wielband zit mogelijk los of is verschoven ten opzichte van het binnenwiel"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een gebandageerd wiel is een stalen wielband om het binnenwiel of de velg gekrompen; met markeringen wordt vastgesteld of de wielband niet los of verschoven is. Verschoven controlestrepen wijzen dus op een mogelijk loszittende wielband. Of een volwiel nog aan de toegestane maat voldoet, zie je aan een groef aan de buitenzijde; vlakke plaatsen herken je aan een hinderlijk stotend geluid en oververhitting van een aspot aan verkleuring.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd?"
+  },
+  {
+   "id": "D2-023",
+   "eis": "V.c",
+   "cluster": "09",
+   "vraag": "Op een goederenwagen staan onder meer het gewicht in P/G, het remstelsel en een hoogspanningssymbool. Tot welke categorie opschriften behoren deze?",
+   "opties": [
+    "Identificatie",
+    "Gebruik",
+    "Constructie en uitrusting",
+    "Lading"
+   ],
+   "antwoord": 2,
+   "uitleg": "Constructie en uitrusting geeft de kenmerken van het voertuig, zoals lengte laadvloer, afstand tussen de assen, laadvermogen, gewicht in P/G, remstelsel en hoogspanningssymbool. Identificatie gaat over voertuigsoort, type, eigenaar, land en regiem; Gebruik over de voorwaarden waaronder het voertuig mag rijden (bijvoorbeeld RIV en kenmerken gevaarlijke stoffen); Lading over de asbelasting in relatie tot baanvakken (beladingsraster en gewicht).",
+   "bron": "1.20 Wat is de betekenis van opschriften?"
+  },
+  {
+   "id": "D2-024",
+   "eis": "V.c",
+   "cluster": "09",
+   "vraag": "Een machinist bekijkt een wagen met gevaarlijke stoffen. Welke uitspraken zijn juist?\n1) Een gevaarsetiket is een vierkant met de punt naar beneden, met in de onderste punt het eerste cijfer van de GEVI-code.\n2) Ketelwagens met een oranje band zijn bestemd voor het vervoer van vloeibaar gemaakte gassen.\n3) Het UN-nummer bestaat uit twee of drie cijfers, soms voorafgegaan door de letter X.",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1",
+    "Alleen 1 en 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "1 en 2 zijn juist. Een gevaarsetiket heeft de vorm van een vierkant met de punt naar beneden, met in de onderste punt het gevaarsidentificatienummer (het eerste cijfer van de GEVI-code) en daarboven een icoon. Ketelwagens met een oranje band vervoeren vloeibaar gemaakte gassen. 3 is onjuist: dat beschrijft de GEVI-code (het bovenste getal); het UN-nummer (het onderste) bestaat altijd uit vier cijfers en identificeert de stof of groep van stoffen.",
+   "bron": "1.21 Hoe zijn wagens met gevaarlijke stoffen te herkennen?"
+  },
+  {
+   "id": "D2-025",
+   "eis": "V.d",
+   "cluster": "09",
+   "vraag": "Over treinsamenstellingen worden drie uitspraken gedaan. Welke zijn juist?\n1) Bij een trek-duwtrein die geduwd wordt, bedient de machinist de locomotief vanuit een stuurstand in de rijrichting.\n2) Een krachtvoertuig in opzending is uitgeschakeld en doet in de trein geen dienst voor reizigers- of goederenvervoer.\n3) Bij een trek-duwtrein leveren altijd zowel de vooropgaande als de opdrukkende locomotief tractie.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2"
+   ],
+   "antwoord": 2,
+   "uitleg": "1 en 2 zijn juist. Bij trek-/duwbedrijf bedient de machinist bij duwen de locomotief vanuit een stuurstand in de rijrichting. Een krachtvoertuig in opzending is een uitgeschakeld krachtvoertuig dat in de trein wordt meegenomen en geen dienst doet voor reizigers- of goederenvervoer. 3 is onjuist: er zijn twee varianten van een trek-duwtrein, en bij één daarvan levert alleen de achterste loc tractie (de machinist zit dan in het stuurstandrijtuig).",
+   "bron": "1.8 Waaruit bestaat een samengestelde trein?"
+  },
+  {
+   "id": "D2-026",
+   "eis": "V.d",
+   "cluster": "09",
+   "vraag": "Een locomotief zonder aangekoppelde voertuigen rijdt onder een treinnummer van emplacement A naar emplacement B. Hoe moet deze rit worden beschouwd?",
+   "opties": [
+    "Als trein: een Losse Loc die onder een treinnummer rijdt",
+    "Als rangeerdeel, omdat er geen voertuigen zijn aangekoppeld",
+    "Als krachtvoertuig in opzending, omdat er geen lading wordt vervoerd",
+    "Niet als trein, omdat een trein uit minimaal twee spoorvoertuigen bestaat"
+   ],
+   "antwoord": 0,
+   "uitleg": "Een Losse Loc (LL) is een trein als hij onder een treinnummer rijdt. Een trein is een samenstelling van spoorvoertuigen waarvan er ten minste één een krachtvoertuig is. Een rangeerdeel is een of een aantal gekoppelde spoorvoertuigen waarmee gerangeerd wordt; een krachtvoertuig in opzending is een uitgeschakeld krachtvoertuig dat in een trein wordt meegenomen.",
+   "bron": "1.7 Welke treinsoorten worden onderscheiden?"
+  },
+  {
+   "id": "D2-027",
+   "eis": "V.e",
+   "cluster": "09",
+   "vraag": "Een machinist verlaagt met de remkraan de treinleidingdruk van 5 bar naar ongeveer 4,5 bar. Wat is het gevolg?",
+   "opties": [
+    "De maximale remkracht wordt bereikt: een volremming",
+    "Alleen de remmen van de locomotief slaan aan via de hoofdreservoirleiding",
+    "De noodremklep opent en de treinleidingdruk daalt naar 0 bar",
+    "De tripleklep reageert en het remsysteem komt in de remstand"
+   ],
+   "antwoord": 3,
+   "uitleg": "Door met de remkraan lucht uit de treinleiding te laten (bijvoorbeeld van 5 naar 4,5 bar) reageert de tripleklep, zodat het remsysteem in de remstand komt; door de druk weer naar 5 bar te verhogen lossen de remmen. Een volremming is pas bereikt bij 3,5 bar. Remmen van alleen loc of treinstel vanuit de hoofdreservoirleiding is de directe rem. De noodremklep opent bij bediening van de noodrem.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd?"
+  },
+  {
+   "id": "D2-028",
+   "eis": "V.e",
+   "cluster": "09",
+   "vraag": "Een treinstel is uitgerust met een EP-rem. Hoe verloopt een remming met deze rem?",
+   "opties": [
+    "De remkraan ontlucht de treinleiding, waarna via de tripleklep lucht uit het hulpreservoir naar de remcilinders stroomt",
+    "De remstations worden elektrisch bediend en de regelklep wordt zo aangestuurd dat de tripleklep niet reageert",
+    "De tractiemotoren worden als rem gebruikt en zetten de bewegingsenergie om in elektrische energie",
+    "Een blok met elektromagneten wordt op de spoorstaaf neergelaten en remt de trein door wrijving af"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij de elektropneumatische rem worden de remstations via de remkraan elektrisch bediend: de remelektronica onderdrukt een remming via de treinleiding, de regelklep wordt zo aangestuurd dat de tripleklep niet reageert en er stroomt direct lucht naar de remcilinders. Ontluchten van de treinleiding met werking via de tripleklep is de indirecte (pneumatische) rem; de motor als rem is de ED-rem; het blok op de spoorstaaf is de magneetrem (EMg).",
+   "bron": "1.14 Welke soorten remsystemen worden onderscheiden?"
+  },
+  {
+   "id": "D2-029",
+   "eis": "V.e",
+   "cluster": "09",
+   "vraag": "Welke van de volgende remmingen verlopen via een drukverlaging in de treinleiding?\n1) Een reizigersnoodremming\n2) Een remming door het breken van een koppeling\n3) Een remming met de directe rem (locrem)",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 2"
+   ],
+   "antwoord": 1,
+   "uitleg": "1 en 2 zijn juist. De zelfwerkende doorgaande luchtdrukrem kan door welke oorzaak ook in werking worden gesteld, ook zonder ingreep van de machinist, bijvoorbeeld bij reizigersnoodremming, dodemanremming, ATB-remming en het breken van een koppeling: de luchtdruk in de treinleiding wordt verlaagd en de trein remt. 3 is onjuist: bij de directe rem worden de remmen van loc of treinstel direct vanuit de hoofdreservoirleiding gevuld en wordt de treinleiding niet gebruikt.",
+   "bron": "1.14 Welke soorten remsystemen worden onderscheiden?"
+  },
+  {
+   "id": "D2-030",
+   "eis": "V.f",
+   "cluster": "09",
+   "vraag": "Na een voorval wil een machinist zelf nagaan met welke snelheid hij reed en wanneer hij remde. Welke uitspraak over de ritregistratie is juist?",
+   "opties": [
+    "Onder meer tijd, snelheid en rembediening worden vastgelegd, maar hij kan dit niet uitlezen",
+    "Hij kan de gegevens zelf uitlezen via het bedieningsscherm in de cabine",
+    "Alleen ATB- en ERTMS-gegevens worden geregistreerd, snelheid en remmen niet",
+    "De registratie start pas zodra het voertuig sneller rijdt dan 40 km/u"
+   ],
+   "antwoord": 0,
+   "uitleg": "Geregistreerd worden onder meer tijd, snelheid, bediening remmen, ATB-gegevens en ERTMS-gegevens; de machinist kan de gegevens niet uitlezen. De registratie start bij het in beweging zetten van het voertuig en eindigt 30 seconden na het tot stilstand komen. De grens van 40 km/u bepaalt welke voertuigen ritregistratie moeten hebben (voertuigen die sneller kunnen rijden), niet wanneer de registratie start.",
+   "bron": "1.22 Wat is ritregistratie?"
+  },
+  {
+   "id": "D2-031",
+   "eis": "V.g",
+   "cluster": "09",
+   "vraag": "Waar bevindt zich het veerpakket dat de trekkrachten opvangt bij kort trekwerk en bij doorgaand trekwerk?",
+   "opties": [
+    "Kort: in het midden van het voertuig; doorgaand: achter de bufferbalk",
+    "Bij beide uitvoeringen in de buffers, naast de veer of het rubberpakket",
+    "Kort: bij de ophanghaak; doorgaand: tegen de stelbalken van het onderstel",
+    "Kort: achter de bufferbalk; doorgaand: in het midden van het voertuig, halverwege de trekstang"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij kort trekwerk is aan de trekhaak een veerpakket bevestigd dat achter de bufferbalk is gemonteerd; kort trekwerk heeft geen lange trekstang onder het voertuig door. Bij doorgaand trekwerk is het veerpakket in het midden van het voertuig gemonteerd, halverwege de trekstang. De veer of het rubberpakket in de buffers dempt drukkrachten en stoten (stootwerk), niet de trekkrachten.",
+   "bron": "1.12 Hoe is het stoot- en trekwerk opgebouwd?"
+  },
+  {
+   "id": "D2-032",
+   "eis": "VI.a",
+   "cluster": "03",
+   "vraag": "Een collega zegt: 'Het Nederlandse spoor heeft al jaren een hoog veiligheidsniveau. Als iedereen de regels volgt, kunnen er geen ongevallen meer gebeuren.' Wat is volgens de vakkennis juist?",
+   "opties": [
+    "Dat klopt; door het hoge veiligheidsniveau en de ingezette maatregelen is op het spoor absolute veiligheid bereikt",
+    "Veiligheid is een relatief begrip; absolute veiligheid bestaat niet, dus risico's in kaart brengen en beheersen blijft nodig",
+    "Dat klopt; extra alertheid is alleen nog nodig op baanvakken met een zeer intensieve benutting van het spoornet",
+    "Veiligheid is alleen de afwezigheid van gevaarlijke situaties; beschermende maatregelen tellen daarbij niet mee"
+   ],
+   "antwoord": 1,
+   "uitleg": "Veiligheid is de mate van afwezigheid van potentiële oorzaken van een gevaarlijke situatie of de mate van aanwezigheid van beschermende maatregelen tegen die oorzaken; beschermende maatregelen tellen dus wel mee. Het is een relatief begrip, omdat niets onder alle omstandigheden volledig zonder gevaar is. Ondanks het hoge Nederlandse veiligheidsniveau bestaat absolute veiligheid niet en is het niet realistisch te verwachten dat er nooit incidenten of ongevallen plaatsvinden. Risico's moeten zo goed mogelijk in kaart worden gebracht en beheerst; alertheid van alle partijen blijft onverminderd nodig.",
+   "bron": "1.2 Waarom aandacht voor veiligheid?"
+  },
+  {
+   "id": "D2-033",
+   "eis": "VI.a",
+   "cluster": "03",
+   "vraag": "Binnen een team zijn uitgebreide veiligheidsregels opgesteld, maar collega's spreken elkaar zelden aan en kleine overtredingen worden gedoogd. Is hier volgens de vakkennis sprake van een veiligheidscultuur?",
+   "opties": [
+    "Ja; doordat er uitgebreide regels zijn opgesteld, is voldaan aan de voorwaarde voor een veiligheidscultuur",
+    "Ja; zolang de overtredingen klein zijn en er geen incidenten plaatsvinden, is er sprake van een veiligheidscultuur",
+    "Nee; daarvoor moet het veiligheidsbewustzijn bij al het personeel hoog zijn en mag onveilig werken niet worden getolereerd",
+    "Nee; een veiligheidscultuur vraagt vooral dat leidinggevenden toezien op naleving, niet dat collega's elkaar aanspreken"
+   ],
+   "antwoord": 2,
+   "uitleg": "Er is sprake van een veiligheidscultuur wanneer het veiligheidsbewustzijn bij al het personeel hoog is en onveilig werken niet wordt getolereerd. Het opstellen van regels is één ding, het na (willen) leven ervan iets anders: veiligheid heeft vooral te maken met mentaliteit, houding en gedrag van de hele organisatie. Elkaar aanspreken op onveilig gedrag is bovendien de overkoepelende veiligheidsregel voor iedereen, niet alleen een taak van leidinggevenden.",
+   "bron": "1.7 Wat wordt bedoeld met veiligheidscultuur?"
+  },
+  {
+   "id": "D2-034",
+   "eis": "VI.a",
+   "cluster": "03",
+   "vraag": "Een aannemer zet een bouwkraan zo dicht langs het spoor dat het treinverkeer gehinderd kán worden. Er is nog geen trein gehinderd en de aannemer heeft geen veiligheidsfunctie. Wat geldt volgens artikel 3 van de Spoorwegwet?",
+   "opties": [
+    "Dit is verboden, omdat het verbod ook geldt als het verkeer op de spoorweg gehinderd kan worden",
+    "Dit is pas verboden als het verkeer op de spoorweg daadwerkelijk wordt gehinderd",
+    "Dit valt er niet onder, omdat artikel 3 alleen geldt voor wie een veiligheidsfunctie uitoefent",
+    "Dit valt er niet onder, omdat artikel 3 alleen het verkeren onder invloed van stoffen regelt"
+   ],
+   "antwoord": 0,
+   "uitleg": "Artikel 3 van de Spoorwegwet verbiedt een ieder zich zodanig te gedragen dat gevaar op de spoorweg wordt veroorzaakt of kan worden veroorzaakt, of dat het verkeer op de spoorweg wordt gehinderd of kan worden gehinderd. Het geldt dus voor iedereen, ook zonder veiligheidsfunctie, en ook al vóórdat er daadwerkelijk hinder is. Het verbod op het uitoefenen van een veiligheidsfunctie onder invloed staat in artikel 4.",
+   "bron": "1.4 Wat zegt de Spoorwegwet over veiligheid?"
+  },
+  {
+   "id": "D2-035",
+   "eis": "VI.b",
+   "cluster": "03",
+   "vraag": "Een machinist moet op de vrije baan een materieelstoring diagnosticeren. Er is gevaar voor aanrijding en het materieel kan niet naar een veilige plaats worden overgebracht. Waartegen moet de werkplek dan eerst worden beveiligd?",
+   "opties": [
+    "Alleen tegen aanrijdgevaar op het nevenspoor, omdat het werkspoor al door zijn eigen trein bezet is",
+    "Tegen het in beweging komen van het materieel en tegen aanrijdgevaar op het werkspoor, niet op het nevenspoor",
+    "Alleen tegen het in beweging komen van het materieel, omdat de treindienstleider het aanrijdgevaar beheerst",
+    "Tegen het in beweging komen van het materieel en tegen aanrijdgevaar op zowel het werkspoor als het nevenspoor"
+   ],
+   "antwoord": 3,
+   "uitleg": "Is er gevaar voor aanrijding tijdens het diagnosticeren of opheffen van materieelstoringen, dan brengt de machinist het materieel eerst over naar een veilige plaats. Kan dat niet, dan moet de werkplek eerst beveiligd worden tegen drie zaken: het in beweging komen van het materieel terwijl eraan gewerkt wordt, gevaar voor aanrijding op het werkspoor en gevaar voor aanrijding op het nevenspoor. De andere antwoorden laten een of meer van deze drie weg.",
+   "bron": "1.12 Wat doet de machinist om risico's op aanrijding te verminderen?"
+  },
+  {
+   "id": "D2-036",
+   "eis": "VI.b",
+   "cluster": "03",
+   "vraag": "Een machinist stapt op een emplacement aan de spoorzijde uit zijn cabine; naast zijn trein ligt een nevenspoor. Welke handelwijze is juist?",
+   "opties": [
+    "Met zijn rug naar het materieel afstappen, zodat hij tijdens het afstappen het nevenspoor goed kan overzien",
+    "Met zijn gezicht naar het materieel afstappen, op het nevenspoor letten en eerst kijken waar zijn voeten terechtkomen",
+    "Met zijn gezicht naar het materieel afstappen; dat mag al als de trein nog stapvoets rijdt, mits hij steun zoekt",
+    "Met zijn gezicht naar het materieel afstappen; op het nevenspoor letten is alleen buiten het emplacement nodig"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij het op- en afstappen houdt de machinist zijn gezicht naar het materieel, zoekt hij steun bij handgrepen en opstap, let hij bij het uitstappen op het nevenspoor en kijkt hij eerst waar zijn voeten terechtkomen. Op- of afstappen mag alleen als de voertuigen niet in beweging zijn, dus ook niet stapvoets. Op een rangeerterrein moet hij juist extra op zijn hoede zijn.",
+   "bron": "1.11 Wat doet de machinist om risico's op verwondingen te verminderen?"
+  },
+  {
+   "id": "D2-037",
+   "eis": "VI.b",
+   "cluster": "03",
+   "vraag": "Een machinist moet op een emplacement oversteken bij opgestelde spoorvoertuigen. Over zijn handelwijze worden drie stellingen gedaan:\n1) Als de voertuigen geremd zijn, mag hij over buffers en koppelingen klimmen.\n2) Hij kijkt bij het oversteken in de cabine, vanwege de dode hoek van een collega in de cabine.\n3) Hij kijkt bij het oversteken van een spoor altijd twee keer naar beide kanten.\nWelke stellingen zijn juist?",
+   "opties": [
+    "Alleen 2 en 3",
+    "Alleen 1 en 2",
+    "Alleen 1 en 3",
+    "Alleen 2"
+   ],
+   "antwoord": 0,
+   "uitleg": "2 en 3 zijn juist: bij het oversteken bij opgestelde voertuigen kijkt de machinist in de cabine in verband met de dode hoek van een collega in de cabine, en bij het oversteken van een spoor kijkt hij altijd twee keer naar beide kanten, omdat er van beide kanten een trein kan aankomen. 1 is onjuist: hij klimt nooit over buffers en koppelingen. Zo nodig gebruikt hij het bordes of de cabine van een van de opgestelde voertuigen, en hij let op mogelijke verplaatsingen van de voertuigen.",
+   "bron": "1.11 Wat doet de machinist om risico's op verwondingen te verminderen?"
+  },
+  {
+   "id": "D2-038",
+   "eis": "VI.b",
+   "cluster": "10",
+   "vraag": "Een machinist moet na een treinincident mogelijk het nevenspoor afdekken. Welke uitspraken over de kortsluitkabel zijn juist?\n1) Op een baanvak met ATB-NG werkt de kortsluitkabel niet.\n2) Op een gecombineerd baanvak ATB-ERTMS moet, indien nodig, ook een kortsluitkabel worden geplaatst.\n3) Op ERTMS-baanvakken heeft het plaatsen van een kortsluitkabel nooit effect.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 2"
+   ],
+   "antwoord": 1,
+   "uitleg": "1 en 2 zijn juist: de kortsluitkabel is niet altijd betrouwbaar en werkt bijvoorbeeld niet bij ATB-NG (of op baanvakken met alleen assentellers); op een gecombineerd baanvak ATB-ERTMS moet indien nodig ook een kortsluitkabel worden geplaatst. 3 is onjuist: op een aantal ERTMS-baanvakken werkt de kortsluitkabel wel, op andere niet.",
+   "bron": "1.4 Wat doet de machinist bij een treinincident?"
+  },
+  {
+   "id": "D2-039",
+   "eis": "VI.b",
+   "cluster": "10",
+   "vraag": "Een trein rijdt ten onrechte voorbij een stoptonend sein. Welke uitspraak hierover is volgens de vakkennis juist?",
+   "opties": [
+    "Naar de oorzaken wordt alleen onderzoek gedaan als er schade of letsel is ontstaan",
+    "De machinist rijdt door tot het volgende sein en meldt de passage daar aan de treindienstleider",
+    "De trein kan op infra komen die niet voor hem is vrijgegeven; naar de oorzaken vindt altijd onderzoek plaats",
+    "Het risico is beperkt, omdat de infra direct achter een stoptonend sein altijd vrij wordt gehouden"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een onterechte passage van een stoptonend sein (Europees: 'het einde van de rijtoestemming passeren') kan de trein op infra komen die niet voor hem is vrijgegeven; aanrijdgevaar met een ander spoorvoertuig is dan een reëel risico. Er vindt altijd onderzoek plaats naar de oorzaken, niet alleen bij schade. De machinist stopt de trein onmiddellijk, neemt contact op met de treindienstleider en neemt de nodige veiligheidsmaatregelen; doorrijden tot het volgende sein is onjuist.",
+   "bron": "1.15 Wat gebeurt er bij een onterechte passage van een stoptonend sein?"
+  },
+  {
+   "id": "D2-040",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Een trein rijdt onder ERTMS Level 2 met te hoge snelheid richting een blokgrens. Waarom kan ERTMS Level 2 hier, anders dan puntsgewijze ATB, al waarschuwen en ingrijpen voordat de trein een vaste controleplaats bereikt?",
+   "opties": [
+    "Omdat de balises in Level 2 bij elke blokgrens de actuele snelheid van de trein als ATB-code doorgeven",
+    "Omdat ERTMS Level 2 het snelheidsplafond juist alleen op vaste plaatsen en bij vaste snelheden controleert",
+    "Omdat het walsysteem op elk moment weet hoe hard de trein rijdt en wat de afstand is tot de blokgrens of andere treinen",
+    "Omdat in Level 2 het walsysteem de remcurve bewaakt in plaats van de ETCS-treinapparatuur in de trein"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij ERTMS Level 2 weet het walsysteem op elk moment hoe hard een trein rijdt en wat de afstand is tot een blokgrens of andere treinen; daardoor kan ERTMS waarschuwen en ingrijpen wanneer de snelheid te hoog wordt of al is. Controle alleen op vaste plaatsen en bij vaste snelheden is juist kenmerkend voor puntsgewijze ATB. De remcurvebewaking gebeurt door de ETCS-treinapparatuur (EVC), niet door het walsysteem, en balises geven geen ATB-codes door.",
+   "bron": "1.3 Wat is het verschil tussen ATB en ERTMS?"
+  },
+  {
+   "id": "D2-041",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Een collega doet drie uitspraken over het verschil tussen ATB en ERTMS. Welke zijn juist?\n1) Bij ERTMS Level 1 weet het walsysteem niet hoe hard de trein rijdt en waar de trein precies is.\n2) ERTMS vervangt nationale beveiligingssystemen zoals ATB, zodat grensoverschrijdend verkeer gemakkelijker wordt.\n3) ATB maakt hogere snelheden mogelijk dan ERTMS, omdat ATB het snelheidsplafond altijd continu bewaakt.",
+   "opties": [
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1 en 3",
+    "Alleen 2"
+   ],
+   "antwoord": 0,
+   "uitleg": "1 is juist: bij Level 1 weet het walsysteem niet hoe hard de trein rijdt en waar hij precies is, en dus ook niet wat de afstand tot de blokgrens of andere treinen is. 2 is juist: dat is een van de genoemde voordelen van ERTMS. 3 is onjuist: juist ERTMS maakt hogere snelheden mogelijk, en ATB gebruikt continue óf puntsgewijze info-updates (puntsgewijs = alleen op vaste plaatsen en bij vaste snelheden).",
+   "bron": "1.3 Wat is het verschil tussen ATB en ERTMS?"
+  },
+  {
+   "id": "D2-042",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Een trein rijdt in Full Supervision en nadert een doel met een lagere snelheid. De machinist remt te laat. De treinapparatuur grijpt in en verlaagt de snelheid tot de dan nog toegestane snelheid, maar niet tot 0 km/u. Welke ingreep is dit, en wat gebeurt er als de trein daarna toch de EOA passeert?",
+   "opties": [
+    "Een Emergency Brake; bij het passeren van de EOA volgt een Service Brake tot de Release Speed",
+    "Een Service Brake; het passeren van de EOA resulteert in een onmiddellijke noodremming (TRIP)",
+    "Een Service Brake; bij het passeren van de EOA gaat de trein zonder remingreep naar de mode Post Trip",
+    "Een Emergency Brake; bij het passeren van de EOA schakelt de EVC over naar de mode System Failure"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij remcurvebewaking remt de treinapparatuur zo nodig automatisch: een Service Brake verlaagt de snelheid maar niet tot 0 km/u, een Emergency Brake brengt de snelheid terug tot 0 km/u. Het passeren van de EOA resulteert in een onmiddellijke noodremming: een TRIP. Post Trip volgt pas nadat de machinist de TRIP bij stilstand bevestigt; System Failure hoort bij een defect aan de boordapparatuur.",
+   "bron": "1.16 Wat is remcurvebewaking?"
+  },
+  {
+   "id": "D2-043",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Een machinist heeft van de treindienstleider een European Instruction 1 ontvangen en past de procedure Override EOA toe. Welke uitspraak is juist?",
+   "opties": [
+    "De trein blijft in Full Supervision; alleen de maximumsnelheid tijdens Override EOA is in een National Value bepaald",
+    "De trein komt in On Sight; de treinbeveiliging blijft actief, zodat het passeren van de EOA een TRIP geeft",
+    "De trein komt direct in Staff Responsible; maximale tijdsduur, afstand en snelheid van Override EOA zijn in National Values bepaald",
+    "De trein komt in Staff Responsible; de machinist mag voor deze passage de SR-snelheid en -afstand aanpassen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Na het toepassen van Override EOA komt de trein direct in de mode Staff Responsible. De maximale tijdsduur, de maximaal af te leggen afstand en de maximumsnelheid tijdens Override EOA zijn in National Values bepaald. Zolang Override EOA actief is, is de treinbeveiliging inactief, dus volgt er geen TRIP bij EOA-passage. Het wijzigen van de SR-snelheid en -afstand is in Nederland niet toegestaan.",
+   "bron": "1.17 Wat is Override EOA?"
+  },
+  {
+   "id": "D2-044",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Een trein rijdt in Level 1 en nadert een EOA bij een blokgrens met Release Speed. Achter de blokgrens is inmiddels een rijweg ingesteld. Hoe verkrijgt de trein een nieuwe MA?",
+   "opties": [
+    "Direct van het RBC via GSM-R, zodra de treindienstleider de rijweg heeft ingesteld",
+    "Uit de balise bij de blokgrens; komt er geen nieuwe MA, dan moet de machinist zelf vóór de EOA stoppen",
+    "Via een TAF-request dat de machinist bevestigt nadat hij heeft gezien dat het spoor vrij is",
+    "Pas na een European Instruction 1 en het toepassen van de procedure Override EOA"
+   ],
+   "antwoord": 1,
+   "uitleg": "In Level 1 is Release Speed nodig om een nieuwe MA op te halen uit de balise bij de blokgrens. Een EOA kan met Release Speed worden genaderd, maar de machinist blijft verantwoordelijk voor het tot stilstand brengen van de trein vóór de EOA. Een nieuwe MA van het RBC hoort bij Level 2, net als het TAF-request. Een European Instruction 1 met Override EOA is nodig om een EOA zonder MA te passeren, niet om een nieuwe MA te krijgen.",
+   "bron": "1.14 Wat is een EOA?"
+  },
+  {
+   "id": "D2-045",
+   "eis": "VI.b",
+   "cluster": "11",
+   "vraag": "Een trein passeert de landsgrens en gaat rijden op een baanvak waar andere National Values (NV's) gelden. Welke uitspraak is juist?",
+   "opties": [
+    "Alleen het RBC geeft ze door; tot ontvangst blijven de NV's van het vorige land gelden",
+    "De machinist voert ze zelf in bij de SOM; hij hoeft de NV's van een baanvak dus niet te kennen",
+    "Alleen balises geven ze door; tot ontvangst bewaakt de EVC helemaal geen snelheid",
+    "Het RBC en balises geven ze door; tot ontvangst gelden de standaardwaarden van het materieel"
+   ],
+   "antwoord": 3,
+   "uitleg": "National Values worden automatisch aangepast bij het passeren van een landsgrens of op een baanvak met andere waarden. Ze worden zowel door het RBC als door balises aan de treinapparatuur doorgegeven. Zolang de trein ze nog niet heeft ontvangen, gaat de ETCS-treinapparatuur uit van de aanwezige standaardwaarden van het betreffende materieel. De machinist moet de geldende NV's van een baanvak kennen; hij voert ze niet zelf in.",
+   "bron": "1.5 Wat zijn National Values?"
+  },
+  {
+   "id": "D2-046",
+   "eis": "VI.c",
+   "cluster": "09",
+   "vraag": "Bij een controle ziet een machinist dat het schuitje scheef op de stroomafnemer zit. Wat is de waarschijnlijke oorzaak en hoe handelt hij?",
+   "opties": [
+    "Een ontbrekende litz; hij laat de stroomafnemer zakken en rijdt door tot het eindpunt",
+    "Een uitgebrokkelde koolstrip; hij rijdt door zolang de koolstrip contact maakt",
+    "Defecte dempers; hij licht direct zijn spoorwegonderneming in en stelt de stroomafnemer buiten dienst",
+    "Een verbogen stangenstelsel; hij noteert dit na afloop van de dienst in de materieelagenda"
+   ],
+   "antwoord": 2,
+   "uitleg": "Is er een defect aan de dempers, dan zit het schuitje dikwijls scheef op de stroomafnemer. Bij een defect of onregelmatigheid aan de stroomafnemer licht de machinist direct zijn spoorwegonderneming in en stelt hij de betreffende stroomafnemer buiten dienst; het vervolg wordt in overleg met de technische ondersteuning bepaald. Een ontbrekende litz kan leiden tot inbranden in de scharnieren; een koolstrip mag niet uitgebrokkeld zijn, omdat die de rijdraad kan beschadigen.",
+   "bron": "1.29 Wat doet de machinist bij storingen aan de stroomvoorziening?"
+  },
+  {
+   "id": "D2-047",
+   "eis": "VI.c",
+   "cluster": "09",
+   "vraag": "Tijdens de rit valt de tyfoon volledig uit. Verderop ligt een overweg waar de tyfoon in werking moet worden gesteld. Hoe moet de machinist handelen?",
+   "opties": [
+    "Hij rijdt met maximaal 40 km/u door en geeft bij de overweg lichtsignalen met het frontsein",
+    "Hij moet de trein vóór de overweg tot stilstand kunnen brengen en passeert alleen als dat veilig kan",
+    "Hij mag niet verder rijden en wacht op de plaats van de storing op vervangend materieel",
+    "Hij rijdt gewoon door tot het eindpunt van de rit, omdat de overweg is beveiligd"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij een storing van de tyfoon mag de trein de maximaal toegestane snelheid niet overschrijden en moet hij naar de dichtstbijzijnde locatie rijden waar de tyfoon kan worden hersteld of het defecte voertuig kan worden vervangen. De machinist moet de trein tot stilstand kunnen brengen vóór een overweg waar de tyfoon in werking moet worden gesteld en mag die alleen passeren als dat veilig kan. Een vaste 40 km/u-grens of wachten ter plaatse staat niet in de regels; gewoon doorrijden kan alleen als bij een meertonige tyfoon nog minstens één waarschuwingstoon werkt.",
+   "bron": "1.35 Wat doet de machinist bij een defecte tyfoon?"
+  },
+  {
+   "id": "D2-048",
+   "eis": "VI.c",
+   "cluster": "09",
+   "vraag": "Een machinist krijgt van de treindienstleider een warmmelding (geen heetmelding) voor een as van zijn trein. Wat doet hij?",
+   "opties": [
+    "Hij controleert de betreffende as en de twee voor- en na gelegen assen en rijdt daarna in overleg met de treindienstleider door naar de eindbestemming",
+    "Hij rijdt zonder te stoppen met 10 km/u door naar de eerste gelegenheid waar hij opzij genomen kan worden",
+    "Hij controleert alleen de gemelde as en rijdt bij verkleuring met 10 km/u door naar de eindbestemming",
+    "Hij rijdt niet verder en wacht op de technische ondersteuning, ongeacht de uitkomst van zijn controle"
+   ],
+   "antwoord": 0,
+   "uitleg": "Bij een warmmelding controleert de machinist de betreffende as en de twee voor- en na gelegen assen; daarna rijdt hij in overleg met de treindienstleider door naar de eindbestemming. Doorrijden met 10 km/u naar de eerste gelegenheid om opzij genomen te worden hoort bij een heetmelding zonder verkleuring of beschadiging (na eerst onmiddellijk te stoppen en te controleren); bij een heetmelding met verkleuring of beschadiging rijdt hij niet verder.",
+   "bron": "1.25 Wat doet de machinist bij storingen aan het loopwerk?"
+  },
+  {
+   "id": "D2-049",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Een reizigerstrein valt op de vrije baan stil door een defect en kan niet meer op eigen kracht verder rijden. Welke combinatie van maatregelen neemt de machinist volgens de vakkennis?",
+   "opties": [
+    "Het voorval melden aan de eigen spoorwegonderneming, die vervolgens de treindienstleider informeert en een hulptrein regelt",
+    "Een alarmoproep via GSM-R plaatsen, een snelremming inzetten en een kortsluitkabel op het nevenspoor plaatsen voor de veiligheid",
+    "Pas melden aan de treindienstleider als uit onderzoek blijkt dat de trein defect is, en de reizigers laten uitstappen",
+    "Direct melden aan de treindienstleider (plaats, type en toestand materieel), gevaarpunt afdekken met rode lamp of vlag, eigen onderneming informeren"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij een gestrande trein meldt de machinist dit direct aan de treindienstleider met de juiste plaats/kilometrering, het type en de toestand van het materieel, dekt hij het gevaarpunt af met een rode lamp of vlag en meldt hij het voorval aan de eigen spoorwegonderneming. De melding loopt niet via de eigen onderneming naar de treindienstleider, en hij wacht niet met melden tot vaststaat of de trein ook defect is (dat moet uit nader onderzoek blijken). Alarmoproep, snelremming en kortsluitkabel zijn de eerste maatregelen bij een treinincident met gevaar, niet het standaardpakket bij stranding.",
+   "bron": "1.11 Wat doet de machinist bij een gestrande trein?"
+  },
+  {
+   "id": "D2-050",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Een trein rijdt in een lange tunnel. Verderop in de tunnel ziet de machinist rook en vuur. Wat probeert de machinist in deze situatie volgens de vakkennis vooral te voorkomen?",
+   "opties": [
+    "Dat de trein weer buiten de tunnel tot stilstand komt",
+    "Dat reizigers via de dichtstbijzijnde vluchtdeuren vertrekken",
+    "Dat de treindienstleider het nevenspoor buiten gebruik neemt",
+    "Dat er met de trein naar de brand toe wordt gereden"
+   ],
+   "antwoord": 3,
+   "uitleg": "Is de trein al in de tunnel, dan probeert de machinist te voorkomen dat naar de brand toe wordt gereden. Ziet hij brand/rook vóórdat hij de tunnel inrijdt, dan probeert hij te voorkomen dat de trein de tunnel inrijdt of er tot stilstand komt. Evacuatie via de dichtstbijzijnde vluchtdeuren of nooduitgangen is juist wat moet gebeuren als evacuatie noodzakelijk is.",
+   "bron": "1.13 Wat doet de machinist bij brand en/of rookontwikkeling in of voor een tunnel?"
+  },
+  {
+   "id": "D2-051",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Een machinist ontdekt brand in zijn elektrische reizigerstrein op de vrije baan, ver van tunnels, bruggen en perronoverkappingen. Er is gevaar voor ernstige uitbreiding van de brand. Welke handelwijze is juist?",
+   "opties": [
+    "Doorrijden naar het eerstvolgende station zodat reizigers op het perron uitstappen, en daar de stroomafnemers neerlaten",
+    "Zo snel mogelijk stoppen, liefst waar hulpdiensten kunnen komen (bijv. bij een overweg), stroomafnemers neerlaten, deuren aan de veilige kant ontgrendelen",
+    "Zo snel mogelijk stoppen, de stroomafnemers opgezet laten voor verlichting en ventilatie, en de deuren aan beide zijden ontgrendelen",
+    "Zo snel mogelijk stoppen, de stroomafnemers neerlaten en de deuren gesloten houden tot de brandweer de leiding heeft overgenomen"
+   ],
+   "antwoord": 1,
+   "uitleg": "Hoeft de machinist geen rekening te houden met een tunnel, brug of perronoverkapping, dan stopt hij zo snel mogelijk bij gevaar voor o.a. ernstige uitbreiding van de brand, zo mogelijk op een plek waar hulpdiensten kunnen komen (open veld, dichtbij een overweg). Hij meldt het stoppen aan de treindienstleider en bij reizigerstreinen aan treinpersoneel en reizigers. Bij elektrisch materieel schakelt hij de hoogspanningsinstallatie af door de stroomafnemers neer te laten, en na stilstand ontgrendelt hij de deuren aan de veilige kant (niet aan beide zijden). De brandweer krijgt de leiding over het blussen, maar dat is geen reden om de deuren dicht te houden.",
+   "bron": "1.14 Wat doet de machinist bij brand en/of rookontwikkeling in de trein?"
+  },
+  {
+   "id": "D2-052",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Een machinist van een goederentrein loopt langs zijn trein, waarin onder meer ketelwagens met vloeibaar gemaakte gassen. Welke waarneming wijst volgens de vakkennis op een onregelmatigheid met gevaarlijke stoffen?",
+   "opties": [
+    "Rook- of nevelvorming bij een ketelwagen met koude vloeibaar gemaakte gassen",
+    "Een blazend geluid van het ontluchten van de remcilinders na lossing",
+    "Een licht sissend geluid van een kleine lekkage van de treinleiding",
+    "Een lege ketelwagen waarvan de opschriften op de schilden zijn verwijderd"
+   ],
+   "antwoord": 0,
+   "uitleg": "Rook- of nevelvorming bij het vrijkomen van koude vloeibaar gemaakte gassen is een kenmerk van een onregelmatigheid met gevaarlijke stoffen. Sissen of blazen van vrijkomende gassen is dat ook, maar dit moet niet worden verward met een kleine lekkage van de treinleiding of het ontluchten van remcilinders na lossing. Bij een lege, gereinigde ketelwagen zijn de opschriften op de schilden verwijderd; die valt niet meer onder de regeling 'gevaarlijke stoffen'.",
+   "bron": "1.16 Hoe herkent de machinist een onregelmatigheid met gevaarlijke stoffen?"
+  },
+  {
+   "id": "D2-053",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Een machinist van een goederentrein loopt met vluchtmasker en signalerende kleding met de wind in de rug naar een ketelwagen om een mogelijke onregelmatigheid te onderzoeken. Onderweg hoort en ziet hij een lekkage. Wat doet hij?",
+   "opties": [
+    "Hij rent zo snel mogelijk terug naar de cabine en plaatst daar een alarmoproep via GSM-R",
+    "Hij loopt door om het UN-nummer af te lezen en zet daarbij zijn vluchtmasker op",
+    "Hij loopt met de wind mee verder van de wagen weg, zo snel als hij kan",
+    "Hij loopt zoveel mogelijk haaks op de windrichting weg, zonder te rennen"
+   ],
+   "antwoord": 3,
+   "uitleg": "Bij het zien/horen van lekkages loopt de machinist zoveel mogelijk haaks op de windrichting weg en rent hij niet. Rennen (terug naar de cabine of met de wind mee) is dus onjuist; met de wind meelopen houdt hem bovendien in de dampwolk. Doorlopen naar de wagen strijdt met het vermijden van elk contact met de gevaarlijke stof(fen)/damp(en).",
+   "bron": "1.17 Wat doet de machinist bij een onregelmatigheid met gevaarlijke stoffen?"
+  },
+  {
+   "id": "D2-054",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Een machinist van een goederentrein ontdekt tijdens de rit een onregelmatigheid met gevaarlijke stoffen in zijn eigen trein. Wat doet hij volgens de vakkennis?",
+   "opties": [
+    "Hij stopt niet in verband met het gevaar voor de omgeving en zet de luchtventilatie tijdelijk uit",
+    "Hij overweegt de trein tot stilstand te brengen, indien mogelijk op een gunstige plaats voor hulpverlening",
+    "Hij rijdt door naar het eerstvolgende emplacement, omdat het gebied daar buiten gebruik kan worden genomen",
+    "Hij brengt de trein direct met een snelremming tot stilstand, ongeacht de plaats waar de trein dan staat"
+   ],
+   "antwoord": 1,
+   "uitleg": "Ontdekt de machinist van een goederentrein tijdens de rit een onregelmatigheid met gevaarlijke stoffen, dan overweegt hij de trein tot stilstand te brengen, indien mogelijk op een gunstige plaats voor hulpverlening. Niet stoppen en de luchtventilatie uitzetten hoort bij de machinist van een reizigerstrein die een goederentrein met een vermoedelijk incident passeert (gevaar voor de reizigers).",
+   "bron": "1.17 Wat doet de machinist bij een onregelmatigheid met gevaarlijke stoffen?"
+  },
+  {
+   "id": "D2-055",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Een goederentrein met gevaarlijke stoffen komt door een onregelmatigheid met die stoffen tot stilstand in een tunnel. Wat doet de machinist nadat hij de voorgeschreven veiligheidsmaatregelen heeft genomen?",
+   "opties": [
+    "Hij blijft met het vluchtmasker op in de cabine tot de hulpdiensten hem komen halen",
+    "Hij loopt naar de betrokken wagen om de gegevens van het Kemlerbord af te lezen",
+    "Hij loopt zover mogelijk van de trein af en gebruikt de nooduitgangen",
+    "Hij probeert de trein op eigen kracht de tunnel uit te rijden"
+   ],
+   "antwoord": 2,
+   "uitleg": "Komt een trein met gevaarlijke stoffen tot stilstand in een tunnel, dan neemt de machinist de beschreven veiligheidsmaatregelen en loopt hij vervolgens zover mogelijk van de trein af en gebruikt hij de nooduitgangen. In de cabine blijven of naar de wagen toe lopen brengt hem onnodig in gevaar; hij gaat alleen op onderzoek uit als dat veilig kan.",
+   "bron": "1.17 Wat doet de machinist bij een onregelmatigheid met gevaarlijke stoffen?"
+  },
+  {
+   "id": "D2-056",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Een machinist heeft een bevestiging gekregen van een verdacht voorwerp in zijn trein en heeft van de treindienstleider een perron toegewezen gekregen. Bij aankomst blijkt de trein langer dan het perron. Wat doet hij?",
+   "opties": [
+    "Hij verplaatst de trein zodat reizigers zo veilig mogelijk kunnen uitstappen en informeert tijdig het treinpersoneel en de reizigers",
+    "Hij laat de reizigers in de rijtuigen langs het perron uitstappen en houdt de deuren van de overige rijtuigen gesloten",
+    "Hij vraagt de treindienstleider om een station met een langer perron en rijdt met de reizigers daarheen door",
+    "Hij laat alle reizigers via de rijtuigen langs het perron uitstappen en verlaat zelf als laatste de trein"
+   ],
+   "antwoord": 0,
+   "uitleg": "Is de trein te lang voor het perron, dan verplaatst de machinist de trein om reizigers zo veilig mogelijk te laten uitstappen en informeert hij tijdig het andere treinpersoneel en de reizigers. Daarna verlaat hij de trein en blijft hij beschikbaar voor de politie. Doorrijden naar een ander station of reizigers achterhouden in rijtuigen naast het perron past niet bij deze procedure.",
+   "bron": "1.18 Wat doet de machinist bij verdacht gedrag en/of een verdacht voorwerp in de trein?"
+  },
+  {
+   "id": "D2-057",
+   "eis": "VI.c",
+   "cluster": "10",
+   "vraag": "Na een aanslag op het openbaar vervoer wordt het treinverkeer volledig stilgelegd. Een machinist heeft zijn trein langs het eerstvolgende perron gestopt, het treinpersoneel geïnformeerd en de reizigers laten uitstappen. Wat doet hij met de trein?",
+   "opties": [
+    "Hij laat de trein langs het perron staan en wacht in de cabine op verdere instructies",
+    "Hij rangeert de trein op eigen initiatief af naar een opstelspoor om het perron vrij te maken",
+    "Hij overlegt met de treindienstleider of de trein afgerangeerd moet worden",
+    "Hij rijdt de lege trein naar het eerstvolgende emplacement en meldt zich daar bij de politie"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een aanslag (of reële dreiging) stopt de machinist langs het eerstvolgende perron, informeert hij het treinpersoneel, laat hij de reizigers uitstappen en overlegt hij met de treindienstleider of de trein afgerangeerd moet worden. Daarna gaat hij naar het voorplein van het station en wacht daar (niet in de cabine) op verdere instructies. Op eigen initiatief afrangeren of doorrijden is onjuist: het treinverkeer is volledig stilgelegd.",
+   "bron": "1.20 Wat doet de machinist bij een aanslag op het openbaar vervoer?"
+  },
+  {
+   "id": "D2-058",
+   "eis": "VI.c",
+   "cluster": "11",
+   "vraag": "Een trein komt door een defect aan de ETCS-boordapparatuur met een Emergency Brake tot stilstand in de mode System Failure. De machinist informeert de treindienstleider en voert een reset uit. Uit de zelftest blijkt dat de storing is opgeheven. Wat is de juiste vervolgstap?",
+   "opties": [
+    "De trein opnieuw gereedmaken met een Start of Mission en na toestemming van de treindienstleider verder rijden",
+    "Direct verder rijden in de mode System Failure met maximaal de snelheid die geldt voor Staff Responsible",
+    "Overschakelen naar de mode Isolation en zonder toestemming verder rijden volgens seinstelsel NS'54",
+    "Een European Instruction 2 met vak 2.10 vragen en daarna zonder nieuwe SOM op 'Start' drukken"
+   ],
+   "antwoord": 0,
+   "uitleg": "Als na het weer inschakelen uit de zelftest blijkt dat de storing is opgeheven, kan de machinist de trein opnieuw gereedmaken voor vertrek (Start of Mission) en na toestemming van de treindienstleider verder rijden. In de mode SF kan de trein niet vertrekken. Isolation is pas aan de orde als de reset niet het gewenste resultaat geeft, en ook dan is toestemming van de treindienstleider nodig. European Instruction 2 hoort bij verder rijden na een TRIP.",
+   "bron": "1.23 Wat doet de machinist als de ETCS-boordapparatuur defect is?"
+  },
+  {
+   "id": "D2-059",
+   "eis": "VI.c",
+   "cluster": "11",
+   "vraag": "Een machinist van een goederentrein ontvangt via GSM-R een alarmoproep terwijl hij een tunnel nadert. Hij kan niet meer stoppen voordat hij de tunnel bereikt. Welke uitspraken zijn juist volgens de vakkennis (versie juni 2026)?\n1) Hij rijdt met 'rijden op zicht' en kiest een veilige snelheid waarmee de tunnel nog uitgereden kan worden.\n2) Bij gevaar moet hij direct stoppen.\n3) Hij mag van 'rijden op zicht' afwijken als dat in de calamiteitenplannen van de infrabeheerder anders is bepaald.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 1"
+   ],
+   "antwoord": 1,
+   "uitleg": "Kan de machinist na een alarmoproep niet meer stoppen vóór de tunnel of Non Stopping Area, dan rijdt hij met 'rijden op zicht'; machinisten van goederentreinen kiezen een veilige snelheid waarmee de tunnel nog uitgereden kan worden, en bij gevaar moet de machinist direct stoppen (1 en 2 juist). De uitzondering 'tenzij het in de calamiteitenplannen van de infrabeheerder anders is bepaald' stond in de versie van november 2025, maar is in de versie van juni 2026 geschrapt (3 onjuist).",
+   "bron": "1.59 Wat doet de machinist na ontvangst van een alarmoproep via GSM-R?"
+  },
+  {
+   "id": "D2-060",
+   "eis": "VI.c",
+   "cluster": "12",
+   "vraag": "Een trein in Level 2 ontvangt geen informatie meer van het RBC. Op de DMI verschijnt 'Communication error' en er volgt een remingreep met een bedrijfsremming. Terwijl de trein nog rijdt, wordt de verbinding met het RBC hersteld. Wat is juist?",
+   "opties": [
+    "De remming wordt opgeheven zodra de verbinding hersteld is; hij meldt het verbindingsverlies aan de treindienstleider",
+    "De remming loopt door tot stilstand; daarna wordt de MA ingekort tot de voorkant van de trein",
+    "De trein komt in de mode TRIP; om verder te rijden is een European Instruction 2 met vak 2.10 nodig",
+    "De remming wordt opgeheven; omdat de verbinding weer hersteld is, hoeft de machinist het verlies niet te melden"
+   ],
+   "antwoord": 0,
+   "uitleg": "Na 35 seconden (NV) zonder RBC-informatie volgt een remingreep en toont de DMI 'Communication error'. Bij een remingreep met een bedrijfsremming wordt de remming opgeheven op het moment dat de verbinding hersteld is. Alleen als de verbinding niet hersteld wordt, wordt bij stilstand de MA ingekort tot de voorkant van de trein. Ieder verbindingsverlies meldt de machinist aan de treindienstleider, ook als de verbinding weer hersteld is. Een TRIP bij RBC-verbindingsverlies komt in ORE 2.2 niet voor.",
+   "bron": "5.3.1 Remingreep met bedrijfsremming"
+  },
+  {
+   "id": "D2-061",
+   "eis": "VI.c",
+   "cluster": "12",
+   "vraag": "Een trein rijdt in Full Supervision. Op de DMI verschijnt 'Balise read error' en er wordt een bedrijfsremming ingezet. Bij stilstand is de MA ingekort tot de voorkant van de trein. De treindienstleider kan niet opnieuw een rijweg instellen. Hoe kan de trein verder?",
+   "opties": [
+    "Met een European Instruction 2 met vak 2.10 aangekruist, waarna de machinist 'Start' kiest",
+    "Na een reset van de ETCS-boordapparatuur en een nieuwe SOM; toestemming van de treindienstleider is dan niet nodig",
+    "Met een European Instruction 1, waarna de machinist de procedure 'Override EOA' toepast",
+    "Met een European Instruction 7, waarna de machinist in Staff Responsible vertrekt met maximaal 15 km/h"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een balisefout met intrekken van de MA meldt de machinist dat hij stilstaat door een balisefout en dat de MA is ingekort tot de voorkant van de trein. Kan de treindienstleider niet opnieuw een rijweg instellen of wordt de MA niet verlengd, dan ontvangt de machinist een European Instruction 1 en rijdt hij verder na het toepassen van 'Override EOA'. European Instruction 2 met vak 2.10 hoort bij een balisefout met mode TRIP. European Instruction 7 met maximaal 15 km/h hoort bij vertrek in Level 2 na de melding 'Wacht' bij onbekende treinpositie.",
+   "bron": "5.5.2 Balisefout met intrekken MA tot voorkant trein"
+  },
+  {
+   "id": "D2-062",
+   "eis": "VI.c",
+   "cluster": "12",
+   "vraag": "Een trein in Level 2 rijdt van het gebied van RBC-1 naar dat van RBC-2. Door een storing is maar één modem voor de RBC-verbinding beschikbaar. Wat geldt?",
+   "opties": [
+    "De machinist merkt niets; de overgang verloopt ongemerkt omdat de verbinding automatisch aan RBC-2 wordt doorgegeven",
+    "Op de RBC-grens komt de trein direct in de mode TRIP; om verder te rijden is een European Instruction 2 met vak 2.10 nodig",
+    "Hij moet op de grens zelf de RBC-gegevens van RBC-2 invoeren; lukt dat niet binnen 35 seconden, dan komt de trein in de mode TRIP",
+    "Hij ziet de verbinding op de grens wegvallen; zonder verbinding met RBC-2 binnen 35 seconden volgt een remming tot stilstand of herstel"
+   ],
+   "antwoord": 3,
+   "uitleg": "Normaal ziet de machinist niets van de overgang van RBC-1 naar RBC-2. Is er door een storing maar één modem beschikbaar, dan ziet hij op de grens van het RBC-1-gebied dat de verbinding wordt verbroken. Binnen 35 seconden moet de verbinding met RBC-1 verbroken en een nieuwe verbinding met RBC-2 gemaakt zijn; lukt dat niet, dan wordt een remming ingezet tot stilstand of totdat de verbinding met RBC-2 is gemaakt. Er is geen TRIP en de machinist hoeft de gegevens niet zelf in te voeren.",
+   "bron": "3.9 Overgang RBC / RBC"
+  },
+  {
+   "id": "D2-063",
+   "eis": "VI.c",
+   "cluster": "12",
+   "vraag": "Een trein rijdt in Level 2 in de mode Shunting en komt in de mode TRIP. De machinist bevestigt de mode en meldt dit aan de treindienstleider. Na een European Instruction 2 met vak 2.11 kiest hij de mode Shunting, maar op de DMI verschijnt 'SH refused'. Wat moet hij doen?",
+   "opties": [
+    "Een European Instruction 1 vragen, de knop 'Override EOA' bedienen en in de mode Shunting verder rijden",
+    "Dit melden, een EI2 met vak 2.10 ontvangen, een SOM maken en Staff Responsible of On Sight bevestigen",
+    "De cabine uit en weer in dienst nemen, een SOM maken in Level NTC-ATB en volgens NS'54 verder rijden",
+    "Een European Instruction 7 vragen en zonder nieuwe SOM in de mode Staff Responsible verder rijden"
+   ],
+   "antwoord": 1,
+   "uitleg": "Wordt de mode Shunting na een TRIP in Level 2 door het RBC afgewezen ('SH refused' of 'SH request failed'), dan meldt de machinist dit aan de treindienstleider en ontvangt hij een European Instruction 2 met vak 2.10. Hij maakt dan een SOM volgens het bedieningsvoorschrift en bevestigt de mode Staff Responsible of On Sight. Override EOA met European Instruction 1 in Shunting en de omschakeling naar NTC-ATB horen bij andere situaties; een European Instruction 7 zonder SOM is hier niet aan de orde.",
+   "bron": "4.6.2 TRIP in de mode Shunting in level 2"
+  },
+  {
+   "id": "D2-064",
+   "eis": "VI.d",
+   "cluster": "03",
+   "vraag": "Na een aanrijding met een persoon constateert een machinist een onveilige situatie rond zijn trein. Wat doet hij volgens de vakkennis in eerste instantie?",
+   "opties": [
+    "Maatregelen nemen die erger voorkomen voor reizigers en omstanders; aan zijn eigen veiligheid denkt hij pas daarna",
+    "De toedracht van het ongeval vastleggen voor het veiligheidsonderzoek, voordat hij andere maatregelen neemt",
+    "Alleen het materieel en de spoorwegomgeving veiligstellen en de zorg voor personen aan de hulpdiensten overlaten",
+    "Maatregelen nemen die erger voorkomen voor zichzelf, overige personen, het milieu, de spoorwegomgeving en het materieel"
+   ],
+   "antwoord": 3,
+   "uitleg": "Constateert een machinist een onveilige situatie, dan neemt hij in eerste instantie maatregelen die erger voorkomen voor zichzelf, overige personen (treinpersoneel, reizigers, omstanders), het milieu, de spoorwegomgeving en het materieel en andere objecten. Zijn eigen veiligheid hoort daar dus ook bij; daar denkt hij niet pas achteraf aan. Het vastleggen van de toedracht of het beperken tot alleen materieel en omgeving past niet bij deze opdracht.",
+   "bron": "1.8 Wat is de rol van de machinist bij het bevorderen van veiligheid?"
+  },
+  {
+   "id": "D2-065",
+   "eis": "VI.d",
+   "cluster": "03",
+   "vraag": "In een volle trein hebben reizigers koffers neergezet in een deurloze overgang tussen twee compartimenten en in het gangpad. De binnendeur naar de bediende cabine is vrij. Wat is juist?",
+   "opties": [
+    "Dit is in orde; alleen de binnendeur naar de bediende cabine moet vrij blijven van reizigers en goederen",
+    "Dit is niet in orde; ook tussendeuren, deurloze overgangen en gangpaden moeten vrij worden gehouden",
+    "Dit is in orde zolang de trein rijdt; pas na een noodremming moeten de overgangen worden vrijgemaakt",
+    "Dit is alleen niet in orde als de trein stilstaat, want tijdens het rijden verlaat de machinist zijn cabine niet"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij dreigend gevaar moet de machinist zijn cabine onbelemmerd kunnen verlaten, zowel wanneer de trein stilstaat als wanneer er een noodremming is ingezet. Daarom moet niet alleen de binnendeur naar de bediende cabine vrij blijven van reizigers en goederen, maar moeten ook de tussendeuren, deurloze overgangen tussen de compartimenten en gangpaden vrij worden gehouden. Wachten tot na een noodremming is te laat.",
+   "bron": "1.8 Wat is de rol van de machinist bij het bevorderen van veiligheid?"
+  },
+  {
+   "id": "D2-066",
+   "eis": "VI.d",
+   "cluster": "10",
+   "vraag": "Een trein staat door brand stil in een tunnel en evacuatie van de reizigers is noodzakelijk. Hoe moet de evacuatie volgens de vakkennis verlopen?",
+   "opties": [
+    "Zo snel mogelijk, via de dichtstbijzijnde vluchtdeuren of nooduitgangen",
+    "Pas als de hulpdiensten er zijn, via de tunnelmond achter de trein",
+    "Via het nevenspoor naar de tunnelmond, na uitschakelen van de spanning",
+    "Via de tunnelmond in rijrichting, waar de hulpdiensten zich verzamelen"
+   ],
+   "antwoord": 0,
+   "uitleg": "Is bij brand in een tunnel evacuatie noodzakelijk, dan moet dit zo snel mogelijk gebeuren via de dichtstbijzijnde vluchtdeuren of nooduitgangen. Wachten op hulpdiensten of naar een (verder gelegen) tunnelmond lopen past daar niet bij; reizigers lopen bovendien niet tussen of over de sporen als dat niet nodig is.",
+   "bron": "1.13 Wat doet de machinist bij brand en/of rookontwikkeling in of voor een tunnel?"
+  },
+  {
+   "id": "D2-067",
+   "eis": "VI.d",
+   "cluster": "10",
+   "vraag": "Op een baanvak met meer sporen worden reizigers geëvacueerd. De sporen aan de zijde van het dichtstbijzijnde looppad zijn buiten gebruik genomen en de reizigers steken over naar het looppad. Welke taak heeft de machinist daarna nog volgens de vakkennis?",
+   "opties": [
+    "De kortsluitkabels verwijderen zodra de laatste reiziger het looppad heeft bereikt",
+    "Controleren of alle reizigers buiten het profiel van vrije ruimte zijn en dit doorgeven aan de treindienstleider",
+    "De treindienstleider vragen de sporen weer in gebruik te nemen, zodat de treindienst kan worden hervat",
+    "Het aantal geëvacueerde reizigers tellen en dit doorgeven aan de OvD-R ter plaatse"
+   ],
+   "antwoord": 1,
+   "uitleg": "Bij evacuatie op een baanvak met meer sporen controleert de machinist of alle reizigers zich buiten het profiel van vrije ruimte bevinden en geeft hij dit door aan de treindienstleider. Kortsluitkabels plaatst hij juist op de sporen waar reizigers moeten oversteken; het weer in gebruik nemen van sporen en een telling voor de OvD-R noemt de vakkennis niet als taak van de machinist.",
+   "bron": "1.7 Wat doet de machinist bij evacuatie van reizigers?"
+  },
+  {
+   "id": "D2-068",
+   "eis": "VI.d",
+   "cluster": "10",
+   "vraag": "Een machinist evacueert reizigers uit een stilstaande trein op de vrije baan. Welke uitspraken zijn juist?\n1) Hij bekijkt aan welke kant ontgrendeld moet worden, rekening houdend met het gevaar bij een derde rail of nevenspoor.\n2) Bij brand laat hij de reizigers zo dicht mogelijk bij de trein verzamelen, zodat de hulpdiensten hen snel vinden.\n3) Buiten de trein instrueert hij de reizigers het voetpad te gebruiken en niet tussen de sporen te lopen.",
+   "opties": [
+    "Alleen 1 en 3",
+    "Alleen 1 en 2",
+    "Alleen 2 en 3",
+    "Alleen 3"
+   ],
+   "antwoord": 0,
+   "uitleg": "1 en 3 zijn juist: de machinist ontgrendelt aan de veilige kant, rekening houdend met het gevaar bij een derde rail of nevenspoor, en instrueert reizigers buiten de trein het voetpad te gebruiken en niet tussen de sporen te lopen. 2 is onjuist: bij brand helpt hij reizigers zo ver mogelijk van de brand af uit te stappen en zorgt hij dat zij naar een veilige plek worden gebracht.",
+   "bron": "1.7 Wat doet de machinist bij evacuatie van reizigers?"
+  },
+  {
+   "id": "D2-069",
+   "eis": "VI.d",
+   "cluster": "10",
+   "vraag": "Na een aanrijding wil de politie de betrokken machinist meenemen voor nader verhoor. Het is hem niet duidelijk of hij als getuige of als verdachte wordt gehoord. Wat is volgens de vakkennis juist?",
+   "opties": [
+    "Hij weigert mee te gaan totdat de OvD-R ter plaatse daarvoor toestemming heeft gegeven",
+    "Als getuige hoeft hij niet mee te werken aan een ademtest, als verdachte is dat wel verplicht",
+    "Als verdachte regelt de treindienstleider zijn vervanging en verdere bijstand",
+    "Hij vraagt (opnieuw) naar zijn rol; als verdachte kan hij in verzekerde bewaring worden gesteld"
+   ],
+   "antwoord": 3,
+   "uitleg": "De politie moet aangeven of zij de machinist als getuige of als verdachte wil spreken; bij onduidelijkheid is het raadzaam (opnieuw) naar zijn rol te vragen. Is hij verdachte, dan regelt de wachtdienstfunctionaris of andere vertegenwoordiger van zijn eigen spoorwegonderneming dit verder (niet de treindienstleider) en kan hij in afwachting van zijn verklaring in verzekerde bewaring worden gesteld. Meewerken aan een ademtest geldt zowel als getuige als als verdachte.",
+   "bron": "1.8 Wat is de rol van de machinist bij eventueel justitieel onderzoek?"
+  },
+  {
+   "id": "D2-070",
+   "eis": "VII.a",
+   "cluster": "09",
+   "vraag": "Een spoorwiel heeft een schuin profiel en een flens. Welke uitspraak over deze kenmerken is juist?",
+   "opties": [
+    "Het schuine loopvlak verhoogt de adhesie bij optrekken; de flens draagt het gewicht van het voertuig",
+    "Het schuine loopvlak helpt bij het rijden door bogen en beperkt de vetergang; de flens houdt de trein op de spoorstaven",
+    "Het schuine loopvlak voorkomt vlakke plaatsen bij remmen; de flens zit aan de buitenkant van het wiel",
+    "Het schuine loopvlak dient om slijtage te meten; de flens dempt de stoten van het spoor"
+   ],
+   "antwoord": 1,
+   "uitleg": "De schuine kant van het loopvlak helpt de trein beter door bogen te rijden en beperkt het slingeren (de vetergang). De flens is de opstaande rand aan de binnenkant van het wiel; door de flens blijft de trein de spoorstaven volgen, en de maatvoering en staat ervan moeten in orde zijn om ontsporing te voorkomen. Het gewicht wordt gedragen door het wielstel en de aspotten; slijtage van een volwiel wordt gemeten met een groef aan de buitenzijde.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd?"
+  },
+  {
+   "id": "D2-071",
+   "eis": "VII.b",
+   "cluster": "09",
+   "vraag": "Twee identieke locomotieven met hetzelfde motorvermogen trekken elk een trein. De ene trein trekt merkbaar trager op dan de andere. Welke factoren kunnen dit volgens de vakkennis verklaren?",
+   "opties": [
+    "De stand van de P/G-kraan en het aantal afgesloten triplekleppen",
+    "De spanning van het laagspanningssysteem en de stand van de remverstellers",
+    "Alleen het gewicht van de trein; helling en wrijving spelen bij spoorvoertuigen geen rol",
+    "Het gewicht van de trein, een helling waar hij tegenop rijdt en de wrijving van spoorstaven en lucht"
+   ],
+   "antwoord": 3,
+   "uitleg": "Het motorvermogen bepaalt hoe snel de trein optrekt en welke snelheid hij kan bereiken, in samenhang met andere factoren: het gewicht van de trein, een eventuele helling waar de trein tegenop rijdt en de wrijving die hij ondervindt van de spoorstaven en van de lucht. De P/G-kraan regelt de snelheid van de opbouw van de remkracht, niet het optrekken; remverstellers stellen het remwerk bij als remblokken en wielen slijten.",
+   "bron": "1.17 Hoe werken de verschillende soorten tractie?"
+  },
+  {
+   "id": "D2-072",
+   "eis": "VII.b",
+   "cluster": "09",
+   "vraag": "Tijdens een krachtige remming dreigt een te stevig geremde as ineens stil te gaan staan terwijl de trein nog rijdt. Welke voorziening is bedoeld om dit te voorkomen?",
+   "opties": [
+    "De automatische lastafremming",
+    "De remversteller",
+    "De anti-blokkeerinstallatie (ABI)",
+    "De lagedrukoverlading (LDO)"
+   ],
+   "antwoord": 2,
+   "uitleg": "De anti-blokkeerinstallatie (ABI) voorkomt dat een te stevig geremde as ineens stil gaat staan. Automatische lastafremming past de remkracht aan de belading aan; de remversteller stelt het remwerk automatisch bij als remblokken en wielen slijten; een lagedrukoverlading garandeert het loskomen van de tripleklep.",
+   "bron": "1.13 Hoe is het remsysteem opgebouwd?"
+  },
+  {
+   "id": "D2-073",
+   "eis": "VII.b",
+   "cluster": "09",
+   "vraag": "Waarom is materieel uitgerust met een hogedrukrem, die boven een bepaalde snelheid de remcilinderdruk verhoogt?",
+   "opties": [
+    "Omdat de remwerking van de remblokken bij een bepaalde snelheid ontoereikend is",
+    "Omdat de treinleiding bij hoge snelheid niet snel genoeg kan worden ontlucht",
+    "Omdat de wielen anders bij lage snelheid sneller blokkeren",
+    "Omdat de bewegingsenergie zo kan worden teruggevoerd naar de bovenleiding"
+   ],
+   "antwoord": 0,
+   "uitleg": "Volgens de vakkennis is de remwerking van de remblokken bij een bepaalde snelheid ontoereikend; daarom wordt boven die snelheid de remcilinderdruk verhoogd. Blokkeren voorkomen is de taak van de anti-blokkeerinstallatie; energie terugvoeren naar de bovenleiding gebeurt bij de ED-rem.",
+   "bron": "1.14 Welke soorten remsystemen worden onderscheiden?"
+  },
+  {
+   "id": "D2-074",
+   "eis": "VII.b",
+   "cluster": "11",
+   "vraag": "Een machinist rijdt in Full Supervision. De treindienstleider meldt dat de sporen glad kunnen zijn. Op dat moment nadert de trein een doel en is op de DMI een remcurve actief. Wat geldt voor het inschakelen van Slippery Rail?",
+   "opties": [
+    "Hij mag Slippery Rail nu niet inschakelen; dat mag alleen zolang er geen remcurve actief is",
+    "Hij moet Slippery Rail direct inschakelen; de EVC past de lopende remcurve aan zonder ingreep",
+    "Hij mag Slippery Rail pas inschakelen nadat de treindienstleider daarvoor een European Instruction 5 heeft gegeven",
+    "Hij mag Slippery Rail direct inschakelen, omdat Slippery Rail de remcurve niet wijzigt"
+   ],
+   "antwoord": 0,
+   "uitleg": "De machinist mag Slippery Rail inschakelen als hij vermoedt of geïnformeerd wordt dat de sporen glad kunnen zijn, maar alleen zolang er geen remcurve actief is. Bij het inschakelen moet hij erop letten dat er geen overspeedingreep volgt door het wijzigen van de remcurve; Slippery Rail wijzigt de remcurve dus wél en kan juist een ingreep veroorzaken. Een European Instruction 5 is een opdracht voor verlaagde snelheid en is geen voorwaarde voor Slippery Rail.",
+   "bron": "1.49 Hoe werkt Slippery Rail?"
+  },
+  {
+   "id": "D2-075",
+   "eis": "VII.b",
+   "cluster": "12",
+   "vraag": "Een machinist heeft vanwege gladde sporen de functie Slippery Rail ingeschakeld en rijdt richting de landsgrens. Vanuit de infra wordt de functie Slippery Rail op de landgrens verboden. Wat gebeurt er?",
+   "opties": [
+    "De functie blijft actief totdat de machinist haar zelf uitschakelt",
+    "Er volgt een TRIP, omdat de remcurve niet meer overeenkomt met de infra",
+    "De functie schakelt automatisch uit en is daarna niet meer beschikbaar",
+    "De functie schakelt uit, maar de machinist kan haar na bevestiging direct weer inschakelen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Als vanuit de infra de functie Slippery Rail op de landgrens verboden wordt, schakelt de functie Slippery Rail automatisch uit en is de functie niet meer beschikbaar. De machinist hoeft dus niets zelf uit te schakelen, er volgt geen TRIP en hij kan de functie ook niet opnieuw inschakelen.",
+   "bron": "3.6 Slippery Rail / Gladde sporen"
+  },
+  {
+   "id": "D2-076",
+   "eis": "VII.c",
+   "cluster": "03",
+   "vraag": "Een machinist ziet vlak voor zijn stilstaande trein een gebroken rijdraad van de bovenleiding hangen; er dreigt kortsluiting via zijn stroomafnemer. Wat is de juiste handelwijze?",
+   "opties": [
+    "De stroomafnemers omhoog laten, zodat de spanning via de trein en de spoorstaven naar de aarde wordt afgevoerd",
+    "De stroomafnemers laten zakken; na een draadbreuk is de rijdraad spanningsloos en mag hij worden aangeraakt",
+    "De stroomafnemers laten zakken en de gebroken rijdraad niet aanraken, omdat er nog spanning op kan staan",
+    "De stroomafnemers laten zakken en de rijdraad met werkhandschoenen buiten het profiel van vrije ruimte leggen"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij kortsluitingsgevaar laat de machinist de stroomafnemers zakken. Het aanraken van de bovenleiding is levensgevaarlijk; na een draadbreuk raakt hij de rijdraad niet aan, omdat daar nog spanning op kan staan. Werkhandschoenen beschermen daar niet tegen, en hij houdt minimaal 1,5 meter afstand van de bovenleiding en spanningvoerende delen.",
+   "bron": "1.13 Wat doet de machinist om risico's op elektrocutie/elektrisering te verminderen?"
+  },
+  {
+   "id": "D2-077",
+   "eis": "VII.c",
+   "cluster": "09",
+   "vraag": "Een gebroken bovenleiding komt op een trein terecht. Welke voorziening moet mens en apparatuur dan beschermen, en hoe?",
+   "opties": [
+    "De koolstrip, die als zachtste onderdeel doorbrandt en zo de stroomkring onderbreekt",
+    "De litzen: koperen kabels of banden die de stroom goed afvoeren naar de spoorstaven",
+    "De luchtvering, die de bak elektrisch isoleert van de draaistellen en de wielen",
+    "De snelschakelaar, die de stroom via de stroomafnemer terugvoert naar het onderstation"
+   ],
+   "antwoord": 1,
+   "uitleg": "Litzen zijn koperen kabels of banden die stroom gemakkelijk geleiden. Hun functie is mens en apparatuur te beschermen tegen stroom door deze goed af te voeren naar de spoorstaven, bijvoorbeeld bij een blikseminslag of een gebroken bovenleiding die op de trein terechtkomt. De koolstrip is het contactoppervlak met de rijdraad en is zachter gemaakt omdat hij makkelijker te vervangen is; luchtvering houdt de bak op de ingestelde hoogte.",
+   "bron": "1.11 Hoe is het loopwerk opgebouwd?"
+  },
+  {
+   "id": "D2-078",
+   "eis": "VII.d",
+   "cluster": "09",
+   "vraag": "Drie verder gelijke goederentreinen rijden met een verschillend remregime: trein A volledig in de P-stand, trein B onder 'lange loc' en trein C volledig in de G-stand. Welke uitspraak over de remweg is juist?",
+   "opties": [
+    "Trein A heeft de langste remweg, omdat de remcilinders in de P-stand het langzaamst vullen",
+    "Trein B heeft de langste remweg, omdat de loc('s) en de eerste wagens in de G-stand staan",
+    "Trein C heeft een langere remweg dan trein A en trein B",
+    "De remweg is bij alle drie gelijk, omdat de P/G-kraan alleen de lostijd van de remmen beïnvloedt"
+   ],
+   "antwoord": 2,
+   "uitleg": "Bij een trein die volledig in de G-stand rijdt, is de remweg langer dan bij een trein die volledig in de P-stand of als 'lange loc' rijdt. De G-stand zorgt juist voor lange remcilindervul- en lostijden (tegen schokken, duwen en treinbreuk). De P/G-kraan regelt de snelheid van de opbouw van de remkracht en beïnvloedt dus ook het aanslaan van de remmen, niet alleen het lossen.",
+   "bron": "1.16 Wat is de functie van de P/G-kraan?"
+  },
+  {
+   "id": "D2-079",
+   "eis": "VII.d",
+   "cluster": "11",
+   "vraag": "De remafstand die de EVC toestaat, volgt uit de berekende remcurve. Welke gegevens die de machinist bij de SOM invoert en/of controleert, gebruikt de EVC volgens de vakkennis (naast de ontvangen MA) voor deze berekening?",
+   "opties": [
+    "Maximale snelheid, treinlengte, rempercentage en de actuele railconditie",
+    "Treincategorie, treinlengte, Release Speed en rempercentage",
+    "Maximale snelheid, treincategorie, treinnummer en rempercentage",
+    "Maximale snelheid, treincategorie, hellingspercentage en rempercentage"
+   ],
+   "antwoord": 3,
+   "uitleg": "De EVC berekent de remcurve op basis van de bij de SOM ingevoerde/gecontroleerde gegevens maximale snelheid, treincategorie, hellingspercentage en rempercentage, plus de ontvangen MA waarin staat op welk punt een lagere snelheid bereikt moet zijn. Treinlengte, treinnummer en Release Speed staan niet in dit rijtje; de actuele railconditie is geen SOM-gegeven (bij gladde sporen kan de machinist Slippery Rail inschakelen).",
+   "bron": "1.16 Wat is remcurvebewaking?"
+  },
+  {
+   "id": "D2-080",
+   "eis": "VII.d",
+   "cluster": "12",
+   "vraag": "Een machinist rijdt in Level 2. Na een defect worden in de trein remmen afgesloten. Hij berekent het gewijzigde rempercentage en past de treingegevens aan. Wat is daarna juist?",
+   "opties": [
+    "De EVC houdt de oude remcurve aan tot de volgende SOM, zodat het remgedrag op de DMI niet verandert",
+    "Wordt de MA ingekort tot de voorkant van de trein, dan meldt hij dit; de remcurve reageert anders dan hij gewend is",
+    "Hij moet eerst een ETCS-remtest uitvoeren en mag pas na 24 uur met het nieuwe rempercentage rijden",
+    "Hij krijgt van de vervoerder de maximaal toegestane snelheid voor Level 2, omdat de EVC de remcurve dan niet meer bewaakt"
+   ],
+   "antwoord": 1,
+   "uitleg": "Volgens de procedure bij afgesloten remmen past de machinist de treingegevens (onder andere rempercentage) aan. In Level 1 of 2 meldt hij het aan de treindienstleider als de MA wordt ingekort tot de voorkant van de trein; hij kan dan de mode On Sight aangeboden krijgen of een European Instruction 1 ontvangen. Een aangepaste remcurve wordt dus niet uitgesteld tot een volgende SOM. Let op: de remcurve zal in Level 1 of 2 anders reageren dan hij gewend is. De maximaal toegestane snelheid van de vervoerder geldt voor rijden in NTC-ATB. De ETCS-remtest is na uitvoering minimaal 24 uur geldig; dat is geen wachttijd.",
+   "bron": "8.7 Aanpassen rempercentage door afgesloten remmen"
+  }
+ ]
+}

@@ -9,6 +9,9 @@ Moeilijke meerkeuzevragen (4 opties, Nederlands) om te oefenen voor het VVRV-exa
 - Mobile first, werkt offline-vriendelijk als statische site (GitHub Pages).
 - **Proefexamen theorie deel 1**: vaste set van 80 vragen over vakbekwaamheidseisen I–III (ATB/seinstelsel '54), 90 minuten, cesuur 80%, terugbladeren mogelijk, uitslag per eis.
 - **Oefenset theorie deel 1**: 40 losse vragen (één feit per vraag, geen stellingen) over eisen I–III, te kiezen in de clusterlijst.
+- **Proefexamen theorie deel 2**: vaste set van 80 vragen over vakbekwaamheidseisen IV–VII (communicatie, materieel, risico's, fysica; treinbeveiliging ERTMS en ATB), 90 minuten, cesuur 80%.
+- **Oefenset theorie deel 2**: 40 losse vragen over eisen IV–VII.
+- Uitslag van een proefexamen per vakbekwaamheidseis én per vraagcategorie (cluster), zoals op de officiële uitslag.
 - Modi: **Oefenen** (directe feedback + uitleg + bronverwijzing), **Examen** (tijdslimiet, uitslag aan het eind), **Fouten** (herhaal fout beantwoorde of gemarkeerde vragen).
 - Kies clusters en aantal vragen; antwoordvolgorde wordt elke keer geschud.
 - Voortgang wordt lokaal in je browser bewaard.
